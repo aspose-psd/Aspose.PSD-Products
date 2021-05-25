@@ -60,12 +60,20 @@ Quick and Simple App for Update PSD Online. Text and Layer Updates are supported
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< blocks/products/pf/product-card-row title="" >}}
+
+{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="" innerText="" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.PSD." >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-While looking at Aspose.PSD, we also looked at other products but after using the free trial it was clear that Aspose.PSD met our needs and was quick and easy to implement, having a working prototype ready within a day. This would have not been possible in the other approaches we considered, and the expediency of the project was greatly helped by the documentation provided.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials >}}
 
