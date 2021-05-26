@@ -17,7 +17,215 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    Imaging Features
+   </header>
+   <ul>
+    <li>
+     Rotate or Flip
+    </li>
+    <li>
+     Scale or Crop
+    </li>
+    <li>
+     Dithering
+    </li>
+    <li>
+     Read or Write Exif Data
+    </li>
+    <li>
+     Matrix Transformations
+    </li>
+    <li>
+     Drawing &amp; Filling of Shapes
+    </li>
+    <li>
+     Adjust Brightness, Contrast or Gamma
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    Photoshop Features
+   </header>
+   <ul>
+    <li>
+     File Creation
+    </li>
+    <li>
+     File Loading
+    </li>
+    <li>
+     Raw Data Processing
+    </li>
+    <li>
+     RLE Compression
+    </li>
+    <li>
+     Conversion to Images
+    </li>
+    <li>
+     Fill Layers
+    </li>
+    <li>
+     Adjustment Layers
+    </li>
+    <li>
+     Layer Effects
+    </li>
+    <li>
+     Raster, Vector and Clipping Masks
+    </li>
+    <li>
+     Text Layers
+    </li>
+    <li>
+     Most of PSD/PSB files image modes
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"/>
+  <header>
+   Aspose.PSD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports Desktop, Web and Console applications on platforms such as Windows, Linux/Unix, MacOS where Java is available." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Applications
+    </li>
+    <li>
+     Console Applications
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"/>
+  <header>
+   Aspose.PSD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PSD for Java [supported file formats](https://docs.aspose.com/psd/java/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Photoshop:
+     </b>
+     PSD, PSB
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Raster Formats:
+     </b>
+     TIFF, JPEG, PNG, GIF, BMP, JPEG2000
+    </li>
+    <li>
+     <b>
+      Other:
+     </b>
+     PDF
+    </li>
+   </ul>
+   <header>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Illustrator:
+     </b>
+     AI
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"/>
+  <header>
+   Aspose.PSD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

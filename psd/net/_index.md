@@ -18,9 +18,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.PSD for .NET supports any .NET framework starting from 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +111,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PSD for .NET supports most popular Photoshop & raster image file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.PSD for .NET supports any .NET framework starting from 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -148,6 +145,75 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="PSD Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png"/>
+  <header>
+   Aspose.PSD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.PSD for .NET supports most popular [Photoshop & raster image](https://docs.aspose.com/psd/net/supported-file-formats/)  file formats." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Photoshop:
+     </b>
+     PSD, PSB
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Raster Formats:
+     </b>
+     TIFF, JPEG, PNG, GIF, BMP, JPEG2000
+    </li>
+    <li>
+     <b>
+      Other:
+     </b>
+     PDF
+    </li>
+   </ul>
+   <header>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Illustrator:
+     </b>
+     AI
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png"/>
   <header>
    Aspose.PSD
   </header>
