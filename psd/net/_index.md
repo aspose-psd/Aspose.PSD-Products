@@ -676,10 +676,5 @@ using (var pfile = Aspose.PSD.Image.Load(dir + "template.psd"))
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -551,10 +551,5 @@ image.save(destName, new JpegOptions());
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="/psd/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png" sdkName=".NET" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
