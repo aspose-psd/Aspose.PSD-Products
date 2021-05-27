@@ -5,13 +5,17 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd-for-java.png" pfName="Aspose.PSD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd-for-java.png" pfName="Aspose.PSD for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/psd/java/" instalationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.PSD for Java is an easy to use Adobe Photoshop file format manipulation API. It can easily load and read PSD, PSB &amp; AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop. Image formats like JPEG, TIFF, GIF, PNG, BMP, JPEG2000 and can easily be opened and added as a layer with just a few lines of code. PSD, PSB &amp; AI files can be exported to the listed format, and to the PDF format additionally
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -521,12 +525,6 @@ image.save(destName, new JpegOptions());
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -552,9 +550,9 @@ image.save(destName, new JpegOptions());
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png" sdkName="Aspose.PSD for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/psd/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

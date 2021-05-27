@@ -5,13 +5,53 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Photoshop Files" h2="Create, Read, Edit and Convert PSD & PSB files without any Adobe Photoshop dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd-for-net.png" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Photoshop Files" h2="Create, Read, Edit and Convert PSD & PSB files without any Adobe Photoshop dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd-for-net.png" pfName="Aspose.PSD for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/psd/net/" instalationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.PSD for .NET is an advanced PSD and entry level AI files formats manipulation API without any Adobe Photoshop or Adobe Illustrator dependencies. The API allows to create and edit the Photoshop files as well as providing the ability to update layer properties, add watermarks, perform graphics operations or convert one file format to another.
+</p>
+
+<p>
+ The API supports import as a layer and export to the following formats:
+ <a href="https://docs.fileformat.com/image/png/">
+  PNG
+ </a>
+ ,
+ <a href="https://docs.fileformat.com/image/jpeg/">
+  JPEG
+ </a>
+ ,
+ <a href="https://docs.fileformat.com/image/j2k/">
+  JPEG2000
+ </a>
+ ,
+ <a href="https://docs.fileformat.com/image/gif/">
+  GIF
+ </a>
+ ,
+ <a href="https://docs.fileformat.com/image/bmp/">
+  BMP
+ </a>
+ ,
+ <a href="https://docs.fileformat.com/image/tiff/">
+  TIFF
+ </a>
+ ,
+ <a href="https://docs.fileformat.com/image/psd/">
+  PSD
+ </a>
+ and
+ <a href="https://docs.fileformat.com/image/psb/">
+  PSB
+ </a>
+ along with export to Pdf with selectable text. Aspose.PSD partially supports such Adobe Photoshop features as Adjustment Layers, Text Layer rendering and editing, Fill Layers, Layers Effects, Editing of Raster and Vector Masks for layers.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -610,12 +650,6 @@ using (var pfile = Aspose.PSD.Image.Load(dir + "template.psd"))
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -641,7 +675,7 @@ using (var pfile = Aspose.PSD.Image.Load(dir + "template.psd"))
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="" description="" >}}
 
     {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
 

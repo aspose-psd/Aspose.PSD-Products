@@ -62,10 +62,18 @@ Quick and Simple App for Update PSD Online. Text and Layer Updates are supported
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.PSD." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
+<p class="first">
+ While looking at Aspose.PSD, we also looked at other products but after using the free trial it was clear that Aspose.PSD met our needs and was quick and easy to implement, having a working prototype ready within a day. This would have not been possible in the other approaches we considered, and the expediency of the project was greatly helped by the documentation provided.
+ <em>
+  Liam Dowen-Gould | Regency Hampers Ltd, England
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
