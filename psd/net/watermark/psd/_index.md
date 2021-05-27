@@ -2,6 +2,7 @@
 title:  
 weight: 350
 url: /net/watermark/psd/ 
+description: Try our On-Premise document APIs to add or remove watermark to PSD file on .NET Framework, .NET Core.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
