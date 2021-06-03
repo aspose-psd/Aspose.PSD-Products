@@ -1,6 +1,6 @@
 ---
 title: Watermark PSD document via Java 
-weight: 170
+weight: 60
 url: /java/watermark/psd/ 
 description: Try our On-Premise document APIs to add or remove watermark to PSD file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to add or remove watermark to PSD 
 
 {{% blocks/products/pf/agp/content h2="How to Watermark PSD File Using Java" %}}
 
- In order to watermark PSD file, weвЂ™ll use
+ In order to watermark PSD file, we’ll use
  [Aspose.PSD for Java](https://products.aspose.com/psd/java) 
  API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd) 
@@ -117,7 +117,7 @@ psdImage.save(dataDir+"AddWatermark_output.png", new PngOptions());
 
     {{% blocks/products/pf/agp/content h2="About Aspose.PSD for Java API" %}}
 
- Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. вЂЋ
+ Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎
 
 
 

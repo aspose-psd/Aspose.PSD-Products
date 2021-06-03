@@ -1,6 +1,6 @@
 ---
 title: View PSD File Formats via .NET 
-weight: 340
+weight: 100
 url: /net/viewer/psd/ 
 description: Try our On-Premise APIs to load, render and display PSD documents on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display PSD documents o
 
 {{% blocks/products/pf/agp/content h2="How to View PSD File Using C#" %}}
 
- In order to view PSD file, weвЂ™ll use
+ In order to view PSD file, we’ll use
  [Aspose.PSD for .NET](https://products.aspose.com/psd/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
@@ -76,7 +76,7 @@ PM> Install-Package Aspose.PSD
 
     {{% blocks/products/pf/agp/content h2="About Aspose.PSD for .NET API" %}}
 
- Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. вЂЋ
+ Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎
 
 
 

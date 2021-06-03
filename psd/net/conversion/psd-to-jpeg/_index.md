@@ -1,6 +1,6 @@
 ---
 title: Convert PSD to JPEG via .NET 
-weight: 270
+weight: 230
 url: /net/conversion/psd-to-jpeg / 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert PSD to JPEG Using C#" %}}
 
- In order to convert PSD to JPEG, weвЂ™ll use
+ In order to convert PSD to JPEG, we’ll use
  [Aspose.PSD for .NET](https://products.aspose.com/psd/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.psd) 

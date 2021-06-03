@@ -1,6 +1,6 @@
 ---
 title: Convert PSD to PDF via Java 
-weight: 120
+weight: 360
 url: /java/conversion/psd-to-pdf/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert PSD to PDF Using Java" %}}
 
- In order to render PSD to PDF, weвЂ™ll use
+ In order to render PSD to PDF, we’ll use
  [Aspose.PSD for Java](https://products.aspose.com/psd/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd) 
@@ -75,7 +75,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert PSD to PDF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert PSD to PDF - Java‎" offSpacer="" %}}
 
 ```cs
    
@@ -99,7 +99,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
     {{% blocks/products/pf/agp/content h2="Java Photoshop File Manipulation Library" %}}
 
- Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. вЂЋ
+ Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎
 
 
 

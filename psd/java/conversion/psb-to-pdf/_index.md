@@ -1,6 +1,6 @@
 ---
 title: Convert PSB to PDF via Java 
-weight: 50
+weight: 190
 url: /java/conversion/psb-to-pdf/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert PSB to PDF Using Java" %}}
 
- In order to render PSB to PDF, weвЂ™ll use
+ In order to render PSB to PDF, we’ll use
  [Aspose.PSD for Java](https://products.aspose.com/psd/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd) 
@@ -75,7 +75,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert PSB to PDF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert PSB to PDF - Java‎" offSpacer="" %}}
 
 ```cs
    
@@ -99,7 +99,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
     {{% blocks/products/pf/agp/content h2="Java Photoshop File Manipulation Library" %}}
 
- Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. вЂЋ
+ Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎
 
 
 
@@ -109,7 +109,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 
-Adobe photoshop saves files in two formats. Files having 30,000 by 30,000 pixels in size are saved with PSD extension and files larger than PSD upto 300,000 by 300,000 pixels are saved with PSB extension known as вЂњPhotoshop BigвЂќ. More specifically, PSB files can be as large as 4 EB (over 4.2 billion GB) with images that have a height and width of up to 300,000 pixels. PSDs, on the other hand, can be at maximum upto 2 GB and image dimensions of 30,000 pixels. PSB is also known as large format size for photoshop and supports all the photoshop features like layers, effects and filters.
+Adobe photoshop saves files in two formats. Files having 30,000 by 30,000 pixels in size are saved with PSD extension and files larger than PSD upto 300,000 by 300,000 pixels are saved with PSB extension known as “Photoshop Big”. More specifically, PSB files can be as large as 4 EB (over 4.2 billion GB) with images that have a height and width of up to 300,000 pixels. PSDs, on the other hand, can be at maximum upto 2 GB and image dimensions of 30,000 pixels. PSB is also known as large format size for photoshop and supports all the photoshop features like layers, effects and filters.
 Read More
 
         {{< /blocks/products/pf/agp/about-file-text >}}

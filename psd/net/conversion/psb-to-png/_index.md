@@ -1,6 +1,6 @@
 ---
 title: Convert PSB to PNG via .NET 
-weight: 220
+weight: 70
 url: /net/conversion/psb-to-png / 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert PSB to PNG Using C#" %}}
 
- In order to convert PSB to PNG, weвЂ™ll use
+ In order to convert PSB to PNG, we’ll use
  [Aspose.PSD for .NET](https://products.aspose.com/psd/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
@@ -92,7 +92,7 @@ PM> Install-Package Aspose.PSD
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
-Adobe photoshop saves files in two formats. Files having 30,000 by 30,000 pixels in size are saved with PSD extension and files larger than PSD upto 300,000 by 300,000 pixels are saved with PSB extension known as вЂњPhotoshop BigвЂќ. More specifically, PSB files can be as large as 4 EB (over 4.2 billion GB) with images that have a height and width of up to 300,000 pixels. PSDs, on the other hand, can be at maximum upto 2 GB and image dimensions of 30,000 pixels. PSB is also known as large format size for photoshop and supports all the photoshop features like layers, effects and filters.
+Adobe photoshop saves files in two formats. Files having 30,000 by 30,000 pixels in size are saved with PSD extension and files larger than PSD upto 300,000 by 300,000 pixels are saved with PSB extension known as “Photoshop Big”. More specifically, PSB files can be as large as 4 EB (over 4.2 billion GB) with images that have a height and width of up to 300,000 pixels. PSDs, on the other hand, can be at maximum upto 2 GB and image dimensions of 30,000 pixels. PSB is also known as large format size for photoshop and supports all the photoshop features like layers, effects and filters.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
