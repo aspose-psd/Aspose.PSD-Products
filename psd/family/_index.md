@@ -6,16 +6,16 @@ description: Library to read write and export PSD & PSB files on multiple platfo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="APIs to Manipulate PSD, PSB & AI Files" h2=".NET & Java APIs to create, edit and convert Adobe Photoshop and Adobe Illustrator files." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd.png" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="APIs to Manipulate PSD, PSB & AI Files" h2=".NET & Java APIs to create, edit and convert Adobe Photoshop and Adobe Illustrator files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png" productLink="/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png" productLink="/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 

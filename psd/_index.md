@@ -11,11 +11,11 @@ description: On Premise APIs and Free Apps to edit Photoshop files. Ability to u
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
 On Premise APIs for PSD, PSB & AI file formats manipulation in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
 Java APIs to manipulate Photoshop and Illustrator files. Create, load, modify and render PSD, PSB & AI formats within Java based applications without any software dependencies.
 {{< /blocks/products/pf/product >}}
 
