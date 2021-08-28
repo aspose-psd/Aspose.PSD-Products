@@ -6,7 +6,7 @@ description: On Premise APIs and Free Apps to edit Photoshop files. Ability to u
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Adobe Photoshop File Format Solution" h2="On Premise APIs and free apps for PSD, PSB & AI file formats, with no dependency on Adobe Photoshop and Adobe Illustrator" logoImageSrc="https://www.aspose.com/templates/brand/images/psd/aspose_psd-brand.png" imageAlt="Aspose.PSD Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Adobe Photoshop File Format Solution" h2="On Premise APIs and free apps for PSD, PSB & AI file formats, with no dependency on Adobe Photoshop and Adobe Illustrator" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD On Premise APIs Include" >}}
