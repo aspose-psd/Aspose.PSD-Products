@@ -1,25 +1,25 @@
 ---
-title: Convert PSD to JPEG with C#
+title: Convert PSD to JP2 with C#
 description: Export PSD, PSB & AI file via .NET API
-url: /net/conversion/psd-to-jpeg/
+url: /net/conversion/psd-to-jp2/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSD
-outformat: JPEG
-otherformats: GIF BMP TIFF JP2 
+outformat: JP2
+otherformats: PNG JP2 TIFF GIF 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert PSD to JPEG via C#" h2=".NET Photoshop API for PSD & PSB Conversion to raster images including JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert PSD to JP2 via C#" h2=".NET Photoshop API for PSD & PSB Conversion to raster images including JP2">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="High Quality Rendering of PSD as JPEG" %}}
+{{% blocks/products/pf/agp/feature-section-col title="High Quality Rendering of PSD as JP2" %}}
 1. Load the PSD with [Image.Load](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/load/index) method
-1. Create an instance of [JpegOptions](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/jpegoptions) class
+1. Create an instance of [Jp2Options](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/jp2options) class
 1. Call [Image.Save](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/save/index) method
-1. Pass output filename and object of JpegOptions
+1. Pass output filename and object of Jp2Options
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Photoshop API" %}}
@@ -28,12 +28,12 @@ Install from command line as ```nuget install Aspose.PSD``` or via Package Manag
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://products.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSD to JPEG Conversion" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSD to JP2 Conversion" gistPath="" %}}
 ```cs
 using (var image = new Image.Load("template.psd"))
 {
-	var options = new JpegOptions;
-	image.Save("output.jpeg", options);                    
+	var options = new Jp2Options;
+	image.Save("output.jp2", options);                    
 }
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
