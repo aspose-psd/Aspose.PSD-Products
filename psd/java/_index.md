@@ -6,7 +6,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd-for-java.png" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
@@ -526,7 +526,6 @@ image.save(destName, new JpegOptions());
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/psd/java/" >}}
@@ -551,5 +550,10 @@ image.save(destName, new JpegOptions());
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD offers individual PSD APIs for other popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Photoshop Files" h2="Create, Read, Edit and Convert PSD & PSB files without any Adobe Photoshop dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/header/aspose_psd-for-net.png" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Photoshop Files" h2="Create, Read, Edit and Convert PSD & PSB files without any Adobe Photoshop dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
@@ -676,5 +676,9 @@ using (var pfile = Aspose.PSD.Image.Load(dir + "template.psd"))
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD offers individual PSD APIs for other popular development environments as listed below:" >}}
 
+    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
