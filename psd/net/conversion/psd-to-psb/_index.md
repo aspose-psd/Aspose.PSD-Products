@@ -120,13 +120,13 @@ Adobe photoshop saves files in two formats. Files having 30,000 by 30,000 pixels
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PSD into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-bmp " name="PSD TO BMP " description="{{bmp _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-gif " name="PSD TO GIF " description="{{gif _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-jpeg " name="PSD TO JPEG " description="{{jpeg _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-pdf " name="PSD TO PDF " description="{{pdf _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-png " name="PSD TO PNG " description="{{png _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-psb " name="PSD TO PSB " description="{{psb _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-tiff " name="PSD TO TIFF " description="{{tiff _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-bmp/" name="PSD TO BMP " description="BMP" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-gif/" name="PSD TO GIF " description="GIF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-jpeg/" name="PSD TO JPEG " description="JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-pdf/" name="PSD TO PDF " description="PDF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-png/" name="PSD TO PNG " description="PNG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-psb/" name="PSD TO PSB " description="PSB" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-tiff/" name="PSD TO TIFF " description="TIFF" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

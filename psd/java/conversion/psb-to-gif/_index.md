@@ -129,12 +129,12 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PSB into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd" name="PSB TO PSD" description="Adobe Photoshop Native Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff" name="PSB TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg" name="PSB TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png" name="PSB TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp" name="PSB TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf" name="PSB TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Portable Document Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
