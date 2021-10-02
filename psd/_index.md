@@ -2,7 +2,7 @@
 title: Create, Edit or Convert PSD & PSB files to PDF & image formats 
 weight: 310
 url: /
-description: On Premise APIs and Free Apps to edit Photoshop files. Ability to update layer properties, add watermarks, rotate, scale, Flip, Crop, Dithering, Raster Conversion.
+description: On Premise APIs and Free Apps to edit Photoshop files. Ability to update layer properties, add watermarks rotate scale Flip Crop Dithering Raster Conversion.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
