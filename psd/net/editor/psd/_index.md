@@ -106,7 +106,7 @@ using (var image = (PsdImage)Image.Load("template.psd"))
 {{% /blocks/products/pf/agp/code-block %}}
 
 
-This example shows how to easily change the name of each layer in any PSD file.
+This example shows how easy is to rename each layer in any PSD file.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Change layer name - C#" offSpacer="" %}}
 ```cs
@@ -123,7 +123,7 @@ using (var image = (PsdImage)Image.Load("template.psd"))
 {{% /blocks/products/pf/agp/code-block %}}
 
 
-Next, you can see the example of how to change the text in TextLayer. You can use TextLayer.UpdateText method to replace all text in the layer with new and saves all styles.
+Next, you can see the example of how to change the text in a TextLayer. You can use TextLayer.UpdateText() method to replace all text in the layer with a new one and save all styles.
 Or use the IText functionality and configure each text portion with its own specific style.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Change text in TextLayer - C#" offSpacer="" %}}
