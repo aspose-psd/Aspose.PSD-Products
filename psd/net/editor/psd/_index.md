@@ -79,7 +79,7 @@ using (var image = new PsdImage(500, 500))
 {{% /blocks/products/pf/agp/code-block %}}
 
 
-The following code demonstrates how to adds the new layers to the PSD file using C#.
+The following code demonstrates how to add new layers to the PSD file using C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Create/Add Layers - C#" offSpacer="" %}}
 ```cs
