@@ -64,6 +64,8 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+
+Here is the easy way to create a new PSD file using C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Create PSD file - C#" offSpacer="" %}}
 ```cs
@@ -76,6 +78,8 @@ using (var image = new PsdImage(500, 500))
 ```
 {{% /blocks/products/pf/agp/code-block %}}
 
+
+The following code demonstrates how to add new layers to the PSD file using C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Create/Add Layers - C#" offSpacer="" %}}
 ```cs
@@ -101,6 +105,8 @@ using (var image = (PsdImage)Image.Load("template.psd"))
 ```
 {{% /blocks/products/pf/agp/code-block %}}
 
+
+This example shows how easy is to rename each layer in any PSD file.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Change layer name - C#" offSpacer="" %}}
 ```cs
@@ -116,6 +122,9 @@ using (var image = (PsdImage)Image.Load("template.psd"))
 ```
 {{% /blocks/products/pf/agp/code-block %}}
 
+
+Next, you can see the example of how to change the text in a TextLayer. You can use TextLayer.UpdateText() method to replace all text in the layer with a new one and save all styles.
+Or use the IText functionality and configure each text portion with its own specific style.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Change text in TextLayer - C#" offSpacer="" %}}
 ```cs
