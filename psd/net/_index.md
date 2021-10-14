@@ -13,9 +13,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.PSD for .NET is an advanced PSD and entry level AI files formats manipulation API without any Adobe Photoshop or Adobe Illustrator dependencies. The API allows to create and edit the Photoshop files as well as providing the ability to update layer properties, add watermarks, perform graphics operations or convert one file format to another.
-</p>
+<p>Aspose.PSD for .NET is an advanced PSD and entry level AI files formats manipulation API without any Adobe Photoshop or Adobe Illustrator dependencies. The API allows to create and edit the Photoshop files as well as providing the ability to update layer properties, add watermarks, perform graphics operations or convert one file format to another.</p>
 
 <p>
  The API supports import as a layer and export to the following formats:
