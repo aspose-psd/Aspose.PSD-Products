@@ -25,7 +25,7 @@ otherformats: PNG JP2 GIF TIFF
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Photoshop API" %}}
 Install from command line as ```nuget install Aspose.PSD``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.PSD```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://products.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSD to GIF Conversion" gistPath="" %}}
