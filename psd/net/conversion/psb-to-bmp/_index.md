@@ -16,9 +16,9 @@ otherformats: JPEG BMP TIFF GIF
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality Rendering of PSB as BMP" %}}
-1. Load the PSB with [Image.Load](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/load/index) method
-1. Create an instance of [BmpOptions](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/bmpoptions) class
-1. Call [Image.Save](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/save/index) method
+1. Load the PSB with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
+1. Create an instance of [BmpOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) class
+1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
 1. Pass output filename and object of BmpOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -32,7 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 ```cs
 using (var image = new Image.Load("template.psb"))
 {
-	var options = new BmpOptions;
+	var options = new BmpOptions();
 	image.Save("output.bmp", options);                    
 }
 ```

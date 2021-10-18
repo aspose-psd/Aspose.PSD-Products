@@ -16,10 +16,10 @@ otherformats: PNG JP2 TIFF GIF
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality Rendering of PSD as JP2" %}}
-1. Load the PSD with [Image.Load](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/load/index) method
-1. Create an instance of [Jp2Options](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/jp2options) class
-1. Call [Image.Save](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/save/index) method
-1. Pass output filename and object of Jp2Options
+1. Load the PSD with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
+1. Create an instance of [Jpeg2000Options](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) class
+1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
+1. Pass output filename and object of Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Photoshop API" %}}
@@ -32,7 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 ```cs
 using (var image = new Image.Load("template.psd"))
 {
-	var options = new Jp2Options;
+	var options = new Jpeg2000Options { Codec = Jpeg2000Codec.Jp2 };
 	image.Save("output.jp2", options);                    
 }
 ```

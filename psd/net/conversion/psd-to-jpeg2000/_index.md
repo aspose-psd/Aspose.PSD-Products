@@ -36,8 +36,11 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1. Load the PSD with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
+1. Create an instance of [Jpeg2000Options](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) class
+1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
 
+1. Pass output filename and object of Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
@@ -57,8 +60,11 @@ PM> Install-Package Aspose.PSD
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSD to JPEG2000 C# Conversion" offSpacer="" %}}
 
 ```cs
- 
-
+using (var image = new Image.Load("template.psd"))
+{
+	var options = new Jpeg2000Options();
+	image.Save("output.jp2", options);                    
+}
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -90,10 +96,12 @@ Photoshop and Illustrator File Manipulation Library with the ability to create a
 PSD, Photoshop Document, represents Adobe Photoshop's native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements. Photoshop files have default extension as .PSD and has a maximum height and width of 30,000 pixels, and a length limit of two gigabytes.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="#" >}}
-{{jpeg2000}}
-
+        
+        {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="https://docs.fileformat.com/image/jp2/" >}}
+        JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard.
+        It use wavelet technology to code lossless content in any quality at once.
+        Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities.
+        The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}

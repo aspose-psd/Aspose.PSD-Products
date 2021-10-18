@@ -16,9 +16,9 @@ otherformats: BMP TIFF JP2 PNG
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality Rendering of PSD as TIFF" %}}
-1. Load the PSD with [Image.Load](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/load/index) method
-1. Create an instance of [TiffOptions](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/tiffoptions) class
-1. Call [Image.Save](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/save/index) method
+1. Load the PSD with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
+1. Create an instance of [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) class
+1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
 1. Pass output filename and object of TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -32,7 +32,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 ```cs
 using (var image = new Image.Load("template.psd"))
 {
-	var options = new TiffOptions;
+	var options = new TiffOptions();
 	image.Save("output.tiff", options);                    
 }
 ```
