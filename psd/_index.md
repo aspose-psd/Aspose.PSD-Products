@@ -33,7 +33,7 @@ Free App offering features to easily convert Photoshop and Illustrator files to 
 View Photoshop files in image format, online from anywhere, any platform.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD" title="Extract" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_extract-app.png" productLink="https://products.aspose.app/psd/extract%20" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD" title="Extract" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_extract-app.png" productLink="https://products.aspose.app/psd/extract" >}}
 Extract and Export Layers from PSD Files to PNG with Transparency. Online and Free
 {{< /blocks/products/pf/product >}}
 

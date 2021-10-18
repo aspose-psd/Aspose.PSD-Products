@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: PSB
 outformat: JPEG
-otherformats: BMP TIFF GIF JPEG 
+otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -16,23 +16,23 @@ otherformats: BMP TIFF GIF JPEG
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality Rendering of PSB as JPEG" %}}
-1. Load the PSB with [Image.Load](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/load/index) method
-1. Create an instance of [JpegOptions](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/jpegoptions) class
-1. Call [Image.Save](https://apireference.aspose.com/imaging/net/aspose.imaging/image/methods/save/index) method
+1. Load the PSB with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
+1. Create an instance of [JpegOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) class
+1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
 1. Pass output filename and object of JpegOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Photoshop API" %}}
 Install from command line as ```nuget install Aspose.PSD``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.PSD```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://products.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSB to JPEG Conversion" gistPath="" %}}
 ```cs
 using (var image = new Image.Load("template.psb"))
 {
-	var options = new JpegOptions;
+	var options = new JpegOptions();
 	image.Save("output.jpeg", options);                    
 }
 ```
