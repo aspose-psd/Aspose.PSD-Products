@@ -36,7 +36,10 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1. Load the AI with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
+1. Create an instance of [PsdOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/PsdOptions) class
+1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
+1. Pass output filename and object of PsdOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -57,15 +60,10 @@ PM> Install-Package Aspose.PSD
 {{% blocks/products/pf/agp/code-block title="This sample code shows AI to PSB C# Conversion" offSpacer="" %}}
 
 ```cs
-// load the AI file via Image.Load & cast to PsdImage
-using (var image = (Aspose.PSD.FileFormats.Psd.PsdImage)Aspose.PSD.Image.Load("template.ai"))
+ using (var image = (PsdImage)Image.Load("template.ai"))
 {
-    // create an instance of PsbOptions
-    var options = new Aspose.PSD.ImageOptions.PsbOptions();
-    // save AI as PSB
-    image.Save("output.ai", options);
-} 
-
+    image.Save("output.psb", new PsdOptions() { PsdVersion = PsdVersion.Psb});
+}
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
