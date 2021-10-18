@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: PSD
 outformat: JPEG
-otherformats: GIF BMP TIFF JP2 
+otherformats: BMP GIF JPEG2000 JP2 PDF PNG TIFF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
