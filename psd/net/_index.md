@@ -291,77 +291,77 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert Photoshop files to images
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Convert Photoshop files to images</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create a Photoshop file from scratch
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Create a Photoshop file from scratch</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load existing Photoshop files
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Load existing Photoshop files</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Clip to a rectangular region
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Clip to a rectangular region</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw &amp; fill basic shapes
+      <a href="https://docs.aspose.com/psd/net/drawing-images/">Draw &amp; fill basic shapes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crop, rotate &amp; resize Images
+      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">Crop, rotate &amp; resize Images</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Merge layers
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">Merge layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of Layers
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/#supported-layers">Support of Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     PSD file Preview Pixel-Perfect Exporting
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD file Preview Pixel-Perfect Exporting</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of RGB, CMYK, LAB, Grayscale with 8/16/32 bits per channel.
+      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">Support of RGB, CMYK, LAB, Grayscale with 8/16/32 bits per channel</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Applying of Layer Effects
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">Applying of Layer Effects</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -382,21 +382,21 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Layer Masks
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/">Layer Masks</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Update of Text Layers at Runtime
+      <a href="https://docs.aspose.com/psd/net/working-with-text-layers/#update-text-layer-in-psd-file">Update of Text Layers at Runtime</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of Adjustment Layers
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">Support of Adjustment Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -410,133 +410,130 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Brightness/Contrast Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">Brightness/Contrast Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Channel Mixer Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Channel Mixer Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Color Balance Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">Color Balance Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Curves Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Curves Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exposure Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">Exposure Adjustment Layer</a>
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Hue/Saturation Adjustment Layer
-    </p>
-   </div>
+   <div class="col-lg-4"><em class="fa fa-align-right ico-blue fa-2x col-lg-2"></em><p class="col-lg-10">
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-hue-saturation-of-adjustment-layers">
+      Hue/Saturation Adjustment Layer
+      </a></p></div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Invert Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Invert Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Levels Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Levels Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Photo Filter Adjustment Layer
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Photo Filter Adjustment Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rendering of Clipping Masks
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-clipping-mask">Rendering of Clipping Masks</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Runtime rasterization of Vector Layer Masks
+      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/">Runtime rasterization of Vector Layer Masks</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Editing of Raster Layer Masks
+      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Editing of Raster Layer Masks</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage Opacity of Layers &amp; Flatten Layers
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Manage Opacity of Layers &amp; Flatten Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of a large number of Layer Resources
+      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">Support of a large number of Layer Resources</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of a large number of Image Section Resources
+      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Support of a large number of Image Section Resources</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulation with Fill Layers
+      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">Manipulation with Fill Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adding and removing of Linked Layers
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Adding and removing of Linked Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Layer Groups Export
+      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Layer Groups Export</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ability to open and export AI files
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">Ability to open and export AI files</a>
     </p>
    </div>
    <!--<div class="col-lg-12">
