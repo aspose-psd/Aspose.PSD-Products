@@ -252,147 +252,147 @@ description: Create modify or convert PSD and PSB formats using this library wit
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export of Photoshop files to images
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Export of Photoshop files to images</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create a Photoshop file from scratch
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Create a Photoshop file from scratch</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load existing Photoshop files
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Load existing Photoshop files</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export of AI files to raster formats
+      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">Export of AI files to raster formats</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Clip to a rectangular region
+      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">Clip to a rectangular region</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw &amp; fill basic shapes
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">Draw &amp; fill basic shapes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crop, rotate &amp; resize Images
+      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Crop, rotate &amp; resize Images</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of Layers
+      <a href="https://docs.aspose.com/psd/java/layer-types/">Support of Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Layer flattening
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Layer flattening</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ability to export PSD file preview
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Ability to export PSD file preview</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and Export Layer Group
+      <a href="https://docs.aspose.com/psd/java/export-layer-group-to-image/">Create and Export Layer Group</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Open and export of PSD files with some combination of RGB, CMYK, LAB, Grayscale modes with 8/16/32 bits per channel.
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Open and export of PSD files with some combination of RGB, CMYK, LAB, Grayscale modes with 8/16/32 bits per channel.</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of most used Layer Effects
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Support of most used Layer Effects</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Layer Shadow
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Layer Shadow</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Outside/Inside/Center Stroke Effect
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Outside/Inside/Center Stroke Effect</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Color/Pattern/Gradient Layer Effect
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Color/Pattern/Gradient Layer Effect</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adding and editing of Text Layers at Runtime
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">Adding and editing of Text Layers at Runtime</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adjustment Layers like Brightness/Contrast, Curves, Hue/Saturation, Photo Filter and much more
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Adjustment Layers like Brightness/Contrast, Curves, Hue/Saturation, Photo Filter and much more</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of Vector, Raster, Clipping Masks and its combinations
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">Support of Vector, Raster, Clipping Masks and its combinations</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage Opacity of Layers
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Manage Opacity of Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of a large number of Layer Resources
+      <a href="https://docs.aspose.com/psd/java/supported-resources/">Support of a large number of Layer Resources</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -406,14 +406,14 @@ description: Create modify or convert PSD and PSB formats using this library wit
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Reading and editing of Fill Layers
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Reading and editing of Fill Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of Linked Layers
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Support of Linked Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
