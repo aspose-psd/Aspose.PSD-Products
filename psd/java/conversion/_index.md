@@ -17,7 +17,7 @@ PSD format of Adobe® Photoshop® is a format of designers for designing busines
 
 To convert Photoshop PSD to PDF, Process is, Load the Photoshop PSD file using [Image class](https://apireference.aspose.com/psd/java/com.aspose.psd/Image). Create [PdfOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) object, for relevant PDF settings. Finally call [Image.save](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) method having output PDF document and specific setting options.
 
-{{% blocks/products/pf/feature-page-code h3="Java Code to convert Photoshop PSD to PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code to Convert Photoshop PSD to PDF" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-pdf-conversion.java" >}}
 
@@ -31,7 +31,7 @@ To convert Photoshop PSD to PDF, Process is, Load the Photoshop PSD file using [
 
 Java PSD API provides a similar pattern for conversion. So pattern of converting into raster images JPG, BMP, PNG, GIF, TIFF is same as of PDF rather than specific image settings. API provides [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JpegOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions), [BmpOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GifOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) for PNG, JPG, BMP, GIF, JP2 respectively. So process is load the file, use the relevant image options and save the PSD into image of choice.
 
-{{% blocks/products/pf/feature-page-code h3="Java Code to convert Photoshop PSD to Image" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code to Convert Photoshop PSD to Image" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-images-conversion.java" >}}
 
