@@ -69,7 +69,7 @@ In order to render AI to BMP, we’ll use <a href="https://products.aspose.com/p
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert AI to BMP - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert AI to BMP - Java" offSpacer="" %}}
 
 ```cs
    
@@ -95,7 +95,7 @@ In order to render AI to BMP, we’ll use <a href="https://products.aspose.com/p
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations,  update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎ ‎
+Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations,  update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation.  
 
 
 

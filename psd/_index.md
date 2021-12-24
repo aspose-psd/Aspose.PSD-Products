@@ -50,7 +50,7 @@ Merge two or more PSD files to one. Using Overlay or other type of merging. You 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Portfolio" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-portfolio-app.png" productLink="https://products.aspose.app/psd/create-portfolio" >}}
-Create Designer, Illustrator or Photographer Portfolio quickly. Just upload your graphic works, add description and get customizable Portfolio in PSD Format with or without photo. Fast way to make portfolio for specific project on any freelance site. You also can upload any images like Psd, Png, Jpeg, Tiff, Gif. Generate Neat and Beatiful Portfolio online and free.
+Create Designer, Illustrator or Photographer Portfolio quickly. Just upload your graphic works, add description and get customizable Portfolio in PSD Format with or without photo. Fast way to make portfolio for specific project on any freelance site. You also can upload any images like Psd, Png, Jpeg, Tiff, Gif. Generate Neat and beautiful Portfolio online and free.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Template" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-template-app.png" productLink="https://products.aspose.app/psd/template-editor" >}}

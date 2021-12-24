@@ -75,7 +75,7 @@ description: Sample Java conversion code for PSD format to PDF file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert PSD to PDF - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert PSD to PDF - Java" offSpacer="" %}}
 
 ```cs
    
@@ -99,7 +99,7 @@ description: Sample Java conversion code for PSD format to PDF file. Use this ex
 
     {{% blocks/products/pf/agp/content h2="Java Photoshop File Manipulation Library" %}}
 
- Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎
+ Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. 
 
 
 
