@@ -71,12 +71,7 @@ In order to render AI to GIF, we’ll use <a href="https://products.aspose.com/p
 
 {{% blocks/products/pf/agp/code-block title="Convert AI to GIF - Java" offSpacer="" %}}
 
-```cs
-   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "3facb99e02cbd65720395cbee584cbb1" "convert-ai-to-gif.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
