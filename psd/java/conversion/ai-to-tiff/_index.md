@@ -54,8 +54,10 @@ In order to render AI to TIFF, we’ll use <a href="https://products.aspose.com/
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
-
+- Load input AI image
+- Initialize [TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/tiffOptions) class object
+- Specify image properties
+- Save output TIFF File
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,6 +68,12 @@ In order to render AI to TIFF, we’ll use <a href="https://products.aspose.com/
  Aspose.PSD for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.PSD for Java directly from
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd).
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

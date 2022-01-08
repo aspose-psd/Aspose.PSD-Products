@@ -54,10 +54,10 @@ In order to render AI to PNG, we’ll use <a href="https://products.aspose.com/p
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Load input AI image
--  Initialize [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/pngOptions) class object
--  Specify image properties
--  Save output PNG image
+- Load input AI image
+- Initialize [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/pngOptions) class object
+- Specify image properties
+- Save output PNG image
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,8 +69,8 @@ In order to render AI to PNG, we’ll use <a href="https://products.aspose.com/p
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
--  Get latest version of Aspose.PSD for Java directly from
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.PSD for Java directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
