@@ -75,7 +75,7 @@ description: Sample Java conversion code for PSD format to PNG file. Use this ex
 
 -  Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 -  Get latest version of Aspose.PSD for Java directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)  .
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

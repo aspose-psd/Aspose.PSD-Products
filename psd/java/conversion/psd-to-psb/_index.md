@@ -61,7 +61,7 @@ description: Sample Java conversion code for PSD format to PSB file. Use this ex
 
 1.  Load PSD file with Image.load method
 1.  Cast the Image object to PsdImage
-1.  Call PsdImage.save method with output file path & an instace of PsbOptions
+1.  Call PsdImage.save method with output file path & an instace of PsdOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,14 +73,15 @@ description: Sample Java conversion code for PSD format to PSB file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
+-  Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+-  Get latest version of Aspose.PSD for Java directly from
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert PSD to PSB - Java" offSpacer="" %}}
 
-```cs
-   
-
-```
+{{< gist "aspose-com-gists" "ed857b2df534c2be2b9c50c6a2db659e" "convert-psd-to-psb.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

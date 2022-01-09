@@ -59,6 +59,10 @@ description: Sample Java conversion code for PSB format to PSD file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Load the PSB file
+- Create an instance of [PsdOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
