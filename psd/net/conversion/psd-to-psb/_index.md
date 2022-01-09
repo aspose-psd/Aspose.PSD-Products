@@ -45,7 +45,7 @@ PM> Install-Package Aspose.PSD
 
 1.  Load PSD file with Image.Load method
 1.  Cast the Image object to PsdImage
-1.  Call the Image.Save method with output file path & an instance of psbCAMELOptions
+1.  Call the Image.Save method with output file path & an instance of PsdOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
