@@ -61,10 +61,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSD to PDF C# Conversion" offSpacer="" %}}
 
-```cs
- 
-
-```
+{{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

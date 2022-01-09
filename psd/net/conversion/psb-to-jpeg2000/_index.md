@@ -59,13 +59,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSB to JPEG2000 C# Conversion" offSpacer="" %}}
 
-```cs
-using (var image = new Image.Load("template.psb"))
-{
-	var options = new Jpeg2000Options();
-	image.Save("output.jp2", options);                    
-}
-```
+{{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

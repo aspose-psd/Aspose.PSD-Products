@@ -59,12 +59,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows AI to PSB C# Conversion" offSpacer="" %}}
 
-```cs
- using (var image = (PsdImage)Image.Load("template.ai"))
-{
-    image.Save("output.psb", new PsdOptions() { PsdVersion = PsdVersion.Psb});
-}
-```
+{{< gist "aspose-com-gists" "3c8deaec4ce20917c561030c536ff589" "convert-ai-to-psb.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

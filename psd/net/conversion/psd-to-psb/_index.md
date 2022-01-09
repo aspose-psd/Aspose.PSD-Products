@@ -65,12 +65,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSD to PSB C# Conversion" offSpacer="" %}}
 
-```cs
- using (var image = (PsdImage)Image.Load("template.psd"))
-{
-    image.Save("output.psb", new PsdOptions() { PsdVersion = PsdVersion.Psb});
-}
-```
+{{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-psb.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

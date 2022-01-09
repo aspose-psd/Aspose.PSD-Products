@@ -29,13 +29,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSD to JPEG Conversion" gistPath="" %}}
-```cs
-using (var image = new Image.Load("template.psd"))
-{
-	var options = new JpegOptions();
-	image.Save("output.jpeg", options);                    
-}
-```
+
+{{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-jpeg.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}

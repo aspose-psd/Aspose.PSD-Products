@@ -59,13 +59,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSD to JPEG2000 C# Conversion" offSpacer="" %}}
 
-```cs
-using (var image = new Image.Load("template.psd"))
-{
-	var options = new Jpeg2000Options();
-	image.Save("output.jp2", options);                    
-}
-```
+{{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

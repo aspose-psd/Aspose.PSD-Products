@@ -61,10 +61,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSB to PSD C# Conversion" offSpacer="" %}}
 
-```cs
- 
-
-```
+{{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
