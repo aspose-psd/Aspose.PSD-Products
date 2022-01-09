@@ -59,6 +59,10 @@ description: Sample Java conversion code for PSB format to JPEG file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Load the PSB file
+- Create an instance of [JpegOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}

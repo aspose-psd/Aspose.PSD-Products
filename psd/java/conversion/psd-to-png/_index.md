@@ -59,6 +59,10 @@ description: Sample Java conversion code for PSD format to PNG file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Load the PSD file
+- Create an instance of [PngOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}

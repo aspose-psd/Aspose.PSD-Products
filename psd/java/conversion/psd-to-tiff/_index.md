@@ -59,6 +59,10 @@ description: Sample Java conversion code for PSD format to TIFF file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Load the PSD file
+- Create an instance of [TiffOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}

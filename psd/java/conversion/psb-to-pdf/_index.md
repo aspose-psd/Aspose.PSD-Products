@@ -59,6 +59,10 @@ description: Sample Java conversion code for PSB format to PDF file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Load the PSB file
+- Create an instance of [PdfOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}

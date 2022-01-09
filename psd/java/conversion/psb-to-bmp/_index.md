@@ -59,6 +59,10 @@ description: Sample Java conversion code for PSB format to BMP file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Load the PSB file
+- Create an instance of [BmpOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
