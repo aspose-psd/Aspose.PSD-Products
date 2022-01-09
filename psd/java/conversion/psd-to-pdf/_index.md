@@ -77,10 +77,7 @@ description: Sample Java conversion code for PSD format to PDF file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert PSD to PDF - Java" offSpacer="" %}}
 
-```cs
-   
-
-```
+{{< gist "aspose-com-gists" "ed857b2df534c2be2b9c50c6a2db659e" "convert-psd-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

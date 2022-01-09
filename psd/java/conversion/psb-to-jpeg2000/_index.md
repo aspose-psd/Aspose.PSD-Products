@@ -71,12 +71,7 @@ In order to render PSB to JPEG2000, we’ll use <a href="https://products.aspose
 
 {{% blocks/products/pf/agp/code-block title="Convert PSB to JPEG2000 - Java" offSpacer="" %}}
 
-```cs
-   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "d545a3b5555e27f07b92c26e638b0400" "convert-psb-to-jpeg2000.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -77,10 +77,7 @@ description: Sample Java conversion code for PSD format to TIFF file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert PSD to TIFF - Java" offSpacer="" %}}
 
-```cs
-   
-
-```
+{{< gist "aspose-com-gists" "ed857b2df534c2be2b9c50c6a2db659e" "convert-psd-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

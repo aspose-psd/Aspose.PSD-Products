@@ -77,10 +77,7 @@ description: Sample Java conversion code for PSB format to PDF file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert PSB to PDF - Java" offSpacer="" %}}
 
-```cs
-   
-
-```
+{{< gist "aspose-com-gists" "d545a3b5555e27f07b92c26e638b0400" "convert-psb-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

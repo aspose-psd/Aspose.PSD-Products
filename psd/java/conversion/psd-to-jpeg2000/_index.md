@@ -71,12 +71,7 @@ In order to render PSD to JPEG2000, we’ll use <a href="https://products.aspose
 
 {{% blocks/products/pf/agp/code-block title="Convert PSD to JPEG2000 - Java" offSpacer="" %}}
 
-```cs
-   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "ed857b2df534c2be2b9c50c6a2db659e" "convert-psd-to-jpeg2000.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -77,10 +77,7 @@ description: Sample Java conversion code for PSD format to JPEG file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert PSD to JPEG - Java" offSpacer="" %}}
 
-```cs
-   
-
-```
+{{< gist "aspose-com-gists" "ed857b2df534c2be2b9c50c6a2db659e" "convert-psd-to-jpeg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
