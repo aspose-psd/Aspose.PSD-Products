@@ -75,8 +75,6 @@ In order to render AI to TIFF, we’ll use <a href="https://products.aspose.com/
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
 {{% blocks/products/pf/agp/code-block title="Convert AI to TIFF - Java" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "3facb99e02cbd65720395cbee584cbb1" "convert-ai-to-tiff.java" >}}
