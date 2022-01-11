@@ -100,7 +100,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -146,7 +146,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -215,7 +215,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
    Aspose.PSD
   </header>

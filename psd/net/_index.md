@@ -132,7 +132,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -183,7 +183,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PSD Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt="PSD Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -252,7 +252,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
   <header>
    Aspose.PSD
   </header>
