@@ -462,19 +462,8 @@ description: Create modify or convert PSD and PSB formats using this library wit
      <h3>
       Convert PSD to BMP, GIF &amp; JPEG - Java
      </h3>
-     <pre><code class="cs">String destName = dataDir + "output";
-
-// load an existing document
-
-Image image = Image.load(dataDir + "sample.psd");
-
-image.save(destName + ".bmp", new BmpOptions());        
-
-image.save(destName + ".gif", new GifOptions());
-
-image.save(destName + ".jpeg", new JpegOptions());
-
-</code></pre>
+     
+	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -496,17 +485,7 @@ image.save(destName + ".jpeg", new JpegOptions());
      <h3>
       Rotating an Image - Java
      </h3>
-     <pre><code class="cs">String destName = dataDir + "output.jpg";
-
-// Load an existing image into an instance of RasterImage class
-
-Image image = Image.load(dataDir + "sample.psd");
-
-image.rotateFlip(RotateFlipType.Rotate270FlipNone);
-
-image.save(destName, new JpegOptions());
-
-</code></pre>
+    {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
      Furthermore, API provides different imaging filters like adjustment of contrast, brightness or gamma on raster images, dithering or blurring of images as well as most famous filters including Gauss Wiener, Median,  Bradley Threshold, and Motion Wiener.
