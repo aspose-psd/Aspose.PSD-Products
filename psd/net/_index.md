@@ -566,21 +566,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
      <h3>
       Convert PSD to PNG, JPEG &amp; TIFF - C#
      </h3>
-     <pre><code class="cs">// load an existing PSD image as Image
-
-using (var pfile = Aspose.PSD.Image.Load(dir + "template.psd"))
-
-{
-
-    // save result in different raster formats with customized attributes
-
-    pfile.Save(dir + "output.png", new Aspose.PSD.ImageOptions.PngOptions());
-
-    pfile.Save(dir + "output.jpg", new Aspose.PSD.ImageOptions.JpegOptions() { Quality = 70 });
-
-    pfile.Save(dir + "output.tiff", new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.TiffCcitRle));
-
-}</code></pre>
+    {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -602,33 +588,7 @@ using (var pfile = Aspose.PSD.Image.Load(dir + "template.psd"))
      <h3>
       Create PSD from scratch - C#
      </h3>
-     <pre><code class="cs">using (var pdoc = Aspose.PSD.Image.Create(new Aspose.PSD.ImageOptions.PsdOptions()
-
-{
-
-    Source = new Aspose.PSD.Sources.FileCreateSource(dir + "output.psd", false),
-
-    ColorMode = Aspose.PSD.FileFormats.Psd.ColorModes.Rgb,
-
-    CompressionMethod = Aspose.PSD.FileFormats.Psd.CompressionMethod.RLE,
-
-    Version = 4
-
-}, 400, 400))
-
-{
-
-    // draw some graphics over the newly created PSD
-
-    var graphics = new Aspose.PSD.Graphics(pdoc);
-
-    graphics.Clear(Aspose.PSD.Color.White);
-
-    graphics.DrawEllipse(new Aspose.PSD.Pen(Aspose.PSD.Color.Red, 6), new Aspose.PSD.Rectangle(0, 0, 400, 400));
-
-    pdoc.Save();
-
-}</code></pre>
+     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
