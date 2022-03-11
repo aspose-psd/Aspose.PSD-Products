@@ -68,31 +68,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to PSD - C#" offSpacer="" %}}
 
-```cs
-
-// load a PSD file as an image and cast it into PsdImage
-using (var psdImage = (PsdImage)Image.Load("template.psd"))
-{
-    // create Graphics object to perform draw operations
-    var graphics = new Aspose.PSD.Graphics(psdImage);
-
-    // create font to draw watermark with
-    var font = new Aspose.PSD.Font("Arial", 20.0f);
-
-    // create a solid brush with color alpha set near to 0 to use watermarking effect
-    using (var brush = new Aspose.PSD.Brushes.SolidBrush(Color.FromArgb(50, 128, 128, 128)))
-    {
-        // specify string alignment to put watermark at the image center
-        var stringFormat = new Aspose.PSD.StringFormat();
-        stringFormat.Alignment = Aspose.PSD.StringAlignment.Center;
-        stringFormat.LineAlignment = Aspose.PSD.StringAlignment.Center;
-
-        // draw watermark using font, partly-transparent brush at the image center
-        graphics.DrawString("CONFIDENTIAL", font, brush, new Aspose.PSD.RectangleF(0, 0, psdImage.Width, psdImage.Height), stringFormat);
-    }
-}  
-
-```
+{{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "add-watermark-to-psd-file.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
