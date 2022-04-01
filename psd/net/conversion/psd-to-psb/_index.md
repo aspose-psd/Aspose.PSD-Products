@@ -45,7 +45,7 @@ PM> Install-Package Aspose.PSD
 
 1.  Load PSD file with Image.Load method
 1.  Cast the Image object to PsdImage
-1.  Call the Image.Save method with output file path & an instance of psbCAMELOptions
+1.  Call the Image.Save method with output file path & an instance of PsdOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -65,12 +65,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows PSD to PSB C# Conversion" offSpacer="" %}}
 
-```cs
- using (var image = (PsdImage)Image.Load("template.psd"))
-{
-    image.Save("output.psb", new PsdOptions() { PsdVersion = PsdVersion.Psb});
-}
-```
+{{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-psb.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

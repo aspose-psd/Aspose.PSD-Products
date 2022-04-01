@@ -59,12 +59,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows AI to BMP C# Conversion" offSpacer="" %}}
 
-```cs
- using (var image = (AiImage)Image.Load("template.ai"))
-{
-    image.Save("output.bmp", new BmpOptions());
-}
-```
+{{< gist "aspose-com-gists" "3c8deaec4ce20917c561030c536ff589" "convert-ai-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

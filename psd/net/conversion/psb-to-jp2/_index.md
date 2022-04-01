@@ -29,13 +29,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSB to JP2 Conversion" gistPath="" %}}
-```cs
-using (var image = new Image.Load("template.psb"))
-{
-	var options = new Jpeg2000Options { Codec = Jpeg2000Codec.Jp2 };
-	image.Save("output.jp2", options);                    
-}
-```
+
+{{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-jp2.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}

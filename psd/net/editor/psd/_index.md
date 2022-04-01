@@ -68,58 +68,25 @@ PM> Install-Package Aspose.PSD
 Here is the easy way to create a new PSD file using C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Create PSD file - C#" offSpacer="" %}}
-```cs
 
-using (var image = new PsdImage(500, 500))
-{
-    image.Save("template.psd");
-}
+{{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-file.cs" >}}
 
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 
 The following code demonstrates how to add new layers to the PSD file using C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Create/Add Layers - C#" offSpacer="" %}}
-```cs
-
-using (var image = (PsdImage)Image.Load("template.psd"))
-{
-    // Create regular layer
-    Layer regularLayer = new Layer();
-
-    // Create FillLayer with gradient
-    FillLayer fillLayer = FillLayer.CreateInstance(FillType.Gradient);
-
-    // Add layers to PsdImage
-    image.AddLayer(regularLayer);
-    image.AddLayer(fillLayer);
-
-    // Create and Add TextLayer with text
-    TextLayer textLayer = image.AddTextLayer("Hello world!", new Rectangle(50, 50, 150, 50));
-
-    image.Save("output.psd");
-}
-
-```
+{{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-add-layers.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 
 This example shows how easy is to rename each layer in any PSD file.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Change layer name - C#" offSpacer="" %}}
-```cs
 
-using (var image = (PsdImage)Image.Load("template.psd"))
-{
-    // Rename layer
-    image.Layers[0].DisplayName = "New layer name";
+{{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "change-layer-name.cs" >}}
 
-    image.Save("output.psd");
-}
-
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 
@@ -127,30 +94,9 @@ Next, you can see the example of how to change the text in a TextLayer. You can 
 Or use the IText functionality and configure each text portion with its own specific style.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="Change text in TextLayer - C#" offSpacer="" %}}
-```cs
 
-using (var image = (PsdImage)Image.Load("template.psd"))
-{
-    // Update whole text in text layer
-    TextLayer textLayer1 = (TextLayer)image.Layers[1];
-    textLayer1.UpdateText("New Text");
+{{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "change-text-in-text-layer.cs" >}}
 
-    // Edit text using IText functionality
-    TextLayer textLayer2 = (TextLayer)image.Layers[2];
-    ITextPortion[] newPortions = textLayer2.TextData.ProducePortions(new string[] { "Portion 1", "Portion 2" }, null, null); // create new text portions
-    newPortions[0].Style.FillColor = Color.Green; // sets the new color for text portions
-    newPortions[1].Style.FillColor = Color.Blue;
-
-    // Update changes into TextLayer
-    textLayer2.TextData.RemovePortion(0); // remove exists portion
-    textLayer2.TextData.AddPortion(newPortions[0]); // adds new portions
-    textLayer2.TextData.AddPortion(newPortions[1]);
-    textLayer2.TextData.UpdateLayerData(); // apply changes
-
-    image.Save("output.psd");
-}
-
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -162,7 +108,7 @@ using (var image = (PsdImage)Image.Load("template.psd"))
 
     {{% blocks/products/pf/agp/content h2="About Aspose.PSD for .NET API" %}}
 
- Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎
+ Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations, update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. 
 
 
 

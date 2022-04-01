@@ -6,15 +6,15 @@ description: Create modify or convert PSD and PSB formats using this library wit
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PSD for Java is an easy to use Adobe Photoshop file format manipulation API. It can easily load and read PSD, PSB &amp; AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop. Image formats like JPEG, TIFF, GIF, PNG, BMP, JPEG2000 and can easily be opened and added as a layer with just a few lines of code. PSD, PSB &amp; AI files can be exported to the listed format, and to the PDF format additionally
+ Aspose.PSD for Java is an easy to use Adobe Photoshop file format manipulation API. It can easily load and read PSD, PSB &amp; AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop. Image formats like JPEG, TIFF, GIF, PNG, BMP, JPEG2000 and can easily be opened and added as a layer with just a few lines of code. PSD, PSB &amp; AI files can be exported to the listed format, and to the PDF format additionally
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -100,7 +100,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -118,7 +118,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports Desktop, Web and Console applications on platforms such as Windows, Linux/Unix, MacOS where Java is available." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports Desktop, Web and Console applications on platforms such as Windows, Linux/Unix, MacOS where Java is available." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -146,7 +146,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -215,7 +215,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
    Aspose.PSD
   </header>
@@ -453,28 +453,17 @@ description: Create modify or convert PSD and PSB formats using this library wit
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert PSD Files to Raster Images
+     Convert PSD Files to Raster Images
     </h2>
     <p>
-     Aspose.PSD for Java library supports PSD files conversion to any of the supported raster images, with just a few lines of code.
+     Aspose.PSD for Java library supports PSD files conversion to any of the supported raster images, with just a few lines of code.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Convert PSD to BMP, GIF &amp; JPEG - Java
      </h3>
-     <pre><code class="cs">String destName = dataDir + "output";
-
-// load an existing document
-
-Image image = Image.load(dataDir + "sample.psd");
-
-image.save(destName + ".bmp", new BmpOptions());        
-
-image.save(destName + ".gif", new GifOptions());
-
-image.save(destName + ".jpeg", new JpegOptions());
-
-</code></pre>
+     
+	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -482,7 +471,7 @@ image.save(destName + ".jpeg", new JpegOptions());
      Manipulate Photoshop Layers with Ease
     </h2>
     <p>
-     PSD layer manipulation like merging layers, updating text on layers, setting effects or exporting layer as an image are few of the manipulation features that API provides. Moreover, it can detect flattened PSD documents as well as create thumbnails.
+     PSD layer manipulation like merging layers, updating text on layers, setting effects or exporting layer as an image are few of the manipulation features that API provides. Moreover, it can detect flattened PSD documents as well as create thumbnails.
     </p>
    </div>
    <div class="col-lg-12">
@@ -490,26 +479,16 @@ image.save(destName + ".jpeg", new JpegOptions());
      Crop, Rotate &amp; Resize Images On the Go
     </h2>
     <p>
-     Any image manipulation feature like flipping, cropping, rotating and resizing images can be implemented with just a few lines of code e.g below snippet rotates the image.
+     Any image manipulation feature like flipping, cropping, rotating and resizing images can be implemented with just a few lines of code e.g below snippet rotates the image.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Rotating an Image - Java
      </h3>
-     <pre><code class="cs">String destName = dataDir + "output.jpg";
-
-// Load an existing image into an instance of RasterImage class
-
-Image image = Image.load(dataDir + "sample.psd");
-
-image.rotateFlip(RotateFlipType.Rotate270FlipNone);
-
-image.save(destName, new JpegOptions());
-
-</code></pre>
+    {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     Furthermore, API provides different imaging filters like adjustment of contrast, brightness or gamma on raster images, dithering or blurring of images as well as most famous filters including Gauss Wiener, Median,  Bradley Threshold, and Motion Wiener.
+     Furthermore, API provides different imaging filters like adjustment of contrast, brightness or gamma on raster images, dithering or blurring of images as well as most famous filters including Gauss Wiener, Median,  Bradley Threshold, and Motion Wiener.
     </p>
    </div>
    <!--<div class="col-lg-12">

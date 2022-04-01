@@ -59,11 +59,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows AI to PSD C# Conversion" offSpacer="" %}}
 
-```cs
- using (var image = (AiImage)Image.Load("template.ai"))
-{
-    image.Save("output.psd", new PsdOptions());
-}
+{{< gist "aspose-com-gists" "3c8deaec4ce20917c561030c536ff589" "convert-ai-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

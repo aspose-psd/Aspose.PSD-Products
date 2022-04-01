@@ -54,8 +54,10 @@ In order to render AI to PNG, we’ll use <a href="https://products.aspose.com/p
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
-
+- Load input AI image
+- Initialize [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/pngOptions) class object
+- Specify image properties
+- Save output PNG image
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,16 +69,15 @@ In order to render AI to PNG, we’ll use <a href="https://products.aspose.com/p
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.PSD for Java directly from
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert AI to PNG - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert AI to PNG - Java" offSpacer="" %}}
 
-```cs
-   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "3facb99e02cbd65720395cbee584cbb1" "convert-ai-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,7 +96,7 @@ In order to render AI to PNG, we’ll use <a href="https://products.aspose.com/p
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations,  update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation. ‎ ‎
+Aspose.PSD is a Photoshop format manipulation API. One can generate, modify and convert Adobe Photoshop and Illustrator documents. Moreover, end users can perform graphics operations,  update layer properties, add watermarks or render one format to PNG, GIF, BMP, TIFF, JPEG, JPEG2000, PSD, PSB etc. Its a standalone API and does not require Adobe Photoshop installation.  
 
 
 
