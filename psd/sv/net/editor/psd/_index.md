@@ -12,7 +12,7 @@ description: C#-källkod för att redigera PSD-filen på .NET Framework, .NET Co
 {{% blocks/products/pf/agp/content h2="Hur man redigerar PSD-fildata med C#" %}}
 
  För att redigera PSD-fil kommer vi att använda
- [Aspose.PSD för .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD för .NET]({{< relref "net" >}})
  API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulering för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakethanterare, sök efter

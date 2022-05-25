@@ -10,15 +10,15 @@ description: High Code API ja ilmaiset sovellukset Photoshop-tiedostojen muokkaa
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API:t sisältävät" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 High Code API:t PSD-, PSB- ja AI-tiedostomuotojen käsittelyyn Windows Forms-, ASP.NET-, WPF-, WCF- tai minkä tahansa tyyppisissä sovelluksissa, jotka perustuvat .NET Framework 2.0:aan tai uudempiin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java-sovellusliittymät Photoshop- ja Illustrator-tiedostojen käsittelemiseen. Luo, lataa, muokkaa ja renderöi PSD-, PSB- ja AI-muotoja Java-pohjaisissa sovelluksissa ilman ohjelmistoriippuvuuksia.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Näytä kaikki korkean koodin sovellusliittymät" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Näytä kaikki korkean koodin sovellusliittymät" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

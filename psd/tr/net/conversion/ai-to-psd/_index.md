@@ -11,7 +11,7 @@ description: AI'dan PSD'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET ve
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak AI'yı PSD'ye Dönüştürme" %}}
 
-AI'yi PSD'ye dönüştürmek için kullanacağız<a href="https://products.aspose.com/psd/net">.NET için Aspose.PSD</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'si olan API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+AI'yi PSD'ye dönüştürmek için kullanacağız<a href="{{< relref "net" >}}">.NET için Aspose.PSD</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'si olan API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol KomutanlığıPackage Manager Console Command" offSpacer="true" %}}
 

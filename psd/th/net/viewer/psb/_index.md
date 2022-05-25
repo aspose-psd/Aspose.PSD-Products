@@ -13,7 +13,7 @@ description: C# ซอร์สโค้ดเพื่อโหลด แสด
 {{% blocks/products/pf/agp/content h2="วิธีดูไฟล์ PSB โดยใช้ C#" %}}
 
  ในการดูไฟล์ PSB เราจะใช้
- [Aspose.PSD สำหรับ .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD สำหรับ .NET]({{< relref "net" >}})
  API ซึ่งเป็น API ที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่ายสำหรับแพลตฟอร์ม C# ที่จะใช้กับโปรแกรมดูใดก็ได้ เปิด
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  package manager ค้นหา

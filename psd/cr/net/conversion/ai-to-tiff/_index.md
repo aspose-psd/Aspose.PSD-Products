@@ -11,7 +11,7 @@ description: Primjer koda za pretvorbu AI u TIFF C#. Koristite API primjer koda 
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u TIFF koristeći C#" %}}
 
-Da bismo pretvorili AI u TIFF, koristit ćemo se<a href="https://products.aspose.com/psd/net">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima i konverziju za C# platformu. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
+Da bismo pretvorili AI u TIFF, koristit ćemo se<a href="{{< relref "net" >}}">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima i konverziju za C# platformu. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
 
 {{% blocks/products/pf/agp/code-block title="Naredba konzole upravitelja paketa" offSpacer="true" %}}
 

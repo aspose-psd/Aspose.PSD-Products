@@ -11,7 +11,7 @@ description: Primjer koda za pretvorbu PSB u JPEG2000 C#. Koristite API primjer 
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSB u JPEG2000 koristeći C#" %}}
 
-Da bismo pretvorili PSB u JPEG2000, koristit ćemo se<a href="https://products.aspose.com/psd/net">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima i konverziju za C# platformu. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
+Da bismo pretvorili PSB u JPEG2000, koristit ćemo se<a href="{{< relref "net" >}}">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima i konverziju za C# platformu. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
 
 {{% blocks/products/pf/agp/code-block title="Naredba konzole upravitelja paketa" offSpacer="true" %}}
 

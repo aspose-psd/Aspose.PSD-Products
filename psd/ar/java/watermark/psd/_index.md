@@ -13,7 +13,7 @@ description: نموذج كود Java لإضافة أو إزالة العلامة 
 {{% blocks/products/pf/agp/content h2=" كيفية وضع علامة مائية على ملف PSD باستخدام Java" %}}
 
  من أجل وضع علامة مائية على ملف PSD ، سنستخدم
- [Aspose.PSD لجافا] (https://products.aspose.com/psd/java)
+ [Aspose.PSD لجافا] ({{< relref "java" >}})
  API وهي واجهة برمجة تطبيقات للعلامات المائية غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [مافن] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.

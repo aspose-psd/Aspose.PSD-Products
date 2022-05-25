@@ -530,7 +530,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nudi pojedinačne PSD API-je za druga popularna razvojna okruženja kao što je navedeno u nastavku:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

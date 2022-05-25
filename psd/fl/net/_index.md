@@ -632,7 +632,7 @@ description: C# ASP.NET VB.NET Photoshop-kirjasto Photoshop PSD PSB -muotojen mu
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD tarjoaa yksittäisiä PSD-sovellusliittymiä muille suosituille kehitysympäristöille, kuten alla:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

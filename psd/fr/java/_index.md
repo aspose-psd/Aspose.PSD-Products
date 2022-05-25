@@ -530,7 +530,7 @@ description: Créez, modifiez ou convertissez les formats PSD et PSB à l'aide d
 
 {{< blocks/products/pf/offers-section pfName="Asposer.PSD" description="Aspose.PSD propose des API PSD individuelles pour d'autres environnements de développement populaires, comme indiqué ci-dessous :" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

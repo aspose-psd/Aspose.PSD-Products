@@ -10,11 +10,11 @@ description: Βιβλιοθήκη για ανάγνωση εγγραφής κα�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Περιλαμβάνονται τα API High Code Aspose.PSD" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD για" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD για" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Στοχεύστε Φόρμες Windows, ASP.NET ή οποιονδήποτε τύπο εφαρμογής που βασίζεται σε .NET Framework 2.0 ή μεταγενέστερη έκδοση.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD για" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD για" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Native Java API για επιτραπέζιους υπολογιστές, web ή οποιοδήποτε είδος εφαρμογής που βασίζεται σε Java SE ή EE.
 {{< /blocks/products/pf/product >}}
 

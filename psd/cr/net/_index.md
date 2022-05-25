@@ -632,7 +632,7 @@ description: C# ASP.NET VB.NET Photoshop biblioteka za kreiranje uređivanja i p
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nudi pojedinačne PSD API-je za druga popularna razvojna okruženja kao što je navedeno u nastavku:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

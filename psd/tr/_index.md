@@ -10,15 +10,15 @@ description: Photoshop dosyalarını düzenlemek için Yüksek Kod API'leri ve �
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Yüksek Kod API'leri şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD için" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD için" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 Windows Forms, ASP.NET, WPF, WCF veya .NET Framework 2.0 veya sonraki herhangi bir uygulama türünde PSD, PSB ve AI dosya biçimleri manipülasyonu için Yüksek Kod API'leri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD için" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD için" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Photoshop ve Illustrator dosyalarını işlemek için Java API'leri. Java tabanlı uygulamalarda herhangi bir yazılım bağımlılığı olmadan PSD, PSB ve AI formatları oluşturun, yükleyin, değiştirin ve oluşturun.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Tüm High Code API'lerini Görüntüleyin" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Tüm High Code API'lerini Görüntüleyin" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

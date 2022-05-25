@@ -13,7 +13,7 @@ description: Primjer Java koda za pretvorbu za PSB format u TIFF datoteku. Upotr
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSB u TIFF koristeći Javu" %}}
 
  Da bismo PSB prikazali u TIFF, koristit ćemo se
- [Aspose.PSD za Javu](https://products.aspose.com/psd/java)
+ [Aspose.PSD za Javu]({{< relref "java" >}})
  API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
@@ -129,12 +129,12 @@ TIFF ili TIF, Tagged Image File Format, predstavlja rasterske slike koje su nami
 
 {{< blocks/products/pf/agp/other-supported-section title="Druge podržane konverzije" subTitle="PSB također možete pretvoriti u mnoge druge formate datoteka, uključujući nekoliko navedenih u nastavku." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description=" Izvorni format Adobe Photoshopa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG slika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description=" Prijenosna mrežna grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-gif/" name="PSB TO GIF" description="Format grafičke razmjene" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="bitmap slika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Format prijenosnog dokumenta" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description=" Izvorni format Adobe Photoshopa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG slika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description=" Prijenosna mrežna grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-gif/" name="PSB TO GIF" description="Format grafičke razmjene" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="bitmap slika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Format prijenosnog dokumenta" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

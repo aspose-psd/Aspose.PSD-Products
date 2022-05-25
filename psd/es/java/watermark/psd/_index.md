@@ -13,7 +13,7 @@ description: Código de muestra de Java para agregar o eliminar una marca de agu
 {{% blocks/products/pf/agp/content h2="Cómo poner una marca de agua en un archivo PSD usando Java" %}}
 
  Para poner una marca de agua en un archivo PSD, usaremos
- [Aspose.PSD para Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD para Java]({{< relref "java" >}})
  API que es una API de marca de agua rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde
  [Experto](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.

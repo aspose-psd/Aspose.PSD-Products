@@ -13,7 +13,7 @@ description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen PSB 
 {{% blocks/products/pf/agp/content h2="Cara Melihat File PSB Menggunakan C#" %}}
 
  Untuk melihat file PSB, kami akan menggunakan
- [Aspose.PSD untuk .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD untuk .NET]({{< relref "net" >}})
  API yang merupakan API yang kaya fitur, kuat, dan mudah digunakan untuk platform C# untuk digunakan dengan Penampil apa pun. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  manajer paket, cari

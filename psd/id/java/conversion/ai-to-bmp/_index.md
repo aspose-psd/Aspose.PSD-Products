@@ -11,7 +11,7 @@ description: Contoh kode konversi Java untuk format AI ke file BMP. Gunakan kode
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi AI ke BMP Menggunakan Java" %}}
 
-Untuk merender AI ke BMP, kami akan menggunakan<a href="https://products.aspose.com/psd/java">Aspose.PSD untuk Java</a> API yang merupakan API konversi yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Untuk merender AI ke BMP, kami akan menggunakan<a href="{{< relref "java" >}}">Aspose.PSD untuk Java</a> API yang merupakan API konversi yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositori" offSpacer="true" %}}
 

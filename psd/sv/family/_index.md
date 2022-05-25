@@ -10,11 +10,11 @@ description: Bibliotek för att läsa skriva och exportera PSD- och PSB-filer p�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API:er inkluderar" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD för" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD för" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Inrikta dig på Windows Forms, ASP.NET eller någon typ av applikation baserad på .NET Framework 2.0 eller senare.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD för" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD för" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Inbyggda Java API:er för skrivbordet, webben eller någon form av applikation baserad på Java SE eller EE.
 {{< /blocks/products/pf/product >}}
 

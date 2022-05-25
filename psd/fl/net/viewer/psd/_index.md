@@ -13,7 +13,7 @@ description: C#-lähdekoodi PSD-dokumenttien lataamiseen, hahmontamiseen ja näy
 {{% blocks/products/pf/agp/content h2="PSD-tiedoston tarkasteleminen C#:lla" %}}
 
  PSD-tiedoston katselemiseksi käytämme
- [Aspose.PSD for .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD for .NET]({{< relref "net" >}})
  API, joka on monipuolinen, tehokas ja helppokäyttöinen API C#-alustalle käytettäväksi minkä tahansa Viewerin kanssa. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

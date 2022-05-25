@@ -11,7 +11,7 @@ description: Sample Java conversionis pro AI format ad limam JPEG. Hoc exemplo u
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi AI ad JPEG Using Java" %}}
 
-Ut AI ad JPEG reddat, utemur<a href="https://products.aspose.com/psd/java"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, addendo sequentes conformationes ad pom.xml.
+Ut AI ad JPEG reddat, utemur<a href="{{< relref "java" >}}"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, addendo sequentes conformationes ad pom.xml.
 
 {{% blocks/products/pf/agp/code-block title=" Repository" offSpacer="true" %}}
 

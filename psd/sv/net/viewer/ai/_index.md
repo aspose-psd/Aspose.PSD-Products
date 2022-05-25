@@ -11,7 +11,7 @@ description: C#-källkod för att ladda, rendera och visa AI-dokument på .NET F
 
 {{% blocks/products/pf/agp/content h2="Hur man visar AI-fil med C#" %}}
 
-För att se AI-fil kommer vi att använda<a href="https://products.aspose.com/psd/net">Aspose.PSD för .NET</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för C#-plattform som ska användas med vilken Viewer som helst. Öppen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakethanterare, sök efter<b>Aspose.PSD</b> och installera. Du kan också använda följande kommando från Package Manager Console.
+För att se AI-fil kommer vi att använda<a href="{{< relref "net" >}}">Aspose.PSD för .NET</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för C#-plattform som ska användas med vilken Viewer som helst. Öppen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakethanterare, sök efter<b>Aspose.PSD</b> och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 

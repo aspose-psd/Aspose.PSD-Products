@@ -10,15 +10,15 @@ description: Photoshop 파일을 편집하기 위한 High Code API 및 무료 �
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 하이 코드 API 포함" >}}
 
-{{< blocks/products/pf/product pfName="아포즈.PSD" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="아포즈.PSD" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 Windows Forms, ASP.NET, WPF, WCF 또는 .NET Framework 2.0 이상을 기반으로 하는 모든 유형의 애플리케이션에서 PSD, PSB 및 AI 파일 형식 조작을 위한 하이 코드 API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="아포즈.PSD" title="자바" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="아포즈.PSD" title="자바" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Photoshop 및 Illustrator 파일을 조작하는 Java API. 소프트웨어 종속성 없이 Java 기반 애플리케이션 내에서 PSD, PSB 및 AI 형식을 생성, 로드, 수정 및 렌더링합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="모든 하이 코드 API 보기" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="모든 하이 코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

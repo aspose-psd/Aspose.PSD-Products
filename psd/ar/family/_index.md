@@ -10,11 +10,11 @@ description: مكتبة لقراءة كتابة وتصدير ملفات PSD & PS
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" تتضمن واجهات برمجة تطبيقات Aspose.PSD عالية الكود" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 الهدف Windows Forms أو ASP.NET أو أي نوع من التطبيقات المستندة إلى .NET Framework 2.0 أو إصدار لاحق.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD لـ" title=" جافا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD لـ" title=" جافا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 واجهات برمجة تطبيقات Java الأصلية لسطح المكتب أو الويب أو أي نوع من التطبيقات القائمة على Java SE أو EE.
 {{< /blocks/products/pf/product >}}
 

@@ -10,15 +10,15 @@ description: APIs de alto código e aplicativos gratuitos para editar arquivos d
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs incluem" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD para" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD para" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 APIs High Code para manipulação de formatos de arquivo PSD, PSB e AI em Windows Forms, ASP.NET, WPF, WCF ou qualquer tipo de aplicação baseada em .NET Framework 2.0 ou posterior.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD para" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD para" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 APIs Java para manipular arquivos do Photoshop e Illustrator. Crie, carregue, modifique e renderize formatos PSD, PSB e AI em aplicativos baseados em Java sem nenhuma dependência de software.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Ver todas as APIs de código alto" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Ver todas as APIs de código alto" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

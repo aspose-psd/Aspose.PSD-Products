@@ -10,15 +10,15 @@ description: واجهات برمجة تطبيقات ذات كود عالي وت�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" تتضمن واجهات برمجة تطبيقات Aspose.PSD عالية الكود" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 واجهات برمجة التطبيقات ذات الأكواد العالية لمعالجة تنسيقات ملفات PSD و PSB و AI في Windows Forms أو ASP.NET أو WPF أو WCF أو أي نوع من التطبيقات القائمة على .NET Framework 2.0 أو أحدث.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD" title=" جافا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD" title=" جافا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java APIs لمعالجة ملفات Photoshop و Illustrator. قم بإنشاء وتحميل وتعديل وعرض تنسيقات PSD و PSB و AI داخل التطبيقات المستندة إلى Java دون أي تبعيات للبرامج.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText=" عرض جميع واجهات برمجة التطبيقات ذات الأكواد العالية" >}}
+{{< blocks/products/pf/center-button href="family/" innerText=" عرض جميع واجهات برمجة التطبيقات ذات الأكواد العالية" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

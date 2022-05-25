@@ -632,7 +632,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nabízí jednotlivá PSD API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

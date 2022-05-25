@@ -632,7 +632,7 @@ description: Photoshop PSD PSB 형식 편집 및 변환을 위한 C# ASP.NET VB.
 
 {{< blocks/products/pf/offers-section pfName="아포즈.PSD" description="Aspose.PSD는 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 PSD API를 제공합니다." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

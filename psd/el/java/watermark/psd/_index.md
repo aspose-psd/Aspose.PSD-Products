@@ -13,7 +13,7 @@ description: Δείγμα κώδικα Java για προσθήκη ή αφαί�
 {{% blocks/products/pf/agp/content h2="Πώς να υδατογραφήσετε αρχείο PSD χρησιμοποιώντας Java" %}}
 
  Για να υδατογραφήσουμε το αρχείο PSD, θα χρησιμοποιήσουμε
- [Aspose.PSD για Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD για Java]({{< relref "java" >}})
  API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API υδατογραφήματος για πλατφόρμα Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.

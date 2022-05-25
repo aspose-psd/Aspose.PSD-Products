@@ -13,7 +13,7 @@ description: Esimerkki Java-muunnoskoodista PSB-muodosta PDF-tiedostoksi. Käyt�
 {{% blocks/products/pf/agp/content h2="Kuinka muuntaa PSB PDF:ksi Javalla" %}}
 
  Käytämme PSB:n muuttamiseksi PDF-muotoon
- [Aspose.PSD for Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD for Java]({{< relref "java" >}})
  API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.
@@ -129,12 +129,12 @@ Portable Document Format (PDF) on Adoben 1990-luvulla luoma asiakirja. Tämän t
 
 {{< blocks/products/pf/agp/other-supported-section title="Muut tuetut konversiot" subTitle="Voit myös muuntaa PSB:n moniin muihin tiedostomuotoihin, mukaan lukien muutamat alla luetellut tiedostomuodot." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description="Adobe Photoshop Native Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Tagattu kuvamuoto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG-kuva" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description="Kannettava verkkografiikka" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-gif/" name="PSB TO GIF" description="Graafinen vaihtomuoto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bittikarttakuva" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Tagattu kuvamuoto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG-kuva" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description="Kannettava verkkografiikka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-gif/" name="PSB TO GIF" description="Graafinen vaihtomuoto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bittikarttakuva" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

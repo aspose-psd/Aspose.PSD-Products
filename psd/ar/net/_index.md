@@ -632,7 +632,7 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" يقدم Aspose.PSD واجهات برمجة تطبيقات PSD فردية لبيئات التطوير الشائعة الأخرى كما هو مذكور أدناه:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

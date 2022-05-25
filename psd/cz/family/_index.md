@@ -10,11 +10,11 @@ description: Knihovna pro čtení, zápis a export souborů PSD a PSB na více p
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Zahrnuje Aspose.PSD High Code API" >}}
 
-{{< blocks/products/pf/product pfName="Apose.PSD pro" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Apose.PSD pro" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Zacilte Windows Forms, ASP.NET nebo jakýkoli typ aplikace založené na .NET Framework 2.0 nebo novějším.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD pro" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD pro" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Nativní Java API pro desktop, web nebo jakýkoli druh aplikace založené na Java SE nebo EE.
 {{< /blocks/products/pf/product >}}
 

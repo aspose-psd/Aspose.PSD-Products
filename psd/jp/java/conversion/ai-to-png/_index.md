@@ -11,7 +11,7 @@ description: AI形式からPNGファイルへのサンプルJava変換コード�
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してAIをPNGに変換する方法" %}}
 
-AIをPNGにレンダリングするために、<a href="https://products.aspose.com/psd/java"> Aspose.PSD for Java</a>Javaプラットフォーム用の機能が豊富で強力で使いやすい変換APIであるAPI。最新バージョンはから直接ダウンロードできます<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> Maven</a>そして、pom.xmlに以下の構成を追加して、Mavenベースのプロジェクト内にインストールします。
+AIをPNGにレンダリングするために、<a href="{{< relref "java" >}}"> Aspose.PSD for Java</a>Javaプラットフォーム用の機能が豊富で強力で使いやすい変換APIであるAPI。最新バージョンはから直接ダウンロードできます<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> Maven</a>そして、pom.xmlに以下の構成を追加して、Mavenベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 

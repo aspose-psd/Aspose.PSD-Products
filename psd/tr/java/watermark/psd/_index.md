@@ -13,7 +13,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak PSD Dosyasını Filigran Etme" %}}
 
  PSD dosyasını filigranlamak için kullanacağız
- [Java için Aspose.PSD](https://products.aspose.com/psd/java)
+ [Java için Aspose.PSD]({{< relref "java" >}})
  Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigran API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.

@@ -530,7 +530,7 @@ description: Photoshop 소프트웨어 없이 모든 Java 응용 프로그램 �
 
 {{< blocks/products/pf/offers-section pfName="아포즈.PSD" description="Aspose.PSD는 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 PSD API를 제공합니다." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

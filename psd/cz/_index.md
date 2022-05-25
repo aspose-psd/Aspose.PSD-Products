@@ -10,15 +10,15 @@ description: High Code API a bezplatné aplikace pro úpravu souborů Photoshopu
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Zahrnuje Aspose.PSD High Code API" >}}
 
-{{< blocks/products/pf/product pfName="Apose.PSD pro" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Apose.PSD pro" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 High Code API pro manipulaci s formáty souborů PSD, PSB a AI ve Windows Forms, ASP.NET, WPF, WCF nebo v jakémkoli typu aplikace založené na .NET Framework 2.0 nebo novějším.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Apose.PSD pro" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Apose.PSD pro" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java API pro manipulaci se soubory Photoshop a Illustrator. Vytvářejte, načtěte, upravujte a vykreslujte formáty PSD, PSB a AI v aplikacích založených na Javě bez jakýchkoli softwarových závislostí.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Zobrazit všechna rozhraní High Code API" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Zobrazit všechna rozhraní High Code API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

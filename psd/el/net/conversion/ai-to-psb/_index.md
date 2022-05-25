@@ -11,7 +11,7 @@ description: Δείγμα κώδικα για μετατροπή AI σε PSB C#.
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε AI σε PSB χρησιμοποιώντας C#" %}}
 
-Για να μετατρέψουμε το AI σε PSB, θα χρησιμοποιήσουμε<a href="https://products.aspose.com/psd/net">Aspose.PSD για .NET</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση API χειρισμού και μετατροπής εγγράφων για πλατφόρμα C#. Ανοιξε<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.PSD</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Για να μετατρέψουμε το AI σε PSB, θα χρησιμοποιήσουμε<a href="{{< relref "net" >}}">Aspose.PSD για .NET</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση API χειρισμού και μετατροπής εγγράφων για πλατφόρμα C#. Ανοιξε<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.PSD</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 

@@ -11,7 +11,7 @@ description: PSD سے JPEG2000 C# کی تبدیلی کے لیے نمونہ کو�
 
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے PSD کو JPEG2000 میں کیسے تبدیل کیا جائے" %}}
 
-PSD کو JPEG2000 میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔<a href="https://products.aspose.com/psd/net">Aspose.PSD برائے .NET</a> API جو کہ C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور کنورژن API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
+PSD کو JPEG2000 میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "net" >}}">Aspose.PSD برائے .NET</a> API جو کہ C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور کنورژن API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
 
 {{% blocks/products/pf/agp/code-block title="پیکیج مینیجر کنسول کمانڈ" offSpacer="true" %}}
 
@@ -105,7 +105,7 @@ PM> Install-Package Aspose.PSD
 
 {{< blocks/products/pf/agp/other-supported-section title="دیگر ​​تعاون یافتہ تبادلے۔" subTitle="آپ پی ایس ڈی کو کئی دیگر فائل فارمیٹس میں بھی تبدیل کر سکتے ہیں جن میں چند ذیل میں درج ہیں۔" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-bmp/" name="PSD TO BMP " description="BMP" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-gif/" name="PSD TO GIF " description="GIF" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-jpeg/" name="PSD TO JPEG " description="JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-pdf/" name="PSD TO PDF " description="پی ڈی ایف" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-png/" name="PSD TO PNG " description="PNG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-psb/" name="PSD TO PSB " description="PSB" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-tiff/" name="PSD TO TIFF " description=" TIFF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-bmp/" name="PSD TO BMP " description="BMP" >}}{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-gif/" name="PSD TO GIF " description="GIF" >}}{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-jpeg/" name="PSD TO JPEG " description="JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-pdf/" name="PSD TO PDF " description="پی ڈی ایف" >}}{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-png/" name="PSD TO PNG " description="PNG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-psb/" name="PSD TO PSB " description="PSB" >}}{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-tiff/" name="PSD TO TIFF " description=" TIFF" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

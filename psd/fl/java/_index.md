@@ -530,7 +530,7 @@ description: Luo muokata tai muuntaa PSD- ja PSB-muotoja käyttämällä tätä 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD tarjoaa yksittäisiä PSD-sovellusliittymiä muille suosituille kehitysympäristöille, kuten alla on lueteltu:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

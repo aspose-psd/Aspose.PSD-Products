@@ -11,7 +11,7 @@ description: .NET Framework、.NET Core、Windows Azure、Mono、またはXamari
 
 {{% blocks/products/pf/agp/content h2=" C＃を使用してAIファイルを表示する方法" %}}
 
-AIファイルを表示するには、<a href="https://products.aspose.com/psd/net"> Aspose.PSD for .NET</a> APIは、あらゆるビューアで使用できるC＃プラットフォーム用の機能豊富で強力で使いやすいAPIです。開ける<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a>パッケージマネージャー、検索<b> Aspose.PSD</b>そしてインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+AIファイルを表示するには、<a href="{{< relref "net" >}}"> Aspose.PSD for .NET</a> APIは、あらゆるビューアで使用できるC＃プラットフォーム用の機能豊富で強力で使いやすいAPIです。開ける<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a>パッケージマネージャー、検索<b> Aspose.PSD</b>そしてインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 

@@ -13,7 +13,7 @@ description: C# fontkodo por ŝargi, bildigi kaj montri PSB-dokumentojn sur .NET
 {{% blocks/products/pf/agp/content h2="Kiel Vidi PSB-dosieron per C#" %}}
 
  Por vidi PSB-dosieron, ni uzos
- [Aspose.PSD por .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD por .NET]({{< relref "net" >}})
  API, kiu estas riĉa, potenca kaj facile uzebla API por C#-platformo por esti uzata kun iu ajn Vidilo. Malfermu
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakaĵadministranto, serĉu

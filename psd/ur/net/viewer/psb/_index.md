@@ -13,7 +13,7 @@ description: .NET فریم ورک، .NET کور پر PSB دستاویزات کو
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے PSB فائل کو کیسے دیکھیں" %}}
 
  PSB فائل دیکھنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD برائے .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD برائے .NET]({{< relref "net" >}})
  API جو کہ کسی بھی ناظر کے ساتھ استعمال کیے جانے والے C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان API ہے۔ کھولیں۔
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  پیکیج مینیجر، تلاش کریں۔

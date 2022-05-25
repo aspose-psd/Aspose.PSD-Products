@@ -11,7 +11,7 @@ description: Ekzempla Ĝava konverta kodo por AI-formato al TIFF-dosiero. Uzu ĉ
 
 {{% blocks/products/pf/agp/content h2="Kiel Konverti AI al TIFF Uzante Java" %}}
 
-Por redoni AI al TIFF, ni uzos<a href="https://products.aspose.com/psd/java">Aspose.PSD por Java</a> API kiu estas riĉa, potenca kaj facile uzebla konverta API por Java platformo. Vi povas elŝuti ĝian lastan version rekte de<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> kaj instalu ĝin en via Maven-bazita projekto aldonante la sekvajn agordojn al la pom.xml.
+Por redoni AI al TIFF, ni uzos<a href="{{< relref "java" >}}">Aspose.PSD por Java</a> API kiu estas riĉa, potenca kaj facile uzebla konverta API por Java platformo. Vi povas elŝuti ĝian lastan version rekte de<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> kaj instalu ĝin en via Maven-bazita projekto aldonante la sekvajn agordojn al la pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deponejo" offSpacer="true" %}}
 

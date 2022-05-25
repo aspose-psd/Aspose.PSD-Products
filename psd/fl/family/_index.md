@@ -10,11 +10,11 @@ description: Kirjasto, jolla voit lukea ja viedä PSD- ja PSB-tiedostoja useille
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API:t sisältävät" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Kohdista Windows Forms, ASP.NET tai mikä tahansa sovellus, joka perustuu .NET Framework 2.0:aan tai uudempaan.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Alkuperäiset Java-sovellusliittymät työpöydälle, webille tai mille tahansa Java SE- tai EE-pohjaisille sovelluksille.
 {{< /blocks/products/pf/product >}}
 

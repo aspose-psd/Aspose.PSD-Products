@@ -11,7 +11,7 @@ description: Пример кода конвертации Java для форма
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать AI в JPEG2000 с помощью Java" %}}
 
-Чтобы преобразовать AI в JPEG2000, мы будем использовать<a href="https://products.aspose.com/psd/java">Aspose.PSD для Java</a> API, который представляет собой многофункциональный, мощный и простой в использовании API преобразования для платформы Java. Вы можете скачать его последнюю версию прямо с<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Мейвен</a> и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+Чтобы преобразовать AI в JPEG2000, мы будем использовать<a href="{{< relref "java" >}}">Aspose.PSD для Java</a> API, который представляет собой многофункциональный, мощный и простой в использовании API преобразования для платформы Java. Вы можете скачать его последнюю версию прямо с<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Мейвен</a> и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 

@@ -13,7 +13,7 @@ description: Kode sumber C# untuk menambah atau menghapus tanda air ke file PSD 
 {{% blocks/products/pf/agp/content h2="Cara Watermark File PSD Menggunakan C#" %}}
 
  Untuk menandai file PSD, kami akan menggunakan
- [Aspose.PSD untuk .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD untuk .NET]({{< relref "net" >}})
  API yang merupakan API manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  manajer paket, cari

@@ -11,7 +11,7 @@ description: Sample code pro AI ad GIF C# conversionem. Utere API exempli codice
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi AI ad GIF Using C#" %}}
 
-Ut AI ad GIF convertamus, utemur<a href="https://products.aspose.com/psd/net"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis utendi documento manipulatione et conversione API pro C# suggestu. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b>Aspose.PSD</b> et instituere. Praecepto sequenti uti licet Procurator Sarcinae Console.
+Ut AI ad GIF convertamus, utemur<a href="{{< relref "net" >}}"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis utendi documento manipulatione et conversione API pro C# suggestu. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b>Aspose.PSD</b> et instituere. Praecepto sequenti uti licet Procurator Sarcinae Console.
 
 {{% blocks/products/pf/agp/code-block title=" Package Manager Console Command" offSpacer="true" %}}
 

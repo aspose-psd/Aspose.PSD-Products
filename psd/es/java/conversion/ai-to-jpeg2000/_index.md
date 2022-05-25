@@ -11,7 +11,7 @@ description: Ejemplo de código de conversión de Java para formato AI a archivo
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir AI a JPEG2000 usando Java" %}}
 
-Para renderizar AI a JPEG2000, usaremos<a href="https://products.aspose.com/psd/java">Aspose.PSD para Java</a> API que es una API de conversión rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
+Para renderizar AI a JPEG2000, usaremos<a href="{{< relref "java" >}}">Aspose.PSD para Java</a> API que es una API de conversión rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 

@@ -11,7 +11,7 @@ description: Esempio di codice di conversione Java per il formato AI in file GIF
 
 {{% blocks/products/pf/agp/content h2="Come convertire l'IA in GIF usando Java" %}}
 
-Per rendere l'IA in GIF, useremo<a href="https://products.aspose.com/psd/java">Aspose.PSD per Java</a> API che è un'API di conversione ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per rendere l'IA in GIF, useremo<a href="{{< relref "java" >}}">Aspose.PSD per Java</a> API che è un'API di conversione ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 

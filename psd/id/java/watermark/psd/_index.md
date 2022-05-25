@@ -13,7 +13,7 @@ description: Kode sampel Java untuk menambah atau menghapus tanda air ke file PS
 {{% blocks/products/pf/agp/content h2="Cara Watermark File PSD Menggunakan Java" %}}
 
  Untuk menandai file PSD, kami akan menggunakan
- [Aspose.PSD untuk Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD untuk Java]({{< relref "java" >}})
  API yang merupakan API watermarking yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.

@@ -10,15 +10,15 @@ description: Photoshopファイルを編集するためのハイコードAPIと�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSDハイコードAPIに含まれるもの" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 Windowsフォーム、ASP.NET、WPF、WCF、または.NET Framework 2.0以降に基づく任意の種類のアプリケーションでのPSD、PSB、およびAIファイル形式の操作用のハイコードAPI。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 PhotoshopおよびIllustratorファイルを操作するためのJavaAPI。ソフトウェアに依存することなく、Javaベースのアプリケーション内でPSD、PSB、およびAI形式を作成、ロード、変更、およびレンダリングします。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="すべてのハイコードAPIを表示" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="すべてのハイコードAPIを表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

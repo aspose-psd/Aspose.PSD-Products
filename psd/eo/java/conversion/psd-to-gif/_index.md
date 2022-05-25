@@ -13,7 +13,7 @@ description: Ekzempla Ĝava konverta kodo por PSD-formato al GIF-dosiero. Uzu ĉ
 {{% blocks/products/pf/agp/content h2="Kiel Konverti PSD al GIF Uzante Java" %}}
 
  Por redoni PSD al GIF, ni uzos
- [Aspose.PSD por Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD por Java]({{< relref "java" >}})
  API kiu estas funkcio-riĉa, potenca kaj facile uzebla konverta API por Java platformo. Vi povas elŝuti ĝian lastan version rekte de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  kaj instalu ĝin ene de via Maven-bazita projekto aldonante la sekvajn agordojn al la pom.xml.
@@ -129,12 +129,12 @@ GIF aŭ Grafika Interŝanĝa Formato estas speco de tre kunpremita bildo. Poseda
 
 {{< blocks/products/pf/agp/other-supported-section title="Aliaj Subtenataj Konvertiĝoj" subTitle="Vi ankaŭ povas konverti PSD al multaj aliaj dosierformatoj inkluzive de kelkaj listigitaj sube." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="Adobe Photoshop-Dosiero" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Etikedita Bilda Formato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG-bildo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description="Porteblaj Retaj Grafikoj" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bitmapa Bildo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Portebla Dokumenta Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="Adobe Photoshop-Dosiero" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Etikedita Bilda Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG-bildo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description="Porteblaj Retaj Grafikoj" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bitmapa Bildo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Portebla Dokumenta Formato" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -11,7 +11,7 @@ description: JPEG2000 फ़ाइल में PSB प्रारूप के
 
 {{% blocks/products/pf/agp/content h2=" जावा का उपयोग करके PSB को JPEG2000 में कैसे बदलें" %}}
 
-PSB को JPEG2000 में रेंडर करने के लिए, हम उपयोग करेंगे<a href="https://products.aspose.com/psd/java"> जावा के लिए Aspose.PSD</a> एपीआई जो जावा प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण एपीआई है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">मावेन</a> और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
+PSB को JPEG2000 में रेंडर करने के लिए, हम उपयोग करेंगे<a href="{{< relref "java" >}}"> जावा के लिए Aspose.PSD</a> एपीआई जो जावा प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण एपीआई है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">मावेन</a> और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="भंडार" offSpacer="true" %}}
 

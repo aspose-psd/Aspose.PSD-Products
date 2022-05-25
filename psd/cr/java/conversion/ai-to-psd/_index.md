@@ -11,7 +11,7 @@ description: Primjer Java koda za pretvorbu za AI format u PSD datoteku. Upotrij
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u PSD pomoću Jave" %}}
 
-Za renderiranje AI u PSD, koristit ćemo<a href="https://products.aspose.com/psd/java">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API konverzije za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
+Za renderiranje AI u PSD, koristit ćemo<a href="{{< relref "java" >}}">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API konverzije za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Spremište" offSpacer="true" %}}
 

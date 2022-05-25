@@ -530,7 +530,7 @@ description: قم بإنشاء تعديل أو تحويل تنسيقات PSD و 
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" يقدم Aspose.PSD واجهات برمجة تطبيقات PSD فردية لبيئات التطوير الشائعة الأخرى كما هو مذكور أدناه:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

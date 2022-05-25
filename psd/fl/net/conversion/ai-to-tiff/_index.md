@@ -11,7 +11,7 @@ description: Esimerkkikoodi AI:ksi TIFF C# -muunnokseen. Käytä API-esimerkkiko
 
 {{% blocks/products/pf/agp/content h2="Tekoälyn muuntaminen TIFF:ksi C#:n avulla" %}}
 
-Muuntaaksemme tekoälyn TIFF-muotoon käytämme<a href="https://products.aspose.com/psd/net">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittely- ja muunnossovellusliittymä C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
+Muuntaaksemme tekoälyn TIFF-muotoon käytämme<a href="{{< relref "net" >}}">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittely- ja muunnossovellusliittymä C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
 
 {{% blocks/products/pf/agp/code-block title="Paketinhallintakonsolin komento" offSpacer="true" %}}
 

@@ -13,7 +13,7 @@ description: C# source code addere vel removere vestigium ad PSD lima in .NET Fr
 {{% blocks/products/pf/agp/content h2=" Quomodo PSD File utens C# perficias" %}}
 
  Ut vestigium PSD lima, nos utemur
- [Aspose.PSD pro .NET] (https://products.aspose.com/psd/net)
+ [Aspose.PSD pro .NET] ({{< relref "net" >}})
  API quod est pluma-dives, potens et facilis utendi documento manipulationis API pro C# suggestu. Apertum
  [nuGet] (https://www.nuget.org/packages/aspose.psd)
  sarcina procurator, quaerere

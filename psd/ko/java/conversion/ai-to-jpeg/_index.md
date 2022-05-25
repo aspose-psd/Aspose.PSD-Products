@@ -11,7 +11,7 @@ description: AI 형식을 JPEG 파일로 변환하는 샘플 Java 변환 코드.
 
 {{% blocks/products/pf/agp/content h2="Java를 사용하여 AI를 JPEG로 변환하는 방법" %}}
 
-AI를 JPEG로 렌더링하기 위해 다음을 사용합니다.<a href="https://products.aspose.com/psd/java">자바용 Aspose.PSD</a> 기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">메이븐</a>을 만들고 pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+AI를 JPEG로 렌더링하기 위해 다음을 사용합니다.<a href="{{< relref "java" >}}">자바용 Aspose.PSD</a> 기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">메이븐</a>을 만들고 pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 

@@ -530,7 +530,7 @@ description: 在任何 Java 應用程序中使用此庫創建修改或轉換 PSD
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD 為其他流行的開發環境提供單獨的 PSD API，如下所列：" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

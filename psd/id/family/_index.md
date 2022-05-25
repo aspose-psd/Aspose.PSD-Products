@@ -10,11 +10,11 @@ description: Library untuk membaca, menulis, dan mengekspor file PSD & PSB di be
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD API Kode Tinggi Termasuk" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Targetkan Windows Forms, ASP.NET atau semua jenis aplikasi berdasarkan .NET Framework 2.0 atau yang lebih baru.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title="Jawa" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title="Jawa" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Native Java API untuk desktop, web, atau segala jenis aplikasi berbasis Java SE atau EE.
 {{< /blocks/products/pf/product >}}
 

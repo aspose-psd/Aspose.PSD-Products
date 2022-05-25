@@ -10,11 +10,11 @@ description: पुस्तकालय कई प्लेटफार्म�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" Aspose.PSD हाई कोड एपीआई शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 .NET Framework 2.0 या बाद के संस्करण के आधार पर Windows प्रपत्र, ASP.NET या किसी भी प्रकार के एप्लिकेशन को लक्षित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title="जावा" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title="जावा" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 जावा एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव जावा एपीआई।
 {{< /blocks/products/pf/product >}}
 

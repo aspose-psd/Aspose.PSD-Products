@@ -13,7 +13,7 @@ description: نموذج كود تحويل Java لتنسيق PSB إلى ملف BM
 {{% blocks/products/pf/agp/content h2=" كيفية تحويل PSB إلى BMP باستخدام Java" %}}
 
  من أجل تقديم PSB إلى BMP ، سنستخدم
- [Aspose.PSD لجافا] (https://products.aspose.com/psd/java)
+ [Aspose.PSD لجافا] ({{< relref "java" >}})
  API وهي واجهة برمجة تطبيقات تحويل غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [مافن] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
@@ -129,12 +129,12 @@ description: نموذج كود تحويل Java لتنسيق PSB إلى ملف BM
 
 {{< blocks/products/pf/agp/other-supported-section title=" التحويلات المدعومة الأخرى" subTitle=" يمكنك أيضًا تحويل PSB إلى العديد من تنسيقات الملفات الأخرى بما في ذلك القليل منها أدناه." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description=" تنسيق Adobe Photoshop الأصلي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description=" تنسيق صورة معلم" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description=" صورة JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description=" رسومات الشبكة المحمولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-gif/" name="PSB TO GIF" description=" تنسيق التبادل الرسومي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description=" تنسيق المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description=" تنسيق Adobe Photoshop الأصلي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-tiff/" name="PSB TO TIFF" description=" تنسيق صورة معلم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description=" صورة JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description=" رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-gif/" name="PSB TO GIF" description=" تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description=" تنسيق المستندات المحمولة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

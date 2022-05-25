@@ -13,7 +13,7 @@ description: C# izvorni kod za učitavanje, renderiranje i prikaz PSB dokumenata
 {{% blocks/products/pf/agp/content h2="Kako pogledati PSB datoteku koristeći C#" %}}
 
  Da bismo vidjeli PSB datoteku, koristit ćemo se
- [Aspose.PSD za .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD za .NET]({{< relref "net" >}})
  API koji je bogat značajkama, moćan i jednostavan za korištenje API za C# platformu za korištenje s bilo kojim preglednikom. Otvoren
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  upravitelj paketa, traži
