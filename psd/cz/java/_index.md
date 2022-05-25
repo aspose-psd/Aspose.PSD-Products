@@ -530,7 +530,7 @@ description: Vytvářejte, upravujte nebo převádějte formáty PSD a PSB pomoc
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nabízí jednotlivá PSD API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

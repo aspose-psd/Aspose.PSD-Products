@@ -10,15 +10,15 @@ description: 用於編輯​​ Photoshop 文件的高代碼 API 和免費應用
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 高代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 用於 Windows 窗體、ASP.NET、WPF、WCF 或任何類型的基於 .NET Framework 2.0 或更高版本的應用程序中的 PSD、PSB 和 AI 文件格式操作的高代碼 API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 用於操作 Photoshop 和 Illustrator 文件的 Java API。在基於 Java 的應用程序中創建、加載、修改和渲染 PSD、PSB 和 AI 格式，無需任何軟件依賴。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="查看所有高代碼API" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="查看所有高代碼API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

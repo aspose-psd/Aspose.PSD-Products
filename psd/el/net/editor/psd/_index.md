@@ -12,7 +12,7 @@ description: Πηγαίος κώδικας C# για επεξεργασία το
 {{% blocks/products/pf/agp/content h2="Πώς να επεξεργαστείτε δεδομένα αρχείου PSD χρησιμοποιώντας C#" %}}
 
  Για να επεξεργαστούμε το αρχείο PSD, θα χρησιμοποιήσουμε
- [Aspose.PSD για .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD για .NET]({{< relref "net" >}})
  API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση API χειρισμού εγγράφων για πλατφόρμα C#. Ανοιξε
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  διαχειριστής πακέτων, αναζητήστε

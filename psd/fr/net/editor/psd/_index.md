@@ -12,7 +12,7 @@ description: Code source C# pour éditer le fichier PSD sur .NET Framework, .NET
 {{% blocks/products/pf/agp/content h2="Comment modifier les données d'un fichier PSD à l'aide de C#" %}}
 
  Afin de modifier le fichier PSD, nous utiliserons
- [Aspose.PSD pour .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD pour .NET]({{< relref "net" >}})
  API qui est une API de manipulation de documents riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  gestionnaire de paquets, recherchez

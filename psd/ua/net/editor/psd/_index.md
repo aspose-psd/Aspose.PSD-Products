@@ -12,7 +12,7 @@ description: Вихідний код C# для редагування файлу
 {{% blocks/products/pf/agp/content h2="Як редагувати дані файлу PSD за допомогою C#" %}}
 
  Для редагування файлу PSD ми будемо використовувати
- [Aspose.PSD для .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD для .NET]({{< relref "net" >}})
  API, який є багатофункціональним, потужним і простим у використанні API для маніпуляції з документами для платформи C#. ВІДЧИНЕНО
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  менеджер пакетів, пошук

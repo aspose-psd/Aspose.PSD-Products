@@ -11,7 +11,7 @@ description: Uzorak Java koda za pretvorbu za AI format u BMP datoteku. Upotrije
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u BMP koristeći Javu" %}}
 
-Za renderiranje AI u BMP, koristit ćemo se<a href="https://products.aspose.com/psd/java">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
+Za renderiranje AI u BMP, koristit ćemo se<a href="{{< relref "java" >}}">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Spremište" offSpacer="true" %}}
 

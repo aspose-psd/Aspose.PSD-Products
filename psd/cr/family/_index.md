@@ -10,11 +10,11 @@ description: Knjižnica za čitanje pisanja i izvoz PSD i PSB datoteka na više 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API-ji uključuju" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD za" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD za" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Ciljajte Windows Forms, ASP.NET ili bilo koju vrstu aplikacije koja se temelji na .NET Frameworku 2.0 ili novijoj.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD za" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD za" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Izvorni Java API-ji za desktop, web ili bilo koju vrstu aplikacija temeljenih na Javi SE ili EE.
 {{< /blocks/products/pf/product >}}
 

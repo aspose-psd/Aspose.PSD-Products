@@ -13,7 +13,7 @@ description: Codice di esempio per la conversione da PSB a PSD C#. Utilizzare il
 {{% blocks/products/pf/agp/content h2="Come convertire PSB in PSD usando C#" %}}
 
  Per convertire PSB in PSD, useremo
- [Aspose.PSD per .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD per .NET]({{< relref "net" >}})
  API che è un'API di conversione e manipolazione dei documenti ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  gestore pacchetti, cerca
@@ -105,13 +105,13 @@ PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photosho
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire PSB in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-bmp/" name="PSB TO BMP " description="{{bmp _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-gif/" name="PSB TO GIF " description="{{gif _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-jpeg/" name="PSB TO JPEG " description="{{jpeg _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-pdf/" name="PSB TO PDF " description="{{pdf _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-png/" name="PSB TO PNG " description="{{png _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-psd/" name="PSB TO PSD " description="{{psd _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psb-to-tiff/" name="PSB TO TIFF " description="{{tiff _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-bmp/" name="PSB TO BMP " description="{{bmp _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-gif/" name="PSB TO GIF " description="{{gif _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-jpeg/" name="PSB TO JPEG " description="{{jpeg _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-pdf/" name="PSB TO PDF " description="{{pdf _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-png/" name="PSB TO PNG " description="{{png _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-psd/" name="PSB TO PSD " description="{{psd _name}}" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-tiff/" name="PSB TO TIFF " description="{{tiff _name}}" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

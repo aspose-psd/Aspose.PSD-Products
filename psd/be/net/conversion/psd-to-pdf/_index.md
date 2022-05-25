@@ -13,7 +13,7 @@ description: Прыклад кода для пераўтварэння PSD ў PD
 {{% blocks/products/pf/agp/content h2="Як канвертаваць PSD у PDF з дапамогай C#" %}}
 
  Для таго, каб канвертаваць PSD ў PDF, мы будзем выкарыстоўваць
- [Aspose.PSD для .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD для .NET]({{< relref "net" >}})
  API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API для маніпулявання дакументамі і пераўтварэння для платформы C#. Адкрыць
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  менеджэр пакетаў, пошук
@@ -105,13 +105,13 @@ PSD, Photoshop Document, уяўляе сабой родны фармат фай�
 
 {{< blocks/products/pf/agp/other-supported-section title="Іншыя падтрымоўваныя пераўтварэнні" subTitle="Вы таксама можаце канвертаваць PSD у многія іншыя фарматы файлаў, у тым ліку некалькі з пералічаных ніжэй." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-bmp/" name="PSD TO BMP " description="БМП" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-gif/" name="PSD TO GIF " description="GIF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-jpeg/" name="PSD TO JPEG " description="JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-pdf/" name="PSD TO PDF " description="PDF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-png/" name="PSD TO PNG " description=" PNG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-psb/" name="PSD TO PSB " description="PSB" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/net/conversion/psd-to-tiff/" name="PSD TO TIFF " description="TIFF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-bmp/" name="PSD TO BMP " description="БМП" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-gif/" name="PSD TO GIF " description="GIF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-jpeg/" name="PSD TO JPEG " description="JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-pdf/" name="PSD TO PDF " description="PDF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-png/" name="PSD TO PNG " description=" PNG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-psb/" name="PSD TO PSB " description="PSB" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psd-to-tiff/" name="PSD TO TIFF " description="TIFF" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -10,15 +10,15 @@ description: فوٹوشاپ فائلوں میں ترمیم کرنے کے لیے 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD ہائی کوڈ APIs شامل ہیں۔" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 ونڈوز فارمز، ASP.NET، WPF، WCF یا .NET Framework 2.0 یا اس کے بعد کی کسی بھی قسم کی ایپلیکیشن میں PSD، PSB اور AI فائل فارمیٹس کی ہیرا پھیری کے لیے ہائی کوڈ APIs۔
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title="جاوا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title="جاوا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 فوٹوشاپ اور السٹریٹر فائلوں میں ہیرا پھیری کے لیے جاوا APIs۔ بغیر کسی سافٹ ویئر کے انحصار کے جاوا پر مبنی ایپلی کیشنز کے اندر PSD، PSB اور AI فارمیٹس بنائیں، لوڈ کریں، ترمیم کریں اور رینڈر کریں۔
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="تمام ہائی کوڈ APIs دیکھیں" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="تمام ہائی کوڈ APIs دیکھیں" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

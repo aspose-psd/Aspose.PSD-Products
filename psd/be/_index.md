@@ -10,15 +10,15 @@ description: API высокага кода і бясплатныя прагра�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Уключаюць API высокага кода Aspose.PSD" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 API высокага кода для маніпулявання фарматамі файлаў PSD, PSB і AI ў Windows Forms, ASP.NET, WPF, WCF або ў любым тыпе прыкладанняў, заснаваных на .NET Framework 2.0 або больш позняй версіі.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 API Java для маніпулявання файламі Photoshop і Illustrator. Стварайце, загружайце, мадыфікуйце і візуалізуйце фарматы PSD, PSB і AI ў праграмах на базе Java без якіх-небудзь праграмных залежнасцяў.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Прагледзець усе API высокага кода" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Прагледзець усе API высокага кода" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

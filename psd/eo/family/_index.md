@@ -10,11 +10,11 @@ description: Biblioteko por legi skribi kaj eksporti PSD kaj PSB-dosierojn sur p
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs Inkluzivas" >}}
 
-{{< blocks/products/pf/product pfName="Supoze.PSD por" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Supoze.PSD por" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Celu Windows Forms, ASP.NET aŭ ajnan tipon de aplikaĵo bazita sur .NET Framework 2.0 aŭ poste.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Supoze.PSD por" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Supoze.PSD por" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Denaskaj Java APIoj por la labortablo, retejo aŭ ajna speco de aplikaĵo bazita sur Java SE aŭ EE.
 {{< /blocks/products/pf/product >}}
 

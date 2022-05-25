@@ -13,7 +13,7 @@ description: Contoh kode konversi Java untuk format PSD ke file PNG. Gunakan kod
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi PSD ke PNG Menggunakan Java" %}}
 
  Untuk merender PSD ke PNG, kami akan menggunakan
- [Aspose.PSD untuk Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD untuk Java]({{< relref "java" >}})
  API yang merupakan API konversi yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
@@ -129,12 +129,12 @@ PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yan
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi PSD ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="File Adobe Photoshop" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Format Gambar yang Ditandai" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="Gambar JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Gambar Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="File Adobe Photoshop" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="Gambar JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Format Dokumen Portabel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

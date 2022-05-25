@@ -13,7 +13,7 @@ description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ کے لی�
 {{% blocks/products/pf/agp/content h2="جاوا کا استعمال کرتے ہوئے PSD کو BMP میں کیسے تبدیل کریں۔" %}}
 
  PSD کو BMP میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD for Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD for Java]({{< relref "java" >}})
  API جو کہ جاوا پلیٹ فارم کے لیے خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ کے ساتھ اسے انسٹال کریں۔
@@ -130,12 +130,12 @@ aspose-psd API کا</artifactId>
 
 {{< blocks/products/pf/agp/other-supported-section title="دیگر ​​تعاون یافتہ تبادلے۔" subTitle="آپ PSD کو بہت سے دوسرے فائل فارمیٹس میں بھی تبدیل کر سکتے ہیں جن میں سے کچھ ذیل میں درج ہیں۔" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="ایڈوب فوٹوشاپ فائل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="ٹیگ کردہ تصویری فارمیٹ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG امیج" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description=" پورٹیبل نیٹ ورک گرافکس" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description="گرافیکل انٹرچینج فارمیٹ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="پورٹ ایبل دستاویز کی شکل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="ایڈوب فوٹوشاپ فائل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="ٹیگ کردہ تصویری فارمیٹ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG امیج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description=" پورٹیبل نیٹ ورک گرافکس" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description="گرافیکل انٹرچینج فارمیٹ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="پورٹ ایبل دستاویز کی شکل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

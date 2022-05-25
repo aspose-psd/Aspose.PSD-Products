@@ -530,7 +530,7 @@ description: Erstellen, ändern oder konvertieren Sie PSD- und PSB-Formate mit d
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD bietet individuelle PSD-APIs für andere beliebte Entwicklungsumgebungen, wie unten aufgeführt:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

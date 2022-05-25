@@ -13,7 +13,7 @@ description: Beispiel-Java-Konvertierungscode für das PSD-Format in eine JPEG-D
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie PSD mit Java in JPEG" %}}
 
  Um PSD in JPEG zu rendern, verwenden wir
- [Aspose.PSD für Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD für Java]({{< relref "java" >}})
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
@@ -129,12 +129,12 @@ Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimie
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können PSD auch in viele andere Dateiformate konvertieren, darunter einige, die unten aufgeführt sind." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="Adobe Photoshop-Datei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description="Tragbare Netzwerkgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description="Grafisches Austauschformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bitmap-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Portables Dokumentenformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="Adobe Photoshop-Datei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Markiertes Bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description="Tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description="Grafisches Austauschformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Portables Dokumentenformat" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

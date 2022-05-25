@@ -530,7 +530,7 @@ description: Buat modifikasi atau konversi format PSD dan PSB menggunakan perpus
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD menawarkan API PSD individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

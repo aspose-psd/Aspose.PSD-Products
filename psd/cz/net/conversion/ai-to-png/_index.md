@@ -11,7 +11,7 @@ description: Ukázkový kód pro převod AI na PNG C#. Použijte ukázkový kód
 
 {{% blocks/products/pf/agp/content h2="Jak převést AI na PNG pomocí C#" %}}
 
-Abychom převedli AI na PNG, použijeme<a href="https://products.aspose.com/psd/net">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi dokumentů pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Abychom převedli AI na PNG, použijeme<a href="{{< relref "net" >}}">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi dokumentů pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 

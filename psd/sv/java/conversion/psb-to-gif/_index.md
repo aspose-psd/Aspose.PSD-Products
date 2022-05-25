@@ -13,7 +13,7 @@ description: Exempel på Java-konverteringskod för PSB-format till GIF-fil. Anv
 {{% blocks/products/pf/agp/content h2="Hur man konverterar PSB till GIF med Java" %}}
 
  För att rendera PSB till GIF kommer vi att använda
- [Aspose.PSD för Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD för Java]({{< relref "java" >}})
  API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
@@ -129,12 +129,12 @@ En GIF eller Graphical Interchange Format är en typ av mycket komprimerad bild.
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera PSB till många andra filformat, inklusive några som anges nedan." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description="Adobe Photoshop Native Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Taggad bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG-bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description="Bärbar nätverksgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bitmappsbild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Portabelt dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Taggad bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG-bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description="Bärbar nätverksgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bitmappsbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Portabelt dokumentformat" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

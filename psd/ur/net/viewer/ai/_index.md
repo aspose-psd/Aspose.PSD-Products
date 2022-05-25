@@ -11,7 +11,7 @@ description: C# source code to load, render and display AI documents on .NET Fra
 
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے AI فائل کو کیسے دیکھیں" %}}
 
-AI فائل کو دیکھنے کے لیے، ہم استعمال کریں گے۔<a href="https://products.aspose.com/psd/net">Aspose.PSD برائے .NET</a> API جو کہ کسی بھی ناظر کے ساتھ استعمال کیے جانے والے C# پلیٹ فارم کے لیے خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
+AI فائل کو دیکھنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "net" >}}">Aspose.PSD برائے .NET</a> API جو کہ کسی بھی ناظر کے ساتھ استعمال کیے جانے والے C# پلیٹ فارم کے لیے خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
 
 {{% blocks/products/pf/agp/code-block title="پیکیج مینیجر کنسول کمانڈ" offSpacer="true" %}}
 

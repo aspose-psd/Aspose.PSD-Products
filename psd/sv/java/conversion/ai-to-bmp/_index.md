@@ -11,7 +11,7 @@ description: Exempel på Java-konverteringskod för AI-format till BMP-fil. Anv�
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar AI till BMP med Java" %}}
 
-För att rendera AI till BMP kommer vi att använda<a href="https://products.aspose.com/psd/java">Aspose.PSD för Java</a> API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen. Du kan ladda ner den senaste versionen direkt från<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+För att rendera AI till BMP kommer vi att använda<a href="{{< relref "java" >}}">Aspose.PSD för Java</a> API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen. Du kan ladda ner den senaste versionen direkt från<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förråd" offSpacer="true" %}}
 

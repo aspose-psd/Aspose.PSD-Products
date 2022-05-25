@@ -530,7 +530,7 @@ description: Создавайте изменения или конвертиру
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD предлагает отдельные API-интерфейсы PSD для других популярных сред разработки, перечисленных ниже:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

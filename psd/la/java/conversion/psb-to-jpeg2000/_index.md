@@ -11,7 +11,7 @@ description: Sample Java conversionis codice pro PSB forma ad fasciculum JPEG200
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSB ad JPEG2000 Usura Java" %}}
 
-Ut PSB ad JPEG2000 reddat, nos utemur<a href="https://products.aspose.com/psd/java"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, additis sequentibus conformationibus ad pom.xml.
+Ut PSB ad JPEG2000 reddat, nos utemur<a href="{{< relref "java" >}}"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, additis sequentibus conformationibus ad pom.xml.
 
 {{% blocks/products/pf/agp/code-block title=" Repository" offSpacer="true" %}}
 

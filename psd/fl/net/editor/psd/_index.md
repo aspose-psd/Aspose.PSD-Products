@@ -12,7 +12,7 @@ description: C#-lähdekoodi PSD-tiedoston muokkaamiseen .NET Frameworkissa, .NET
 {{% blocks/products/pf/agp/content h2="PSD-tiedoston tietojen muokkaaminen C#:lla" %}}
 
  PSD-tiedoston muokkaamiseksi käytämme
- [Aspose.PSD for .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD for .NET]({{< relref "net" >}})
  API, joka on monipuolinen, tehokas ja helppokäyttöinen dokumenttien käsittelysovellusliittymä C#-alustalle. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

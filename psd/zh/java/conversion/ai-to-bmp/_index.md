@@ -11,7 +11,7 @@ description: AI 格式到 BMP 文件的示例 Java 轉換代碼。使用此示�
 
 {{% blocks/products/pf/agp/content h2="如何使用Java將AI轉換為BMP" %}}
 
-為了將 AI 渲染為 BMP，我們將使用<a href="https://products.aspose.com/psd/java">Aspose.PSD for Java</a> API 是一個功能豐富、功能強大且易於使用的 Java 平台轉換 API。您可以直接從<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">馬文</a> 並通過將以下配置添加到 pom.xml 將其安裝到基於 Maven 的項目中。
+為了將 AI 渲染為 BMP，我們將使用<a href="{{< relref "java" >}}">Aspose.PSD for Java</a> API 是一個功能豐富、功能強大且易於使用的 Java 平台轉換 API。您可以直接從<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">馬文</a> 並通過將以下配置添加到 pom.xml 將其安裝到基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="存儲庫" offSpacer="true" %}}
 

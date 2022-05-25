@@ -11,7 +11,7 @@ description: Δείγμα κώδικα για μετατροπή AI σε PDF C#.
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε AI σε PDF χρησιμοποιώντας C#" %}}
 
-Για να μετατρέψουμε το AI σε PDF, θα χρησιμοποιήσουμε<a href="https://products.aspose.com/psd/net">Aspose.PSD για .NET</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής για πλατφόρμα C#. Ανοιξε<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.PSD</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Για να μετατρέψουμε το AI σε PDF, θα χρησιμοποιήσουμε<a href="{{< relref "net" >}}">Aspose.PSD για .NET</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής για πλατφόρμα C#. Ανοιξε<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.PSD</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 

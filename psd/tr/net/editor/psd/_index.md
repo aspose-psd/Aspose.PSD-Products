@@ -12,7 +12,7 @@ description: PSD dosyasını .NET Framework, .NET Core üzerinde düzenlemek iç
 {{% blocks/products/pf/agp/content h2="PSD Dosya Verileri C# Kullanılarak Nasıl Düzenlenir" %}}
 
  PSD dosyasını düzenlemek için kullanacağız
- [.NET için Aspose.PSD](https://products.aspose.com/psd/net)
+ [.NET için Aspose.PSD]({{< relref "net" >}})
  C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API'si olan API. Açık
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paket yöneticisi, ara

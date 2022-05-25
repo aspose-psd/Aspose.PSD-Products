@@ -13,7 +13,7 @@ description: C# source code onerare, reddere et exhibere documenta PSB in NET Fr
 {{% blocks/products/pf/agp/content h2=" Quomodo PSB Tabularii View utens C#" %}}
 
  Ut inspicias fasciculum PSB, nos uteris
- [Aspose.PSD pro .NET] (https://products.aspose.com/psd/net)
+ [Aspose.PSD pro .NET] ({{< relref "net" >}})
  API quod est pluma dives, potens et facilis ad API pro C# suggestu utendum cum aliquo Visore. Apertum
  [nuGet] (https://www.nuget.org/packages/aspose.psd)
  sarcina procurator, quaerere

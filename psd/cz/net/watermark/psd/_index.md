@@ -13,7 +13,7 @@ description: Zdrojový kód C# pro přidání nebo odstranění vodoznaku do sou
 {{% blocks/products/pf/agp/content h2="Jak vodoznakem soubor PSD pomocí C#" %}}
 
  K vodoznaku souboru PSD použijeme
- [Aspose.PSD pro .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD pro .NET]({{< relref "net" >}})
  API, což je funkčně bohaté, výkonné a snadno použitelné API pro manipulaci s dokumenty pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  správce balíčků, vyhledejte

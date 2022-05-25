@@ -10,11 +10,11 @@ description: 複数のプラットフォームでPSDおよびPSBファイルを�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSDハイコードAPIに含まれるもの" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Windowsフォーム、ASP.NET、または.NETFramework2.0以降に基づく任意の種類のアプリケーションを対象とします。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 デスクトップ、Web、またはJavaSEまたはEEに基づくあらゆる種類のアプリケーション用のネイティブJavaAPI。
 {{< /blocks/products/pf/product >}}
 

@@ -10,15 +10,15 @@ description: High Code API και δωρεάν εφαρμογές για την 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Περιλαμβάνονται τα API High Code Aspose.PSD" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD για" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD για" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 High Code API για χειρισμό μορφών αρχείων PSD, PSB και AI σε Windows Forms, ASP.NET, WPF, WCF ή οποιονδήποτε τύπο εφαρμογής που βασίζεται σε .NET Framework 2.0 ή μεταγενέστερη έκδοση.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD για" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD για" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java API για χειρισμό αρχείων Photoshop και Illustrator. Δημιουργήστε, φορτώστε, τροποποιήστε και αποδώστε μορφές PSD, PSB & AI εντός εφαρμογών που βασίζονται σε Java χωρίς εξαρτήσεις λογισμικού.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Προβολή όλων των API High Code" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Προβολή όλων των API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

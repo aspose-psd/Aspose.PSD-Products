@@ -13,7 +13,7 @@ description: C#-källkod för att ladda, rendera och visa PSD-dokument på .NET 
 {{% blocks/products/pf/agp/content h2="Hur man visar PSD-fil med C#" %}}
 
  För att se PSD-filen kommer vi att använda
- [Aspose.PSD för .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD för .NET]({{< relref "net" >}})
  API som är ett funktionsrikt, kraftfullt och lättanvänt API för C#-plattform som ska användas med vilken Viewer som helst. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakethanterare, sök efter

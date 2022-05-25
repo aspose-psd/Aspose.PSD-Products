@@ -10,15 +10,15 @@ description: High Code APIs และแอพฟรีสำหรับแก�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs รวม" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 API โค้ดสูงสำหรับการจัดการรูปแบบไฟล์ PSD, PSB และ AI ใน Windows Forms, ASP.NET, WPF, WCF หรือแอปพลิเคชันประเภทใดก็ได้ตาม .NET Framework 2.0 หรือใหม่กว่า
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java APIs เพื่อจัดการไฟล์ Photoshop และ Illustrator สร้าง โหลด แก้ไข และแสดงรูปแบบ PSD, PSB และ AI ภายในแอปพลิเคชันที่ใช้ Java โดยไม่ต้องพึ่งพาซอฟต์แวร์ใดๆ
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="ดู High Code APIs ทั้งหมด" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="ดู High Code APIs ทั้งหมด" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

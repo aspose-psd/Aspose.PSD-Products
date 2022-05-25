@@ -11,7 +11,7 @@ description: Esimerkkikoodi PSB:stä JPEG2000 C#-muunnokseen. Käytä API-esimer
 
 {{% blocks/products/pf/agp/content h2="PSB:n muuntaminen JPEG2000:ksi C#:n avulla" %}}
 
-PSB:n muuntamiseksi JPEG2000:ksi käytämme<a href="https://products.aspose.com/psd/net">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittely- ja muunnossovellusliittymä C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
+PSB:n muuntamiseksi JPEG2000:ksi käytämme<a href="{{< relref "net" >}}">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittely- ja muunnossovellusliittymä C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
 
 {{% blocks/products/pf/agp/code-block title="Paketinhallintakonsolin komento" offSpacer="true" %}}
 

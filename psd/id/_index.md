@@ -10,15 +10,15 @@ description: API Kode Tinggi dan Aplikasi Gratis untuk mengedit file Photoshop. 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Termasuk API Kode Tinggi Aspose.PSD" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 API Kode Tinggi untuk manipulasi format file PSD, PSB & AI di Windows Forms, ASP.NET, WPF, WCF atau jenis aplikasi apa pun berdasarkan .NET Framework 2.0 atau yang lebih baru.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title="Jawa" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD untuk" title="Jawa" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java API untuk memanipulasi file Photoshop dan Illustrator. Buat, muat, modifikasi, dan render format PSD, PSB & AI dalam aplikasi berbasis Java tanpa ketergantungan perangkat lunak apa pun.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Lihat Semua API Kode Tinggi" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Lihat Semua API Kode Tinggi" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

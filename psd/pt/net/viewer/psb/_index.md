@@ -13,7 +13,7 @@ description: Código-fonte C# para carregar, renderizar e exibir documentos PSB 
 {{% blocks/products/pf/agp/content h2="Como visualizar o arquivo PSB usando C#" %}}
 
  Para visualizar o arquivo PSB, usaremos
- [Aspose.PSD para .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD para .NET]({{< relref "net" >}})
  API que é uma API rica em recursos, poderosa e fácil de usar para plataforma C# para ser usada com qualquer Viewer. Aberto
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  gerenciador de pacotes, procure

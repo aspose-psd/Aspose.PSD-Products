@@ -11,7 +11,7 @@ description: Ukázkový konverzní kód Java pro formát PSB na soubor JPEG2000.
 
 {{% blocks/products/pf/agp/content h2="Jak převést PSB na JPEG2000 pomocí Java" %}}
 
-K vykreslení PSB do JPEG2000 použijeme<a href="https://products.aspose.com/psd/java">Aspose.PSD pro Javu</a> API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+K vykreslení PSB do JPEG2000 použijeme<a href="{{< relref "java" >}}">Aspose.PSD pro Javu</a> API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 

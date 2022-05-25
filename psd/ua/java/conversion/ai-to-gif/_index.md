@@ -11,7 +11,7 @@ description: Зразок коду перетворення Java для форм
 
 {{% blocks/products/pf/agp/content h2="Як перетворити AI в GIF за допомогою Java" %}}
 
-Щоб передати AI у GIF, ми будемо використовувати<a href="https://products.aspose.com/psd/java">Aspose.PSD для Java</a> API, який є багатофункціональним, потужним і простим у використанні API перетворення для платформи Java. Ви можете завантажити його останню версію безпосередньо з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і встановіть його у своєму проекті на базі Maven, додавши наступні конфігурації до pom.xml.
+Щоб передати AI у GIF, ми будемо використовувати<a href="{{< relref "java" >}}">Aspose.PSD для Java</a> API, який є багатофункціональним, потужним і простим у використанні API перетворення для платформи Java. Ви можете завантажити його останню версію безпосередньо з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і встановіть його у своєму проекті на базі Maven, додавши наступні конфігурації до pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Сховище" offSpacer="true" %}}
 

@@ -11,7 +11,7 @@ description: Exemple de code pour la conversion AI vers JPEG2000 C#. Utilisez le
 
 {{% blocks/products/pf/agp/content h2="Comment convertir AI en JPEG2000 à l'aide de C#" %}}
 
-Afin de convertir AI en JPEG2000, nous utiliserons<a href="https://products.aspose.com/psd/net">Aspose.PSD pour .NET</a> API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrir<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> gestionnaire de paquets, recherchez<b>Asposer.PSD</b> et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Afin de convertir AI en JPEG2000, nous utiliserons<a href="{{< relref "net" >}}">Aspose.PSD pour .NET</a> API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrir<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> gestionnaire de paquets, recherchez<b>Asposer.PSD</b> et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 

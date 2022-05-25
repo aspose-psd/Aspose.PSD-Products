@@ -10,11 +10,11 @@ description: ห้องสมุดเพื่ออ่านเขียน�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs รวม" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 กำหนดเป้าหมาย Windows Forms, ASP.NET หรือแอปพลิเคชันประเภทใดก็ได้ตาม .NET Framework 2.0 หรือใหม่กว่า
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD สำหรับ" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Native Java APIs สำหรับเดสก์ท็อป เว็บ หรือแอปพลิเคชันประเภทใดก็ตามที่ใช้ Java SE หรือ EE
 {{< /blocks/products/pf/product >}}
 

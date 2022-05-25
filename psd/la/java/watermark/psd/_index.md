@@ -13,7 +13,7 @@ description: Java specimen codicem vestigium addere vel removere ad PSD lima in 
 {{% blocks/products/pf/agp/content h2="Quam ad perficiendum PSD Tabularium Using Java" %}}
 
  Ut vestigium PSD lima, nos utemur
- [Aspose.PSD pro Java] (https://products.aspose.com/psd/java)
+ [Aspose.PSD pro Java] ({{< relref "java" >}})
  API quod est pluma-dives, potens et facilis ad API signandi pro suggestu Javae. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.

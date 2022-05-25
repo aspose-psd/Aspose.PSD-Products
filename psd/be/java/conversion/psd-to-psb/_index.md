@@ -13,7 +13,7 @@ description: Прыклад кода пераўтварэння Java для фа
 {{% blocks/products/pf/agp/content h2="Як канвертаваць PSD у PSB з дапамогай Java" %}}
 
  Для таго, каб аказаць PSD у PSB, мы будзем выкарыстоўваць
- [Aspose.PSD для Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD для Java]({{< relref "java" >}})
  API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API пераўтварэння для платформы Java. Вы можаце спампаваць яго апошнюю версію непасрэдна з
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  і ўсталюйце яго ў свой праект на базе Maven, дадаўшы наступныя канфігурацыі ў pom.xml.
@@ -129,12 +129,12 @@ Adobe Photoshop захоўвае файлы ў двух фарматах. Фай
 
 {{< blocks/products/pf/agp/other-supported-section title="Іншыя падтрымоўваныя пераўтварэнні" subTitle="Вы таксама можаце канвертаваць PSD у многія іншыя фарматы файлаў, у тым ліку некалькі з пералічаных ніжэй." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Пазначаны фармат выявы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="Выява JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description="Партатыўная сеткавая графіка" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description="Графічны фармат абмену" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Растравая выява" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Пазначаны фармат выявы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="Выява JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description="Партатыўная сеткавая графіка" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description="Графічны фармат абмену" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Растравая выява" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Portable Document Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

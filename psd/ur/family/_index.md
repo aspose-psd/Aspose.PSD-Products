@@ -10,11 +10,11 @@ description: ایک سے زیادہ پلیٹ فارمز پر PSD اور PSB فا
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD ہائی کوڈ APIs شامل ہیں۔" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 ونڈوز فارمز، ASP.NET یا .NET Framework 2.0 یا اس کے بعد کی کسی بھی قسم کی ایپلیکیشن کو ٹارگٹ کریں۔
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title="جاوا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD برائے" title="جاوا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 جاوا SE یا EE پر مبنی ڈیسک ٹاپ، ویب یا کسی بھی قسم کی ایپلیکیشن کے لیے مقامی Java APIs۔
 {{< /blocks/products/pf/product >}}
 

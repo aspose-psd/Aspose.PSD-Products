@@ -11,7 +11,7 @@ description: نموذج كود لتحويل AI إلى TIFF C #. استخدم ر�
 
 {{% blocks/products/pf/agp/content h2=" كيفية تحويل AI إلى TIFF باستخدام C #" %}}
 
-من أجل تحويل AI إلى TIFF ، سنستخدم<a href="https://products.aspose.com/psd/net"> Aspose.PSD لـ .NET</a> API وهي غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها API لمنصة C #. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+من أجل تحويل AI إلى TIFF ، سنستخدم<a href="{{< relref "net" >}}"> Aspose.PSD لـ .NET</a> API وهي غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها API لمنصة C #. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title=" أمر وحدة تحكم مدير الحزمة" offSpacer="true" %}}
 

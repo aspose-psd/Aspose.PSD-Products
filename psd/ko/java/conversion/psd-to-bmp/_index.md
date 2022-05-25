@@ -13,7 +13,7 @@ description: PSD 형식을 BMP 파일로 변환하는 샘플 Java 변환 코드.
 {{% blocks/products/pf/agp/content h2="Java를 사용하여 PSD를 BMP로 변환하는 방법" %}}
 
  PSD를 BMP로 렌더링하려면 다음을 사용합니다.
- [자바용 Aspose.PSD](https://products.aspose.com/psd/java)
+ [자바용 Aspose.PSD]({{< relref "java" >}})
  기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
  [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 
  설치합니다 .
@@ -129,12 +129,12 @@ PSD, Photoshop Document는 그래픽 디자인 및 개발에 사용되는 Adobe 
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="PSD를 아래 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="어도비 포토샵 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description="휴대용 네트워크 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="어도비 포토샵 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="휴대용 문서 형식" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

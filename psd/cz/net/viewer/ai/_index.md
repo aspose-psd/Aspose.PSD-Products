@@ -11,7 +11,7 @@ description: Zdrojový kód C# pro načítání, vykreslování a zobrazování 
 
 {{% blocks/products/pf/agp/content h2="Jak zobrazit soubor AI pomocí C#" %}}
 
-K zobrazení souboru AI použijeme<a href="https://products.aspose.com/psd/net">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné API pro platformu C#, které lze použít s jakýmkoli prohlížečem. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+K zobrazení souboru AI použijeme<a href="{{< relref "net" >}}">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné API pro platformu C#, které lze použít s jakýmkoli prohlížečem. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 

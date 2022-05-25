@@ -530,7 +530,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSDは、以下に示すように、他の一般的な開発環境向けに個別のPSDAPIを提供します。" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

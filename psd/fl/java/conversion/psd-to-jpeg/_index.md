@@ -13,7 +13,7 @@ description: Esimerkki Java-muunnoskoodista PSD-muodosta JPEG-tiedostoon. Käyt�
 {{% blocks/products/pf/agp/content h2="PSD:n muuntaminen JPEG-muotoon Javaa käyttämällä" %}}
 
  Käytämme PSD:n muuntamiseksi JPEG-muotoon
- [Aspose.PSD for Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD for Java]({{< relref "java" >}})
  API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.
@@ -129,12 +129,12 @@ JPEG on eräänlainen kuvamuoto, joka tallennetaan häviöllisen pakkauksen mene
 
 {{< blocks/products/pf/agp/other-supported-section title="Muut tuetut konversiot" subTitle="Voit myös muuntaa PSD:n moniin muihin tiedostomuotoihin, mukaan lukien muutamat alla luetellut tiedostomuodot." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="Adobe Photoshop -tiedosto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Tagattu kuvamuoto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description="Kannettava verkkografiikka" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description="Graafinen vaihtomuoto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bittikarttakuva" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Kannettava asiakirjamuoto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="Adobe Photoshop -tiedosto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Tagattu kuvamuoto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description="Kannettava verkkografiikka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description="Graafinen vaihtomuoto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bittikarttakuva" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Kannettava asiakirjamuoto" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

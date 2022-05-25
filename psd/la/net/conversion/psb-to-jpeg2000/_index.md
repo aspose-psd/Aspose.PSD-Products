@@ -11,7 +11,7 @@ description: Sample code pro PSB ad JPEG2000 C# conversionem. Utere exemplo API 
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSB ad JPEG2000 Using C#" %}}
 
-Ut PSB ad JPEG2000 convertamus, utemur<a href="https://products.aspose.com/psd/net"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis ad usum documenti manipulationis et conversionis API pro C# suggestu. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b>Aspose.PSD</b> niteremur. Praecepto sequenti uti licet Procurator Sarcinae Console.
+Ut PSB ad JPEG2000 convertamus, utemur<a href="{{< relref "net" >}}"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis ad usum documenti manipulationis et conversionis API pro C# suggestu. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b>Aspose.PSD</b> niteremur. Praecepto sequenti uti licet Procurator Sarcinae Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

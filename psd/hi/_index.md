@@ -10,15 +10,15 @@ description: फोटोशॉप फाइलों को संपादि�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" Aspose.PSD हाई कोड एपीआई शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 पीएसडी, पीएसबी और एआई फ़ाइल स्वरूपों के लिए हाई कोड एपीआई विंडोज़ फॉर्म, एएसपी.नेट, डब्ल्यूपीएफ, डब्ल्यूसीएफ या .NET फ्रेमवर्क 2.0 या बाद के किसी भी प्रकार के एप्लिकेशन में हेरफेर।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title="जावा" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title="जावा" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 फ़ोटोशॉप और इलस्ट्रेटर फ़ाइलों में हेरफेर करने के लिए जावा एपीआई। बिना किसी सॉफ्टवेयर निर्भरता के जावा आधारित अनुप्रयोगों के भीतर PSD, PSB और AI प्रारूप बनाएं, लोड करें, संशोधित करें और प्रस्तुत करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="सभी हाई कोड एपीआई देखें" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="सभी हाई कोड एपीआई देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

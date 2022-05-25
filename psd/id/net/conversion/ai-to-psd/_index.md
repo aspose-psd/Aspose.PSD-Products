@@ -11,7 +11,7 @@ description: Contoh kode untuk konversi AI ke PSD C#. Gunakan kode contoh API un
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi AI ke PSD Menggunakan C#" %}}
 
-Untuk mengonversi AI ke PSD, kami akan menggunakan<a href="https://products.aspose.com/psd/net">Aspose.PSD untuk .NET</a> API yang merupakan API konversi dan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> manajer paket, cari<b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi AI ke PSD, kami akan menggunakan<a href="{{< relref "net" >}}">Aspose.PSD untuk .NET</a> API yang merupakan API konversi dan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> manajer paket, cari<b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

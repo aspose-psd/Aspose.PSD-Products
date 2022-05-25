@@ -10,11 +10,11 @@ description: Бібліятэка для чытання запісу і эксп
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Уключаюць API высокага кода Aspose.PSD" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Мэтавай Windows Forms, ASP.NET або любы тып прыкладання на базе .NET Framework 2.0 або больш позняй версіі.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Уласныя API-інтэрфейсы Java для працоўнага стала, вэб або любога роду прыкладанняў, заснаваных на Java SE або EE.
 {{< /blocks/products/pf/product >}}
 

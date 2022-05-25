@@ -13,7 +13,7 @@ description: Exemple de code de conversion Java pour le format PSB en fichier PN
 {{% blocks/products/pf/agp/content h2="Comment convertir PSB en PNG à l'aide de Java" %}}
 
  Afin de rendre PSB en PNG, nous utiliserons
- [Aspose.PSD pour Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD pour Java]({{< relref "java" >}})
  API qui est une API de conversion riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
@@ -129,12 +129,12 @@ PNG, Portable Network Graphics, fait référence à un type de format de fichier
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir PSB dans de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description="Format natif Adobe Photoshop" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Format d'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="Image JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-gif/" name="PSB TO GIF" description="Format d'échange graphique" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Image bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Format de document portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description="Format natif Adobe Photoshop" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Format d'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="Image JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-gif/" name="PSB TO GIF" description="Format d'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Format de document portable" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

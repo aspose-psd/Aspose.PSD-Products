@@ -11,7 +11,7 @@ description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platfor
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak AI Dosyası Nasıl Görüntülenir" %}}
 
-AI dosyasını görüntülemek için kullanacağız<a href="https://products.aspose.com/psd/net">.NET için Aspose.PSD</a> API, herhangi bir Görüntüleyici ile kullanılacak C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+AI dosyasını görüntülemek için kullanacağız<a href="{{< relref "net" >}}">.NET için Aspose.PSD</a> API, herhangi bir Görüntüleyici ile kullanılacak C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutanlığı" offSpacer="true" %}}
 

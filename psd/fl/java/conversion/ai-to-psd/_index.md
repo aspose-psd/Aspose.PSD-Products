@@ -11,7 +11,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodosta PSD-tiedostoon. Käytä 
 
 {{% blocks/products/pf/agp/content h2="Tekoälyn muuntaminen PSD:ksi Javaa käyttämällä" %}}
 
-Käytämme tekoälyn hahmontamiseksi PSD:ksi<a href="https://products.aspose.com/psd/java">Aspose.PSD Javalle</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat asetukset pom.xml-tiedostoon.
+Käytämme tekoälyn hahmontamiseksi PSD:ksi<a href="{{< relref "java" >}}">Aspose.PSD Javalle</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat asetukset pom.xml-tiedostoon.
 
 {{% blocks/products/pf/agp/code-block title="Arkisto" offSpacer="true" %}}
 

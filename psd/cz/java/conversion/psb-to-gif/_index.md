@@ -13,7 +13,7 @@ description: Ukázkový konverzní kód Java pro formát PSB na soubor GIF. Tent
 {{% blocks/products/pf/agp/content h2="Jak převést PSB na GIF pomocí Java" %}}
 
  K vykreslení PSB na GIF použijeme
- [Aspose.PSD pro Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD pro Java]({{< relref "java" >}})
  API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
@@ -129,12 +129,12 @@ Formát GIF nebo Graphical Interchange Format je typ vysoce komprimovaného obr�
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést PSB do mnoha dalších formátů souborů, včetně několika níže uvedených." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description="Nativní formát Adobe Photoshop" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Formát označeného obrázku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="Obrázek JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description="Přenosná síťová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bitmapový obrázek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Formát přenosného dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description="Nativní formát Adobe Photoshop" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="Formát označeného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="Obrázek JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Formát přenosného dokumentu" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

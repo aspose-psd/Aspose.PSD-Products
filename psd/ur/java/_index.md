@@ -530,7 +530,7 @@ description: فوٹوشاپ سافٹ ویئر کی ضرورت کے بغیر کس
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD دیگر مقبول ترقیاتی ماحول کے لیے انفرادی PSD APIs پیش کرتا ہے جیسا کہ ذیل میں درج ہے:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

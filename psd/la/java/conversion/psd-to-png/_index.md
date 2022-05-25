@@ -13,7 +13,7 @@ description: Sample Java conversionis pro PSD forma ad PNG lima. Hoc exemplo ute
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSD ad PNG Using Java?" %}}
 
  Ut PSD ad PNG reddamus, utemur
- [Aspose.PSD pro Java] (https://products.aspose.com/psd/java)
+ [Aspose.PSD pro Java] ({{< relref "java" >}})
  API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.
@@ -129,12 +129,12 @@ PNG, Retiacula Portable Graphica, refertur ad typum rasterii imaginis formati qu
 
 {{< blocks/products/pf/agp/other-supported-section title=" Aliae Conversiones suffultae" subTitle=" Etiam PSD in multas alias formas fasciculi converti potes paucis infra recensitis." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description=" Adobe Photoshop File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description=" Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-gif/" name="PSD TO GIF" description=" Format Interchange Graphicalis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description=" Documenti Portable Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description=" Adobe Photoshop File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description=" Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-gif/" name="PSD TO GIF" description=" Format Interchange Graphicalis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description=" Documenti Portable Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

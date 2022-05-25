@@ -10,11 +10,11 @@ description: 여러 플랫폼에서 PSD 및 PSB 파일 쓰기 및 내보내기�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 하이 코드 API 포함" >}}
 
-{{< blocks/products/pf/product pfName="아포즈.PSD" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="아포즈.PSD" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Windows Forms, ASP.NET 또는 .NET Framework 2.0 이상을 기반으로 하는 모든 유형의 응용 프로그램을 대상으로 합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="아포즈.PSD" title="자바" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="아포즈.PSD" title="자바" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 데스크탑, 웹 또는 Java SE 또는 EE를 기반으로 하는 모든 종류의 애플리케이션을 위한 기본 Java API.
 {{< /blocks/products/pf/product >}}
 

@@ -10,15 +10,15 @@ description: High Code APIs and Free Apps to edit Photoshop files. Facultas ad a
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" Aspose.PSD High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 Princeps Codex APIs pro PSD, PSB & AI formarum fasciculorum tractationum in Fenestra formis, ASP.NET, WPF, WCF vel cuiuslibet applicationis .NET Framework 2.0 vel postea innixa est.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName=" Aspose.PSD for" title=" Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java APIs ad Photoshop et Illustrator lima manipulare. Create, onere, modificare et PSD, PSB & AI formas in Java applicationes substructas sine ullis dependentiis programmatis redde.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText=" View All High Code APIs" >}}
+{{< blocks/products/pf/center-button href="family/" innerText=" View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

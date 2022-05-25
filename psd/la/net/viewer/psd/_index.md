@@ -13,7 +13,7 @@ description: C# source code onerare, reddere et ostendere documenta PSD in NET F
 {{% blocks/products/pf/agp/content h2=" Quomodo videre PSD Tabulariam utens C#" %}}
 
  Ut inspicias PSD lima, nos utemur
- [Aspose.PSD pro .NET] (https://products.aspose.com/psd/net)
+ [Aspose.PSD pro .NET] ({{< relref "net" >}})
  API quod est pluma dives, potens et facilis ad API pro C# suggestu utendum cum aliquo Visore. Apertum
  [nuGet] (https://www.nuget.org/packages/aspose.psd)
  sarcina procurator, quaerere

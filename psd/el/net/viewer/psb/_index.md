@@ -13,7 +13,7 @@ description: Πηγαίος κώδικας C# για φόρτωση, απόδο�
 {{% blocks/products/pf/agp/content h2="Πώς να προβάλετε αρχείο PSB χρησιμοποιώντας C#" %}}
 
  Για να προβάλουμε το αρχείο PSB, θα χρησιμοποιήσουμε
- [Aspose.PSD για .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD για .NET]({{< relref "net" >}})
  API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API για την πλατφόρμα C# που μπορεί να χρησιμοποιηθεί με οποιοδήποτε πρόγραμμα προβολής. Ανοιξε
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  διαχειριστής πακέτων, αναζητήστε

@@ -13,7 +13,7 @@ description: Ukázkový kód Java pro přidání nebo odstranění vodoznaku do 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit vodoznak souboru PSD pomocí Java" %}}
 
  K vodoznaku souboru PSD použijeme
- [Aspose.PSD pro Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD pro Java]({{< relref "java" >}})
  API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro vodoznaky pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.

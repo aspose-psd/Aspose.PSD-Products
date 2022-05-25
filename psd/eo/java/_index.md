@@ -530,7 +530,7 @@ description: Kreu modifi aŭ konverti PSD kaj PSB-formatojn uzante ĉi tiun bibl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD ofertas individuajn PSD-APIojn por aliaj popularaj evolumedioj kiel listigitaj sube:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

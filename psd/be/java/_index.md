@@ -530,7 +530,7 @@ description: Стварайце мадыфікаваць або канверта
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD прапануе асобныя API PSD для іншых папулярных умоў распрацоўкі, пералічаных ніжэй:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

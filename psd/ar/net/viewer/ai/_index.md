@@ -11,7 +11,7 @@ description: كود مصدر C # لتحميل وعرض وعرض مستندات A
 
 {{% blocks/products/pf/agp/content h2=" كيفية عرض ملف AI باستخدام C #" %}}
 
-لعرض ملف AI ، سنستخدم<a href="https://products.aspose.com/psd/net"> Aspose.PSD لـ .NET</a> API وهو واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # ليتم استخدامها مع أي عارض. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+لعرض ملف AI ، سنستخدم<a href="{{< relref "net" >}}"> Aspose.PSD لـ .NET</a> API وهو واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # ليتم استخدامها مع أي عارض. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title=" أمر وحدة تحكم مدير الحزمة" offSpacer="true" %}}
 

@@ -530,7 +530,7 @@ description: फ़ोटोशॉप सॉफ़्टवेयर की आ�
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSD नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए व्यक्तिगत PSD API प्रदान करता है:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

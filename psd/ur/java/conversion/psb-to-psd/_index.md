@@ -13,7 +13,7 @@ description: نمونہ جاوا کنورژن کوڈ PSB فارمیٹ کے لی�
 {{% blocks/products/pf/agp/content h2="جاوا کا استعمال کرتے ہوئے PSB کو PSD میں کیسے تبدیل کریں۔" %}}
 
  PSB کو PSD میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD for Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD for Java]({{< relref "java" >}})
  API جو کہ جاوا پلیٹ فارم کے لیے خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  اور اسے pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ میں انسٹال کریں۔
@@ -130,12 +130,12 @@ aspose-psd API کا</artifactId>
 
 {{< blocks/products/pf/agp/other-supported-section title="دیگر ​​تعاون یافتہ تبادلے۔" subTitle="آپ PSB کو کئی دیگر فائل فارمیٹس میں بھی تبدیل کر سکتے ہیں جن میں سے کچھ ذیل میں درج ہیں۔" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="ٹیگ کردہ تصویری فارمیٹ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG امیجپورٹ ایبل نیٹ ورک گرافکس" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-gif/" name="PSB TO GIF" description="گرافیکل انٹرچینج فارمیٹ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="بٹ میپ امیج" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="پورٹ ایبل دستاویز کی شکل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-tiff/" name="PSB TO TIFF" description="ٹیگ کردہ تصویری فارمیٹ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="JPEG امیجپورٹ ایبل نیٹ ورک گرافکس" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-gif/" name="PSB TO GIF" description="گرافیکل انٹرچینج فارمیٹ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="بٹ میپ امیج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description="پورٹ ایبل دستاویز کی شکل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

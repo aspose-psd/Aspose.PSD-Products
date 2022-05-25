@@ -13,7 +13,7 @@ description: C# fontkodo por aldoni aŭ forigi akvomarkon al PSD-dosiero sur .NE
 {{% blocks/products/pf/agp/content h2="Kiel Akvomarki PSD-dosieron Uzante C#" %}}
 
  Por akvomarki PSD-dosieron, ni uzos
- [Aspose.PSD por .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD por .NET]({{< relref "net" >}})
  API kiu estas riĉa, potenca kaj facile uzebla API pri manipulado de dokumentoj por C#-platformo. Malfermu
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakaĵadministranto, serĉu

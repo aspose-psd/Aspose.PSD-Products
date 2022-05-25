@@ -10,11 +10,11 @@ description: Bibliothèque pour lire, écrire et exporter des fichiers PSD et PS
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API Aspose.PSD High Code incluent" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD pour" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD pour" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Ciblez Windows Forms, ASP.NET ou tout type d'application basée sur .NET Framework 2.0 ou version ultérieure.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD pour" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD pour" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 API Java natives pour le bureau, le Web ou tout type d'application basée sur Java SE ou EE.
 {{< /blocks/products/pf/product >}}
 

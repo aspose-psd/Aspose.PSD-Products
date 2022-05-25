@@ -10,15 +10,15 @@ description: Altkodaj APIoj kaj Senpagaj Aplikoj por redakti Photoshop-dosierojn
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs Inkluzivas" >}}
 
-{{< blocks/products/pf/product pfName="Supoze.PSD por" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Supoze.PSD por" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 High Code APIs por PSD, PSB & AI-dosierformatoj-manipulado en Windows Forms, ASP.NET, WPF, WCF aŭ ajna tipo de aplikaĵo bazita sur .NET Framework 2.0 aŭ poste.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Supoze.PSD por" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Supoze.PSD por" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java API-oj por manipuli Photoshop kaj Illustrator dosierojn. Kreu, ŝarĝu, modifi kaj redonu PSD, PSB kaj AI-formatojn ene de Java-bazitaj aplikaĵoj sen iaj programaj dependecoj.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Rigardu Ĉiuj Altkodaj API-oj" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Rigardu Ĉiuj Altkodaj API-oj" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

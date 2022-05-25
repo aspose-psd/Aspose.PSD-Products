@@ -11,7 +11,7 @@ description: C# fontkodo por ŝargi, bildigi kaj montri AI-dokumentojn sur .NET 
 
 {{% blocks/products/pf/agp/content h2="Kiel Vidi AI-dosieron per C#" %}}
 
-Por vidi AI-dosieron, ni uzos<a href="https://products.aspose.com/psd/net">Aspose.PSD por .NET</a> API, kiu estas riĉa, potenca kaj facile uzebla API por C#-platformo por esti uzata kun iu ajn Vidilo. Malfermu<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakaĵadministranto, serĉu<b>Supoze.PSD</b> kaj instalu. Vi ankaŭ povas uzi la jenan komandon de la Konzolo pri Paka Administranto.
+Por vidi AI-dosieron, ni uzos<a href="{{< relref "net" >}}">Aspose.PSD por .NET</a> API, kiu estas riĉa, potenca kaj facile uzebla API por C#-platformo por esti uzata kun iu ajn Vidilo. Malfermu<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakaĵadministranto, serĉu<b>Supoze.PSD</b> kaj instalu. Vi ankaŭ povas uzi la jenan komandon de la Konzolo pri Paka Administranto.
 
 {{% blocks/products/pf/agp/code-block title="Komando de Konzolo pri Paka Administranto" offSpacer="true" %}}
 

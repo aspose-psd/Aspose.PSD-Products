@@ -633,7 +633,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD offers individual PSD APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

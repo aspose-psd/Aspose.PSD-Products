@@ -13,7 +13,7 @@ description: .NET Framework, .NET Core پر PSD دستاویزات کو لوڈ،
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے PSD فائل کو کیسے دیکھیں" %}}
 
  پی ایس ڈی فائل دیکھنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD برائے .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD برائے .NET]({{< relref "net" >}})
  API جو کہ کسی بھی ناظر کے ساتھ استعمال کیے جانے والے C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان API ہے۔ کھولیں۔
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  پیکیج مینیجر، تلاش کریں۔

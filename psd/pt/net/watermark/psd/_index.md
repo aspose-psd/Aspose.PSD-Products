@@ -13,7 +13,7 @@ description: Código-fonte C# para adicionar ou remover marca d'água ao arquivo
 {{% blocks/products/pf/agp/content h2="Como marcar um arquivo PSD com marca d'água usando C#" %}}
 
  Para marcar o arquivo PSD com marca d'água, usaremos
- [Aspose.PSD para .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD para .NET]({{< relref "net" >}})
  API que é uma API de manipulação de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Aberto
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  gerenciador de pacotes, procure

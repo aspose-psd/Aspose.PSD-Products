@@ -530,7 +530,7 @@ description: Skapa modifiera eller konvertera PSD- och PSB-format med detta bibl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD erbjuder individuella PSD API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

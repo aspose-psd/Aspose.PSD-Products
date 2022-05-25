@@ -13,7 +13,7 @@ description: Código fuente de C# para agregar o eliminar marcas de agua en arch
 {{% blocks/products/pf/agp/content h2="Cómo poner una marca de agua en un archivo PSD usando C#" %}}
 
  Para poner una marca de agua en un archivo PSD, usaremos
- [Aspose.PSD para .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD para .NET]({{< relref "net" >}})
  API, que es una API de manipulación de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  administrador de paquetes, busque

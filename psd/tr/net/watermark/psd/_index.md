@@ -13,7 +13,7 @@ description: .NET Framework, .NET Core üzerindeki PSD dosyasına filigran eklem
 {{% blocks/products/pf/agp/content h2="PSD Dosyasını C# Kullanarak Filigran Etme" %}}
 
  PSD dosyasını filigranlamak için kullanacağız
- [.NET için Aspose.PSD](https://products.aspose.com/psd/net)
+ [.NET için Aspose.PSD]({{< relref "net" >}})
  C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API'si olan API. Açık
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paket yöneticisi, ara

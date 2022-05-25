@@ -13,7 +13,7 @@ description: Primjer Java koda za pretvorbu za PSD format u GIF datoteku. Upotri
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSD u GIF pomoću Jave" %}}
 
  Da bismo pretvorili PSD u GIF, koristit ćemo se
- [Aspose.PSD za Javu](https://products.aspose.com/psd/java)
+ [Aspose.PSD za Javu]({{< relref "java" >}})
  API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
@@ -129,12 +129,12 @@ GIF ili format grafičke razmjene vrsta je visoko komprimirane slike. U vlasniš
 
 {{< blocks/products/pf/agp/other-supported-section title="Druge podržane konverzije" subTitle="PSD možete također pretvoriti u mnoge druge formate datoteka, uključujući nekoliko navedenih u nastavku." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-psb/" name="PSD TO PSB" description="Datoteka Adobe Photoshopa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Označeni format slike" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG slika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-png/" name="PSD TO PNG" description=" Prijenosna mrežna grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-bmp/" name="PSD TO BMP" description="bitmap slika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Format prijenosnog dokumenta" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-psb/" name="PSD TO PSB" description="Datoteka Adobe Photoshopa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-tiff/" name="PSD TO TIFF" description="Označeni format slike" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-jpeg/" name="PSD TO JPEG" description="JPEG slika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-png/" name="PSD TO PNG" description=" Prijenosna mrežna grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-bmp/" name="PSD TO BMP" description="bitmap slika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psd-to-pdf/" name="PSD TO PDF" description="Format prijenosnog dokumenta" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

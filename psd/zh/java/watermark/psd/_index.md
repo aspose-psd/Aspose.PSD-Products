@@ -13,7 +13,7 @@ description: 用於在 JSP/JSF 應用程序和桌面應用程序的 Java 運行�
 {{% blocks/products/pf/agp/content h2="如何使用Java給PSD文件加水印" %}}
 
  為了給 PSD 文件加水印，我們將使用
- [Aspose.PSD for Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD for Java]({{< relref "java" >}})
  API 是一個功能豐富、功能強大且易於使用的 Java 平台水印 API。您可以直接從
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。

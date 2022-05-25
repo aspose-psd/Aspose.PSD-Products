@@ -10,11 +10,11 @@ description: Библиотека для чтения, записи и эксп�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API включает" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Ориентируйтесь на Windows Forms, ASP.NET или приложения любого типа на основе .NET Framework 2.0 или более поздней версии.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Ява" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Ява" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Собственные API-интерфейсы Java для настольных компьютеров, Интернета или любых приложений на основе Java SE или EE.
 {{< /blocks/products/pf/product >}}
 

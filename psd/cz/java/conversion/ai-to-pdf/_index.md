@@ -11,7 +11,7 @@ description: Ukázkový konverzní kód Java pro formát AI do souboru PDF. Tent
 
 {{% blocks/products/pf/agp/content h2="Jak převést AI do PDF pomocí Javy" %}}
 
-K vykreslení AI do PDF použijeme<a href="https://products.aspose.com/psd/java">Aspose.PSD pro Javu</a> API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+K vykreslení AI do PDF použijeme<a href="{{< relref "java" >}}">Aspose.PSD pro Javu</a> API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 

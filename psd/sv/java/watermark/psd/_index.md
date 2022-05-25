@@ -13,7 +13,7 @@ description: Java-exempelkod för att lägga till eller ta bort vattenstämpel t
 {{% blocks/products/pf/agp/content h2="Hur man vattenmärker PSD-fil med Java" %}}
 
  För att vattenmärka PSD-filen kommer vi att använda
- [Aspose.PSD för Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD för Java]({{< relref "java" >}})
  API som är ett funktionsrikt, kraftfullt och lättanvänt API för vattenmärkning för Java-plattformen. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.

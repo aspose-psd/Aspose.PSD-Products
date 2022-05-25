@@ -10,15 +10,15 @@ description: High Code API-ji i besplatne aplikacije za uređivanje datoteka Pho
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API-ji uključuju" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD za" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="https://products.aspose.com/psd/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD za" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
 High Code API-ji za manipulaciju formatima datoteka PSD, PSB i AI u Windows Forms, ASP.NET, WPF, WCF ili bilo kojoj vrsti aplikacije koja se temelji na .NET Frameworku 2.0 ili novijoj.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD za" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="https://products.aspose.com/psd/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD za" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 Java API-ji za manipuliranje datotekama Photoshopa i Illustratora. Stvorite, učitajte, modificirajte i renderirajte PSD, PSB i AI formate unutar aplikacija temeljenih na Javi bez ikakvih ovisnosti o softveru.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/psd/family/" innerText="Pogledajte sve API-je visokog koda" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Pogledajte sve API-je visokog koda" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

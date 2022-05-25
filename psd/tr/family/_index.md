@@ -10,11 +10,11 @@ description: PSD ve PSB dosyalarını birden çok platformda okumak ve dışa ak
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Yüksek Kod API'leri şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD için" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="/psd/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD için" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Windows Forms, ASP.NET veya .NET Framework 2.0 veya sonraki sürümlerine dayalı herhangi bir uygulama türünü hedefleyin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD için" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="/psd/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD için" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Masaüstü, web veya Java SE veya EE'ye dayalı herhangi bir uygulama türü için yerel Java API'leri.
 {{< /blocks/products/pf/product >}}
 

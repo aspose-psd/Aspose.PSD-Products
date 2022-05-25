@@ -13,7 +13,7 @@ description: Зразок коду перетворення Java для форм
 {{% blocks/products/pf/agp/content h2="Як перетворити PSB на TIFF за допомогою Java" %}}
 
  Щоб передати PSB у TIFF, ми будемо використовувати
- [Aspose.PSD для Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD для Java]({{< relref "java" >}})
  API, який є багатофункціональним, потужним і простим у використанні API перетворення для платформи Java. Ви можете завантажити його останню версію безпосередньо з
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  і встановіть його у своєму проекті на базі Maven, додавши наступні конфігурації до pom.xml.
@@ -129,12 +129,12 @@ TIFF або TIF, формат файлу з тегами, представляє
 
 {{< blocks/products/pf/agp/other-supported-section title="Інші підтримувані конверсії" subTitle="Ви також можете конвертувати PSB у багато інших форматів файлів, включаючи деякі з перелічених нижче." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-psd/" name="PSB TO PSD" description="Нативний формат Adobe Photoshop" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="Зображення JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-png/" name="PSB TO PNG" description="Портативна мережева графіка" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-gif/" name="PSB TO GIF" description="Формат графічного обміну" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Растрове зображення" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/psd/java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-psd/" name="PSB TO PSD" description="Нативний формат Adobe Photoshop" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-jpeg/" name="PSB TO JPEG" description="Зображення JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-png/" name="PSB TO PNG" description="Портативна мережева графіка" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-gif/" name="PSB TO GIF" description="Формат графічного обміну" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-bmp/" name="PSB TO BMP" description="Растрове зображення" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="java/conversion/psb-to-pdf/" name="PSB TO PDF" description="Portable Document Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

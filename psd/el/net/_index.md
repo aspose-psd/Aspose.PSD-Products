@@ -632,7 +632,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη Photoshop για δημιο�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Το Aspose.PSD προσφέρει μεμονωμένα API PSD για άλλα δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -13,7 +13,7 @@ description: C#-lähdekoodi PSB-asiakirjojen lataamiseen, hahmontamiseen ja näy
 {{% blocks/products/pf/agp/content h2="PSB-tiedoston tarkasteleminen C#:lla" %}}
 
  PSB-tiedoston katselemiseksi käytämme
- [Aspose.PSD for .NET](https://products.aspose.com/psd/net)
+ [Aspose.PSD for .NET]({{< relref "net" >}})
  API, joka on monipuolinen, tehokas ja helppokäyttöinen API C#-alustalle käytettäväksi minkä tahansa Viewerin kanssa. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

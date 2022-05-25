@@ -530,7 +530,7 @@ description: Crea mutare vel convertere PSD et PSB formats utentes hac bibliothe
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSD singulas PSD APIs praebet aliis ambitibus popularibus evolutionis ut infra recensitis:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/psd/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

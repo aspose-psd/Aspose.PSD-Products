@@ -13,7 +13,7 @@ description: .NET Framework, .NET Core에서 PSD 문서를 로드, 렌더링 및
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 PSD 파일을 보는 방법" %}}
 
  PSD 파일을 보려면 다음을 사용합니다.
- [.NET용 Aspose.PSD](https://products.aspose.com/psd/net)
+ [.NET용 Aspose.PSD]({{< relref "net" >}})
  기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 API인 API는 모든 뷰어와 함께 사용할 수 있습니다. 열려 있는
  [누겟](https://www.nuget.org/packages/aspose.psd)
  패키지 관리자, 검색

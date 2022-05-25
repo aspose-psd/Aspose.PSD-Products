@@ -13,7 +13,7 @@ description: Exemple de code Java pour ajouter ou supprimer un filigrane au fich
 {{% blocks/products/pf/agp/content h2="Comment filigraner un fichier PSD à l'aide de Java" %}}
 
  Afin de filigraner le fichier PSD, nous utiliserons
- [Aspose.PSD pour Java](https://products.aspose.com/psd/java)
+ [Aspose.PSD pour Java]({{< relref "java" >}})
  API qui est une API de filigrane riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.

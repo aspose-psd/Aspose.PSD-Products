@@ -13,7 +13,7 @@ description: .NET Framework, .NET Core üzerinde PSD belgelerini yüklemek, olu�
 {{% blocks/products/pf/agp/content h2="PSD Dosyasını C# Kullanarak Görüntüleme" %}}
 
  PSD dosyasını görüntülemek için kullanacağız
- [.NET için Aspose.PSD](https://products.aspose.com/psd/net)
+ [.NET için Aspose.PSD]({{< relref "net" >}})
  Herhangi bir Görüntüleyici ile kullanılacak C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir API olan API. Açık
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paket yöneticisi, ara
