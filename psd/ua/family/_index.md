@@ -10,13 +10,13 @@ description: Бібліотека для читання запису та екс
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Включають API високого коду Aspose.PSD" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
+{{< blocks/products/pf/product_psd pfName="Aspose.PSD для" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Орієнтуйтеся на Windows Forms, ASP.NET або будь-який тип програми на основі .NET Framework 2.0 або новішої.
-{{< /blocks/products/pf/product >}}
+{{< /blocks/products/pf/product_psd >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD для" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+{{< blocks/products/pf/product_psd pfName="Aspose.PSD для" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Вбудовані API Java для настільних комп’ютерів, Інтернету чи будь-яких додатків на основі Java SE або EE.
-{{< /blocks/products/pf/product >}}
+{{< /blocks/products/pf/product_psd >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
