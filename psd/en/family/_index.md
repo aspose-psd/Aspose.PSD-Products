@@ -11,13 +11,13 @@ description: Library to read write and export PSD & PSB files on multiple platfo
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs Include" >}}
 
-{{< blocks/products/pf/product_psd pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 2.0 or later.
-{{< /blocks/products/pf/product_psd >}}
+{{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product_psd pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
-{{< /blocks/products/pf/product_psd >}}
+{{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
