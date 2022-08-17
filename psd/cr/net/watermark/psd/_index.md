@@ -2,6 +2,7 @@
 title: Vodeni žig PSD dokument putem .NET-a
 weight: 130
 description: C# izvorni kod za dodavanje ili uklanjanje vodenog žiga u PSD datoteku na .NET Framework, .NET Core.
+url: cr/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C# izvorni kod za dodavanje ili uklanjanje vodenog žiga u PSD dato
 {{% blocks/products/pf/agp/content h2="Kako staviti vodeni žig u PSD datoteku koristeći C#" %}}
 
  Za PSD datoteku vodeni žig koristit ćemo
- [Aspose.PSD za .NET]({{< relref "net" >}})
+ [Aspose.PSD za .NET](/psd/{{< lang-code >}}net)
  API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima za C# platformu. Otvoren
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  upravitelj paketa, traži

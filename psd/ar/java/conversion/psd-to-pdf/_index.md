@@ -2,6 +2,7 @@
 title: تحويل PSD إلى PDF عبر Java
 weight: 360
 description: نموذج كود تحويل جافا لتنسيق PSD إلى ملف PDF. استخدم رمز المثال هذا لتحويل PSD إلى PDF داخل أي تطبيق يستند إلى Web أو Desktop Java.
+url: ar/java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: نموذج كود تحويل جافا لتنسيق PSD إلى مل�
 {{% blocks/products/pf/agp/content h2=" كيفية تحويل PSD إلى PDF باستخدام Java" %}}
 
  من أجل تحويل PSD إلى PDF ، سنستخدم
- [Aspose.PSD لجافا] ({{< relref "java" >}})
+ [Aspose.PSD لجافا] (/psd/{{< lang-code >}}java)
  API وهي واجهة برمجة تطبيقات تحويل غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [مافن] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.

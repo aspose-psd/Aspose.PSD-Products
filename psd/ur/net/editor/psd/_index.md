@@ -1,6 +1,7 @@
 ---
 title: .NET کے ذریعے PSD دستاویز میں ترمیم کریں۔
 description: .NET فریم ورک، .NET کور پر PSD فائل میں ترمیم کرنے کے لیے C# سورس کوڈ۔
+url: ur/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: .NET فریم ورک، .NET کور پر PSD فائل میں ترم�
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے PSD فائل ڈیٹا میں ترمیم کیسے کریں" %}}
 
  PSD فائل میں ترمیم کرنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD برائے .NET]({{< relref "net" >}})
+ [Aspose.PSD برائے .NET](/psd/{{< lang-code >}}net)
  API جو کہ C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری API ہے۔ کھولیں۔
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  پیکیج مینیجر، تلاش کریں۔

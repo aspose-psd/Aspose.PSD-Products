@@ -2,6 +2,7 @@
 title: Visum PSB Tabellae per .NET
 weight: 320
 description: C# source code onerare, reddere et exhibere documenta PSB in NET Framework, .NET Core.
+url: la/net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C# source code onerare, reddere et exhibere documenta PSB in NET Fr
 {{% blocks/products/pf/agp/content h2=" Quomodo PSB Tabularii View utens C#" %}}
 
  Ut inspicias fasciculum PSB, nos uteris
- [Aspose.PSD pro .NET] ({{< relref "net" >}})
+ [Aspose.PSD pro .NET] (/psd/{{< lang-code >}}net)
  API quod est pluma dives, potens et facilis ad API pro C# suggestu utendum cum aliquo Visore. Apertum
  [nuGet] (https://www.nuget.org/packages/aspose.psd)
  sarcina procurator, quaerere

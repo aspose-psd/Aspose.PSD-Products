@@ -1,6 +1,7 @@
 ---
 title: جاوا کے ذریعے AI کو PDF میں تبدیل کریں۔
 description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ پی ڈی ایف فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلی کیشن میں AI کو PDF میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
+url: ur/java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ 
 
 {{% blocks/products/pf/agp/content h2="جاوا کا استعمال کرتے ہوئے AI کو PDF میں کیسے تبدیل کریں۔" %}}
 
-اے آئی کو پی ڈی ایف میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "java" >}}">Aspose.PSD for Java</a> API جو کہ جاوا پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ میں انسٹال کریں۔
+اے آئی کو پی ڈی ایف میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔<a href="/psd/{{< lang-code >}}java">Aspose.PSD for Java</a> API جو کہ جاوا پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ میں انسٹال کریں۔
 
 {{% blocks/products/pf/agp/code-block title=" ذخیرہ" offSpacer="true" %}}
 

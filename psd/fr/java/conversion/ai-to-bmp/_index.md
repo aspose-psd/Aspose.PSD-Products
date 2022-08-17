@@ -1,6 +1,7 @@
 ---
 title: Convertir l'IA en BMP via Java
 description: Exemple de code de conversion Java pour le format AI en fichier BMP. Utilisez cet exemple de code pour convertir AI en BMP dans n'importe quelle application Java Web ou de bureau.
+url: fr/java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Exemple de code de conversion Java pour le format AI en fichier BMP
 
 {{% blocks/products/pf/agp/content h2="Comment convertir l'IA en BMP à l'aide de Java" %}}
 
-Afin de rendre l'IA en BMP, nous utiliserons<a href="{{< relref "java" >}}">Aspose.PSD pour Java</a> API qui est une API de conversion riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de rendre l'IA en BMP, nous utiliserons<a href="/psd/{{< lang-code >}}java">Aspose.PSD pour Java</a> API qui est une API de conversion riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Référentiel" offSpacer="true" %}}
 

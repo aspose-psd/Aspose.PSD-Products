@@ -1,6 +1,7 @@
 ---
 title: C# کے ذریعے AI کو TIFF میں تبدیل کریں
 description: AI سے TIFF C# کی تبدیلی کے لیے نمونہ کوڈ۔ VB.NET، Asp.NET یا کسی بھی .NET پر مبنی ایپلیکیشن کے اندر TIFF کنورژن کے لیے بیچ AI فائلوں کے لیے API مثالی کوڈ استعمال کریں۔
+url: ur/net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AI سے TIFF C# کی تبدیلی کے لیے نمونہ کوڈ۔ V
 
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے AI کو TIFF میں کیسے تبدیل کیا جائے" %}}
 
-AI کو TIFF میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "net" >}}">Aspose.PSD برائے .NET</a> API جو کہ ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور C# پلیٹ فارم کے لیے کنورژن API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
+AI کو TIFF میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔<a href="/psd/{{< lang-code >}}net">Aspose.PSD برائے .NET</a> API جو کہ ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور C# پلیٹ فارم کے لیے کنورژن API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
 
 {{% blocks/products/pf/agp/code-block title="پیکیج مینیجر کنسول کمانڈ" offSpacer="true" %}}
 

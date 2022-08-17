@@ -1,7 +1,7 @@
 ---
-title: Watermark PSD document via Java 
+title: Watermark PSD document via Java
 weight: 60
-url: /java/watermark/psd/ 
+url: /java/watermark
 description: Java sample code to add or remove watermark to PSD file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
@@ -14,7 +14,7 @@ description: Java sample code to add or remove watermark to PSD file on Java Run
 {{% blocks/products/pf/agp/content h2="How to Watermark PSD File Using Java" %}}
 
  In order to watermark PSD file, we’ll use
- [Aspose.PSD for Java]({{< relref "java" >}}) 
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java) 
  API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd) 
  and install it within your Maven-based project by adding the following configurations to the pom.xml.

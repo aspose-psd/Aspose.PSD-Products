@@ -1,6 +1,7 @@
 ---
 title: एआई को सी # के माध्यम से जेपीईजी 2000 में बदलें
 description: AI से JPEG2000 C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर JPEG2000 रूपांतरण में बैच AI फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
+url: hi/net/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AI से JPEG2000 C# रूपांतरण के लिए न
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके AI को JPEG2000 में कैसे बदलें" %}}
 
-AI को JPEG2000 में बदलने के लिए, हम उपयोग करेंगे<a href="{{< relref "net" >}}"> .NET के लिए Aspose.PSD</a> एपीआई जो सी # प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर और रूपांतरण एपीआई है। खुला<a href="https://www.nuget.org/packages/aspose.psd">नुगेट</a> पैकेज मैनेजर, खोजें<b> Aspose.PSD</b> और स्थापित करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+AI को JPEG2000 में बदलने के लिए, हम उपयोग करेंगे<a href="/psd/{{< lang-code >}}net"> .NET के लिए Aspose.PSD</a> एपीआई जो सी # प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर और रूपांतरण एपीआई है। खुला<a href="https://www.nuget.org/packages/aspose.psd">नुगेट</a> पैकेज मैनेजर, खोजें<b> Aspose.PSD</b> और स्थापित करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="पैकेज मैनेजर कंसोल कमांड" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Converte PSB ad JPEG per Java
 weight: 180
 description: Sample Java conversionis code pro PSB forma ad lima JPEG. Hoc exemplo utere codice ad PSB ad JPEG convertendi intra cuiuslibet Telae vel Desktop Java in applicatione subnixa.
+url: la/java/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Sample Java conversionis code pro PSB forma ad lima JPEG. Hoc exemp
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSB ad JPEG Using Java" %}}
 
  Ut PSB ad JPEG reddamus, utemur
- [Aspose.PSD pro Java] ({{< relref "java" >}})
+ [Aspose.PSD pro Java] (/psd/{{< lang-code >}}java)
  API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.

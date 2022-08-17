@@ -1,6 +1,7 @@
 ---
 title: Перетворіть PSD на JPEG2000 за допомогою Java
 description: Зразок коду перетворення Java для формату PSD у файл JPEG2000. Використовуйте цей приклад коду, щоб перетворити PSD на JPEG2000 у будь-якому веб- або настільному додатку Java на основі Java.
+url: ua/java/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Зразок коду перетворення Java для форм
 
 {{% blocks/products/pf/agp/content h2="Як перетворити PSD на JPEG2000 за допомогою Java" %}}
 
-Щоб відобразити PSD у форматі JPEG2000, ми будемо використовувати<a href="{{< relref "java" >}}">Aspose.PSD для Java</a> API, який є багатофункціональним, потужним і простим у використанні API перетворення для платформи Java. Ви можете завантажити його останню версію безпосередньо з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і встановіть його у своєму проекті на базі Maven, додавши наступні конфігурації до pom.xml.
+Щоб відобразити PSD у форматі JPEG2000, ми будемо використовувати<a href="/psd/{{< lang-code >}}java">Aspose.PSD для Java</a> API, який є багатофункціональним, потужним і простим у використанні API перетворення для платформи Java. Ви можете завантажити його останню версію безпосередньо з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і встановіть його у своєму проекті на базі Maven, додавши наступні конфігурації до pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Сховище" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Преобразование PSB в PNG через Java
 weight: 110
 description: Пример кода конвертации Java для формата PSB в файл PNG. Используйте этот пример кода для преобразования PSB в PNG в любом веб-приложении или приложении для рабочего стола на основе Java.
+url: ru/java/conversion/psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Пример кода конвертации Java для форма
 {{% blocks/products/pf/agp/content h2="Как конвертировать PSB в PNG с помощью Java" %}}
 
  Чтобы преобразовать PSB в PNG, мы будем использовать
- [Aspose.PSD для Java]({{< relref "java" >}})
+ [Aspose.PSD для Java](/psd/{{< lang-code >}}java)
  API, который представляет собой многофункциональный, мощный и простой в использовании API преобразования для платформы Java. Вы можете скачать его последнюю версию прямо с
  [Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.

@@ -1,6 +1,7 @@
 ---
 title: جاوا کے ذریعے PSD کو JPEG2000 میں تبدیل کریں۔
 description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ میں JPEG2000 فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو JPEG2000 میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
+url: ur/java/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ میں JPE
 
 {{% blocks/products/pf/agp/content h2="جاوا کا استعمال کرتے ہوئے PSD کو JPEG2000 میں کیسے تبدیل کریں۔" %}}
 
-PSD کو JPEG2000 میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "java" >}}">Aspose.PSD for Java</a> API جو کہ جاوا پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ میں انسٹال کریں۔
+PSD کو JPEG2000 میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔<a href="/psd/{{< lang-code >}}java">Aspose.PSD for Java</a> API جو کہ جاوا پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ میں انسٹال کریں۔
 
 {{% blocks/products/pf/agp/code-block title=" ذخیرہ" offSpacer="true" %}}
 

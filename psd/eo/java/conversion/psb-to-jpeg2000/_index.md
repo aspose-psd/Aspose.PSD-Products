@@ -1,6 +1,7 @@
 ---
 title: Konverti PSB al JPEG2000 per Java
 description: Ekzempla Ĝava konverta kodo por PSB-formato al JPEG2000-dosiero. Uzu ĉi tiun ekzemplan kodon por konverti PSB al JPEG2000 ene de iu ajn retejo aŭ labortabla Java aplikaĵo.
+url: eo/java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Ekzempla Ĝava konverta kodo por PSB-formato al JPEG2000-dosiero. U
 
 {{% blocks/products/pf/agp/content h2="Kiel Konverti PSB al JPEG2000 Uzante Java" %}}
 
-Por redoni PSB al JPEG2000, ni uzos<a href="{{< relref "java" >}}">Aspose.PSD por Java</a> API kiu estas riĉa, potenca kaj facile uzebla konverta API por Java platformo. Vi povas elŝuti ĝian lastan version rekte de<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> kaj instalu ĝin en via Maven-bazita projekto aldonante la sekvajn agordojn al la pom.xml.
+Por redoni PSB al JPEG2000, ni uzos<a href="/psd/{{< lang-code >}}java">Aspose.PSD por Java</a> API kiu estas riĉa, potenca kaj facile uzebla konverta API por Java platformo. Vi povas elŝuti ĝian lastan version rekte de<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> kaj instalu ĝin en via Maven-bazita projekto aldonante la sekvajn agordojn al la pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deponejo" offSpacer="true" %}}
 

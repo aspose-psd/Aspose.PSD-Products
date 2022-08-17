@@ -1,6 +1,7 @@
 ---
 title: Pretvorite AI u GIF putem C#
 description: Primjer koda za pretvorbu AI u GIF C#. Koristite API primjer koda za skupnu AI datoteke u GIF pretvorbu unutar VB.NET, Asp.NET ili bilo koje .NET aplikacije.
+url: cr/net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Primjer koda za pretvorbu AI u GIF C#. Koristite API primjer koda z
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u GIF koristeći C#" %}}
 
-Da bismo pretvorili AI u GIF, koristit ćemo se<a href="{{< relref "net" >}}">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima i konverziju za C# platformu. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
+Da bismo pretvorili AI u GIF, koristit ćemo se<a href="/psd/{{< lang-code >}}net">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima i konverziju za C# platformu. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
 
 {{% blocks/products/pf/agp/code-block title="Naredba konzole upravitelja paketa" offSpacer="true" %}}
 

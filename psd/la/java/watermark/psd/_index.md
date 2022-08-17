@@ -2,6 +2,7 @@
 title: Peractus documenti PSD per Java
 weight: 60
 description: Java specimen codicem vestigium addere vel removere ad PSD lima in Java Runtime Environment ad JSP/JSF Applicationem et Applications Desktop.
+url: la/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Java specimen codicem vestigium addere vel removere ad PSD lima in 
 {{% blocks/products/pf/agp/content h2="Quam ad perficiendum PSD Tabularium Using Java" %}}
 
  Ut vestigium PSD lima, nos utemur
- [Aspose.PSD pro Java] ({{< relref "java" >}})
+ [Aspose.PSD pro Java] (/psd/{{< lang-code >}}java)
  API quod est pluma-dives, potens et facilis ad API signandi pro suggestu Javae. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.

@@ -2,6 +2,7 @@
 title: Afficher les formats de fichiers PSD via .NET
 weight: 100
 description: Code source C# pour charger, restituer et afficher des documents PSD sur .NET Framework, .NET Core.
+url: fr/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Code source C# pour charger, restituer et afficher des documents PS
 {{% blocks/products/pf/agp/content h2="Comment afficher un fichier PSD à l'aide de C#" %}}
 
  Pour afficher le fichier PSD, nous utiliserons
- [Aspose.PSD pour .NET]({{< relref "net" >}})
+ [Aspose.PSD pour .NET](/psd/{{< lang-code >}}net)
  API qui est une API riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C # à utiliser avec n'importe quel visualiseur. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  gestionnaire de paquets, recherchez

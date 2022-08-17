@@ -1,6 +1,7 @@
 ---
 title: Konversi AI ke PDF melalui C#
 description: Sample code for AI to PDF C# conversion. Use API example code for batch AI files to PDF conversion within VB.NET, Asp.NET or any .NET based application.
+url: id/net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Sample code for AI to PDF C# conversion. Use API example code for b
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi AI ke PDF Menggunakan C#" %}}
 
-Untuk mengonversi AI ke PDF, kami akan menggunakan <a href="{{< relref "net" >}}">Aspose.PSD untuk .NET</a> API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan API konversi untuk platform C#. Buka <a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pengelola paket, cari <b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi AI ke PDF, kami akan menggunakan <a href="/psd/{{< lang-code >}}net">Aspose.PSD untuk .NET</a> API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan API konversi untuk platform C#. Buka <a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pengelola paket, cari <b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

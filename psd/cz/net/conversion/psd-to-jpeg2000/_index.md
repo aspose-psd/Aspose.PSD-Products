@@ -1,6 +1,7 @@
 ---
 title: Převod PSD na JPEG2000 přes C#
 description: Ukázkový kód pro převod PSD na JPEG2000 C#. Použijte ukázkový kód API pro dávkový převod souborů PSD na JPEG2000 v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+url: cz/net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Ukázkový kód pro převod PSD na JPEG2000 C#. Použijte ukázkov�
 
 {{% blocks/products/pf/agp/content h2="Jak převést PSD na JPEG2000 pomocí C#" %}}
 
-K převodu PSD do JPEG2000 použijeme<a href="{{< relref "net" >}}">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi dokumentů pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+K převodu PSD do JPEG2000 použijeme<a href="/psd/{{< lang-code >}}net">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi dokumentů pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Visum AI Tabellae per .NET
 description: C# source code onerare, reddere et ostendere documenta AI in .NET Framework, .NET Core, Fenestra Azure, Mono vel Platforms Xamarin.
+url: la/net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: C# source code onerare, reddere et ostendere documenta AI in .NET F
 
 {{% blocks/products/pf/agp/content h2=" Quomodo View AI Tabularium utens C#" %}}
 
-Ut inspiciamus AI file, nos utemur<a href="{{< relref "net" >}}"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis ad API pro C# suggestu utendum est cum aliquo Visore. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b> Aspose.PSD</b> niteremur. Praecepto sequenti uti licet Procurator Sarcinae Console.
+Ut inspiciamus AI file, nos utemur<a href="/psd/{{< lang-code >}}net"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis ad API pro C# suggestu utendum est cum aliquo Visore. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b> Aspose.PSD</b> niteremur. Praecepto sequenti uti licet Procurator Sarcinae Console.
 
 {{% blocks/products/pf/agp/code-block title=" Package Manager Console Command" offSpacer="true" %}}
 

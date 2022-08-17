@@ -1,6 +1,7 @@
 ---
 title: Προβολή μορφών αρχείων AI μέσω .NET
 description: Πηγαίος κώδικας C# για φόρτωση, απόδοση και εμφάνιση εγγράφων AI σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
+url: el/net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Πηγαίος κώδικας C# για φόρτωση, απόδο�
 
 {{% blocks/products/pf/agp/content h2="Τρόπος προβολής αρχείου AI χρησιμοποιώντας C#" %}}
 
-Για να προβάλουμε το αρχείο AI, θα χρησιμοποιήσουμε<a href="{{< relref "net" >}}">Aspose.PSD για .NET</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API για πλατφόρμα C# που μπορεί να χρησιμοποιηθεί με οποιοδήποτε πρόγραμμα προβολής. Ανοιξε<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.PSD</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Για να προβάλουμε το αρχείο AI, θα χρησιμοποιήσουμε<a href="/psd/{{< lang-code >}}net">Aspose.PSD για .NET</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API για πλατφόρμα C# που μπορεί να χρησιμοποιηθεί με οποιοδήποτε πρόγραμμα προβολής. Ανοιξε<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.PSD</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 

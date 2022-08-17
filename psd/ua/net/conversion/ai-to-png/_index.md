@@ -1,6 +1,7 @@
 ---
 title: Перетворіть AI у PNG за допомогою C#
 description: Зразок коду для перетворення AI в PNG C#. Використовуйте приклад коду API для пакетного перетворення файлів AI в PNG у VB.NET, Asp.NET або будь-якому додатку на основі .NET.
+url: ua/net/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Зразок коду для перетворення AI в PNG C#.
 
 {{% blocks/products/pf/agp/content h2="Як перетворити AI у PNG за допомогою C#" %}}
 
-Щоб перетворити AI у PNG, ми скористаємося<a href="{{< relref "net" >}}">Aspose.PSD для .NET</a> API, який є багатофункціональним, потужним і простим у використанні API для маніпулювання документами та перетворення для платформи C#. ВІДЧИНЕНО<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> менеджер пакетів, пошук<b>Aspose.PSD</b> і встановіть. Ви також можете використовувати наступну команду з консолі менеджера пакетів.
+Щоб перетворити AI у PNG, ми скористаємося<a href="/psd/{{< lang-code >}}net">Aspose.PSD для .NET</a> API, який є багатофункціональним, потужним і простим у використанні API для маніпулювання документами та перетворення для платформи C#. ВІДЧИНЕНО<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> менеджер пакетів, пошук<b>Aspose.PSD</b> і встановіть. Ви також можете використовувати наступну команду з консолі менеджера пакетів.
 
 {{% blocks/products/pf/agp/code-block title="Команда консолі менеджера пакетів" offSpacer="true" %}}
 

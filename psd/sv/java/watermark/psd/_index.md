@@ -2,6 +2,7 @@
 title: Vattenstämpel PSD-dokument via Java
 weight: 60
 description: Java-exempelkod för att lägga till eller ta bort vattenstämpel till PSD-fil i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+url: sv/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Java-exempelkod för att lägga till eller ta bort vattenstämpel t
 {{% blocks/products/pf/agp/content h2="Hur man vattenmärker PSD-fil med Java" %}}
 
  För att vattenmärka PSD-filen kommer vi att använda
- [Aspose.PSD för Java]({{< relref "java" >}})
+ [Aspose.PSD för Java](/psd/{{< lang-code >}}java)
  API som är ett funktionsrikt, kraftfullt och lättanvänt API för vattenmärkning för Java-plattformen. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.

@@ -1,6 +1,7 @@
 ---
 title: Pretvorite AI u PDF putem Jave
 description: Primjer Java koda za pretvorbu za AI format u PDF datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u PDF unutar bilo koje web ili Desktop aplikacije temeljene na Javi.
+url: cr/java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Primjer Java koda za pretvorbu za AI format u PDF datoteku. Upotrij
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u PDF pomoću Jave" %}}
 
-Da bismo AI pretvorili u PDF, koristit ćemo se<a href="{{< relref "java" >}}">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
+Da bismo AI pretvorili u PDF, koristit ćemo se<a href="/psd/{{< lang-code >}}java">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Spremište" offSpacer="true" %}}
 

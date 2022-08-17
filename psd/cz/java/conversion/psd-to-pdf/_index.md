@@ -2,6 +2,7 @@
 title: Převod PSD do PDF přes Java
 weight: 360
 description: Ukázkový konverzní kód Java pro formát PSD do souboru PDF. Tento ukázkový kód použijte k převodu PSD do PDF v jakékoli webové nebo desktopové Java aplikaci.
+url: cz/java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Ukázkový konverzní kód Java pro formát PSD do souboru PDF. Ten
 {{% blocks/products/pf/agp/content h2="Jak převést PSD do PDF pomocí Javy" %}}
 
  K vykreslení PSD do PDF použijeme
- [Aspose.PSD pro Java]({{< relref "java" >}})
+ [Aspose.PSD pro Java](/psd/{{< lang-code >}}java)
  API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.

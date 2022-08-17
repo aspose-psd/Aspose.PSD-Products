@@ -1,6 +1,7 @@
 ---
 title: C# Photoshop Files -muunnos
 description: Muunna Photoshop PSD, PSB PDF:ksi ja kuviksi, mukaan lukien BMP, JPG, PNG, TIFF muutamalla rivillä C#-koodia .NET-kirjaston kautta.
+url: fl/net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

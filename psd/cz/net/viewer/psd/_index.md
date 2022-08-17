@@ -2,6 +2,7 @@
 title: Zobrazení formátů souborů PSD přes .NET
 weight: 100
 description: Zdrojový kód C# pro načítání, vykreslování a zobrazování dokumentů PSD na .NET Framework, .NET Core.
+url: cz/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Zdrojový kód C# pro načítání, vykreslování a zobrazování 
 {{% blocks/products/pf/agp/content h2="Jak zobrazit soubor PSD pomocí C#" %}}
 
  K zobrazení souboru PSD použijeme
- [Aspose.PSD pro .NET]({{< relref "net" >}})
+ [Aspose.PSD pro .NET](/psd/{{< lang-code >}}net)
  API, což je funkčně bohaté, výkonné a snadno použitelné API pro platformu C#, které lze použít s jakýmkoli prohlížečem. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  správce balíčků, vyhledejte

@@ -7,6 +7,7 @@ feature: conversion
 informat: PSD
 outformat: JPEG
 otherformats: BMP GIF JPEG2000 JP2 PDF PNG TIFF
+url: la/net/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,6 +2,7 @@
 title: .NET och Java Photoshop API:er | Analysera PSD- och PSB-filer
 weight: 10
 description: Bibliotek för att läsa skriva och exportera PSD- och PSB-filer på flera plattformar. Extrahera och manipulera lager utan Photoshop installerat.
+url: sv/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

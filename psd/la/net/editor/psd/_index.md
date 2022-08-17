@@ -1,6 +1,7 @@
 ---
 title: Edit PSD documentum per .NET
 description: C# source code ad lima in .NET Framework .NET Core edit PSD.
+url: la/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: C# source code ad lima in .NET Framework .NET Core edit PSD.
 {{% blocks/products/pf/agp/content h2=" Quomodo PsD Tabularia utens C# Edit." %}}
 
  Ut PSD lima emendo, nos utemur
- [Aspose.PSD pro .NET] ({{< relref "net" >}})
+ [Aspose.PSD pro .NET] (/psd/{{< lang-code >}}net)
  API quod est pluma-dives, potens et facilis utendi documento manipulationis API pro C# suggestu. Apertum
  [nuGet] (https://www.nuget.org/packages/aspose.psd)
  sarcina procurator, quaerere

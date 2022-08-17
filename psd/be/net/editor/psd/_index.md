@@ -1,6 +1,7 @@
 ---
 title: Рэдагаваць дакумент PSD праз .NET
 description: Зыходны код C# для рэдагавання файла PSD на .NET Framework, .NET Core.
+url: be/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Зыходны код C# для рэдагавання файла P
 {{% blocks/products/pf/agp/content h2="Як рэдагаваць дадзеныя файла PSD з дапамогай C#" %}}
 
  Для рэдагавання файла PSD мы будзем выкарыстоўваць
- [Aspose.PSD для .NET]({{< relref "net" >}})
+ [Aspose.PSD для .NET](/psd/{{< lang-code >}}net)
  API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API для маніпулявання дакументамі для платформы C#. Адкрыць
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  менеджэр пакетаў, пошук

@@ -1,6 +1,7 @@
 ---
 title: Muunna tekoäly JPEG2000:ksi Javalla
 description: Esimerkki Java-muunnoskoodista AI-muodolle JPEG2000-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn JPEG2000:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
+url: fl/java/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodolle JPEG2000-tiedostoksi. K�
 
 {{% blocks/products/pf/agp/content h2="Tekoälyn muuntaminen JPEG2000:ksi Javalla" %}}
 
-Jotta tekoäly voidaan renderöidä JPEG2000:ksi, käytämme<a href="{{< relref "java" >}}">Aspose.PSD Javalle</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.
+Jotta tekoäly voidaan renderöidä JPEG2000:ksi, käytämme<a href="/psd/{{< lang-code >}}java">Aspose.PSD Javalle</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.
 
 {{% blocks/products/pf/agp/code-block title="Arkisto" offSpacer="true" %}}
 

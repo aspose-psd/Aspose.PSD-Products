@@ -2,6 +2,7 @@
 title: Muunna PSB PDF:ksi C#:n kautta
 weight: 340
 description: Esimerkkikoodi PSB:n C#-muunnokseksi PDF-muotoon. Käytä API-esimerkkikoodia erän PSB-tiedostojen muuntamiseen PDF-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
+url: fl/net/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Esimerkkikoodi PSB:n C#-muunnokseksi PDF-muotoon. Käytä API-esime
 {{% blocks/products/pf/agp/content h2="PSB:n muuntaminen PDF:ksi C#:n avulla" %}}
 
  PSB:n muuntamiseksi PDF:ksi käytämme
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittelyn ja muuntamisen API C#-alustalle. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

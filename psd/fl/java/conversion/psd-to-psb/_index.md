@@ -2,6 +2,7 @@
 title: Muunna PSD PSB:ksi Javan kautta
 weight: 280
 description: Esimerkki Java-muunnoskoodista PSD-muodosta PSB-tiedostoon. Käytä tätä esimerkkikoodia muuntaaksesi PSD:n PSB:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
+url: fl/java/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Esimerkki Java-muunnoskoodista PSD-muodosta PSB-tiedostoon. Käytä
 {{% blocks/products/pf/agp/content h2="Kuinka muuntaa PSD PSB:ksi Javalla" %}}
 
  Käytämme PSD:n renderöimiseksi PSB:ksi
- [Aspose.PSD for Java]({{< relref "java" >}})
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.

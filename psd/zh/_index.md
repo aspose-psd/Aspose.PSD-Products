@@ -2,6 +2,7 @@
 title: 創建、編輯或轉換 PSD 和 PSB 文件為 PDF 和圖像格式
 weight: 310
 description: 用於編輯​​ Photoshop 文件的高代碼 API 和免費應用程序。能夠更新圖層屬性，添加水印旋轉比例翻轉裁剪抖動光柵轉換。
+url: zh/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

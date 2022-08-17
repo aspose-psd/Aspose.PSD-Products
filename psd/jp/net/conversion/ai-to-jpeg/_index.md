@@ -1,6 +1,7 @@
 ---
 title: C＃を介してAIをJPEGに変換する
 description: AIからJPEGC＃変換のサンプルコード。VB.NET、Asp.NET、または任意の.NETベースのアプリケーション内でのバッチAIファイルからJPEGへの変換にAPIサンプルコードを使用します。
+url: jp/net/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AIからJPEGC＃変換のサンプルコード。VB.NET、Asp.NET�
 
 {{% blocks/products/pf/agp/content h2=" C＃を使用してAIをJPEGに変換する方法" %}}
 
-AIをJPEGに変換するには、<a href="{{< relref "net" >}}"> Aspose.PSD for .NET</a> C＃プラットフォーム用の機能が豊富で強力で使いやすいドキュメント操作および変換APIであるAPI。開ける<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a>パッケージマネージャー、検索<b> Aspose.PSD</b>そしてインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+AIをJPEGに変換するには、<a href="/psd/{{< lang-code >}}net"> Aspose.PSD for .NET</a> C＃プラットフォーム用の機能が豊富で強力で使いやすいドキュメント操作および変換APIであるAPI。開ける<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a>パッケージマネージャー、検索<b> Aspose.PSD</b>そしてインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Akvomarko PSD-dokumento per Java
 weight: 60
 description: Java ekzempla kodo por aldoni aŭ forigi akvomarkon al PSD-dosiero en Java Runtime Environment por JSP/JSF-Apliko kaj Labortabla Apliko.
+url: eo/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Java ekzempla kodo por aldoni aŭ forigi akvomarkon al PSD-dosiero 
 {{% blocks/products/pf/agp/content h2="Kiel Akvomarki PSD-dosieron Uzante Java" %}}
 
  Por akvomarki PSD-dosieron, ni uzos
- [Aspose.PSD por Java]({{< relref "java" >}})
+ [Aspose.PSD por Java](/psd/{{< lang-code >}}java)
  API kiu estas riĉa en funkcioj, potenca kaj facile uzebla API pri akvomarko por Java platformo. Vi povas elŝuti ĝian lastan version rekte de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  kaj instalu ĝin ene de via Maven-bazita projekto aldonante la sekvajn agordojn al la pom.xml.

@@ -1,6 +1,7 @@
 ---
 title: Converte AI ad PSD per Javam
 description: Sample Java conversionem pro AI format ad fasciculum PSD. Hoc exemplo utere codice ut AI ad PSD convertat intra cuiuslibet Telae vel Desktop Java in applicatione subnixa.
+url: la/java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Sample Java conversionem pro AI format ad fasciculum PSD. Hoc exemp
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi AI ad PSD Using Java" %}}
 
-Ut AI ad PSD reddamus, utemur<a href="{{< relref "java" >}}"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, addendo sequentes conformationes ad pom.xml.
+Ut AI ad PSD reddamus, utemur<a href="/psd/{{< lang-code >}}java"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, addendo sequentes conformationes ad pom.xml.
 
 {{% blocks/products/pf/agp/code-block title=" Repository" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Visum PSD Tabellae per .NET
 weight: 100
 description: C# source code onerare, reddere et ostendere documenta PSD in NET Framework, .NET Core.
+url: la/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C# source code onerare, reddere et ostendere documenta PSD in NET F
 {{% blocks/products/pf/agp/content h2=" Quomodo videre PSD Tabulariam utens C#" %}}
 
  Ut inspicias PSD lima, nos utemur
- [Aspose.PSD pro .NET] ({{< relref "net" >}})
+ [Aspose.PSD pro .NET] (/psd/{{< lang-code >}}net)
  API quod est pluma dives, potens et facilis ad API pro C# suggestu utendum cum aliquo Visore. Apertum
  [nuGet] (https://www.nuget.org/packages/aspose.psd)
  sarcina procurator, quaerere

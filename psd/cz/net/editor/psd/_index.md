@@ -1,6 +1,7 @@
 ---
 title: Úprava dokumentu PSD přes .NET
 description: Zdrojový kód C# pro úpravu souboru PSD na .NET Framework, .NET Core.
+url: cz/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Zdrojový kód C# pro úpravu souboru PSD na .NET Framework, .NET C
 {{% blocks/products/pf/agp/content h2="Jak upravit data souboru PSD pomocí C#" %}}
 
  K úpravě souboru PSD použijeme
- [Aspose.PSD pro .NET]({{< relref "net" >}})
+ [Aspose.PSD pro .NET](/psd/{{< lang-code >}}net)
  API, což je funkčně bohaté, výkonné a snadno použitelné API pro manipulaci s dokumenty pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  správce balíčků, vyhledejte

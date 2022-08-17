@@ -2,6 +2,7 @@
 title: Java aracılığıyla filigran PSD belgesi
 weight: 60
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki PSD dosyasına filigran eklemek veya kaldırmak için Java örnek kodu.
+url: tr/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak PSD Dosyasını Filigran Etme" %}}
 
  PSD dosyasını filigranlamak için kullanacağız
- [Java için Aspose.PSD]({{< relref "java" >}})
+ [Java için Aspose.PSD](/psd/{{< lang-code >}}java)
  Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigran API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.

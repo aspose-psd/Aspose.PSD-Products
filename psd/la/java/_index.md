@@ -2,6 +2,7 @@
 title: Java Photoshop API | PSD et PSB Forma Parsing
 weight: 270
 description: Crea mutare vel convertere PSD et PSB formats utentes hac bibliotheca in aliqua applicatione Javae, sine programmatibus Photoshop.
+url: la/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

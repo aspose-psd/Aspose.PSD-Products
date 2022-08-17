@@ -2,6 +2,7 @@
 title: وثيقة علامة مائية PSD عبر .NET
 weight: 130
 description: كود مصدر C # لإضافة أو إزالة العلامة المائية إلى ملف PSD على .NET Framework ، .NET Core.
+url: ar/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: كود مصدر C # لإضافة أو إزالة العلامة ا�
 {{% blocks/products/pf/agp/content h2=" كيفية وضع علامة مائية على ملف PSD باستخدام C #" %}}
 
  من أجل وضع علامة مائية على ملف PSD ، سنستخدم
- [Aspose.PSD for .NET] ({{< relref "net" >}})
+ [Aspose.PSD for .NET] (/psd/{{< lang-code >}}net)
  API وهو واجهة برمجة تطبيقات لمعالجة المستندات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C #. يفتح
  [NuGet] (https://www.nuget.org/packages/aspose.psd)
  مدير الحزم ، ابحث عن

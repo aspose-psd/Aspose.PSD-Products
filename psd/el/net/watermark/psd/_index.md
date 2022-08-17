@@ -2,6 +2,7 @@
 title: Υδατογράφημα εγγράφου PSD μέσω .NET
 weight: 130
 description: Πηγαίος κώδικας C# για προσθήκη ή αφαίρεση υδατογραφήματος σε αρχείο PSD σε .NET Framework, .NET Core.
+url: el/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Πηγαίος κώδικας C# για προσθήκη ή αφα�
 {{% blocks/products/pf/agp/content h2="Πώς να υδατογραφήσετε αρχείο PSD χρησιμοποιώντας C#" %}}
 
  Για να υδατογραφήσουμε το αρχείο PSD, θα χρησιμοποιήσουμε
- [Aspose.PSD για .NET]({{< relref "net" >}})
+ [Aspose.PSD για .NET](/psd/{{< lang-code >}}net)
  API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση API χειρισμού εγγράφων για πλατφόρμα C#. Ανοιξε
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  διαχειριστής πακέτων, αναζητήστε

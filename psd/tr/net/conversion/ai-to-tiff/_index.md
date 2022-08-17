@@ -1,6 +1,7 @@
 ---
 title: AI'yı C# ile TIFF'ye dönüştürün
 description: AI'dan TIFF'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu AI dosyalarının TIFF dönüşümüne yönelik API örnek kodunu kullanın.
+url: tr/net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AI'dan TIFF'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET v
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak AI'yi TIFF'ye Dönüştürme" %}}
 
-AI'yi TIFF'e dönüştürmek için kullanacağız<a href="{{< relref "net" >}}">.NET için Aspose.PSD</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'si olan API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+AI'yi TIFF'e dönüştürmek için kullanacağız<a href="/psd/{{< lang-code >}}net">.NET için Aspose.PSD</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'si olan API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutanlığı" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: API .NET і Java Photoshop | Розбір файлів PSD і PSB
 weight: 10
 description: Бібліотека для читання запису та експорту файлів PSD і PSB на кількох платформах. Витягуйте шари та маніпулюйте ними без встановленого Photoshop.
+url: ua/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

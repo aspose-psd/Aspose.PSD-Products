@@ -1,6 +1,7 @@
 ---
 title: Converti AI in PNG tramite Java
 description: Esempio di codice di conversione Java per il formato AI in file PNG. Usa questo codice di esempio per convertire l'IA in PNG all'interno di qualsiasi applicazione basata su Java Web o Desktop.
+url: it/java/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Esempio di codice di conversione Java per il formato AI in file PNG
 
 {{% blocks/products/pf/agp/content h2="Come convertire l'IA in PNG usando Java" %}}
 
-Per rendere l'IA in PNG, useremo<a href="{{< relref "java" >}}">Aspose.PSD per Java</a> API che è un'API di conversione ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per rendere l'IA in PNG, useremo<a href="/psd/{{< lang-code >}}java">Aspose.PSD per Java</a> API che è un'API di conversione ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 

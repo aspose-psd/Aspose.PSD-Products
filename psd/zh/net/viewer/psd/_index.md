@@ -2,6 +2,7 @@
 title: 通過 .NET 查看 PSD 文件格式
 weight: 100
 description: 用於在 .NET Framework、.NET Core 上加載、渲染和顯示 PSD 文檔的 C# 源代碼。
+url: zh/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: 用於在 .NET Framework、.NET Core 上加載、渲染和顯示 PS
 {{% blocks/products/pf/agp/content h2="如何使用C#查看PSD文件" %}}
 
  為了查看 PSD 文件，我們將使用
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API 是一個功能豐富、功能強大且易於使用的 C# 平台 API，可與任何查看器一起使用。打開
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  包管理器，搜索

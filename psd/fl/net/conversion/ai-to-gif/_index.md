@@ -1,6 +1,7 @@
 ---
 title: Muunna tekoäly GIF:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi GIF C# -muunnokseksi. Käytä API-esimerkkikoodia tekoälytiedostojen GIF-muuntamiseen VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
+url: fl/net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Esimerkkikoodi AI:ksi GIF C# -muunnokseksi. Käytä API-esimerkkiko
 
 {{% blocks/products/pf/agp/content h2="Tekoälyn muuntaminen GIF-muotoon C#:n avulla" %}}
 
-Muuntaaksemme tekoälyn GIF-muotoon käytämme<a href="{{< relref "net" >}}">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittely- ja muunnossovellusliittymä C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
+Muuntaaksemme tekoälyn GIF-muotoon käytämme<a href="/psd/{{< lang-code >}}net">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittely- ja muunnossovellusliittymä C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
 
 {{% blocks/products/pf/agp/code-block title="Paketinhallintakonsolin komento" offSpacer="true" %}}
 

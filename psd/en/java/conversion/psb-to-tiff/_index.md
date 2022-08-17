@@ -1,7 +1,7 @@
 ---
-title: Convert PSB to TIFF via Java 
+title: Convert PSB to TIFF via Java
 weight: 40
-url: /java/conversion/psb-to-tiff/ 
+url: /java/conversion/psb-to-tiff/
 description: Sample Java conversion code for PSB format to TIFF file. Use this example code to convert PSB to TIFF within any Web or Desktop Java based application.
 ---
 
@@ -14,7 +14,7 @@ description: Sample Java conversion code for PSB format to TIFF file. Use this e
 {{% blocks/products/pf/agp/content h2="How to Convert PSB to TIFF Using Java" %}}
 
  In order to render PSB to TIFF, we’ll use
- [Aspose.PSD for Java]({{< relref "java" >}}) 
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd) 
  and install it within your Maven-based project by adding the following configurations to the pom.xml.

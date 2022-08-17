@@ -1,6 +1,7 @@
 ---
 title: Konversi AI ke GIF melalui C#
 description: Contoh kode untuk konversi AI ke GIF C#. Gunakan kode contoh API untuk file batch AI ke konversi GIF dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
+url: id/net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Contoh kode untuk konversi AI ke GIF C#. Gunakan kode contoh API un
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi AI ke GIF Menggunakan C#" %}}
 
-Untuk mengonversi AI ke GIF, kami akan menggunakan<a href="{{< relref "net" >}}">Aspose.PSD untuk .NET</a> API yang merupakan API konversi dan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> manajer paket, cari<b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi AI ke GIF, kami akan menggunakan<a href="/psd/{{< lang-code >}}net">Aspose.PSD untuk .NET</a> API yang merupakan API konversi dan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> manajer paket, cari<b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Converte PSB ad PDF per Java
 weight: 190
 description: Sample Java conversionis signum pro PSB forma ad fasciculum PDF. Hoc exemplo utere codice ad PSB ad PDF convertendi intra quamlibet Web vel Desktop Java sub applicatione subnixa.
+url: la/java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Sample Java conversionis signum pro PSB forma ad fasciculum PDF. Ho
 {{% blocks/products/pf/agp/content h2=" Quomodo convertere PSB ad PDF Usura Java" %}}
 
  Ut PSB ad PDF reddamus, adhibebimus
- [Aspose.PSD pro Java] ({{< relref "java" >}})
+ [Aspose.PSD pro Java] (/psd/{{< lang-code >}}java)
  API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.

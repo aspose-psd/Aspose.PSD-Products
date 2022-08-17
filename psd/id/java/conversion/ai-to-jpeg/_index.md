@@ -1,6 +1,7 @@
 ---
 title: Konversi AI ke JPEG melalui Java
 description: Contoh kode konversi Java untuk format AI ke file JPEG. Gunakan kode contoh ini untuk mengonversi AI ke JPEG dalam aplikasi berbasis Java Web atau Desktop.
+url: id/java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Contoh kode konversi Java untuk format AI ke file JPEG. Gunakan kod
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi AI ke JPEG Menggunakan Java" %}}
 
-Untuk merender AI ke JPEG, kami akan menggunakan<a href="{{< relref "java" >}}">Aspose.PSD untuk Java</a> API yang merupakan API konversi yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Untuk merender AI ke JPEG, kami akan menggunakan<a href="/psd/{{< lang-code >}}java">Aspose.PSD untuk Java</a> API yang merupakan API konversi yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositori" offSpacer="true" %}}
 

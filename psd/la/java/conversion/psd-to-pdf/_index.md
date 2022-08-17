@@ -2,6 +2,7 @@
 title: Converte PSD ad PDF per Java
 weight: 360
 description: Sample Java conversionis signum pro PSD forma ad documentum PDF. Hoc exemplo utere codice ad PSD convertendi ad PDF intra cuiuslibet Telae vel Desktop Java sub applicatione.
+url: la/java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Sample Java conversionis signum pro PSD forma ad documentum PDF. Ho
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSD ad PDF Usura Java" %}}
 
  Ut PSD ad PDF reddamus, adhibebimus
- [Aspose.PSD pro Java] ({{< relref "java" >}})
+ [Aspose.PSD pro Java] (/psd/{{< lang-code >}}java)
  API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.

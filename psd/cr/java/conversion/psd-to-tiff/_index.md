@@ -2,6 +2,7 @@
 title: Pretvorite PSD u TIFF putem Jave
 weight: 170
 description: Primjer Java koda za pretvorbu za PSD format u TIFF datoteku. Upotrijebite ovaj primjer koda za pretvaranje PSD-a u TIFF unutar bilo koje web- ili Desktop Java aplikacije.
+url: cr/java/conversion/psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Primjer Java koda za pretvorbu za PSD format u TIFF datoteku. Upotr
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSD u TIFF pomoću Jave" %}}
 
  Da bismo pretvorili PSD u TIFF, koristit ćemo se
- [Aspose.PSD za Javu]({{< relref "java" >}})
+ [Aspose.PSD za Javu](/psd/{{< lang-code >}}java)
  API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.

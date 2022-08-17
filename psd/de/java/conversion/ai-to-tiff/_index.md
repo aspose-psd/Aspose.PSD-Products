@@ -1,6 +1,7 @@
 ---
 title: Konvertieren von AI in TIFF über Java
 description: Beispiel-Java-Konvertierungscode für das AI-Format in eine TIFF-Datei. Verwenden Sie diesen Beispielcode, um AI in TIFF in jeder Web- oder Desktop-Java-basierten Anwendung zu konvertieren.
+url: de/java/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Beispiel-Java-Konvertierungscode für das AI-Format in eine TIFF-Da
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie AI in TIFF mit Java" %}}
 
-Um AI in TIFF zu rendern, verwenden wir<a href="{{< relref "java" >}}">Aspose.PSD für Java</a> API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie die folgenden Konfigurationen zur pom.xml hinzufügen.
+Um AI in TIFF zu rendern, verwenden wir<a href="/psd/{{< lang-code >}}java">Aspose.PSD für Java</a> API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie die folgenden Konfigurationen zur pom.xml hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

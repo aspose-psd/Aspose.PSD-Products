@@ -2,6 +2,7 @@
 title: Pregledajte PSD formate datoteka putem .NET-a
 weight: 100
 description: C# izvorni kod za učitavanje, renderiranje i prikaz PSD dokumenata na .NET Framework, .NET Core.
+url: cr/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C# izvorni kod za učitavanje, renderiranje i prikaz PSD dokumenata
 {{% blocks/products/pf/agp/content h2="Kako pogledati PSD datoteku koristeći C#" %}}
 
  Za pregled PSD datoteke koristit ćemo se
- [Aspose.PSD za .NET]({{< relref "net" >}})
+ [Aspose.PSD za .NET](/psd/{{< lang-code >}}net)
  API koji je bogat značajkama, moćan i jednostavan za korištenje API za C# platformu za korištenje s bilo kojim preglednikom. Otvoren
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  upravitelj paketa, traži

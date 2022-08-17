@@ -2,6 +2,7 @@
 title: Tarkastele PSD-tiedostomuotoja .NET:n kautta
 weight: 100
 description: C#-lähdekoodi PSD-dokumenttien lataamiseen, hahmontamiseen ja näyttämiseen .NET Frameworkissa, .NET Coressa.
+url: fl/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C#-lähdekoodi PSD-dokumenttien lataamiseen, hahmontamiseen ja näy
 {{% blocks/products/pf/agp/content h2="PSD-tiedoston tarkasteleminen C#:lla" %}}
 
  PSD-tiedoston katselemiseksi käytämme
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen API C#-alustalle käytettäväksi minkä tahansa Viewerin kanssa. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

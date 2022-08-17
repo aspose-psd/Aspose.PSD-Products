@@ -2,6 +2,7 @@
 title: Javaを介してPSDをJPEGに変換する
 weight: 20
 description: PSD形式からJPEGファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でPSDをJPEGに変換します。
+url: jp/java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

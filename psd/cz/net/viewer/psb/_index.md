@@ -2,6 +2,7 @@
 title: Zobrazení formátů souborů PSB přes .NET
 weight: 320
 description: Zdrojový kód C# pro načítání, vykreslování a zobrazování dokumentů PSB na .NET Framework, .NET Core.
+url: cz/net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Zdrojový kód C# pro načítání, vykreslování a zobrazování 
 {{% blocks/products/pf/agp/content h2="Jak zobrazit soubor PSB pomocí C#" %}}
 
  Abychom mohli zobrazit soubor PSB, použijeme
- [Aspose.PSD pro .NET]({{< relref "net" >}})
+ [Aspose.PSD pro .NET](/psd/{{< lang-code >}}net)
  API, což je funkčně bohaté, výkonné a snadno použitelné API pro platformu C#, které lze použít s jakýmkoli prohlížečem. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  správce balíčků, vyhledejte

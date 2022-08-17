@@ -2,6 +2,7 @@
 title: Kreu, Redaktu aŭ Konvertu PSD kaj PSB-dosierojn al PDF kaj bildformatoj
 weight: 310
 description: Altkodaj APIoj kaj Senpagaj Aplikoj por redakti Photoshop-dosierojn. Kapablo ĝisdatigi tavolproprietojn, aldoni akvomarkojn rotacii skalon Flip Crop Dithering Raster Konvertiĝo.
+url: eo/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,6 +2,7 @@
 title: Pretvorite PSB u BMP putem Jave
 weight: 300
 description: Uzorak Java koda za pretvorbu za PSB format u BMP datoteku. Upotrijebite ovaj primjer koda za pretvaranje PSB-a u BMP unutar bilo koje Web ili Desktop Java aplikacije.
+url: cr/java/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Uzorak Java koda za pretvorbu za PSB format u BMP datoteku. Upotrij
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSB u BMP koristeći Javu" %}}
 
  Da bismo PSB prikazali u BMP, koristit ćemo se
- [Aspose.PSD za Javu]({{< relref "java" >}})
+ [Aspose.PSD za Javu](/psd/{{< lang-code >}}java)
  API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.

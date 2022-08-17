@@ -1,6 +1,7 @@
 ---
 title: Converte AI ad TIFF per C#
 description: Sample code pro AI ad TIFF C# conversionem. Exemplo API utere codice ad batch AI limam ad TIFF conversionem intra VB.NET, Asp.NET vel aliqua applicatione NET fundatum.
+url: la/net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Sample code pro AI ad TIFF C# conversionem. Exemplo API utere codic
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi AI ad TIFF Using C#" %}}
 
-Ut AI ad TIFF convertamus, utemur<a href="{{< relref "net" >}}"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis ad usum documenti manipulationis et conversionis API pro C# suggestu. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b> Aspose.PSD</b> et instituere. Praecepto sequenti uti licet Procurator Sarcinae Console.
+Ut AI ad TIFF convertamus, utemur<a href="/psd/{{< lang-code >}}net"> Aspose.PSD pro .NET</a> API quod est pluma dives, potens et facilis ad usum documenti manipulationis et conversionis API pro C# suggestu. Apertum<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Involucrum procurator, quaere<b> Aspose.PSD</b> et instituere. Praecepto sequenti uti licet Procurator Sarcinae Console.
 
 {{% blocks/products/pf/agp/code-block title=" Package Manager Console Command" offSpacer="true" %}}
 

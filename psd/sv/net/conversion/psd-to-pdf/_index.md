@@ -2,6 +2,7 @@
 title: Konvertera PSD till PDF via C#
 weight: 200
 description: Exempelkod för PSD till PDF C#-konvertering. Använd API-exempelkod för batch-PSD-filer till PDF-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+url: sv/net/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Exempelkod för PSD till PDF C#-konvertering. Använd API-exempelko
 {{% blocks/products/pf/agp/content h2="Hur man konverterar PSD till PDF med C#" %}}
 
  För att konvertera PSD till PDF kommer vi att använda
- [Aspose.PSD för .NET]({{< relref "net" >}})
+ [Aspose.PSD för .NET](/psd/{{< lang-code >}}net)
  API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulation och konvertering för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakethanterare, sök efter

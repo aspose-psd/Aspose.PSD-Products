@@ -1,6 +1,7 @@
 ---
 title: PSD'yi C# ile JPEG2000'e dönüştürün
 description: PSD'den JPEG2000'e C# dönüştürme için örnek kod. Toplu PSD dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde JPEG2000 dönüşümü için API örnek kodunu kullanın.
+url: tr/net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: PSD'den JPEG2000'e C# dönüştürme için örnek kod. Toplu PSD do
 
 {{% blocks/products/pf/agp/content h2="PSD'yi C# Kullanarak JPEG2000'e Dönüştürme" %}}
 
-PSD'yi JPEG2000'e dönüştürmek için kullanacağız<a href="{{< relref "net" >}}">.NET için Aspose.PSD</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'si olan API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+PSD'yi JPEG2000'e dönüştürmek için kullanacağız<a href="/psd/{{< lang-code >}}net">.NET için Aspose.PSD</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'si olan API. Açık<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paket yöneticisi, şunu arayın<b>Aspose.PSD</b> ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutanlığı" offSpacer="true" %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Konverze dokumentů Java Photoshop
 description: Převeďte Photoshop PSD, PSB na obrázky včetně BMP, JPG, PNG, TIFF a PDF prostřednictvím knihovny Java.
+url: cz/java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

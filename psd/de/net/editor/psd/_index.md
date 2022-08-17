@@ -1,6 +1,7 @@
 ---
 title: PSD-Dokument über .NET bearbeiten
 description: C#-Quellcode zum Bearbeiten der PSD-Datei auf .NET Framework, .NET Core.
+url: de/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: C#-Quellcode zum Bearbeiten der PSD-Datei auf .NET Framework, .NET 
 {{% blocks/products/pf/agp/content h2="So bearbeiten Sie PSD-Dateidaten mit C#" %}}
 
  Um die PSD-Datei zu bearbeiten, verwenden wir
- [Aspose.PSD für .NET]({{< relref "net" >}})
+ [Aspose.PSD für .NET](/psd/{{< lang-code >}}net)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende API zur Dokumentenmanipulation für die C#-Plattform ist. Offen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  Paketmanager, suche nach

@@ -2,6 +2,7 @@
 title: जावा के माध्यम से वॉटरमार्क PSD दस्तावेज़
 weight: 60
 description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए जावा रनटाइम एनवायरनमेंट पर PSD फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए जावा नमूना कोड।
+url: hi/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: JSP/JSF एप्लिकेशन और डेस्कटॉप
 {{% blocks/products/pf/agp/content h2="जावा का उपयोग करके PSD फ़ाइल को वॉटरमार्क कैसे करें" %}}
 
  PSD फ़ाइल को वॉटरमार्क करने के लिए, हम उपयोग करेंगे
- [जावा के लिए Aspose.PSD]({{< relref "java" >}})
+ [जावा के लिए Aspose.PSD](/psd/{{< lang-code >}}java)
  एपीआई जो एक सुविधा संपन्न, शक्तिशाली और जावा प्लेटफॉर्म के लिए वॉटरमार्किंग एपीआई का उपयोग करने में आसान है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
  [मेवेन](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।

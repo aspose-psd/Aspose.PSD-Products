@@ -2,6 +2,7 @@
 title: Java를 통한 워터마크 PSD 문서
 weight: 60
 description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용 Java Runtime Environment에서 PSD 파일에 워터마크를 추가하거나 제거하는 Java 샘플 코드입니다.
+url: ko/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용
 {{% blocks/products/pf/agp/content h2="Java를 사용하여 PSD 파일에 워터마크를 삽입하는 방법" %}}
 
  PSD 파일에 워터마크를 지정하려면 다음을 사용합니다.
- [자바용 Aspose.PSD]({{< relref "java" >}})
+ [자바용 Aspose.PSD](/psd/{{< lang-code >}}java)
  기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 워터마킹 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
  [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.

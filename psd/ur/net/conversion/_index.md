@@ -1,6 +1,7 @@
 ---
 title: C# فوٹوشاپ فائلوں کی تبدیلی
 description: فوٹوشاپ PSD، PSB کو PDF میں تبدیل کریں اور BMP، JPG، PNG، TIFF سمیت تصاویر کو .NET لائبریری کے ذریعے C# کوڈ کی چند لائنوں کے ساتھ تبدیل کریں۔
+url: ur/net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

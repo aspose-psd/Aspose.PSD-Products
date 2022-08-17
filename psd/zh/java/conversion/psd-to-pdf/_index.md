@@ -2,6 +2,7 @@
 title: 通過Java將PSD轉PDF
 weight: 360
 description: PSD 格式到 PDF 文件的示例 Java 轉換代碼。使用此示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 PSD 轉換為 PDF。
+url: zh/java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: PSD 格式到 PDF 文件的示例 Java 轉換代碼。使用此示�
 {{% blocks/products/pf/agp/content h2="如何使用Java將PSD轉PDF" %}}
 
  為了將 PSD 渲染為 PDF，我們將使用
- [Aspose.PSD for Java]({{< relref "java" >}})
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java)
  API 是一個功能豐富、功能強大且易於使用的 Java 平台轉換 API。您可以直接從
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。

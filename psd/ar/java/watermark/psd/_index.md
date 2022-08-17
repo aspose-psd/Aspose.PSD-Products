@@ -2,6 +2,7 @@
 title: مستند PSD للعلامة المائية عبر Java
 weight: 60
 description: نموذج كود Java لإضافة أو إزالة العلامة المائية إلى ملف PSD على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
+url: ar/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: نموذج كود Java لإضافة أو إزالة العلامة 
 {{% blocks/products/pf/agp/content h2=" كيفية وضع علامة مائية على ملف PSD باستخدام Java" %}}
 
  من أجل وضع علامة مائية على ملف PSD ، سنستخدم
- [Aspose.PSD لجافا] ({{< relref "java" >}})
+ [Aspose.PSD لجافا] (/psd/{{< lang-code >}}java)
  API وهي واجهة برمجة تطبيقات للعلامات المائية غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [مافن] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.

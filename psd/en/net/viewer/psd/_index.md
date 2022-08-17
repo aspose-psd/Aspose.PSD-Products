@@ -1,7 +1,7 @@
 ---
-title: View PSD File Formats via .NET 
+title: View PSD File Formats via .NET
 weight: 100
-url: /net/viewer/psd/ 
+url: /net/viewer
 description: C# source code to load, render and display PSD documents on .NET Framework, .NET Core.
 ---
 
@@ -14,7 +14,7 @@ description: C# source code to load, render and display PSD documents on .NET Fr
 {{% blocks/products/pf/agp/content h2="How to View PSD File Using C#" %}}
 
  In order to view PSD file, we’ll use
- [Aspose.PSD for .NET]({{< relref "net" >}}) 
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  package manager, search for

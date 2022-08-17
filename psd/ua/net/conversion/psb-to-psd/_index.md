@@ -2,6 +2,7 @@
 title: Перетворіть PSB на PSD за допомогою C#
 weight: 240
 description: Зразок коду для перетворення PSB в PSD C#. Використовуйте приклад коду API для пакетного перетворення файлів PSB в PSD у VB.NET, Asp.NET або будь-якому додатку на основі .NET.
+url: ua/net/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Зразок коду для перетворення PSB в PSD C#
 {{% blocks/products/pf/agp/content h2="Як перетворити PSB на PSD за допомогою C#" %}}
 
  Щоб конвертувати PSB в PSD, ми скористаємося
- [Aspose.PSD для .NET]({{< relref "net" >}})
+ [Aspose.PSD для .NET](/psd/{{< lang-code >}}net)
  API, який є багатофункціональним, потужним і простим у використанні API для керування документами та перетворення для платформи C#. ВІДЧИНЕНО
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  менеджер пакетів, пошук

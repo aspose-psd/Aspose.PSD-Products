@@ -1,6 +1,7 @@
 ---
 title: تحرير مستند PSD عبر .NET
 description: كود مصدر C # لتحرير ملف PSD على .NET Framework ، .NET Core.
+url: ar/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: كود مصدر C # لتحرير ملف PSD على .NET Framework �
 {{% blocks/products/pf/agp/content h2=" كيفية تحرير بيانات ملف PSD باستخدام C #" %}}
 
  من أجل تحرير ملف PSD ، سنستخدم
- [Aspose.PSD for .NET] ({{< relref "net" >}})
+ [Aspose.PSD for .NET] (/psd/{{< lang-code >}}net)
  API وهو واجهة برمجة تطبيقات لمعالجة المستندات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C #. يفتح
  [NuGet] (https://www.nuget.org/packages/aspose.psd)
  مدير الحزم ، ابحث عن

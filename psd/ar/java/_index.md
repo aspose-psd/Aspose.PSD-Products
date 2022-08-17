@@ -2,6 +2,7 @@
 title: Java Photoshop API | تحليل تنسيق PSD و PSB
 weight: 270
 description: قم بإنشاء تعديل أو تحويل تنسيقات PSD و PSB باستخدام هذه المكتبة داخل أي تطبيق Java دون الحاجة إلى برنامج Photoshop
+url: ar/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

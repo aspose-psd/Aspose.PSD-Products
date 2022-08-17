@@ -1,6 +1,7 @@
 ---
 title: Java経由でPSBをJPEG2000に変換する
 description: PSB形式からJPEG2000ファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でPSBをJPEG2000に変換します。
+url: jp/java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: PSB形式からJPEG2000ファイルへのサンプルJava変換コ�
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してPSBをJPEG2000に変換する方法" %}}
 
-PSBをJPEG2000にレンダリングするために、<a href="{{< relref "java" >}}"> Aspose.PSD for Java</a>Javaプラットフォーム用の機能が豊富で強力で使いやすい変換APIであるAPI。最新バージョンはから直接ダウンロードできます<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> Maven</a>そして、pom.xmlに次の構成を追加して、Mavenベースのプロジェクト内にインストールします。
+PSBをJPEG2000にレンダリングするために、<a href="/psd/{{< lang-code >}}java"> Aspose.PSD for Java</a>Javaプラットフォーム用の機能が豊富で強力で使いやすい変換APIであるAPI。最新バージョンはから直接ダウンロードできます<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> Maven</a>そして、pom.xmlに次の構成を追加して、Mavenベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 

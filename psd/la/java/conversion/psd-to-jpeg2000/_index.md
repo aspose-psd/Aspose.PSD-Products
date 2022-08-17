@@ -1,6 +1,7 @@
 ---
 title: Converte PSD ad JPEG2000 per Java
 description: Sample Java conversionis codice pro PSD format ad fasciculum JPEG2000. Hoc exemplo utere codice ad PSD ad JPEG2000 convertendum intra cuiusvis Telae vel Desktop Java sub applicatione fundatum.
+url: la/java/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Sample Java conversionis codice pro PSD format ad fasciculum JPEG20
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSD ad JPEG2000 Usura Java" %}}
 
-Ut PSD ad JPEG2000 reddat, nos utemur<a href="{{< relref "java" >}}"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, additas sequentes conformationes ad pom.xml.
+Ut PSD ad JPEG2000 reddat, nos utemur<a href="/psd/{{< lang-code >}}java"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, additas sequentes conformationes ad pom.xml.
 
 {{% blocks/products/pf/agp/code-block title=" Repository" offSpacer="true" %}}
 

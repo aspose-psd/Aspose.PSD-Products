@@ -2,6 +2,7 @@
 title: Konvertera PSB till PDF via Java
 weight: 190
 description: Exempel på Java-konverteringskod för PSB-format till PDF-fil. Använd den här exempelkoden för att konvertera PSB till PDF inom alla Java-baserade webb- eller skrivbordsapplikationer.
+url: sv/java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Exempel på Java-konverteringskod för PSB-format till PDF-fil. Anv
 {{% blocks/products/pf/agp/content h2="Hur man konverterar PSB till PDF med Java" %}}
 
  För att rendera PSB till PDF kommer vi att använda
- [Aspose.PSD för Java]({{< relref "java" >}})
+ [Aspose.PSD för Java](/psd/{{< lang-code >}}java)
  API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.

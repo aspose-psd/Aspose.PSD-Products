@@ -7,6 +7,7 @@ feature: conversion
 informat: PSB
 outformat: JPEG
 otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
+url: la/net/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

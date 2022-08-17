@@ -1,6 +1,7 @@
 ---
 title: Convertir AI a GIF a través de C#
 description: Código de muestra para la conversión de AI a GIF C#. Utilice el código de ejemplo de API para la conversión de archivos AI por lotes a GIF dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
+url: es/net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Código de muestra para la conversión de AI a GIF C#. Utilice el c
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir AI a GIF usando C#" %}}
 
-Para convertir AI a GIF, usaremos<a href="{{< relref "net" >}}">Aspose.PSD para .NET</a> API, que es una API de manipulación y conversión de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> administrador de paquetes, busque<b>Aspose.PSD</b> e instalar. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+Para convertir AI a GIF, usaremos<a href="/psd/{{< lang-code >}}net">Aspose.PSD para .NET</a> API, que es una API de manipulación y conversión de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> administrador de paquetes, busque<b>Aspose.PSD</b> e instalar. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}
 

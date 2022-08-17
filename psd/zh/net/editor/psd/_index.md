@@ -1,6 +1,7 @@
 ---
 title: 通過 .NET 編輯 PSD 文件
 description: 在 .NET Framework、.NET Core 上編輯 PSD 文件的 C# 源代碼。
+url: zh/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: 在 .NET Framework、.NET Core 上編輯 PSD 文件的 C# 源代碼
 {{% blocks/products/pf/agp/content h2="如何使用C#編輯PSD文件數據" %}}
 
  為了編輯 PSD 文件，我們將使用
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API 是一個功能豐富、功能強大且易於使用的 C# 平台文檔操作 API。打開
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  包管理器，搜索

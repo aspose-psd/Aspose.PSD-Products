@@ -2,6 +2,7 @@
 title: Java Photoshop API'si | PSD ve PSB Format Ayrıştırma
 weight: 270
 description: Photoshop yazılımı gerektirmeden herhangi bir Java uygulamasında bu kitaplığı kullanarak PSD ve PSB formatlarını değiştirin veya dönüştürün
+url: tr/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

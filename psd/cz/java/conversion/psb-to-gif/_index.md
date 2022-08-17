@@ -2,6 +2,7 @@
 title: Převod PSB na GIF přes Java
 weight: 220
 description: Ukázkový konverzní kód Java pro formát PSB na soubor GIF. Tento ukázkový kód použijte k převodu PSB na GIF v jakékoli webové nebo desktopové Java aplikaci.
+url: cz/java/conversion/psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Ukázkový konverzní kód Java pro formát PSB na soubor GIF. Tent
 {{% blocks/products/pf/agp/content h2="Jak převést PSB na GIF pomocí Java" %}}
 
  K vykreslení PSB na GIF použijeme
- [Aspose.PSD pro Java]({{< relref "java" >}})
+ [Aspose.PSD pro Java](/psd/{{< lang-code >}}java)
  API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.

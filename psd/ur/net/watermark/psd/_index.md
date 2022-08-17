@@ -2,6 +2,7 @@
 title: واٹر مارک PSD دستاویز بذریعہ .NET
 weight: 130
 description: .NET Framework, .NET Core پر PSD فائل میں واٹر مارک شامل کرنے یا ہٹانے کے لیے C# سورس کوڈ۔
+url: ur/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: .NET Framework, .NET Core پر PSD فائل میں واٹر مار�
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے PSD فائل کو واٹر مارک کیسے کریں" %}}
 
  PSD فائل کو واٹر مارک کرنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD برائے .NET]({{< relref "net" >}})
+ [Aspose.PSD برائے .NET](/psd/{{< lang-code >}}net)
  API جو کہ C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری API ہے۔ کھولیں۔
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  پیکیج مینیجر، تلاش کریں۔

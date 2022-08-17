@@ -2,6 +2,7 @@
 title: Канвертаваць PSB у JPEG праз Java
 weight: 180
 description: Прыклад кода пераўтварэння Java для фармату PSB у файл JPEG. Выкарыстоўвайце гэты прыклад кода для пераўтварэння PSB у JPEG у любым вэб- або настольным Java-прыкладанні.
+url: be/java/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Прыклад кода пераўтварэння Java для фа
 {{% blocks/products/pf/agp/content h2="Як канвертаваць PSB у JPEG з дапамогай Java" %}}
 
  Каб перавесці PSB у JPEG, мы будзем выкарыстоўваць
- [Aspose.PSD для Java]({{< relref "java" >}})
+ [Aspose.PSD для Java](/psd/{{< lang-code >}}java)
  API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API пераўтварэння для платформы Java. Вы можаце спампаваць яго апошнюю версію непасрэдна з
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  і ўсталюйце яго ў свой праект на базе Maven, дадаўшы наступныя канфігурацыі ў pom.xml.

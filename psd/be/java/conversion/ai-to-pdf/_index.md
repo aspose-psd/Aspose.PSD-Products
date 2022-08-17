@@ -1,6 +1,7 @@
 ---
 title: Пераўтварэнне AI ў PDF праз Java
 description: Прыклад кода пераўтварэння Java для фармату AI ў файл PDF. Выкарыстоўвайце гэты прыклад кода для пераўтварэння AI ў PDF у любым вэб- або настольным Java-прыкладанні.
+url: be/java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Прыклад кода пераўтварэння Java для фа
 
 {{% blocks/products/pf/agp/content h2="Як канвертаваць AI ў PDF з дапамогай Java" %}}
 
-Каб перавесці AI ў PDF, мы будзем выкарыстоўваць<a href="{{< relref "java" >}}">Aspose.PSD для Java</a> API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API пераўтварэння для платформы Java. Вы можаце спампаваць яго апошнюю версію непасрэдна з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і ўсталюйце яго ў свой праект на базе Maven, дадаўшы наступныя канфігурацыі ў pom.xml.
+Каб перавесці AI ў PDF, мы будзем выкарыстоўваць<a href="/psd/{{< lang-code >}}java">Aspose.PSD для Java</a> API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API пераўтварэння для платформы Java. Вы можаце спампаваць яго апошнюю версію непасрэдна з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і ўсталюйце яго ў свой праект на базе Maven, дадаўшы наступныя канфігурацыі ў pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Сховішча" offSpacer="true" %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Anzeigen von AI-Dateiformaten über .NET
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von KI-Dokumenten auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
+url: de/net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: C#-Quellcode zum Laden, Rendern und Anzeigen von KI-Dokumenten auf 
 
 {{% blocks/products/pf/agp/content h2="So zeigen Sie AI-Dateien mit C# an" %}}
 
-Um die AI-Datei anzuzeigen, verwenden wir<a href="{{< relref "net" >}}">Aspose.PSD für .NET</a> API, eine funktionsreiche, leistungsstarke und einfach zu verwendende API für die C#-Plattform, die mit jedem Viewer verwendet werden kann. Offen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Paketmanager, suche nach<b>Aspose.PSD</b> und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+Um die AI-Datei anzuzeigen, verwenden wir<a href="/psd/{{< lang-code >}}net">Aspose.PSD für .NET</a> API, eine funktionsreiche, leistungsstarke und einfach zu verwendende API für die C#-Plattform, die mit jedem Viewer verwendet werden kann. Offen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> Paketmanager, suche nach<b>Aspose.PSD</b> und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
