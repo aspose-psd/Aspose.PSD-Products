@@ -2,6 +2,7 @@
 title: Converter PSD para GIF via Java
 weight: 330
 description: Exemplo de código de conversão Java para formato PSD para arquivo GIF. Use este código de exemplo para converter PSD em GIF em qualquer aplicativo baseado em Java Web ou Desktop.
+url: pt/java/conversion/psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Exemplo de código de conversão Java para formato PSD para arquivo
 {{% blocks/products/pf/agp/content h2="Como converter PSD para GIF usando Java" %}}
 
  Para renderizar PSD para GIF, usaremos
- [Aspose.PSD para Java]({{< relref "java" >}})
+ [Aspose.PSD para Java](/psd/{{< lang-code >}}java)
  API que é uma API de conversão rica em recursos, poderosa e fácil de usar para a plataforma Java. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.

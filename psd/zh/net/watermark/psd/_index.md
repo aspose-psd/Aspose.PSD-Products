@@ -2,6 +2,7 @@
 title: .NET 水印 PSD 文件
 weight: 130
 description: C# 源代碼，用於在 .NET Framework、.NET Core 上向 PSD 文件添加或刪除水印。
+url: zh/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C# 源代碼，用於在 .NET Framework、.NET Core 上向 PSD 文�
 {{% blocks/products/pf/agp/content h2="如何使用C#給PSD文件加水印" %}}
 
  為了給 PSD 文件加水印，我們將使用
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API 是一個功能豐富、功能強大且易於使用的 C# 平台文檔操作 API。打開
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  包管理器，搜索

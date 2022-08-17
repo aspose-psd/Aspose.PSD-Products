@@ -2,6 +2,7 @@
 title: Pretvorite PSD u PNG putem Jave
 weight: 80
 description: Uzorak Java koda za pretvorbu za PSD format u PNG datoteku. Upotrijebite ovaj primjer koda za pretvaranje PSD-a u PNG unutar bilo koje web- ili desktop aplikacije temeljene na Javi.
+url: cr/java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Uzorak Java koda za pretvorbu za PSD format u PNG datoteku. Upotrij
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSD u PNG pomoću Jave" %}}
 
  Da bismo PSD pretvorili u PNG, koristit ćemo se
- [Aspose.PSD za Javu]({{< relref "java" >}})
+ [Aspose.PSD za Javu](/psd/{{< lang-code >}}java)
  API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.

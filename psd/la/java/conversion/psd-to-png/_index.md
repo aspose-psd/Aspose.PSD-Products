@@ -2,6 +2,7 @@
 title: Converte PSD ad PNG per Java
 weight: 80
 description: Sample Java conversionis pro PSD forma ad PNG lima. Hoc exemplo utere codice ad PNG convertendi PSD ad PNG intra quamlibet Telam vel Desktop Java in applicatione subnixa.
+url: la/java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Sample Java conversionis pro PSD forma ad PNG lima. Hoc exemplo ute
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi PSD ad PNG Using Java?" %}}
 
  Ut PSD ad PNG reddamus, utemur
- [Aspose.PSD pro Java] ({{< relref "java" >}})
+ [Aspose.PSD pro Java] (/psd/{{< lang-code >}}java)
  API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex
  [Maven] ( https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd
  et institue intra consilium tuum Maven-fundatum, additas sequentes figurationes ad pom.xml.

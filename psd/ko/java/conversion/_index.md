@@ -1,6 +1,7 @@
 ---
 title: 자바 포토샵 문서 변환
 description: Photoshop PSD, PSB를 Java 라이브러리를 통해 BMP, JPG, PNG, TIFF 및 PDF를 포함한 이미지로 변환합니다.
+url: ko/java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

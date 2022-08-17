@@ -1,7 +1,7 @@
 ---
-title: Convert PSD to PDF via Java 
+title: Convert PSD to PDF via Java
 weight: 360
-url: /java/conversion/psd-to-pdf/ 
+url: /java/conversion/psd-to-pdf/
 description: Sample Java conversion code for PSD format to PDF file. Use this example code to convert PSD to PDF within any Web or Desktop Java based application.
 ---
 
@@ -14,7 +14,7 @@ description: Sample Java conversion code for PSD format to PDF file. Use this ex
 {{% blocks/products/pf/agp/content h2="How to Convert PSD to PDF Using Java" %}}
 
  In order to render PSD to PDF, we’ll use
- [Aspose.PSD for Java]({{< relref "java" >}}) 
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd) 
  and install it within your Maven-based project by adding the following configurations to the pom.xml.

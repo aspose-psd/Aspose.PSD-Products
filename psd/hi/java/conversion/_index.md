@@ -1,6 +1,7 @@
 ---
 title: जावा फोटोशॉप दस्तावेज़ रूपांतरण
 description: फोटोशॉप PSD, PSB को जावा लाइब्रेरी के माध्यम से BMP, JPG, PNG, TIFF और PDF सहित छवियों में बदलें।
+url: hi/java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

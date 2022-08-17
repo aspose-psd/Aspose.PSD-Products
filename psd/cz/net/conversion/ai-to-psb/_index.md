@@ -1,6 +1,7 @@
 ---
 title: Převést AI na PSB přes C#
 description: Ukázkový kód pro konverzi AI na PSB C#. Použijte ukázkový kód API pro dávkový převod souborů AI na PSB v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+url: cz/net/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Ukázkový kód pro konverzi AI na PSB C#. Použijte ukázkový kó
 
 {{% blocks/products/pf/agp/content h2="Jak převést AI na PSB pomocí C#" %}}
 
-Abychom převedli AI na PSB, použijeme<a href="{{< relref "net" >}}">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi dokumentů pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Abychom převedli AI na PSB, použijeme<a href="/psd/{{< lang-code >}}net">Aspose.PSD pro .NET</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi dokumentů pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> správce balíčků, vyhledejte<b>Aspose.PSD</b> a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Konvertera AI till PSD via Java
 description: Exempel på Java-konverteringskod för AI-format till PSD-fil. Använd den här exempelkoden för att konvertera AI till PSD inom alla Java-baserade webb- eller skrivbordsapplikationer.
+url: sv/java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Exempel på Java-konverteringskod för AI-format till PSD-fil. Anv�
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar AI till PSD med Java" %}}
 
-För att rendera AI till PSD kommer vi att använda<a href="{{< relref "java" >}}">Aspose.PSD för Java</a> API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen. Du kan ladda ner den senaste versionen direkt från<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+För att rendera AI till PSD kommer vi att använda<a href="/psd/{{< lang-code >}}java">Aspose.PSD för Java</a> API som är ett funktionsrikt, kraftfullt och lättanvänt konverterings-API för Java-plattformen. Du kan ladda ner den senaste versionen direkt från<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förråd" offSpacer="true" %}}
 

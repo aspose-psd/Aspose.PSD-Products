@@ -1,5 +1,5 @@
 ---
-title: Edit PSD document via .NET 
+title: Edit PSD document via .NET
 url: /net/editor/psd
 description: C# source code to edit the PSD file on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: C# source code to edit the PSD file on .NET Framework, .NET Core.
 {{% blocks/products/pf/agp/content h2="How to Edit PSD File Data Using C#" %}}
 
  In order to edit PSD file, we’ll use
- [Aspose.PSD for .NET]({{< relref "net" >}}) 
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  package manager, search for

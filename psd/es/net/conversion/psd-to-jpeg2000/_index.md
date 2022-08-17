@@ -1,6 +1,7 @@
 ---
 title: Convertir PSD a JPEG2000 a través de C#
 description: Código de muestra para la conversión de PSD a JPEG2000 C#. Utilice el código de ejemplo API para la conversión de archivos PSD por lotes a JPEG2000 dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
+url: es/net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Código de muestra para la conversión de PSD a JPEG2000 C#. Utilic
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir PSD a JPEG2000 usando C#" %}}
 
-Para convertir PSD a JPEG2000, usaremos<a href="{{< relref "net" >}}">Aspose.PSD para .NET</a> API, que es una API de conversión y manipulación de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> administrador de paquetes, busque<b>Aspose.PSD</b> e instalar. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+Para convertir PSD a JPEG2000, usaremos<a href="/psd/{{< lang-code >}}net">Aspose.PSD para .NET</a> API, que es una API de conversión y manipulación de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> administrador de paquetes, busque<b>Aspose.PSD</b> e instalar. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}
 

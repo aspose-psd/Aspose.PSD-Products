@@ -2,6 +2,7 @@
 title: Luo, muokkaa tai muunna PSD- ja PSB-tiedostoja PDF- ja kuvamuotoihin
 weight: 310
 description: High Code API ja ilmaiset sovellukset Photoshop-tiedostojen muokkaamiseen. Mahdollisuus päivittää kerroksen ominaisuuksia, lisätä vesileimoja kiertää mittakaavaa Flip Crop Dithering Raster Conversion.
+url: fl/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

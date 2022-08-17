@@ -1,6 +1,7 @@
 ---
 title: تحويل AI إلى GIF عبر Java
 description: نموذج كود تحويل Java لتنسيق AI إلى ملف GIF. استخدم رمز المثال هذا لتحويل AI إلى GIF داخل أي تطبيق يستند إلى Web أو Desktop Java.
+url: ar/java/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: نموذج كود تحويل Java لتنسيق AI إلى ملف GIF
 
 {{% blocks/products/pf/agp/content h2=" كيفية تحويل AI إلى GIF باستخدام Java" %}}
 
-من أجل تحويل AI إلى GIF ، سنستخدم<a href="{{< relref "java" >}}"> Aspose.PSD لجافا</a> API وهي واجهة برمجة تطبيقات تحويل غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> مخضرم</a> وقم بتثبيته داخل مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+من أجل تحويل AI إلى GIF ، سنستخدم<a href="/psd/{{< lang-code >}}java"> Aspose.PSD لجافا</a> API وهي واجهة برمجة تطبيقات تحويل غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> مخضرم</a> وقم بتثبيته داخل مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title=" المستودع" offSpacer="true" %}}
 

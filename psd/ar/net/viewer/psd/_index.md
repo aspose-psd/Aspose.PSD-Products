@@ -2,6 +2,7 @@
 title: عرض تنسيقات ملفات PSD عبر .NET
 weight: 100
 description: كود مصدر C # لتحميل وعرض وعرض مستندات PSD على .NET Framework و .NET Core.
+url: ar/net/viewer
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: كود مصدر C # لتحميل وعرض وعرض مستندات P
 {{% blocks/products/pf/agp/content h2=" كيفية عرض ملف PSD باستخدام C #" %}}
 
  من أجل عرض ملف PSD ، سنستخدم
- [Aspose.PSD for .NET] ({{< relref "net" >}})
+ [Aspose.PSD for .NET] (/psd/{{< lang-code >}}net)
  API وهو واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # ليتم استخدامها مع أي عارض. يفتح
  [NuGet] (https://www.nuget.org/packages/aspose.psd)
  مدير الحزم ، ابحث عن

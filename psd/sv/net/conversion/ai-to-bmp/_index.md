@@ -1,6 +1,7 @@
 ---
 title: Konvertera AI till BMP via C#
 description: Exempelkod för AI till BMP C#-konvertering. Använd API-exempelkod för batch-AI-filer till BMP-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+url: sv/net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Exempelkod för AI till BMP C#-konvertering. Använd API-exempelkod
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar AI till BMP med C#" %}}
 
-För att konvertera AI till BMP kommer vi att använda<a href="{{< relref "net" >}}">Aspose.PSD för .NET</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulering och konvertering för C#-plattformen. Öppen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakethanterare, sök efter<b>Aspose.PSD</b> och installera. Du kan också använda följande kommando från Package Manager Console.
+För att konvertera AI till BMP kommer vi att använda<a href="/psd/{{< lang-code >}}net">Aspose.PSD för .NET</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulering och konvertering för C#-plattformen. Öppen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakethanterare, sök efter<b>Aspose.PSD</b> och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Konsolkommando för pakethanterare" offSpacer="true" %}}
 

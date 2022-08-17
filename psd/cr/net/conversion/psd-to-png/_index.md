@@ -7,6 +7,7 @@ feature: conversion
 informat: PSD
 outformat: PNG
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF TIFF
+url: cr/net/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

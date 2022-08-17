@@ -2,6 +2,7 @@
 title: Muunna PSB PSD:ksi C#:n kautta
 weight: 240
 description: Esimerkkikoodi PSB:stä PSD:ksi C#-muunnokseen. Käytä API-esimerkkikoodia PSB-tiedostojen erämuuntamiseen PSD-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
+url: fl/net/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Esimerkkikoodi PSB:stä PSD:ksi C#-muunnokseen. Käytä API-esimerk
 {{% blocks/products/pf/agp/content h2="PSB:n muuntaminen PSD:ksi C#:n avulla" %}}
 
  PSB:n muuntamiseksi PSD:ksi käytämme
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittelyn ja muuntamisen API C#-alustalle. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

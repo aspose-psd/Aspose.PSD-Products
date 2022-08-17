@@ -2,6 +2,7 @@
 title: عرض تنسيقات ملفات PSB عبر .NET
 weight: 320
 description: كود مصدر C # لتحميل وعرض وعرض مستندات PSB على .NET Framework و .NET Core.
+url: ar/net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: كود مصدر C # لتحميل وعرض وعرض مستندات P
 {{% blocks/products/pf/agp/content h2=" كيفية عرض ملف PSB باستخدام C #" %}}
 
  من أجل عرض ملف PSB ، سنستخدم
- [Aspose.PSD for .NET] ({{< relref "net" >}})
+ [Aspose.PSD for .NET] (/psd/{{< lang-code >}}net)
  API وهو واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # ليتم استخدامها مع أي عارض. يفتح
  [NuGet] (https://www.nuget.org/packages/aspose.psd)
  مدير الحزم ، ابحث عن

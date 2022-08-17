@@ -1,6 +1,7 @@
 ---
 title: Pretvorite AI u PSB putem Jave
 description: Uzorak Java koda za pretvorbu za AI format u PSB datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u PSB unutar bilo koje web ili Desktop aplikacije temeljene na Java.
+url: cr/java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Uzorak Java koda za pretvorbu za AI format u PSB datoteku. Upotrije
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u PSB koristeći Javu" %}}
 
-Za renderiranje AI u PSB, koristit ćemo<a href="{{< relref "java" >}}">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
+Za renderiranje AI u PSB, koristit ćemo<a href="/psd/{{< lang-code >}}java">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Spremište" offSpacer="true" %}}
 

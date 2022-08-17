@@ -1,6 +1,7 @@
 ---
 title: Konvertera AI till PSB via C#
 description: Exempelkod för AI till PSB C#-konvertering. Använd API-exempelkod för batch-AI-filer till PSB-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+url: sv/net/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Exempelkod för AI till PSB C#-konvertering. Använd API-exempelkod
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar AI till PSB med C#" %}}
 
-För att konvertera AI till PSB kommer vi att använda<a href="{{< relref "net" >}}">Aspose.PSD för .NET</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulation och konvertering för C#-plattformen. Öppen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakethanterare, sök efter<b>Aspose.PSD</b> och installera. Du kan också använda följande kommando från Package Manager Console.
+För att konvertera AI till PSB kommer vi att använda<a href="/psd/{{< lang-code >}}net">Aspose.PSD för .NET</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulation och konvertering för C#-plattformen. Öppen<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> pakethanterare, sök efter<b>Aspose.PSD</b> och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Konsolkommando för pakethanterare" offSpacer="true" %}}
 

@@ -1,6 +1,7 @@
 ---
 title: 通過 .NET 查看 AI 文件格式
 description: 用於在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上加載、渲染和顯示 AI 文檔的 C# 源代碼。
+url: zh/net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: 用於在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xam
 
 {{% blocks/products/pf/agp/content h2="如何使用C#查看AI文件" %}}
 
-為了查看 AI 文件，我們將使用<a href="{{< relref "net" >}}">Aspose.PSD for .NET</a> API 是一個功能豐富、功能強大且易於使用的 C# 平台 API，可與任何查看器一起使用。打開<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> 包管理器，搜索<b>Aspose.PSD</b> 並安裝。您也可以從包管理器控制台使用以下命令。
+為了查看 AI 文件，我們將使用<a href="/psd/{{< lang-code >}}net">Aspose.PSD for .NET</a> API 是一個功能豐富、功能強大且易於使用的 C# 平台 API，可與任何查看器一起使用。打開<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> 包管理器，搜索<b>Aspose.PSD</b> 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

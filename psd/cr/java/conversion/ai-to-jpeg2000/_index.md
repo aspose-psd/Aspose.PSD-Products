@@ -1,6 +1,7 @@
 ---
 title: Pretvorite AI u JPEG2000 putem Jave
 description: Primjer Java koda za pretvorbu za AI format u JPEG2000 datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u JPEG2000 unutar bilo koje web ili desktop aplikacije temeljene na Java.
+url: cr/java/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Primjer Java koda za pretvorbu za AI format u JPEG2000 datoteku. Up
 
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti AI u JPEG2000 pomoću Jave" %}}
 
-Da bismo AI prikazali u JPEG2000, koristit ćemo se<a href="{{< relref "java" >}}">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za konverziju za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
+Da bismo AI prikazali u JPEG2000, koristit ćemo se<a href="/psd/{{< lang-code >}}java">Aspose.PSD za Javu</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za konverziju za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Spremište" offSpacer="true" %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Μετατροπή AI σε JPEG μέσω Java
 description: Δείγμα κώδικα μετατροπής Java για μορφή AI σε αρχείο JPEG. Χρησιμοποιήστε αυτό το παράδειγμα κώδικα για να μετατρέψετε την τεχνητή νοημοσύνη σε JPEG σε οποιαδήποτε εφαρμογή που βασίζεται σε Web ή Desktop Java.
+url: el/java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε AI σε JPEG χρησιμοποιώντας Java" %}}
 
-Για να αποδώσουμε το AI σε JPEG, θα χρησιμοποιήσουμε<a href="{{< relref "java" >}}">Aspose.PSD για Java</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση API μετατροπής για πλατφόρμα Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Μάβεν</a> και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+Για να αποδώσουμε το AI σε JPEG, θα χρησιμοποιήσουμε<a href="/psd/{{< lang-code >}}java">Aspose.PSD για Java</a> API που είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση API μετατροπής για πλατφόρμα Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Μάβεν</a> και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθετήριο" offSpacer="true" %}}
 

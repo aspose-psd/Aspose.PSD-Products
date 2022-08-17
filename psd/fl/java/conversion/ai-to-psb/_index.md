@@ -1,6 +1,7 @@
 ---
 title: Muunna tekoäly PSB:ksi Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodolle PSB-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn PSB:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
+url: fl/java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodolle PSB-tiedostoksi. Käytä
 
 {{% blocks/products/pf/agp/content h2="Tekoälyn muuntaminen PSB:ksi Javalla" %}}
 
-Käytämme tekoälyn renderöimiseksi PSB:lle<a href="{{< relref "java" >}}">Aspose.PSD Javalle</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat asetukset pom.xml-tiedostoon.
+Käytämme tekoälyn renderöimiseksi PSB:lle<a href="/psd/{{< lang-code >}}java">Aspose.PSD Javalle</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat asetukset pom.xml-tiedostoon.
 
 {{% blocks/products/pf/agp/code-block title="Arkisto" offSpacer="true" %}}
 

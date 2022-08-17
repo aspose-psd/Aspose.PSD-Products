@@ -1,6 +1,6 @@
 ---
-title: View AI File Formats via .NET 
-url: /net/viewer/ai/ 
+title: View AI File Formats via .NET
+url: /net/viewer/ai/
 description: C# source code to load, render and display AI documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
@@ -12,7 +12,7 @@ description: C# source code to load, render and display AI documents on .NET Fra
 
 {{% blocks/products/pf/agp/content h2="How to View AI File Using C#" %}}
 
-In order to view AI file, we’ll use <a href="{{< relref "net" >}}">Aspose.PSD for .NET</a> API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open <a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> package manager, search for <b>Aspose.PSD</b> and install. You may also use the following command from the Package Manager Console.
+In order to view AI file, we’ll use <a href="/psd/{{< lang-code >}}net">Aspose.PSD for .NET</a> API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open <a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> package manager, search for <b>Aspose.PSD</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Muunna PSD BMP:ksi Javalla
 weight: 260
 description: Esimerkki Java-muunnoskoodista PSD-muodosta BMP-tiedostoksi. Käytä tätä esimerkkikoodia PSD:n muuntamiseen BMP:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
+url: fl/java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Esimerkki Java-muunnoskoodista PSD-muodosta BMP-tiedostoksi. Käyt�
 {{% blocks/products/pf/agp/content h2="Kuinka muuntaa PSD BMP:ksi Javalla" %}}
 
  Käytämme PSD:n muuntamiseksi BMP:ksi
- [Aspose.PSD for Java]({{< relref "java" >}})
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen muunnossovellusliittymä Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ja asenna se Maven-pohjaisessa projektissasi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.

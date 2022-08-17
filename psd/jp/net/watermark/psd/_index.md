@@ -2,6 +2,7 @@
 title: .NET経由の透かしPSDドキュメント
 weight: 130
 description: .NET Framework、.NET Core上のPSDファイルに透かしを追加または削除するためのC＃ソースコード。
+url: jp/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

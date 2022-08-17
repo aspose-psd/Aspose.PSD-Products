@@ -1,6 +1,7 @@
 ---
 title: .NETを介してPSDドキュメントを編集する
 description: .NET Framework、.NET CoreでPSDファイルを編集するためのC＃ソースコード。
+url: jp/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

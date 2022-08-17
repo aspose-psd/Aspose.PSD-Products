@@ -2,6 +2,7 @@
 title: Converter PSB para BMP via Java
 weight: 300
 description: Exemplo de código de conversão Java para formato PSB para arquivo BMP. Use este código de exemplo para converter PSB em BMP em qualquer aplicativo baseado em Java Web ou Desktop.
+url: pt/java/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Exemplo de código de conversão Java para formato PSB para arquivo
 {{% blocks/products/pf/agp/content h2="Como converter PSB para BMP usando Java" %}}
 
  Para renderizar PSB para BMP, usaremos
- [Aspose.PSD para Java]({{< relref "java" >}})
+ [Aspose.PSD para Java](/psd/{{< lang-code >}}java)
  API que é uma API de conversão rica em recursos, poderosa e fácil de usar para a plataforma Java. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.

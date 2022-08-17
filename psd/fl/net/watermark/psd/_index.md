@@ -2,6 +2,7 @@
 title: Vesileima PSD-dokumentti .NET:n kautta
 weight: 130
 description: C#-lähdekoodi vesileiman lisäämiseksi tai poistamiseksi PSD-tiedostosta .NET Frameworkissa, .NET Coressa.
+url: fl/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C#-lähdekoodi vesileiman lisäämiseksi tai poistamiseksi PSD-tied
 {{% blocks/products/pf/agp/content h2="PSD-tiedoston vesileimaus C#:lla" %}}
 
  Käytämme PSD-tiedoston vesileimaa varten
- [Aspose.PSD for .NET]({{< relref "net" >}})
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen dokumenttien käsittelysovellusliittymä C#-alustalle. Avata
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paketinhallinta, etsi

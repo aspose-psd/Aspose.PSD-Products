@@ -1,6 +1,7 @@
 ---
 title: Javaを介してAIをBMPに変換する
 description: AI形式からBMPファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でAIをBMPに変換します。
+url: jp/java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AI形式からBMPファイルへのサンプルJava変換コード�
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してAIをBMPに変換する方法" %}}
 
-AIをBMPにレンダリングするために、<a href="{{< relref "java" >}}"> Aspose.PSD for Java</a>Javaプラットフォーム用の機能が豊富で強力で使いやすい変換APIであるAPI。最新バージョンはから直接ダウンロードできます<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> Maven</a>そして、pom.xmlに以下の構成を追加して、Mavenベースのプロジェクト内にインストールします。
+AIをBMPにレンダリングするために、<a href="/psd/{{< lang-code >}}java"> Aspose.PSD for Java</a>Javaプラットフォーム用の機能が豊富で強力で使いやすい変換APIであるAPI。最新バージョンはから直接ダウンロードできます<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd"> Maven</a>そして、pom.xmlに以下の構成を追加して、Mavenベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 

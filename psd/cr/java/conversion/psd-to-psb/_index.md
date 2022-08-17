@@ -2,6 +2,7 @@
 title: Pretvorite PSD u PSB putem Jave
 weight: 280
 description: Primjer Java koda za pretvorbu za PSD format u PSB datoteku. Upotrijebite ovaj primjer koda za pretvaranje PSD u PSB unutar bilo koje web ili Desktop aplikacije temeljene na Java.
+url: cr/java/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Primjer Java koda za pretvorbu za PSD format u PSB datoteku. Upotri
 {{% blocks/products/pf/agp/content h2="Kako pretvoriti PSD u PSB pomoću Jave" %}}
 
  Za renderiranje PSD-a u PSB, koristit ćemo
- [Aspose.PSD za Javu]({{< relref "java" >}})
+ [Aspose.PSD za Javu](/psd/{{< lang-code >}}java)
  API koji je bogat značajkama, moćan i jednostavan za korištenje pretvorbeni API za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.

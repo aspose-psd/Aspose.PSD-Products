@@ -2,6 +2,7 @@
 title: PSB کو C# کے ذریعے PDF میں تبدیل کریں
 weight: 340
 description: PSB سے PDF C# کی تبدیلی کے لیے نمونہ کوڈ۔ VB.NET، Asp.NET یا کسی بھی .NET پر مبنی ایپلی کیشن کے اندر بیچ PSB فائلوں کو PDF میں تبدیل کرنے کے لیے API کا مثالی کوڈ استعمال کریں۔
+url: ur/net/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: PSB سے PDF C# کی تبدیلی کے لیے نمونہ کوڈ۔ V
 {{% blocks/products/pf/agp/content h2="سی# کا استعمال کرتے ہوئے پی ایس بی کو پی ڈی ایف میں کیسے تبدیل کیا جائے" %}}
 
  PSB کو PDF میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD برائے .NET]({{< relref "net" >}})
+ [Aspose.PSD برائے .NET](/psd/{{< lang-code >}}net)
  API جو کہ ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور C# پلیٹ فارم کے لیے کنورژن API ہے۔ کھولیں۔
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  پیکیج مینیجر، تلاش کریں۔

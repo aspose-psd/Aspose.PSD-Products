@@ -2,6 +2,7 @@
 title: قم بتحويل PSD إلى PSB عبر Java
 weight: 280
 description: نموذج كود تحويل Java لتنسيق PSD إلى ملف PSB. استخدم رمز المثال هذا لتحويل PSD إلى PSB داخل أي تطبيق يستند إلى Web أو Desktop Java.
+url: ar/java/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: نموذج كود تحويل Java لتنسيق PSD إلى ملف PS
 {{% blocks/products/pf/agp/content h2=" كيفية تحويل PSD إلى PSB باستخدام Java" %}}
 
  من أجل تقديم PSD إلى PSB ، سنستخدم
- [Aspose.PSD لجافا] ({{< relref "java" >}})
+ [Aspose.PSD لجافا] (/psd/{{< lang-code >}}java)
  API وهي واجهة برمجة تطبيقات تحويل غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [مافن] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.

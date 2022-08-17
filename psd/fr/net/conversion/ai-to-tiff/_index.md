@@ -1,6 +1,7 @@
 ---
 title: Convertir AI en TIFF via C#
 description: Exemple de code pour la conversion AI en TIFF C#. Utilisez le code d'exemple d'API pour la conversion de fichiers AI par lots en TIFF dans VB.NET, Asp.NET ou toute application basée sur .NET.
+url: fr/net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Exemple de code pour la conversion AI en TIFF C#. Utilisez le code 
 
 {{% blocks/products/pf/agp/content h2="Comment convertir AI en TIFF à l'aide de C#" %}}
 
-Afin de convertir AI en TIFF, nous utiliserons<a href="{{< relref "net" >}}">Aspose.PSD pour .NET</a> API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrir<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> gestionnaire de packages, recherchez<b>Aspose.PSD</b> et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Afin de convertir AI en TIFF, nous utiliserons<a href="/psd/{{< lang-code >}}net">Aspose.PSD pour .NET</a> API qui est une API de manipulation et de conversion de documents riche en fonctionnalités, puissante et facile à utiliser pour la plateforme C#. Ouvrir<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> gestionnaire de packages, recherchez<b>Aspose.PSD</b> et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 

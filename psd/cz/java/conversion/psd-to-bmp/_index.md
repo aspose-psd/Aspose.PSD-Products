@@ -2,6 +2,7 @@
 title: Převod PSD na BMP přes Javu
 weight: 260
 description: Ukázkový konverzní kód Java pro formát PSD na soubor BMP. Tento příklad kódu použijte k převodu PSD na BMP v jakékoli webové nebo desktopové aplikaci založené na Javě.
+url: cz/java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Ukázkový konverzní kód Java pro formát PSD na soubor BMP. Tent
 {{% blocks/products/pf/agp/content h2="Jak převést PSD do BMP pomocí Javy" %}}
 
  K vykreslení PSD do BMP použijeme
- [Aspose.PSD pro Java]({{< relref "java" >}})
+ [Aspose.PSD pro Java](/psd/{{< lang-code >}}java)
  API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  a nainstalujte jej v rámci svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.

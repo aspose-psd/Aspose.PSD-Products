@@ -2,6 +2,7 @@
 title: .NET اور Java Photoshop APIs | PSD اور PSB فائلوں کو پارس کریں۔
 weight: 10
 description: ایک سے زیادہ پلیٹ فارمز پر PSD اور PSB فائلیں لکھنے اور برآمد کرنے کے لیے لائبریری۔ فوٹوشاپ انسٹال کیے بغیر تہوں کو نکالیں اور جوڑ توڑ کریں۔
+url: ur/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

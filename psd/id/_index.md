@@ -2,6 +2,7 @@
 title: Membuat, Mengedit, atau Mengonversi file PSD & PSB ke format PDF & gambar
 weight: 310
 description: API Kode Tinggi dan Aplikasi Gratis untuk mengedit file Photoshop. Kemampuan untuk memperbarui properti lapisan, menambahkan tanda air, skala putar, Konversi Raster, Flip Crop Dithering.
+url: id/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

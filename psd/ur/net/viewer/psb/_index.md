@@ -2,6 +2,7 @@
 title: .NET کے ذریعے PSB فائل فارمیٹس دیکھیں
 weight: 320
 description: .NET فریم ورک، .NET کور پر PSB دستاویزات کو لوڈ، پیش کرنے اور ڈسپلے کرنے کے لیے C# سورس کوڈ۔
+url: ur/net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: .NET فریم ورک، .NET کور پر PSB دستاویزات کو
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے PSB فائل کو کیسے دیکھیں" %}}
 
  PSB فائل دیکھنے کے لیے، ہم استعمال کریں گے۔
- [Aspose.PSD برائے .NET]({{< relref "net" >}})
+ [Aspose.PSD برائے .NET](/psd/{{< lang-code >}}net)
  API جو کہ کسی بھی ناظر کے ساتھ استعمال کیے جانے والے C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان API ہے۔ کھولیں۔
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  پیکیج مینیجر، تلاش کریں۔

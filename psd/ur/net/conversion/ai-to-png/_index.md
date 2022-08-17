@@ -1,6 +1,7 @@
 ---
 title: C# کے ذریعے AI کو PNG میں تبدیل کریں
 description: AI سے PNG C# کی تبدیلی کے لیے نمونہ کوڈ۔ VB.NET، Asp.NET یا کسی بھی .NET پر مبنی ایپلی کیشن کے اندر بیچ AI فائلوں کو PNG میں تبدیل کرنے کے لیے API کا مثالی کوڈ استعمال کریں۔
+url: ur/net/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AI سے PNG C# کی تبدیلی کے لیے نمونہ کوڈ۔ VB
 
 {{% blocks/products/pf/agp/content h2="C# کا استعمال کرتے ہوئے AI کو PNG میں تبدیل کرنے کا طریقہ" %}}
 
-AI کو PNG میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "net" >}}">Aspose.PSD برائے .NET</a> API جو کہ C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور کنورژن API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
+AI کو PNG میں تبدیل کرنے کے لیے، ہم استعمال کریں گے۔<a href="/psd/{{< lang-code >}}net">Aspose.PSD برائے .NET</a> API جو کہ C# پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان دستاویز کی ہیرا پھیری اور کنورژن API ہے۔ کھولیں۔<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> پیکیج مینیجر، تلاش کریں۔<b>Aspose.PSD</b> اور انسٹال کریں۔ آپ پیکیج مینیجر کنسول سے درج ذیل کمانڈ بھی استعمال کر سکتے ہیں۔
 
 {{% blocks/products/pf/agp/code-block title="پیکیج مینیجر کنسول کمانڈ" offSpacer="true" %}}
 

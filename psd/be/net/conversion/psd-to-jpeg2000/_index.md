@@ -1,6 +1,7 @@
 ---
 title: Канвертаваць PSD у JPEG2000 праз C#
 description: Прыклад кода для пераўтварэння PSD ў JPEG2000 C#. Выкарыстоўвайце прыклад кода API для пакетнага пераўтварэння PSD-файлаў у JPEG2000 у VB.NET, Asp.NET або ў любым дадатку на аснове .NET.
+url: be/net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Прыклад кода для пераўтварэння PSD ў JP
 
 {{% blocks/products/pf/agp/content h2="Як канвертаваць PSD у JPEG2000 з дапамогай C#" %}}
 
-Каб пераўтварыць PSD у JPEG2000, мы будзем выкарыстоўваць<a href="{{< relref "net" >}}">Aspose.PSD для .NET</a> API - гэта шматфункцыянальны, магутны і просты ў выкарыстанні API для маніпулявання дакументамі і пераўтварэння для платформы C#. Адкрыць<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> менеджэр пакетаў, пошук<b>Aspose.PSD</b> і ўсталяваць. Вы таксама можаце выкарыстоўваць наступную каманду з кансолі дыспетчара пакетаў.
+Каб пераўтварыць PSD у JPEG2000, мы будзем выкарыстоўваць<a href="/psd/{{< lang-code >}}net">Aspose.PSD для .NET</a> API - гэта шматфункцыянальны, магутны і просты ў выкарыстанні API для маніпулявання дакументамі і пераўтварэння для платформы C#. Адкрыць<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> менеджэр пакетаў, пошук<b>Aspose.PSD</b> і ўсталяваць. Вы таксама можаце выкарыстоўваць наступную каманду з кансолі дыспетчара пакетаў.
 
 {{% blocks/products/pf/agp/code-block title="Каманда кансолі дыспетчара пакетаў" offSpacer="true" %}}
 

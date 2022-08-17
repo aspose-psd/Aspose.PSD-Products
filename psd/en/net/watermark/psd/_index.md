@@ -1,7 +1,7 @@
 ---
-title: Watermark PSD document via .NET 
+title: Watermark PSD document via .NET
 weight: 130
-url: /net/watermark/psd/ 
+url: /net/watermark
 description: C# source code to add or remove watermark to PSD file on .NET Framework, .NET Core.
 ---
 
@@ -14,7 +14,7 @@ description: C# source code to add or remove watermark to PSD file on .NET Frame
 {{% blocks/products/pf/agp/content h2="How to Watermark PSD File Using C#" %}}
 
  In order to watermark PSD file, we’ll use
- [Aspose.PSD for .NET]({{< relref "net" >}}) 
+ [Aspose.PSD for .NET](/psd/{{< lang-code >}}net) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  package manager, search for

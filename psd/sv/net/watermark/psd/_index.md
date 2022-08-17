@@ -2,6 +2,7 @@
 title: Vattenstämpel PSD-dokument via .NET
 weight: 130
 description: C#-källkod för att lägga till eller ta bort vattenstämpel till PSD-fil på .NET Framework, .NET Core.
+url: sv/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C#-källkod för att lägga till eller ta bort vattenstämpel till 
 {{% blocks/products/pf/agp/content h2="Hur man vattenmärker PSD-fil med C#" %}}
 
  För att vattenmärka PSD-filen kommer vi att använda
- [Aspose.PSD för .NET]({{< relref "net" >}})
+ [Aspose.PSD för .NET](/psd/{{< lang-code >}}net)
  API som är ett funktionsrikt, kraftfullt och lättanvänt API för dokumentmanipulering för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakethanterare, sök efter

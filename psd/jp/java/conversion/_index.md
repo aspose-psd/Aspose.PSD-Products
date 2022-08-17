@@ -1,6 +1,7 @@
 ---
 title: JavaPhotoshopドキュメント変換
 description: Javaライブラリを介してPhotoshopPSD、PSBをBMP、JPG、PNG、TIFF、PDFなどの画像に変換します。
+url: jp/java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

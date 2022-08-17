@@ -1,6 +1,7 @@
 ---
 title: Konversi PSB ke JPEG2000 melalui C#
 description: Contoh kode untuk konversi PSB ke JPEG2000 C#. Gunakan kode contoh API untuk file batch PSB ke konversi JPEG2000 dalam VB.NET, Asp.NET atau aplikasi berbasis .NET.
+url: id/net/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Contoh kode untuk konversi PSB ke JPEG2000 C#. Gunakan kode contoh 
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi PSB ke JPEG2000 Menggunakan C#" %}}
 
-Untuk mengonversi PSB ke JPEG2000, kami akan menggunakan<a href="{{< relref "net" >}}">Aspose.PSD untuk .NET</a> API yang merupakan API konversi dan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> manajer paket, cari<b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi PSB ke JPEG2000, kami akan menggunakan<a href="/psd/{{< lang-code >}}net">Aspose.PSD untuk .NET</a> API yang merupakan API konversi dan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> manajer paket, cari<b>Aspose.PSD</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

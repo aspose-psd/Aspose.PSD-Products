@@ -1,6 +1,7 @@
 ---
 title: C#을 통해 PSB를 JPEG2000으로 변환
 description: PSB에서 JPEG2000 C#으로의 변환을 위한 샘플 코드. VB.NET, Asp.NET 또는 모든 .NET 기반 응용 프로그램 내에서 배치 PSB 파일을 JPEG2000으로 변환하는 API 예제 코드를 사용합니다.
+url: ko/net/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: PSB에서 JPEG2000 C#으로의 변환을 위한 샘플 코드. VB.N
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 PSB를 JPEG2000으로 변환하는 방법" %}}
 
-PSB를 JPEG2000으로 변환하려면 다음을 사용합니다.<a href="{{< relref "net" >}}">.NET용 Aspose.PSD</a> 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 및 변환 API인 API입니다. 열려 있는<a href="https://www.nuget.org/packages/aspose.psd">누겟</a> 패키지 관리자, 검색<b>아포즈.PSD</b> 및 설치. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+PSB를 JPEG2000으로 변환하려면 다음을 사용합니다.<a href="/psd/{{< lang-code >}}net">.NET용 Aspose.PSD</a> 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 및 변환 API인 API입니다. 열려 있는<a href="https://www.nuget.org/packages/aspose.psd">누겟</a> 패키지 관리자, 검색<b>아포즈.PSD</b> 및 설치. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

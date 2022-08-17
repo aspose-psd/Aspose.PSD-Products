@@ -1,6 +1,7 @@
 ---
 title: AI'yı Java ile JPEG2000'e dönüştürün
 description: AI formatı için JPEG2000 dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada AI'yi JPEG2000'e dönüştürmek için bu örnek kodu kullanın.
+url: tr/java/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: AI formatı için JPEG2000 dosyasına örnek Java dönüştürme ko
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak AI'yi JPEG2000'e Dönüştürme" %}}
 
-AI'yi JPEG2000'e dönüştürmek için kullanacağız<a href="{{< relref "java" >}}">Java için Aspose.PSD</a> Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ve aşağıdaki konfigürasyonları pom.xml'e ekleyerek Maven tabanlı projenize kurun.
+AI'yi JPEG2000'e dönüştürmek için kullanacağız<a href="/psd/{{< lang-code >}}java">Java için Aspose.PSD</a> Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> ve aşağıdaki konfigürasyonları pom.xml'e ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 

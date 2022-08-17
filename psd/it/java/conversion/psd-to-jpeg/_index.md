@@ -2,6 +2,7 @@
 title: Converti PSD in JPEG tramite Java
 weight: 20
 description: Esempio di codice di conversione Java per il formato PSD in file JPEG. Utilizzare questo codice di esempio per convertire PSD in JPEG all'interno di qualsiasi applicazione basata su Java Web o Desktop.
+url: it/java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Esempio di codice di conversione Java per il formato PSD in file JP
 {{% blocks/products/pf/agp/content h2="Come convertire PSD in JPEG utilizzando Java" %}}
 
  Per rendere PSD in JPEG, useremo
- [Aspose.PSD per Java]({{< relref "java" >}})
+ [Aspose.PSD per Java](/psd/{{< lang-code >}}java)
  API che è un'API di conversione ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.

@@ -1,6 +1,7 @@
 ---
 title: Redaktu PSD-dokumenton per .NET
 description: C# fontkodo por redakti la PSD-dosieron sur .NET Framework, .NET Core.
+url: eo/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: C# fontkodo por redakti la PSD-dosieron sur .NET Framework, .NET Co
 {{% blocks/products/pf/agp/content h2="Kiel Redakti PSD-Dosiajn Datumojn Uzante C#" %}}
 
  Por redakti PSD-dosieron, ni uzos
- [Aspose.PSD por .NET]({{< relref "net" >}})
+ [Aspose.PSD por .NET](/psd/{{< lang-code >}}net)
  API kiu estas riĉa, potenca kaj facile uzebla API pri manipulado de dokumentoj por C#-platformo. Malfermu
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  pakaĵadministranto, serĉu

@@ -2,6 +2,7 @@
 title: 자바 포토샵 API | PSD 및 PSB 형식 구문 분석
 weight: 270
 description: Photoshop 소프트웨어 없이 모든 Java 응용 프로그램 내에서 이 라이브러리를 사용하여 PSD 및 PSB 형식 수정 또는 변환 생성
+url: ko/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

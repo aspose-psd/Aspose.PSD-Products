@@ -1,6 +1,7 @@
 ---
 title: تحويل AI إلى JPEG2000 عبر C #
 description: نموذج رمز للتحويل من AI إلى JPEG2000 C #. استخدم رمز مثال API لملفات AI المجمعة لتحويل JPEG2000 داخل VB.NET أو Asp.NET أو أي تطبيق قائم على .NET.
+url: ar/net/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: نموذج رمز للتحويل من AI إلى JPEG2000 C #. اس�
 
 {{% blocks/products/pf/agp/content h2=" كيفية تحويل AI إلى JPEG2000 باستخدام C #" %}}
 
-من أجل تحويل AI إلى JPEG2000 ، سنستخدم<a href="{{< relref "net" >}}"> Aspose.PSD لـ .NET</a> API وهي غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها API لمنصة C #. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+من أجل تحويل AI إلى JPEG2000 ، سنستخدم<a href="/psd/{{< lang-code >}}net"> Aspose.PSD لـ .NET</a> API وهي غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها API لمنصة C #. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title=" أمر وحدة تحكم مدير الحزمة" offSpacer="true" %}}
 

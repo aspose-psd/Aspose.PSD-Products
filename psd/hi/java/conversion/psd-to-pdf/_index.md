@@ -2,6 +2,7 @@
 title: जावा के माध्यम से PSD को पीडीएफ में बदलें
 weight: 360
 description: पीडीएफ फाइल में PSD प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में PSD को पीडीएफ में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
+url: hi/java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: पीडीएफ फाइल में PSD प्रारूप
 {{% blocks/products/pf/agp/content h2=" जावा का उपयोग करके PSD को पीडीएफ में कैसे बदलें" %}}
 
  PSD को PDF में रेंडर करने के लिए, हम उपयोग करेंगे
- [जावा के लिए Aspose.PSD]({{< relref "java" >}})
+ [जावा के लिए Aspose.PSD](/psd/{{< lang-code >}}java)
  एपीआई जो जावा प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण एपीआई है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
  [मेवेन](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।

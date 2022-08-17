@@ -1,6 +1,7 @@
 ---
 title: Converti AI in PDF tramite C#
 description: Codice di esempio per la conversione da AI a PDF C#. Utilizza il codice di esempio API per la conversione batch di file AI in PDF all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
+url: it/net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Codice di esempio per la conversione da AI a PDF C#. Utilizza il co
 
 {{% blocks/products/pf/agp/content h2="Come convertire l'IA in PDF usando C#" %}}
 
-Per convertire l'IA in PDF, useremo<a href="{{< relref "net" >}}">Aspose.PSD per .NET</a> API che è un'API di conversione e manipolazione dei documenti ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> gestore pacchetti, cerca<b>Aspose.PSD</b> e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+Per convertire l'IA in PDF, useremo<a href="/psd/{{< lang-code >}}net">Aspose.PSD per .NET</a> API che è un'API di conversione e manipolazione dei documenti ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> gestore pacchetti, cerca<b>Aspose.PSD</b> e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console del gestore pacchetti" offSpacer="true" %}}
 

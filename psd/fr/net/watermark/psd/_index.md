@@ -2,6 +2,7 @@
 title: Document PSD en filigrane via .NET
 weight: 130
 description: Code source C# pour ajouter ou supprimer un filigrane au fichier PSD sur .NET Framework, .NET Core.
+url: fr/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Code source C# pour ajouter ou supprimer un filigrane au fichier PS
 {{% blocks/products/pf/agp/content h2="Comment filigraner un fichier PSD à l'aide de C#" %}}
 
  Afin de filigraner le fichier PSD, nous utiliserons
- [Aspose.PSD pour .NET]({{< relref "net" >}})
+ [Aspose.PSD pour .NET](/psd/{{< lang-code >}}net)
  API qui est une API de manipulation de documents riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  gestionnaire de paquets, recherchez

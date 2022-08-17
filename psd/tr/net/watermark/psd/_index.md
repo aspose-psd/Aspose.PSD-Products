@@ -2,6 +2,7 @@
 title: .NET aracılığıyla filigran PSD belgesi
 weight: 130
 description: .NET Framework, .NET Core üzerindeki PSD dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
+url: tr/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: .NET Framework, .NET Core üzerindeki PSD dosyasına filigran eklem
 {{% blocks/products/pf/agp/content h2="PSD Dosyasını C# Kullanarak Filigran Etme" %}}
 
  PSD dosyasını filigranlamak için kullanacağız
- [.NET için Aspose.PSD]({{< relref "net" >}})
+ [.NET için Aspose.PSD](/psd/{{< lang-code >}}net)
  C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API'si olan API. Açık
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paket yöneticisi, ara

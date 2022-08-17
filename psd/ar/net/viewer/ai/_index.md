@@ -1,6 +1,7 @@
 ---
 title: عرض تنسيقات ملفات AI عبر .NET
 description: كود مصدر C # لتحميل وعرض وعرض مستندات AI على .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin الأنظمة الأساسية.
+url: ar/net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: كود مصدر C # لتحميل وعرض وعرض مستندات A
 
 {{% blocks/products/pf/agp/content h2=" كيفية عرض ملف AI باستخدام C #" %}}
 
-لعرض ملف AI ، سنستخدم<a href="{{< relref "net" >}}"> Aspose.PSD لـ .NET</a> API وهو واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # ليتم استخدامها مع أي عارض. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+لعرض ملف AI ، سنستخدم<a href="/psd/{{< lang-code >}}net"> Aspose.PSD لـ .NET</a> API وهو واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # ليتم استخدامها مع أي عارض. يفتح<a href="https://www.nuget.org/packages/aspose.psd"> NuGet</a> مدير الحزم ، ابحث عن<b> Aspose.PSD</b> وتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title=" أمر وحدة تحكم مدير الحزمة" offSpacer="true" %}}
 

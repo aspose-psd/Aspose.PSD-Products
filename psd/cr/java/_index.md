@@ -2,6 +2,7 @@
 title: Java Photoshop API | Raščlamba PSD i PSB formata
 weight: 270
 description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove biblioteke unutar bilo koje Java aplikacije bez potrebe za softverom Photoshop
+url: cr/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

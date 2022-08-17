@@ -2,6 +2,7 @@
 title: Vesileima PSD-dokumentti Javan kautta
 weight: 60
 description: Java-esimerkkikoodi vesileiman lisäämiseen tai poistamiseen PSD-tiedostoon Java Runtime Environment -ympäristössä JSP/JSF-sovellukselle ja työpöytäsovelluksille.
+url: fl/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Java-esimerkkikoodi vesileiman lisäämiseen tai poistamiseen PSD-t
 {{% blocks/products/pf/agp/content h2="Kuinka PSD-tiedosto vesileimataan Javalla" %}}
 
  Käytämme PSD-tiedoston vesileimaa varten
- [Aspose.PSD for Java]({{< relref "java" >}})
+ [Aspose.PSD for Java](/psd/{{< lang-code >}}java)
  API, joka on monipuolinen, tehokas ja helppokäyttöinen vesileima-API Java-alustalle. Voit ladata sen uusimman version suoraan osoitteesta
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  ja asenna se Maven-pohjaiseen projektiisi lisäämällä seuraavat kokoonpanot pom.xml-tiedostoon.

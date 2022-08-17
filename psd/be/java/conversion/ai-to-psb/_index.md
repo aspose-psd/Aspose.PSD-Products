@@ -1,6 +1,7 @@
 ---
 title: Пераўтварэнне AI ў PSB праз Java
 description: Прыклад кода пераўтварэння Java для фармату AI ў файл PSB. Выкарыстоўвайце гэты прыклад кода для пераўтварэння AI ў PSB у любым вэб- або настольным Java-прыкладанні.
+url: be/java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Прыклад кода пераўтварэння Java для фа
 
 {{% blocks/products/pf/agp/content h2="Як канвертаваць AI ў PSB з дапамогай Java" %}}
 
-Каб перадаць AI ў PSB, мы будзем выкарыстоўваць<a href="{{< relref "java" >}}">Aspose.PSD для Java</a> API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API пераўтварэння для платформы Java. Вы можаце спампаваць яго апошнюю версію непасрэдна з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і ўсталюйце яго ў свой праект на базе Maven, дадаўшы наступныя канфігурацыі ў pom.xml.
+Каб перадаць AI ў PSB, мы будзем выкарыстоўваць<a href="/psd/{{< lang-code >}}java">Aspose.PSD для Java</a> API, які з'яўляецца шматфункцыянальным, магутным і простым у выкарыстанні API пераўтварэння для платформы Java. Вы можаце спампаваць яго апошнюю версію непасрэдна з<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> і ўсталюйце яго ў свой праект на базе Maven, дадаўшы наступныя канфігурацыі ў pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Сховішча" offSpacer="true" %}}
 

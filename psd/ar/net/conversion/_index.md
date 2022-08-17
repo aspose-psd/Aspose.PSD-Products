@@ -1,6 +1,7 @@
 ---
 title: تحويل ملفات C # Photoshop
 description: قم بتحويل Photoshop PSD و PSB إلى PDF والصور بما في ذلك BMP و JPG و PNG و TIFF مع بضعة أسطر من كود C # عبر مكتبة .NET.
+url: ar/net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

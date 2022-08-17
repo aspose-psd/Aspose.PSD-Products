@@ -2,6 +2,7 @@
 title: Convertir PSB en PSD via Java
 weight: 160
 description: Exemple de code de conversion Java pour le format PSB en fichier PSD. Utilisez cet exemple de code pour convertir PSB en PSD dans n'importe quelle application Java Web ou de bureau.
+url: fr/java/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Exemple de code de conversion Java pour le format PSB en fichier PS
 {{% blocks/products/pf/agp/content h2="Comment convertir PSB en PSD en utilisant Java" %}}
 
  Afin de rendre PSB à PSD, nous utiliserons
- [Aspose.PSD pour Java]({{< relref "java" >}})
+ [Aspose.PSD pour Java](/psd/{{< lang-code >}}java)
  API qui est une API de conversion riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.

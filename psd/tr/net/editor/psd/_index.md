@@ -1,6 +1,7 @@
 ---
 title: PSD belgesini .NET aracılığıyla düzenleyin
 description: PSD dosyasını .NET Framework, .NET Core üzerinde düzenlemek için C# kaynak kodu.
+url: tr/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: PSD dosyasını .NET Framework, .NET Core üzerinde düzenlemek iç
 {{% blocks/products/pf/agp/content h2="PSD Dosya Verileri C# Kullanılarak Nasıl Düzenlenir" %}}
 
  PSD dosyasını düzenlemek için kullanacağız
- [.NET için Aspose.PSD]({{< relref "net" >}})
+ [.NET için Aspose.PSD](/psd/{{< lang-code >}}net)
  C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API'si olan API. Açık
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  paket yöneticisi, ara

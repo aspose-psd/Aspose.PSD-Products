@@ -2,6 +2,7 @@
 title: .NET και Java Photoshop API | Ανάλυση αρχείων PSD και PSB
 weight: 10
 description: Βιβλιοθήκη για ανάγνωση εγγραφής και εξαγωγή αρχείων PSD & PSB σε πολλές πλατφόρμες. Εξαγωγή και χειρισμός επιπέδων χωρίς εγκατάσταση του Photoshop.
+url: el/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

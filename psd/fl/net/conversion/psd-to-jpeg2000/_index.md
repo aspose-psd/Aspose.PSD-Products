@@ -1,6 +1,7 @@
 ---
 title: Muunna PSD JPEG2000:ksi C#:n kautta
 description: Esimerkkikoodi PSD:stä JPEG2000 C#-muunnokseen. Käytä API-esimerkkikoodia erässä PSD-tiedostojen muuntamiseen JPEG2000-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
+url: fl/net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Esimerkkikoodi PSD:stä JPEG2000 C#-muunnokseen. Käytä API-esimer
 
 {{% blocks/products/pf/agp/content h2="PSD:n muuntaminen JPEG2000:ksi C#:n avulla" %}}
 
-PSD:n muuntamiseksi JPEG2000:ksi käytämme<a href="{{< relref "net" >}}">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittelyn ja muuntamisen API C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
+PSD:n muuntamiseksi JPEG2000:ksi käytämme<a href="/psd/{{< lang-code >}}net">Aspose.PSD .NETille</a> API, joka on monipuolinen, tehokas ja helppokäyttöinen asiakirjojen käsittelyn ja muuntamisen API C#-alustalle. Avata<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> paketinhallinta, hae<b>Aspose.PSD</b> ja asenna. Voit myös käyttää seuraavaa komentoa Package Manager Consolesta.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager -konsolin komento" offSpacer="true" %}}
 

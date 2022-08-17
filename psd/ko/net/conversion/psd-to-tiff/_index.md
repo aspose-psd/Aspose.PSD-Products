@@ -7,6 +7,7 @@ feature: conversion
 informat: PSD
 outformat: TIFF
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF PNG
+url: ko/net/conversion/psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

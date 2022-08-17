@@ -1,6 +1,7 @@
 ---
 title: Pregledajte AI formate datoteka putem .NET-a
 description: C# izvorni kod za učitavanje, renderiranje i prikaz AI dokumenata na platformama .NET Framework, .NET Core, Windows Azure, Mono ili Xamarin.
+url: cr/net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: C# izvorni kod za učitavanje, renderiranje i prikaz AI dokumenata 
 
 {{% blocks/products/pf/agp/content h2="Kako pogledati AI datoteku koristeći C#" %}}
 
-Da bismo vidjeli AI datoteku, koristit ćemo se<a href="{{< relref "net" >}}">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za C# platformu za korištenje s bilo kojim preglednikom. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
+Da bismo vidjeli AI datoteku, koristit ćemo se<a href="/psd/{{< lang-code >}}net">Aspose.PSD za .NET</a> API koji je bogat značajkama, moćan i jednostavan za korištenje API za C# platformu za korištenje s bilo kojim preglednikom. Otvoren<a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> upravitelj paketa, potražite<b>Aspose.PSD</b> i instalirajte. Također možete koristiti sljedeću naredbu iz Konzole upravitelja paketa.
 
 {{% blocks/products/pf/agp/code-block title="Naredba konzole upravitelja paketa" offSpacer="true" %}}
 

@@ -2,6 +2,7 @@
 title: Vodeni žig PSD dokument putem Jave
 weight: 60
 description: Java uzorak koda za dodavanje ili uklanjanje vodenog žiga u PSD datoteku u Java Runtime Environment za JSP/JSF aplikacije i aplikacije za stolna računala.
+url: cr/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Java uzorak koda za dodavanje ili uklanjanje vodenog žiga u PSD da
 {{% blocks/products/pf/agp/content h2="Kako staviti vodeni žig u PSD datoteku pomoću Jave" %}}
 
  Za PSD datoteku vodeni žig koristit ćemo
- [Aspose.PSD za Javu]({{< relref "java" >}})
+ [Aspose.PSD za Javu](/psd/{{< lang-code >}}java)
  API koji je bogat značajkama, moćan i jednostavan za korištenje API za vodeni žig za Java platformu. Njegovu najnoviju verziju možete preuzeti izravno s
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  i instalirajte ga u svoj projekt baziran na Mavenu dodavanjem sljedećih konfiguracija u pom.xml.

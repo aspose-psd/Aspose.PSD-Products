@@ -1,6 +1,6 @@
 ---
-title: Convert AI to JPEG via C# 
-url: /net/conversion/ai-to-jpeg/ 
+title: Convert AI to JPEG via C#
+url: /net/conversion/ai-to-jpeg/
 description: Sample code for AI to JPEG C# conversion. Use API example code for batch AI files to JPEG conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -12,7 +12,7 @@ description: Sample code for AI to JPEG C# conversion. Use API example code for 
 
 {{% blocks/products/pf/agp/content h2="How to Convert AI to JPEG Using C#" %}}
 
-In order to convert AI to JPEG, we’ll use <a href="{{< relref "net" >}}">Aspose.PSD for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> package manager, search for <b>Aspose.PSD</b> and install. You may also use the following command from the Package Manager Console.
+In order to convert AI to JPEG, we’ll use <a href="/psd/{{< lang-code >}}net">Aspose.PSD for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.psd">NuGet</a> package manager, search for <b>Aspose.PSD</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

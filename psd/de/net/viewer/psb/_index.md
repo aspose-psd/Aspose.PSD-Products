@@ -2,6 +2,7 @@
 title: Zeigen Sie PSB-Dateiformate über .NET an
 weight: 320
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von PSB-Dokumenten in .NET Framework, .NET Core.
+url: de/net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C#-Quellcode zum Laden, Rendern und Anzeigen von PSB-Dokumenten in 
 {{% blocks/products/pf/agp/content h2="So zeigen Sie PSB-Dateien mit C# an" %}}
 
  Um die PSB-Datei anzuzeigen, verwenden wir
- [Aspose.PSD für .NET]({{< relref "net" >}})
+ [Aspose.PSD für .NET](/psd/{{< lang-code >}}net)
  API, eine funktionsreiche, leistungsstarke und einfach zu verwendende API für die C#-Plattform, die mit jedem Viewer verwendet werden kann. Offen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  Paketmanager, suche nach

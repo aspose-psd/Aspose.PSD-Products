@@ -1,6 +1,7 @@
 ---
 title: Převod AI na PSD přes Javu
 description: Ukázkový konverzní kód Java pro formát AI na soubor PSD. Pomocí tohoto příkladu kódu převeďte AI na PSD v jakékoli webové nebo desktopové Java aplikaci.
+url: cz/java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Ukázkový konverzní kód Java pro formát AI na soubor PSD. Pomoc
 
 {{% blocks/products/pf/agp/content h2="Jak převést AI na PSD pomocí Javy" %}}
 
-K vykreslení AI do PSD použijeme<a href="{{< relref "java" >}}">Aspose.PSD pro Javu</a> API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+K vykreslení AI do PSD použijeme<a href="/psd/{{< lang-code >}}java">Aspose.PSD pro Javu</a> API, což je funkčně bohaté, výkonné a snadno použitelné konverzní API pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 

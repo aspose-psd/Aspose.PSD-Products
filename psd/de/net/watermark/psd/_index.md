@@ -2,6 +2,7 @@
 title: Wasserzeichen-PSD-Dokument über .NET
 weight: 130
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur PSD-Datei in .NET Framework, .NET Core.
+url: de/net/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur P
 {{% blocks/products/pf/agp/content h2="Wie man eine PSD-Datei mit C# mit einem Wasserzeichen versehen kann" %}}
 
  Um eine PSD-Datei mit Wasserzeichen zu versehen, verwenden wir
- [Aspose.PSD für .NET]({{< relref "net" >}})
+ [Aspose.PSD für .NET](/psd/{{< lang-code >}}net)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende API zur Dokumentenmanipulation für die C#-Plattform ist. Offen
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  Paketmanager, suche nach

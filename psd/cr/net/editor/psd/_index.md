@@ -1,6 +1,7 @@
 ---
 title: Uredite PSD dokument putem .NET-a
 description: C# izvorni kod za uređivanje PSD datoteke na .NET Framework, .NET Core.
+url: cr/net/editor
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: C# izvorni kod za uređivanje PSD datoteke na .NET Framework, .NET 
 {{% blocks/products/pf/agp/content h2="Kako urediti podatke PSD datoteke koristeći C#" %}}
 
  Za uređivanje PSD datoteke koristit ćemo se
- [Aspose.PSD za .NET]({{< relref "net" >}})
+ [Aspose.PSD za .NET](/psd/{{< lang-code >}}net)
  API koji je bogat značajkama, moćan i jednostavan za korištenje API za manipulaciju dokumentima za C# platformu. Otvoren
  [NuGet](https://www.nuget.org/packages/aspose.psd)
  upravitelj paketa, traži

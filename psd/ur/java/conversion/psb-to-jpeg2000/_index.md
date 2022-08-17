@@ -1,6 +1,7 @@
 ---
 title: جاوا کے ذریعے PSB کو JPEG2000 میں تبدیل کریں۔
 description: PSB فارمیٹ کے JPEG2000 فائل کے لیے نمونہ جاوا کنورژن کوڈ۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو JPEG2000 میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
+url: ur/java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: PSB فارمیٹ کے JPEG2000 فائل کے لیے نمونہ جا
 
 {{% blocks/products/pf/agp/content h2="جاوا کا استعمال کرتے ہوئے PSB کو JPEG2000 میں کیسے تبدیل کریں۔" %}}
 
-PSB کو JPEG2000 میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔<a href="{{< relref "java" >}}">Aspose.PSD for Java</a> API جو کہ جاوا پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">ماون</a> اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ کے اندر اسے انسٹال کریں۔
+PSB کو JPEG2000 میں رینڈر کرنے کے لیے، ہم استعمال کریں گے۔<a href="/psd/{{< lang-code >}}java">Aspose.PSD for Java</a> API جو کہ جاوا پلیٹ فارم کے لیے ایک خصوصیت سے بھرپور، طاقتور اور استعمال میں آسان کنورژن API ہے۔ آپ اس کا تازہ ترین ورژن براہ راست یہاں سے ڈاؤن لوڈ کر سکتے ہیں۔<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">ماون</a> اور pom.xml میں درج ذیل کنفیگریشنز کو شامل کرکے اپنے Maven پر مبنی پروجیکٹ کے اندر اسے انسٹال کریں۔
 
 {{% blocks/products/pf/agp/code-block title=" ذخیرہ" offSpacer="true" %}}
 

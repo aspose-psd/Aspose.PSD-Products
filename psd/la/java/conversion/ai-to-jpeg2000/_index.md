@@ -1,6 +1,7 @@
 ---
 title: Converte AI ad JPEG2000 per Java
 description: Sample Java conversionis pro AI format ad fasciculum JPEG2000. Hoc exemplo utere codice ut AI ad JPEG2000 convertat intra cuiuslibet Telae vel Desktop Java sub applicatione.
+url: la/java/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +12,7 @@ description: Sample Java conversionis pro AI format ad fasciculum JPEG2000. Hoc 
 
 {{% blocks/products/pf/agp/content h2=" Quomodo convertendi AI ad JPEG2000 Usura Java" %}}
 
-Ut AI ad JPEG 2000 reddamus, utemur<a href="{{< relref "java" >}}"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, addendo sequentes conformationes ad pom.xml.
+Ut AI ad JPEG 2000 reddamus, utemur<a href="/psd/{{< lang-code >}}java"> Aspose.PSD pro Java</a> API quod est pluma dives, potens et facilis ad conversionem API pro suggestu Javae utuntur. Potes extrahere recentissimam versionem directe ex<a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd">Maven</a> et institue intra consilium tuum Maven-fundatum, addendo sequentes conformationes ad pom.xml.
 
 {{% blocks/products/pf/agp/code-block title=" Repository" offSpacer="true" %}}
 

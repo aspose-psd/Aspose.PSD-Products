@@ -2,6 +2,7 @@
 title: Wasserzeichen-PSD-Dokument über Java
 weight: 60
 description: Java-Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur PSD-Datei in der Java-Laufzeitumgebung für JSP/JSF-Anwendung und Desktop-Anwendungen.
+url: de/java/watermark
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +14,7 @@ description: Java-Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen 
 {{% blocks/products/pf/agp/content h2="Wie man eine PSD-Datei mit Java mit einem Wasserzeichen versehen kann" %}}
 
  Um eine PSD-Datei mit Wasserzeichen zu versehen, verwenden wir
- [Aspose.PSD für Java]({{< relref "java" >}})
+ [Aspose.PSD für Java](/psd/{{< lang-code >}}java)
  API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Wasserzeichen-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd)
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
