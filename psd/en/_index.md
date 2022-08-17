@@ -23,6 +23,16 @@ Java APIs to manipulate Photoshop and Illustrator files. Create, load, modify an
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< blocks/products/pf/product-card-row title="Aspose.PSD Built-in Apps with the code examples" >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Convert" symbol="C" productLink="convert/" >}}
+Simple widget to convert PSD to different formats
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="IFrame Conversion" symbol="iC" productLink="conversion/" >}}
+Multi-purpose conversion application based on IFrame embedding.
+{{< /blocks/products/pf/product >}}
+																			   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}
