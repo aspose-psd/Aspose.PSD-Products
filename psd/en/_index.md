@@ -32,7 +32,11 @@ Simple widget to convert PSD to different formats
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="IFrame Conversion" symbol="iC" productLink="conversion/" >}}
 Multi-purpose conversion application based on IFrame embedding.
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Compress" symbol="Cm" productLink="compress/" >}}
+Simple widget to reduce size of PSD Files using undocumented features of PSD Format
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product-card-row title="Aspose.PSD No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}
