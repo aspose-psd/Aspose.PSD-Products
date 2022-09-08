@@ -37,6 +37,10 @@ Multi-purpose conversion application based on IFrame embedding.
 Simple widget to reduce size of PSD Files using undocumented features of PSD Format for compresssion
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Multiformat IFrame Compression" symbol="RS" productLink="compress/" >}}
+Simple widget to reduce size of file of any format. For the PSD compressing is better to use other app.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="View" symbol="V" productLink="view/" >}}
 Simple widget to view PSD, PSB and AI Files
 {{< /blocks/products/pf/product >}}
