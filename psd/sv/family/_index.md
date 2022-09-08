@@ -6,7 +6,7 @@ url: sv/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API:er för att manipulera PSD-, PSB- och AI-filer" h2=".NET & Java API för att skapa, redigera och konvertera Adobe Photoshop- och Adobe Illustrator-filer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="API:er för att manipulera PSD-, PSB- och AI-filer" h2=".NET & Java API för att skapa, redigera och konvertera Adobe Photoshop- och Adobe Illustrator-filer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API:er inkluderar" >}}
@@ -43,6 +43,6 @@ Inbyggda Java API:er för skrivbordet, webben eller någon form av applikation b
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

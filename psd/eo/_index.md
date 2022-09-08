@@ -63,7 +63,7 @@ Rapida kaj Simpla Apo por Ĝisdatigo de PSD Interreta. Tekstaj kaj Tavolaj Ĝisd
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Kion Homoj Diras" subTitle="Ne nur kredu nian vorton. Vidu kion uzantoj devas diri pri Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Kion Homoj Diras" subTitle="Ne nur kredu nian vorton. Vidu kion uzantoj devas diri pri Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

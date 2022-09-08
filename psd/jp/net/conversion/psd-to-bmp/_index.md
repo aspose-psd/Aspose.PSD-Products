@@ -25,7 +25,7 @@ url: jp/net/conversion/psd-to-bmp/
 {{% blocks/products/pf/agp/feature-section-col title=" .NETPhotoshopAPIの使用を開始する" %}}
 コマンドラインから```nuget install Aspose.PSD```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.PSD```を使用してインストールします。
 
-または、[ダウンロード]（https://downloads.aspose.com/psd/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード]（https://releases.aspose.com/psd/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=" PSDからBMPへの変換用の.NETC＃コード" gistPath="" %}}

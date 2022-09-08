@@ -63,7 +63,7 @@ Java APIs لمعالجة ملفات Photoshop و Illustrator. قم بإنشاء 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title=" ما يقوله الناس" subTitle=" لا تأخذ كلمتنا فقط. انظر ماذا يقول المستخدمون عن Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title=" ما يقوله الناس" subTitle=" لا تأخذ كلمتنا فقط. انظر ماذا يقول المستخدمون عن Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

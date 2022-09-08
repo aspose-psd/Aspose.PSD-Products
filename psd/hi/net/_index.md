@@ -6,11 +6,11 @@ url: hi/net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" .NET एपीआई फोटोशॉप फाइलों में हेरफेर करने के लिए" h2="बिना किसी Adobe Photoshop निर्भरता के PSD और PSB फाइलें बनाएं, पढ़ें, संपादित करें और कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="असोस करें।PSD" subTitlepfName=" .NET . के लिए" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=" .NET एपीआई फोटोशॉप फाइलों में हेरफेर करने के लिए" h2="बिना किसी Adobe Photoshop निर्भरता के PSD और PSB फाइलें बनाएं, पढ़ें, संपादित करें और कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="असोस करें।PSD" subTitlepfName=" .NET . के लिए" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" .NET . के लिए" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p> .NET के लिए Aspose.PSD एक उन्नत PSD और प्रवेश स्तर की AI फ़ाइलें हैं जो बिना किसी Adobe Photoshop या Adobe Illustrator निर्भरता के हेरफेर API को प्रारूपित करती हैं। एपीआई फ़ोटोशॉप फ़ाइलों को बनाने और संपादित करने के साथ-साथ परत गुणों को अद्यतन करने, वॉटरमार्क जोड़ने, ग्राफिक्स संचालन करने या एक फ़ाइल प्रारूप को दूसरे में बदलने की क्षमता प्रदान करने की अनुमति देता है।</p>
@@ -629,7 +629,7 @@ url: hi/net/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSD अन्य लोकप्रिय विकास परिवेशों के लिए व्यक्तिगत PSD API प्रदान करता है जैसा कि नीचे सूचीबद्ध है:" >}}
 

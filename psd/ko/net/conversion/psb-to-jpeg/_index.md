@@ -25,7 +25,7 @@ url: ko/net/conversion/psb-to-jpeg/
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API 시작하기" %}}
 명령줄에서 ```nuget install Aspose.PSD```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.PSD```로 설치합니다.
 
-또는 [downloads](https://downloads.aspose.com/psd/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+또는 [downloads](https://releases.aspose.com/psd/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="PSB에서 JPEG로의 변환을 위한 .NET C# 코드" gistPath="" %}}

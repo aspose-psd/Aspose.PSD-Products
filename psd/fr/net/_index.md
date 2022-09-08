@@ -6,11 +6,11 @@ url: fr/net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API pour manipuler les fichiers Photoshop" h2="Créez, lisez, modifiez et convertissez des fichiers PSD et PSB sans aucune dépendance Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Asposer.PSD" subTitlepfName="pour .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API pour manipuler les fichiers Photoshop" h2="Créez, lisez, modifiez et convertissez des fichiers PSD et PSB sans aucune dépendance Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Asposer.PSD" subTitlepfName="pour .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Asposer.PSD" subTitlepfName="pour .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.PSD pour .NET est une API avancée de manipulation de formats de fichiers PSD et AI d'entrée de gamme sans aucune dépendance Adobe Photoshop ou Adobe Illustrator. L'API permet de créer et de modifier les fichiers Photoshop ainsi que de mettre à jour les propriétés des calques, d'ajouter des filigranes, d'effectuer des opérations graphiques ou de convertir un format de fichier en un autre.</p>
@@ -629,7 +629,7 @@ url: fr/net/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Asposer.PSD" description="Aspose.PSD propose des API PSD individuelles pour d'autres environnements de développement populaires, comme indiqué ci-dessous :" >}}
 

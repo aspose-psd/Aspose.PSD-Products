@@ -63,7 +63,7 @@ Schnelle und einfache App zum Aktualisieren von PSD Online. Text- und Ebenenaktu
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Was die Leute sagen" subTitle="Glaube uns nicht einfach beim Wort. Sehen Sie, was Benutzer über Aspose.PSD zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Was die Leute sagen" subTitle="Glaube uns nicht einfach beim Wort. Sehen Sie, was Benutzer über Aspose.PSD zu sagen haben." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

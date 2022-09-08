@@ -6,7 +6,7 @@ url: zh/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="操作 PSD、PSB 和 AI 文件的 API" h2=".NET 和 Java API 用於創建、編輯和轉換 Adob​​e Photoshop 和 Adob​​e Illustrator 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="操作 PSD、PSB 和 AI 文件的 API" h2=".NET 和 Java API 用於創建、編輯和轉換 Adob​​e Photoshop 和 Adob​​e Illustrator 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 高代碼 API 包括" >}}
@@ -43,6 +43,6 @@ url: zh/family/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

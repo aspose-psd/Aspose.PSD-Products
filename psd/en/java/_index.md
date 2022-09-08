@@ -6,11 +6,11 @@ description: Create modify or convert PSD and PSB formats using this library wit
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Library for Photoshop Files" h2="Create, load, modify and render PSD & PSB document formats from within Java applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -510,6 +510,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -527,7 +528,7 @@ description: Create modify or convert PSD and PSB formats using this library wit
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD offers individual PSD APIs for other popular development environments as listed below:" >}}
 

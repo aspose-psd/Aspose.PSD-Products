@@ -6,7 +6,7 @@ url: cr/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API-ji za upravljanje PSD, PSB i AI datotekama" h2=".NET i Java API-ji za stvaranje, uređivanje i pretvaranje datoteka Adobe Photoshop i Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="API-ji za upravljanje PSD, PSB i AI datotekama" h2=".NET i Java API-ji za stvaranje, uređivanje i pretvaranje datoteka Adobe Photoshop i Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD High Code API-ji uključuju" >}}
@@ -43,6 +43,6 @@ Izvorni Java API-ji za desktop, web ili bilo koju vrstu aplikacija temeljenih na
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

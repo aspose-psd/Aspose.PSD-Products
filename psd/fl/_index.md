@@ -63,7 +63,7 @@ Nopea ja yksinkertainen sovellus päivittää PSD Online. Teksti- ja tasopäivit
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Mitä ihmiset sanovat" subTitle="Älä vain luota sanaamme. Katso, mitä käyttäjillä on sanottavaa Aspose.PSD:stä." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Mitä ihmiset sanovat" subTitle="Älä vain luota sanaamme. Katso, mitä käyttäjillä on sanottavaa Aspose.PSD:stä." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

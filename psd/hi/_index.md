@@ -63,7 +63,7 @@ url: hi/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="लोग क्या कह रहे हैं" subTitle=" इसके लिए केवल हमारी बात न लें। देखें कि Aspose.PSD के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="लोग क्या कह रहे हैं" subTitle=" इसके लिए केवल हमारी बात न लें। देखें कि Aspose.PSD के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

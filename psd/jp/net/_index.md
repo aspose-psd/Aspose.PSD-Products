@@ -6,11 +6,11 @@ url: jp/net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Photoshopファイルを操作するための.NETAPI" h2=" Adob​​e Photoshopに依存せずに、PSDおよびPSBファイルを作成、読み取り、編集、変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName=" Aspose.PSD" subTitlepfName=" for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1="Photoshopファイルを操作するための.NETAPI" h2=" Adob​​e Photoshopに依存せずに、PSDおよびPSBファイルを作成、読み取り、編集、変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName=" Aspose.PSD" subTitlepfName=" for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p> Aspose.PSD for .NETは、高度なPSDであり、AdobePhotoshopやAdobeIllustratorに依存しないエントリーレベルのAIファイル形式の操作APIです。APIを使用すると、Photoshopファイルを作成および編集できるだけでなく、レイヤープロパティの更新、透かしの追加、グラフィック操作の実行、またはあるファイル形式から別のファイル形式への変換を行うことができます。</p>
@@ -629,7 +629,7 @@ url: jp/net/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSDは、以下に示すように、他の一般的な開発環境向けに個別のPSDAPIを提供します。" >}}
 

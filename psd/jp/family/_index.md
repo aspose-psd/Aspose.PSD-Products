@@ -6,7 +6,7 @@ url: jp/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" PSD、PSB、AIファイルを操作するためのAPI" h2=" .NETおよびJavaAPIを使用して、AdobePhotoshopおよびAdobeIllustratorファイルを作成、編集、および変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName=" Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1=" PSD、PSB、AIファイルを操作するためのAPI" h2=" .NETおよびJavaAPIを使用して、AdobePhotoshopおよびAdobeIllustratorファイルを作成、編集、および変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName=" Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSDハイコードAPIに含まれるもの" >}}
@@ -43,6 +43,6 @@ Windowsフォーム、ASP.NET、または.NETFramework2.0以降に基づく任�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

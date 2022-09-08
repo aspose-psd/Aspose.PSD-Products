@@ -63,7 +63,7 @@ Snabb och enkel app för uppdatering av PSD Online. Text- och lageruppdateringar
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Vad folk säger" subTitle="Ta inte bara på vårt ord. Se vad användare har att säga om Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Vad folk säger" subTitle="Ta inte bara på vårt ord. Se vad användare har att säga om Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

@@ -6,11 +6,11 @@ url: ko/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="포토샵 파일용 자바 라이브러리" h2="Java 애플리케이션 내에서 PSD 및 PSB 문서 형식을 생성, 로드, 수정 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="아포즈.PSD" subTitlepfName="자바용" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="포토샵 파일용 자바 라이브러리" h2="Java 애플리케이션 내에서 PSD 및 PSB 문서 형식을 생성, 로드, 수정 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="아포즈.PSD" subTitlepfName="자바용" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName="자바용" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -527,7 +527,7 @@ url: ko/java/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="아포즈.PSD" description="Aspose.PSD는 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 PSD API를 제공합니다." >}}
 

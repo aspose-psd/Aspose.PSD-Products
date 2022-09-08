@@ -6,11 +6,11 @@ url: jp/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Photoshopファイル用のJavaライブラリ" h2=" Javaアプリケーション内からPSDおよびPSBドキュメント形式を作成、ロード、変更、およびレンダリングします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName=" Aspose.PSD" subTitlepfName="Javaの場合" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Photoshopファイル用のJavaライブラリ" h2=" Javaアプリケーション内からPSDおよびPSBドキュメント形式を作成、ロード、変更、およびレンダリングします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName=" Aspose.PSD" subTitlepfName="Javaの場合" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName="Javaの場合" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -527,7 +527,7 @@ url: jp/java/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
 {{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSDは、以下に示すように、他の一般的な開発環境向けに個別のPSDAPIを提供します。" >}}
 

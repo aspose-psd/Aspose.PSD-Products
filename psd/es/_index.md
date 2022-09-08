@@ -63,7 +63,7 @@ Aplicación rápida y sencilla para actualizar PSD en línea. Se admiten actuali
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Lo que dice la gente" subTitle=" No confíe solo en nuestra palabra. Vea lo que los usuarios tienen que decir sobre Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Lo que dice la gente" subTitle=" No confíe solo en nuestra palabra. Vea lo que los usuarios tienen que decir sobre Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

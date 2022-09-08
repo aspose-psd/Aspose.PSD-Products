@@ -6,7 +6,7 @@ url: tr/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PSD, PSB ve AI Dosyalarını Yönetmek için API'ler" h2=".NET ve Java API'leri Adobe Photoshop ve Adobe Illustrator dosyalarını oluşturmak, düzenlemek ve dönüştürmek için." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="PSD, PSB ve AI Dosyalarını Yönetmek için API'ler" h2=".NET ve Java API'leri Adobe Photoshop ve Adobe Illustrator dosyalarını oluşturmak, düzenlemek ve dönüştürmek için." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Yüksek Kod API'leri şunları içerir:" >}}
@@ -43,6 +43,6 @@ Masaüstü, web veya Java SE veya EE'ye dayalı herhangi bir uygulama türü iç
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

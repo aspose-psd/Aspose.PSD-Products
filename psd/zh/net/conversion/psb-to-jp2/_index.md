@@ -25,7 +25,7 @@ url: zh/net/conversion/psb-to-jp2/
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API 入門" %}}
 從命令行安裝為 ```nuget install Aspose.PSD``` 或通過 Visual Studio 的 Package Manager Console 使用 ```Install-Package Aspose.PSD``` 安裝。
 
-或者，從 [下載](https://downloads.aspose.com/psd/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+或者，從 [下載](https://releases.aspose.com/psd/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# 代碼用於 PSB 到 JP2 的轉換" gistPath="" %}}

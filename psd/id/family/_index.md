@@ -6,7 +6,7 @@ url: id/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API untuk Memanipulasi File PSD, PSB & AI" h2=".NET & Java API untuk membuat, mengedit, dan mengonversi file Adobe Photoshop dan Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="API untuk Memanipulasi File PSD, PSB & AI" h2=".NET & Java API untuk membuat, mengedit, dan mengonversi file Adobe Photoshop dan Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD API Kode Tinggi Termasuk" >}}
@@ -43,6 +43,6 @@ Native Java API untuk desktop, web, atau segala jenis aplikasi berbasis Java SE 
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

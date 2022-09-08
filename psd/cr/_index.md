@@ -63,7 +63,7 @@ Brza i jednostavna aplikacija za ažuriranje PSD-a na mreži. Podržana su ažur
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Što ljudi govore" subTitle="Ne vjerujte nam samo na riječ. Pogledajte što korisnici imaju za reći o Aspose.PSD-u." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Što ljudi govore" subTitle="Ne vjerujte nam samo na riječ. Pogledajte što korisnici imaju za reći o Aspose.PSD-u." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

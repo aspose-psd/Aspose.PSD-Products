@@ -25,7 +25,7 @@ url: it/net/conversion/psb-to-png/
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con l'API .NET Photoshop" %}}
 Installa dalla riga di comando come ```nuget install Aspose.PSD``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.PSD```.
 
-In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/psd/net).
+In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET Codice C# per la conversione da PSB a PNG" gistPath="" %}}

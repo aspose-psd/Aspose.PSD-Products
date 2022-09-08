@@ -6,7 +6,7 @@ url: fr/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API pour manipuler les fichiers PSD, PSB et AI" h2=".APIs NET et Java pour créer, éditer et convertir des fichiers Adobe Photoshop et Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Asposer.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="API pour manipuler les fichiers PSD, PSB et AI" h2=".APIs NET et Java pour créer, éditer et convertir des fichiers Adobe Photoshop et Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Asposer.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API Aspose.PSD High Code incluent" >}}
@@ -43,6 +43,6 @@ API Java natives pour le bureau, le Web ou tout type d'application basée sur Ja
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

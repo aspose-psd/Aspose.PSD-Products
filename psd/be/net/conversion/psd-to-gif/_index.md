@@ -25,7 +25,7 @@ url: be/net/conversion/psd-to-gif/
 {{% blocks/products/pf/agp/feature-section-col title="Пачаць працу з .NET Photoshop API" %}}
 Усталюйце з каманднага радка як ```nuget install Aspose.PSD``` або праз кансоль дыспетчара пакетаў Visual Studio з ```Install-Package Aspose.PSD```.
 
-У якасці альтэрнатывы атрымайце аўтаномную праграму ўстаноўкі MSI або бібліятэкі DLL у ZIP-файле з [спампоўкі] (https://downloads.aspose.com/psd/net).
+У якасці альтэрнатывы атрымайце аўтаномную праграму ўстаноўкі MSI або бібліятэкі DLL у ZIP-файле з [спампоўкі] (https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Код для пераўтварэння PSD ў GIF" gistPath="" %}}

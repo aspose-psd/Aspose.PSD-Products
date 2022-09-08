@@ -6,11 +6,11 @@ url: ko/net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API를 사용하여 Photoshop 파일 조작" h2="Adobe Photoshop 종속성 없이 PSD 및 PSB 파일을 생성, 읽기, 편집 및 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="아포즈.PSD" subTitlepfName=".NET용" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API를 사용하여 Photoshop 파일 조작" h2="Adobe Photoshop 종속성 없이 PSD 및 PSB 파일을 생성, 읽기, 편집 및 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="아포즈.PSD" subTitlepfName=".NET용" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName=".NET용" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>.NET용 Aspose.PSD는 Adobe Photoshop 또는 Adobe Illustrator 종속성이 없는 고급 PSD 및 보급형 AI 파일 형식 조작 API입니다. API를 사용하면 Photoshop 파일을 만들고 편집할 수 있을 뿐만 아니라 레이어 속성 업데이트, 워터마크 추가, 그래픽 작업 수행 또는 한 파일 형식을 다른 형식으로 변환하는 기능을 제공할 수 있습니다.</p>
@@ -629,7 +629,7 @@ url: ko/net/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="아포즈.PSD" description="Aspose.PSD는 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 PSD API를 제공합니다." >}}
 

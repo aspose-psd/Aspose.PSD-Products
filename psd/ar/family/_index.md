@@ -6,7 +6,7 @@ url: ar/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" واجهات برمجة تطبيقات لمعالجة ملفات PSD و PSB و AI" h2=" NET & Java APIs لإنشاء وتحرير وتحويل ملفات Adobe Photoshop و Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName=" Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1=" واجهات برمجة تطبيقات لمعالجة ملفات PSD و PSB و AI" h2=" NET & Java APIs لإنشاء وتحرير وتحويل ملفات Adobe Photoshop و Adobe Illustrator." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName=" Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" تتضمن واجهات برمجة تطبيقات Aspose.PSD عالية الكود" >}}
@@ -43,6 +43,6 @@ url: ar/family/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

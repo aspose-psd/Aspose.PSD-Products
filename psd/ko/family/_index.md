@@ -6,7 +6,7 @@ url: ko/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PSD, PSB 및 AI 파일 조작을 위한 API" h2=".NET 및 Java API를 사용하여 Adobe Photoshop 및 Adobe Illustrator 파일을 생성, 편집 및 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="아포즈.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="PSD, PSB 및 AI 파일 조작을 위한 API" h2=".NET 및 Java API를 사용하여 Adobe Photoshop 및 Adobe Illustrator 파일을 생성, 편집 및 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="아포즈.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 하이 코드 API 포함" >}}
@@ -43,6 +43,6 @@ Windows Forms, ASP.NET 또는 .NET Framework 2.0 이상을 기반으로 하는 �
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

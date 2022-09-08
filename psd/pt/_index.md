@@ -63,7 +63,7 @@ App rápido e simples para atualização PSD Online. Atualizações de texto e c
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas na nossa palavra. Veja o que os usuários têm a dizer sobre o Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas na nossa palavra. Veja o que os usuários têm a dizer sobre o Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

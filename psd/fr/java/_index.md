@@ -6,11 +6,11 @@ url: fr/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Bibliothèque Java pour les fichiers Photoshop" h2="Créez, chargez, modifiez et restituez les formats de documents PSD et PSB à partir d'applications Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Asposer.PSD" subTitlepfName="pour Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Bibliothèque Java pour les fichiers Photoshop" h2="Créez, chargez, modifiez et restituez les formats de documents PSD et PSB à partir d'applications Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Asposer.PSD" subTitlepfName="pour Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Asposer.PSD" subTitlepfName="pour Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -527,7 +527,7 @@ url: fr/java/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Asposer.PSD" description="Aspose.PSD propose des API PSD individuelles pour d'autres environnements de développement populaires, comme indiqué ci-dessous :" >}}
 

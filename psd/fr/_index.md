@@ -63,7 +63,7 @@ Application rapide et simple pour la mise à jour PSD en ligne. Les mises à jou
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Ce que les gens disent" subTitle="Ne nous croyez pas sur parole. Découvrez ce que les utilisateurs ont à dire sur Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Ce que les gens disent" subTitle="Ne nous croyez pas sur parole. Découvrez ce que les utilisateurs ont à dire sur Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

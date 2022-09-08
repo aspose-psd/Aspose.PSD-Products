@@ -63,7 +63,7 @@ API Java для маніпулювання файлами Photoshop та Illustr
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Що говорять люди" subTitle="Не вірте нам на слово. Подивіться, що користувачі говорять про Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Що говорять люди" subTitle="Не вірте нам на слово. Подивіться, що користувачі говорять про Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

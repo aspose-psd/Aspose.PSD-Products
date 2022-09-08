@@ -63,7 +63,7 @@ Aplikasi Cepat dan Sederhana untuk Memperbarui PSD Online. Pembaruan Teks dan La
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata-kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata-kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

@@ -25,7 +25,7 @@ url: fl/net/conversion/psd-to-png/
 {{% blocks/products/pf/agp/feature-section-col title="Aloita .NET Photoshop API:n käyttö" %}}
 Asenna komentoriviltä nimellä ```nuget install Aspose.PSD``` tai Visual Studion Package Manager -konsolin kautta komennolla ```Install-Package Aspose.PSD```.
 
-Vaihtoehtoisesti voit hankkia offline-tilassa olevan MSI-asennusohjelman tai DLL-tiedostot ZIP-tiedostona osoitteesta [downloads](https://downloads.aspose.com/psd/net).
+Vaihtoehtoisesti voit hankkia offline-tilassa olevan MSI-asennusohjelman tai DLL-tiedostot ZIP-tiedostona osoitteesta [downloads](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# -koodi PSD-muunnokselle PNG-muotoon" gistPath="" %}}

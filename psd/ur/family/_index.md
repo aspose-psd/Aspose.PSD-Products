@@ -6,7 +6,7 @@ url: ur/family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="پی ایس ڈی، پی ایس بی اور اے آئی فائلوں میں ہیرا پھیری کے لیے APIs" h2=" Adobe Photoshop اور Adobe Illustrator فائلوں کو بنانے، ترمیم کرنے اور تبدیل کرنے کے لیے NET اور Java APIs۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="پی ایس ڈی، پی ایس بی اور اے آئی فائلوں میں ہیرا پھیری کے لیے APIs" h2=" Adobe Photoshop اور Adobe Illustrator فائلوں کو بنانے، ترمیم کرنے اور تبدیل کرنے کے لیے NET اور Java APIs۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD ہائی کوڈ APIs شامل ہیں۔" >}}
@@ -43,6 +43,6 @@ url: ur/family/
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

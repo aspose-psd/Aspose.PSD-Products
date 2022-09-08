@@ -25,7 +25,7 @@ url: fr/net/conversion/psd-to-jpeg/
 {{% blocks/products/pf/agp/feature-section-col title="Commencer avec l'API .NET Photoshop" %}}
 Installez à partir de la ligne de commande en tant que ```nuget install Aspose.PSD``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.PSD```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://downloads.aspose.com/psd/net).
+Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements] (https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET Code C# pour la conversion PSD en JPEG" gistPath="" %}}

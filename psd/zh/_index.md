@@ -63,7 +63,7 @@ url: zh/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。看看用戶對 Aspose.PSD 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。看看用戶對 Aspose.PSD 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

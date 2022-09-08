@@ -7,11 +7,11 @@ url: ur/net/
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1=" فوٹوشاپ فائلوں میں ہیرا پھیری کے لیے NET APIs" h2=" بغیر کسی ایڈوب فوٹوشاپ کے انحصار کے PSD اور PSB فائلیں بنائیں، پڑھیں، ترمیم کریں اور تبدیل کریں۔"
-logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.PSD for .NET ایک ایڈوانسڈ PSD اور انٹری لیول AI فائلز فارمیٹس مینیپولیشن API ہے بغیر کسی Adobe Photoshop یا Adobe Illustrator کے انحصار کے۔ API فوٹوشاپ فائلوں کو بنانے اور ان میں ترمیم کرنے کے ساتھ ساتھ پرت کی خصوصیات کو اپ ڈیٹ کرنے، واٹر مارکس شامل کرنے، گرافکس آپریشنز انجام دینے یا ایک فائل فارمیٹ کو دوسرے میں تبدیل کرنے کی سہولت فراہم کرتا ہے۔</p>
@@ -630,7 +630,7 @@ logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD دیگر مقبول ترقیاتی ماحول کے لیے انفرادی PSD APIs پیش کرتا ہے جیسا کہ ذیل میں درج ہے:" >}}
 
