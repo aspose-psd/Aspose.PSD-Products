@@ -20,6 +20,7 @@ weight: 80
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }`
+	"png"
 "Convert example from PSD to PNG can using Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Free web application to convert your PSD files to PNG and many other formats" "https://products.aspose.app/psd/conversion"
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs"

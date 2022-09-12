@@ -20,6 +20,7 @@ weight: 80
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }`
+		"jpg"
 "Convert example from PSD to JPG using Aspose.PSD high-code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Application to convert PSD files to JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg"
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs"
