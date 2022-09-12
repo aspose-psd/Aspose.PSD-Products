@@ -20,6 +20,7 @@ weight: 80
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }`
+	"tiff"
 "Convert example from PSD to Tiff with High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Web application to convert your PSD files to Tiff" "https://products.aspose.app/psd/conversion"
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs"
