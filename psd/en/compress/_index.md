@@ -1,7 +1,7 @@
 ---
 title: PSD PSB Compress Solution 
 weight: 7730
-url: /compress
+url: /reduce-size
 limit: 
 description: Compress Adobe Photoshop images to reduce files sizes
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
@@ -141,6 +141,9 @@ keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smalle
 "Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress"
 >}}
 <p>Aspose.PSD compress features use the high-code API. The Compress PSD Solution is available in Java and .Net. You can use Aspose.PSD for compression or other tasks on the Back-end of your web-service.</p>
+<ul>
+<li><a href="psb">PSB Compress</a></li>
+</ul>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

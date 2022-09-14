@@ -1,19 +1,17 @@
 ---
-title: PSD PSB Reduce Size Solution 
+title: PSB Reduce Size Solution 
 weight: 7730
-url: /reduce-size
+url: /reduce-size/psb
 limit: 
 description: Reduce PSD files size
-keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd data]
+keywords: [reduce psb size, make psb smaller, reduce psb, remove unnecessary psb data, compress psb file, compress psb]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Adobe Photoshop File Format Solution" h2="High Code APIs and free apps for PSD, PSB with ability to reduce size of files and compress using undocumented possibilities" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
-
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Reduce size of PSD Files">}}
+{{< blocks/products/pf/feature-page-section h2="Reduce size of PSB Files">}}
 
-<p>Reduce size of large PSD is a simple operation if you use Aspose.PSD. Reducing of the size can be archieved by removing cache data from PSD Files, Merging Layers, Converting to PSD Format with the less bit per color amount. Also, you can change color mode of PSD File, for example change from CMYK color to RGBA Color reduces the PSD file size. This app used not-documented features of PSD format, so the final result can be broken. Please use PSD File Reduce only if you clear know what you want to archive.</p>
+<p>PSB format can be easily compressed if you save it as PSD, but PSD format doesn't support the image that are more than 30000 pixels on width or height. In this case compressing PSB file is more complex solution. You can try PSB Compress Software but we can not guarantee that final compressed PSB file will be readable. This app uses not documented features of PSB format. To improve chance of the correct work, please try compress features that will not remove important data. Reduce size of PSB provided "as is". It's better to use common <a href="/psd/reduce-size">PSD Size Reduce Application</a></p>
 {{< psd/compress 
 `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
@@ -140,7 +138,7 @@ keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd
 "Code samples for compression of PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress/psd"
 >}}
-<p>If you need to reduce size of PSB file instead of PSD, you can use minor modification of this app. Please check the "<a href="/psd/reduce-size/psb">Reduce size of PSB</a>" application.</p>
+<p>PSB files can be up to 2gb, so you can get the case when this app is can not upload PSB file to reduce its size. In this cases it's better to use <a href="/psd">on-premise psd format solution as Aspose.PSD</a> and write compress code by yourself. The code examples hot to compress PSB format can be found in this article, just switch the tabs in built-in PSB File Reduce App</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 
