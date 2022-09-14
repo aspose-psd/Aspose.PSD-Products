@@ -1,23 +1,23 @@
 ---
-title: PSD PSB Reduce Size Solution 
+title: PSD PSB Compress Solution 
 weight: 7730
-url: /reduce-size
+url: /compress
 limit: 
-description: Reduce PSD files size
-keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd data]
+description: Compress Adobe Photoshop images to reduce files sizes
+keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Adobe Photoshop File Format Solution" h2="High Code APIs and free apps for PSD, PSB with ability to reduce size of files and compress using undocumented possibilities" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Reduce size of PSD Files">}}
-
-<p>Reduce size of large PSD is a simple operation if you use Aspose.PSD. Reducing of the size can be archieved by removing cache data from PSD Files, Merging Layers, Converting to PSD Format with the less bit per color amount. Also, you can change color mode of PSD File, for example change from CMYK color to RGBA Color reduces the PSD file size. This app used not-documented features of PSD format, so the final result can be broken. Please use PSD File Reduce only if you clear know what you want to archive.</p>
+{{< blocks/products/pf/feature-page-section >}}
+<h3 class="headingpdleft">Free Online App to Compress PSD and reduce its size</h3>
+<p>Compress large PSD and PSB files using lossy and lossless methods. Discover hidden potential of Aspose.PSD. It's not always safe for  Data in PSD File, so if you use it often you should test the PSD Files after the compression. Please note, that some compress features are Lossy, so after these types of compression you will not be able to restore initial PSD Files. This feature is provided "as is". You can compress PSD or reduce size of PSB files.</p>
 {{< psd/compress 
 `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`      // Lossless compression
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -36,7 +36,7 @@ keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd
             return stream;
         }
 
-        // Applying RLE Compression to reduce size of PSD
+        // Applying RLE Compression
         Stream ApplyRleCompression(PsdImage image)
         {
             foreach (var layer in image.Layers)
@@ -62,7 +62,7 @@ keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd
             return null;
         }
 
-        // Lossy methods of PSD Size Reducing
+        // Lossy methods.
         // 8 Bit Conversion
         Stream ApplyConversionTo8Bit(PsdImage image)
         {
@@ -138,9 +138,9 @@ keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd
             return stream;
         }`
 "Code samples for compression of PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
-"Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress/psd"
+"Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress"
 >}}
-<p>If you need to reduce size of PSB file instead of PSD, you can use minor modification of this app. Please check the "<a href="/psd/reduce-size/psb">Reduce size of PSB</a>" application.</p>
+<p>Aspose.PSD compress features use the high-code API. The Compress PSD Solution is available in Java and .Net. You can use Aspose.PSD for compression or other tasks on the Back-end of your web-service.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 
