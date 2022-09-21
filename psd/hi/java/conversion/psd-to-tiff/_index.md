@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSD को टीआईएफएफ में कनवर्ट करें
 weight: 170
 description: TIFF फ़ाइल में PSD प्रारूप के लिए जावा रूपांतरण कोड का नमूना। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में PSD को TIFF में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psd-to-tiff/
+url: psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

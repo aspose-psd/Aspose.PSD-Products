@@ -1,7 +1,7 @@
 ---
 title: PSD-Dokument über .NET bearbeiten
 description: C#-Quellcode zum Bearbeiten der PSD-Datei auf .NET Framework, .NET Core.
-url: de/net/editor
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

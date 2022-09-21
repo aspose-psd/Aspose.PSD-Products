@@ -1,7 +1,7 @@
 ---
 title: Úprava dokumentu PSD přes .NET
 description: Zdrojový kód C# pro úpravu souboru PSD na .NET Framework, .NET Core.
-url: cz/net/editor
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Pretvorba Java Photoshop dokumenata
 description: Pretvorite Photoshop PSD, PSB u slike uključujući BMP, JPG, PNG, TIFF i PDF putem Java biblioteke.
-url: cr/java/conversion/
+url: 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

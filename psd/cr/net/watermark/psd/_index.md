@@ -2,7 +2,7 @@
 title: Vodeni žig PSD dokument putem .NET-a
 weight: 130
 description: C# izvorni kod za dodavanje ili uklanjanje vodenog žiga u PSD datoteku na .NET Framework, .NET Core.
-url: cr/net/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

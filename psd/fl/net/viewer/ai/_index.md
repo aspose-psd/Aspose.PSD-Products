@@ -1,7 +1,7 @@
 ---
 title: Tarkastele AI-tiedostomuotoja .NET:n kautta
 description: C#-lähdekoodi tekoälyasiakirjojen lataamiseen, hahmontamiseen ja näyttämiseen .NET Framework-, .NET Core-, Windows Azure-, Mono- tai Xamarin-alustalla.
-url: fl/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

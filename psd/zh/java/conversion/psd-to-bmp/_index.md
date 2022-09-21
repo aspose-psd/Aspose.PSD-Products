@@ -2,7 +2,7 @@
 title: 通過Java將PSD轉BMP
 weight: 260
 description: PSD 格式到 BMP 文件的示例 Java 轉換代碼。使用此示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 PSD 轉換為 BMP。
-url: zh/java/conversion/psd-to-bmp/
+url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

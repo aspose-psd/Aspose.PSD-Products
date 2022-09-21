@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PSB:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi PSB C# -muunnokseen. Käytä API-esimerkkikoodia tekoälytiedostojen erämuunnokseen PSB:ksi VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C＃を介してAIをJPEGに変換する
 description: AIからJPEGC＃変換のサンプルコード。VB.NET、Asp.NET、または任意の.NETベースのアプリケーション内でのバッチAIファイルからJPEGへの変換にAPIサンプルコードを使用します。
-url: jp/net/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

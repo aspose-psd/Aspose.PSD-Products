@@ -1,7 +1,7 @@
 ---
 title: एआई को सी#के माध्यम से पीएसबी में बदलें
 description: एआई से पीएसबी सी# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच AI फ़ाइलों को PSB रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
-url: hi/net/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

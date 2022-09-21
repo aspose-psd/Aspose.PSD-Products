@@ -2,7 +2,7 @@
 title: Wasserzeichen-PSD-Dokument über .NET
 weight: 130
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur PSD-Datei in .NET Framework, .NET Core.
-url: de/net/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

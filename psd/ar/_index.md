@@ -2,7 +2,7 @@
 title: إنشاء وتحرير وتحويل ملفات PSD & PSB إلى PDF وتنسيقات الصور
 weight: 310
 description: واجهات برمجة تطبيقات ذات كود عالي وتطبيقات مجانية لتحرير ملفات Photoshop. القدرة على تحديث خصائص الطبقة ، إضافة علامات مائية التدوير مقياس Flip Crop Dithering Raster Conversion.
-url: ar/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

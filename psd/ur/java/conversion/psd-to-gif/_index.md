@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSD کو GIF میں تبدیل کریں۔
 weight: 330
 description: PSD فارمیٹ کے GIF فائل میں نمونہ جاوا کنورژن کوڈ۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو GIF میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psd-to-gif/
+url: psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

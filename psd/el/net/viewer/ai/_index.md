@@ -1,7 +1,7 @@
 ---
 title: Προβολή μορφών αρχείων AI μέσω .NET
 description: Πηγαίος κώδικας C# για φόρτωση, απόδοση και εμφάνιση εγγράφων AI σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
-url: el/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

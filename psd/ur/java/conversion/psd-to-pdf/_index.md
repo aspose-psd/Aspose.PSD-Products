@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے پی ایس ڈی کو پی ڈی ایف میں تبدیل کریں۔
 weight: 360
 description: نمونہ جاوا کنورژن کوڈ برائے پی ایس ڈی فارمیٹ پی ڈی ایف فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن میں پی ایس ڈی کو پی ڈی ایف میں تبدیل کرنے کے لیے یہ مثالی کوڈ استعمال کریں۔
-url: ur/java/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

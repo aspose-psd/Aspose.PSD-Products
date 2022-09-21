@@ -1,7 +1,7 @@
 ---
 title: Rigardu AI Dosierformatojn per .NET
 description: C# fontkodo por ŝargi, bildigi kaj montri AI-dokumentojn sur .NET Framework, .NET Core, Windows Azure, Mono aŭ Xamarin Platforms.
-url: eo/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

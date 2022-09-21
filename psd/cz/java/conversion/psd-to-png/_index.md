@@ -2,7 +2,7 @@
 title: Převod PSD na PNG přes Java
 weight: 80
 description: Ukázkový konverzní kód Java pro formát PSD na soubor PNG. Tento ukázkový kód použijte k převodu PSD na PNG v jakékoli webové nebo desktopové Java aplikaci.
-url: cz/java/conversion/psd-to-png/
+url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

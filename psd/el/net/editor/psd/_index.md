@@ -1,7 +1,7 @@
 ---
 title: Επεξεργασία εγγράφου PSD μέσω .NET
 description: Πηγαίος κώδικας C# για επεξεργασία του αρχείου PSD σε .NET Framework, .NET Core.
-url: el/net/editor
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

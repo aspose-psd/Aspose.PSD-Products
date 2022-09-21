@@ -2,7 +2,7 @@
 title: Java Photoshop API | PSD- ja PSB-muotojen jäsennys
 weight: 270
 description: Luo muokata tai muuntaa PSD- ja PSB-muotoja käyttämällä tätä kirjastoa missä tahansa Java-sovelluksessa ilman Photoshop-ohjelmistoa
-url: fl/java/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

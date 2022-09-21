@@ -2,7 +2,7 @@
 title: Преобразование PSD в PDF с помощью C#
 weight: 200
 description: Пример кода для преобразования PSD в PDF C#. Используйте пример кода API для пакетного преобразования файлов PSD в PDF в VB.NET, Asp.NET или любом приложении на основе .NET.
-url: ru/net/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

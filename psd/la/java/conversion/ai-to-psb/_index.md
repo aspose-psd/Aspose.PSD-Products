@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad PSB per Java
 description: Sample Java conversionis pro AI format ad PSB lima. Hoc exemplo utere codice ut AI ad PSB convertat in applicatione cuiuslibet Telae vel Desktop Java subnixa.
-url: la/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى BMP عبر Java
 description: عينة كود تحويل Java لتنسيق AI إلى ملف BMP. استخدم رمز المثال هذا لتحويل AI إلى BMP داخل أي تطبيق يستند إلى Web أو Desktop Java.
-url: ar/java/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

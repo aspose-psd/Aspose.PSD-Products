@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSB کو PDF میں تبدیل کریں۔
 weight: 190
 description: PSB فارمیٹ کے لیے جاوا کو پی ڈی ایف فائل میں تبدیل کرنے کا نمونہ۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو پی ڈی ایف میں تبدیل کرنے کے لیے یہ مثالی کوڈ استعمال کریں۔
-url: ur/java/conversion/psb-to-pdf/
+url: psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

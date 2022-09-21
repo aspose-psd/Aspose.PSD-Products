@@ -2,7 +2,7 @@
 title: Muunna PSD PDF:ksi Javalla
 weight: 360
 description: Esimerkki Java-muunnoskoodista PSD-muodosta PDF-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi PSD:n PDF-muotoon missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

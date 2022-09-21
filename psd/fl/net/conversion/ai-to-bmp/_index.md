@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly BMP:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi BMP C# -muunnokseksi. Käytä API-esimerkkikoodia tekoälytiedostojen BMP-muuntamiseen VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

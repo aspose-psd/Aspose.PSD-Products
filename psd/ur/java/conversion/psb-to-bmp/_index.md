@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSB کو BMP میں تبدیل کریں۔
 weight: 300
 description: نمونہ جاوا کنورژن کوڈ PSB فارمیٹ کے لیے BMP فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو BMP میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

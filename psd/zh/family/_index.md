@@ -2,7 +2,7 @@
 title: .NET 和 Java Photoshop API | 解析 PSD 和 PSB 文件
 weight: 10
 description: 在多個平台上讀寫和導出 PSD 和 PSB 文件的庫。在未安裝 Photoshop 的情況下提取和操作圖層。
-url: zh/family/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

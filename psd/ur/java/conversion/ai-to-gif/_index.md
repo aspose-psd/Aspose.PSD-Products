@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے AI کو GIF میں تبدیل کریں۔
 description: AI فارمیٹ کے GIF فائل کے لیے نمونہ جاوا کنورژن کوڈ۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر AI کو GIF میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly JPEG2000:ksi C#:n kautta
 description: Esimerkkikoodi tekoälyn muuntamiseen JPEG2000 C#:ksi. Käytä API-esimerkkikoodia tekoälytiedostojen muuntamiseen JPEG2000:ksi VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

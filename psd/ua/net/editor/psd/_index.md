@@ -1,7 +1,7 @@
 ---
 title: Редагувати PSD-документ через .NET
 description: Вихідний код C# для редагування файлу PSD на .NET Framework, .NET Core.
-url: ua/net/editor
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

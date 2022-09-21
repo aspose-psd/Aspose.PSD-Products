@@ -1,7 +1,7 @@
 ---
 title: .NET経由でAIファイル形式を表示
 description: .NET Framework、.NET Core、Windows Azure、Mono、またはXamarinプラットフォームでAIドキュメントをロード、レンダリング、表示するためのC＃ソースコード。
-url: jp/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

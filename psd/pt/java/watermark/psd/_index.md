@@ -2,7 +2,7 @@
 title: Documento PSD com marca d'água via Java
 weight: 60
 description: Código de amostra Java para adicionar ou remover marca d'água em arquivo PSD no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
-url: pt/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

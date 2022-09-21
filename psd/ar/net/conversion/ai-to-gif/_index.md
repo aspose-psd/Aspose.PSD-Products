@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى GIF عبر C #
 description: نموذج كود لتحويل AI إلى GIF C #. استخدم رمز مثال API لملفات AI المجمعة لتحويل GIF داخل VB.NET أو Asp.NET أو أي تطبيق قائم على .NET.
-url: ar/net/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

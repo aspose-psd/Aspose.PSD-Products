@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PSB:ksi Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodolle PSB-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn PSB:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

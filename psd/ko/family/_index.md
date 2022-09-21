@@ -2,7 +2,7 @@
 title: .NET 및 Java Photoshop API | PSD 및 PSB 파일 구문 분석
 weight: 10
 description: 여러 플랫폼에서 PSD 및 PSB 파일 쓰기 및 내보내기를 읽기 위한 라이브러리입니다. Photoshop을 설치하지 않고 레이어를 추출하고 조작합니다.
-url: ko/family/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

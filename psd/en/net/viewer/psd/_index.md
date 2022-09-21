@@ -1,7 +1,7 @@
 ---
 title: View PSD File Formats via .NET
 weight: 100
-url: /net/viewer
+url: 
 description: C# source code to load, render and display PSD documents on .NET Framework, .NET Core.
 ---
 

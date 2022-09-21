@@ -1,7 +1,7 @@
 ---
 title: 通過 C# 將 AI 轉換為 GIF
 description: AI 到 GIF C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 AI 文件批量轉換為 GIF。
-url: zh/net/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: Document PSD en filigrane via Java
 weight: 60
 description: Exemple de code Java pour ajouter ou supprimer un filigrane au fichier PSD sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
-url: fr/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

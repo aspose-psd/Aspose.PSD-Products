@@ -1,7 +1,7 @@
 ---
 title: Převod PSD na JPEG2000 přes Javu
 description: Ukázkový konverzní kód Java pro formát PSD na soubor JPEG2000. Tento příklad kódu použijte k převodu PSD na JPEG2000 v jakékoli webové nebo desktopové aplikaci založené na Javě.
-url: cz/java/conversion/psd-to-jpeg2000/
+url: psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

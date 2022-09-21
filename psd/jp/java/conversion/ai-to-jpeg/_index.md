@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAIをJPEGに変換する
 description: AI形式からJPEGファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でAIをJPEGに変換します。
-url: jp/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

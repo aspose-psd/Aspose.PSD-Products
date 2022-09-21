@@ -2,7 +2,7 @@
 title: Stvorite, uredite ili pretvorite PSD i PSB datoteke u PDF i slikovne formate
 weight: 310
 description: High Code API-ji i besplatne aplikacije za uređivanje datoteka Photoshopa. Sposobnost ažuriranja svojstava sloja, dodavanja vodenih žigova, rotiranja skale Flip Crop Dithering Raster Conversion.
-url: cr/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

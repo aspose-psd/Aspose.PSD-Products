@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے PSD کو JPEG2000 میں تبدیل کریں۔
 description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ میں JPEG2000 فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو JPEG2000 میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psd-to-jpeg2000/
+url: psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

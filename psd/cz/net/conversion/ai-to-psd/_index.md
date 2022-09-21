@@ -1,7 +1,7 @@
 ---
 title: Převést AI na PSD přes C#
 description: Ukázkový kód pro převod AI na PSD C#. Použijte ukázkový kód API pro dávkový převod souborů AI na PSD v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
-url: cz/net/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

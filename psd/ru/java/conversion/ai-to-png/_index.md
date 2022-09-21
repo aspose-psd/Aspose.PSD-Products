@@ -1,7 +1,7 @@
 ---
 title: Преобразование AI в PNG через Java
 description: Пример кода преобразования Java для формата AI в файл PNG. Используйте этот пример кода для преобразования AI в PNG в любом веб-приложении или приложении для рабочего стола на основе Java.
-url: ru/java/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

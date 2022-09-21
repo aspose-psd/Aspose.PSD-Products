@@ -1,7 +1,7 @@
 ---
 title: Java Photoshop 文檔轉換
 description: 通過 Java 庫將 Photoshop PSD、PSB 轉換為包括 BMP、JPG、PNG、TIFF 和 PDF 在內的圖像。
-url: zh/java/conversion/
+url: 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

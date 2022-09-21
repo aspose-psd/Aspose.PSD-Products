@@ -1,7 +1,7 @@
 ---
 title: Java Photoshop Documents Conversion
 description: Muunna Photoshop PSD, PSB kuviksi, mukaan lukien BMP, JPG, PNG, TIFF ja PDF Java-kirjaston kautta.
-url: fl/java/conversion/
+url: 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

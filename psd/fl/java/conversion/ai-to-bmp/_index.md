@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly BMP:ksi Javalla
 description: Esimerkki Java-muunnoskoodista AI-muodosta BMP-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn BMP:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: जावा के माध्यम से पीएसबी को जीआईएफ में कनवर्ट करें
 weight: 220
 description: पीएसबी प्रारूप के लिए जीआईएफ फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में पीएसबी को जीआईएफ में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psb-to-gif/
+url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

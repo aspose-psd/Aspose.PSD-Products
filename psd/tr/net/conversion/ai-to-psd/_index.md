@@ -1,7 +1,7 @@
 ---
 title: AI'yı C# ile PSD'ye dönüştürün
 description: AI'dan PSD'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu AI dosyalarının PSD'ye dönüştürülmesi için API örnek kodunu kullanın.
-url: tr/net/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

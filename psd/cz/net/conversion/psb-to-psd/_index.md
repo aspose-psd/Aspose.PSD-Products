@@ -2,7 +2,7 @@
 title: Převést PSB na PSD přes C#
 weight: 240
 description: Ukázkový kód pro konverzi PSB na PSD C#. Použijte ukázkový kód API pro dávkový převod souborů PSB na PSD v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
-url: cz/net/conversion/psb-to-psd/
+url: psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

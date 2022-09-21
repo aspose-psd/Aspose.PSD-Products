@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PNG:ksi Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodosta PNG-tiedostoon. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn PNG-muotoon missä tahansa Web- tai työpöytä Java-pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

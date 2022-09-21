@@ -1,7 +1,7 @@
 ---
 title: C＃を介してAIをPSDに変換する
 description: AIからPSDC＃への変換のサンプルコード。VB.NET、Asp.NET、または任意の.NETベースのアプリケーション内でのバッチAIファイルからPSDへの変換にAPIサンプルコードを使用します。
-url: jp/net/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

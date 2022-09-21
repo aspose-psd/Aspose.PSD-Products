@@ -1,7 +1,7 @@
 ---
 title: AI über Java in PSB konvertieren
 description: Beispiel-Java-Konvertierungscode für das AI-Format in eine PSB-Datei. Verwenden Sie diesen Beispielcode, um AI in PSB in jeder Web- oder Desktop-Java-basierten Anwendung zu konvertieren.
-url: de/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

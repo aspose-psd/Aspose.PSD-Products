@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSB کو GIF میں تبدیل کریں۔
 weight: 220
 description: نمونہ جاوا کنورژن کوڈ PSB فارمیٹ کے لیے GIF فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو GIF میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psb-to-gif/
+url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

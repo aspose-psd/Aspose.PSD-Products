@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PDF:ksi Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodosta PDF-tiedostoon. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn PDF-muotoon missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convertir PSD en JPEG2000 via C#
 description: Exemple de code pour la conversion PSD vers JPEG2000 C#. Utilisez le code d'exemple d'API pour la conversion de fichiers PSD par lots en JPEG2000 dans VB.NET, Asp.NET ou toute application basée sur .NET.
-url: fr/net/conversion/psd-to-jpeg2000/
+url: psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

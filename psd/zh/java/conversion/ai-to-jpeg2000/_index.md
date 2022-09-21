@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 將 AI 轉換為 JPEG2000
 description: AI格式到JPEG2000文件的Java轉換代碼示例。使用此示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 AI 轉換為 JPEG2000。
-url: zh/java/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

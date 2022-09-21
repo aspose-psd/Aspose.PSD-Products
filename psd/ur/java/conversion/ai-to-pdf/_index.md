@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے AI کو PDF میں تبدیل کریں۔
 description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ پی ڈی ایف فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلی کیشن میں AI کو PDF میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

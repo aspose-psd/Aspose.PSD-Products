@@ -1,7 +1,7 @@
 ---
 title: Java Photoshop API | PSD and PSB Format Parsing
 weight: 270
-url: /java/
+url: 
 description: Create modify or convert PSD and PSB formats using this library within any Java application without requiring Photoshop software
 ---
 

@@ -2,7 +2,7 @@
 title: Java Photoshop API | Разбор фарматаў PSD і PSB
 weight: 270
 description: Стварайце мадыфікаваць або канвертаваць фарматы PSD і PSB з дапамогай гэтай бібліятэкі ў любым прылажэнні Java, не патрабуючы праграмнага забеспячэння Photoshop
-url: be/java/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: Пераўтварэнне AI ў PDF праз Java
 description: Прыклад кода пераўтварэння Java для фармату AI ў файл PDF. Выкарыстоўвайце гэты прыклад кода для пераўтварэння AI ў PDF у любым вэб- або настольным Java-прыкладанні.
-url: be/java/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

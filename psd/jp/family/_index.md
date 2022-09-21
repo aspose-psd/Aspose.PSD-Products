@@ -2,7 +2,7 @@
 title: .NETおよびJavaPhotoshopAPI | PSDおよびPSBファイルを解析する
 weight: 10
 description: 複数のプラットフォームでPSDおよびPSBファイルを読み書きするためのライブラリ。Photoshopをインストールせずにレイヤーを抽出して操作します。
-url: jp/family/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

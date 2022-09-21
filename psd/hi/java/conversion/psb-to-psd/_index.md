@@ -2,7 +2,7 @@
 title: जावा के माध्यम से पीएसबी को पीएसडी में बदलें
 weight: 160
 description: पीएसबी प्रारूप के लिए पीएसडी फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में PSB को PSD में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psb-to-psd/
+url: psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

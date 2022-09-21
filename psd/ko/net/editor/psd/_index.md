@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 PSD 문서 편집
 description: .NET Framework, .NET Core에서 PSD 파일을 편집하는 C# 소스 코드.
-url: ko/net/editor
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

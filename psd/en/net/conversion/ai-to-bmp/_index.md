@@ -1,6 +1,6 @@
 ---
 title: Convert AI to BMP via C#
-url: /net/conversion/ai-to-bmp/
+url: ai-to-bmp/
 description: Sample code for AI to BMP C# conversion. Use API example code for batch AI files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 

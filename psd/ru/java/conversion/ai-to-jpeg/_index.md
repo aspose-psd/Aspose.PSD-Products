@@ -1,7 +1,7 @@
 ---
 title: Преобразование AI в JPEG через Java
 description: Пример кода преобразования Java для формата AI в файл JPEG. Используйте этот пример кода для преобразования AI в JPEG в любом веб-приложении или приложении для рабочего стола на основе Java.
-url: ru/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

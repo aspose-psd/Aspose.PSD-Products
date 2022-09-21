@@ -2,7 +2,7 @@
 title: .NET aracılığıyla filigran PSD belgesi
 weight: 130
 description: .NET Framework, .NET Core üzerindeki PSD dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
-url: tr/net/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

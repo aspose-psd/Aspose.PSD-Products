@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSD को पीडीएफ में बदलें
 weight: 360
 description: पीडीएफ फाइल में PSD प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में PSD को पीडीएफ में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

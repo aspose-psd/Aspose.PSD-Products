@@ -1,7 +1,7 @@
 ---
 title: .NET and Java Photoshop APIs | Parse PSD and PSB Files
 weight: 10
-url: /family
+url: 
 description: Library to read write and export PSD & PSB files on multiple platforms. Extract and manipulate layers without Photoshop installed.
 ---
 

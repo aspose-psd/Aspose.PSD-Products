@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSD کو JPEG میں تبدیل کریں۔
 weight: 20
 description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ کے لیے JPEG فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو JPEG میں تبدیل کرنے کے لیے یہ مثالی کوڈ استعمال کریں۔
-url: ur/java/conversion/psd-to-jpeg/
+url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: مستند PSD للعلامة المائية عبر Java
 weight: 60
 description: نموذج كود Java لإضافة أو إزالة العلامة المائية إلى ملف PSD على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
-url: ar/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

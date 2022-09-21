@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly JPEG2000:ksi Javalla
 description: Esimerkki Java-muunnoskoodista AI-muodolle JPEG2000-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn JPEG2000:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

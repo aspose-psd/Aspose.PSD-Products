@@ -2,7 +2,7 @@
 title: ดูรูปแบบไฟล์ PSD ผ่าน .NET
 weight: 100
 description: C# ซอร์สโค้ดเพื่อโหลด แสดง และแสดงเอกสาร PSD บน .NET Framework, .NET Core
-url: th/net/viewer
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

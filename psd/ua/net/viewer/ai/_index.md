@@ -1,7 +1,7 @@
 ---
 title: Перегляд форматів файлів AI через .NET
 description: Вихідний код C# для завантаження, візуалізації та відображення документів AI на платформах .NET Framework, .NET Core, Windows Azure, Mono або Xamarin.
-url: ua/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

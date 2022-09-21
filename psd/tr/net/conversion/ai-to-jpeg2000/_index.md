@@ -1,7 +1,7 @@
 ---
 title: AI'yı C# ile JPEG2000'e dönüştürün
 description: AI'dan JPEG2000'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu AI dosyalarının JPEG2000'e dönüştürülmesi için API örnek kodunu kullanın.
-url: tr/net/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSD کو TIFF میں تبدیل کریں۔
 weight: 170
 description: PSD فارمیٹ کے لیے TIFF فائل میں نمونہ جاوا کنورژن کوڈ۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو TIFF میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psd-to-tiff/
+url: psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

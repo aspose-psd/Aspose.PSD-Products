@@ -1,7 +1,7 @@
 ---
 title: Convert PSD to JP2 with C#
 description: Export PSD, PSB & AI file via .NET API
-url: /net/conversion/psd-to-jp2/
+url: psd-to-jp2/
 family: psd
 platformtag: net
 feature: conversion

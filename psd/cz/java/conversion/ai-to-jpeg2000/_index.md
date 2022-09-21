@@ -1,7 +1,7 @@
 ---
 title: Převod AI na JPEG2000 přes Javu
 description: Ukázkový konverzní kód Java pro formát AI na soubor JPEG2000. Pomocí tohoto příkladu kódu převeďte AI na JPEG2000 v jakékoli webové nebo desktopové aplikaci založené na Javě.
-url: cz/java/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

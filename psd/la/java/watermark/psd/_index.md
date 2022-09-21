@@ -2,7 +2,7 @@
 title: Peractus documenti PSD per Java
 weight: 60
 description: Java specimen codicem vestigium addere vel removere ad PSD lima in Java Runtime Environment ad JSP/JSF Applicationem et Applications Desktop.
-url: la/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

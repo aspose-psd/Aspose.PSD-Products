@@ -1,7 +1,7 @@
 ---
 title: Java経由でPSBをJPEG2000に変換する
 description: PSB形式からJPEG2000ファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でPSBをJPEG2000に変換します。
-url: jp/java/conversion/psb-to-jpeg2000/
+url: psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

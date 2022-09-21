@@ -2,7 +2,7 @@
 title: .NET을 통한 워터마크 PSD 문서
 weight: 130
 description: .NET Framework, .NET Core에서 PSD 파일에 워터마크를 추가하거나 제거하는 C# 소스 코드.
-url: ko/net/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

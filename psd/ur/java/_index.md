@@ -2,7 +2,7 @@
 title: Java Photoshop API | PSD اور PSB فارمیٹ پارس کرنا
 weight: 270
 description: فوٹوشاپ سافٹ ویئر کی ضرورت کے بغیر کسی بھی جاوا ایپلی کیشن میں اس لائبریری کا استعمال کرتے ہوئے PSD اور PSB فارمیٹس میں ترمیم یا تبدیل کریں
-url: ur/java/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

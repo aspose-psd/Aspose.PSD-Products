@@ -1,7 +1,7 @@
 ---
 title: Konversi AI ke PSD melalui C#
 description: Contoh kode untuk konversi AI ke PSD C#. Gunakan kode contoh API untuk file batch AI ke konversi PSD dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
-url: id/net/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

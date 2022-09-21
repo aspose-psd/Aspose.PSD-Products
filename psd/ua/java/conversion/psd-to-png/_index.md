@@ -2,7 +2,7 @@
 title: Конвертуйте PSD у PNG за допомогою Java
 weight: 80
 description: Зразок коду перетворення Java для формату PSD у файл PNG. Використовуйте цей приклад коду для перетворення PSD у PNG у будь-якому веб- або настільному додатку Java на базі.
-url: ua/java/conversion/psd-to-png/
+url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

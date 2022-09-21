@@ -2,7 +2,7 @@
 title: Перетворення PSB в PDF за допомогою C#
 weight: 340
 description: Зразок коду для перетворення PSB в PDF C#. Використовуйте приклад коду API для пакетного перетворення файлів PSB в PDF у VB.NET, Asp.NET або будь-якому додатку на основі .NET.
-url: ua/net/conversion/psb-to-pdf/
+url: psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

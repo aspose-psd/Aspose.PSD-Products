@@ -1,7 +1,7 @@
 ---
 title: C＃経由でAIをJPEG2000に変換する
 description: AIからJPEG2000C＃変換のサンプルコード。VB.NET、Asp.NET、または任意の.NETベースのアプリケーション内でのバッチAIファイルからJPEG2000への変換にAPIサンプルコードを使用します。
-url: jp/net/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

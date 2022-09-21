@@ -1,7 +1,7 @@
 ---
 title: Converter AI para TIFF via C#
 description: Código de exemplo para conversão de AI para TIFF C#. Use o código de exemplo da API para arquivos AI em lote para conversão TIFF em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
-url: pt/net/conversion/ai-to-tiff/
+url: ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: .NET aracılığıyla AI Dosya Formatlarını Görüntüleyin
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında AI belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
-url: tr/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,11 +1,10 @@
 ---
 title: Open AI file online
 weight: 7730
-url: /view/open-ai-online
+url: 
 limit: 
 description: Open AI file online
 keywords: [open ai, open illustrator file, open AI file online, open adobe illustrator, preview of ai file, ai format open]
-weight: 50
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

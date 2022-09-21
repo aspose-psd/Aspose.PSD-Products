@@ -2,7 +2,7 @@
 title: जावा के माध्यम से पीएसबी को पीएनजी में बदलें
 weight: 110
 description: पीएनजी फ़ाइल में पीएसबी प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में पीएसबी को पीएनजी में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psb-to-png/
+url: psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

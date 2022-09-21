@@ -2,7 +2,7 @@
 title: Converti PSB in TIFF tramite Java
 weight: 40
 description: Esempio di codice di conversione Java per il formato PSB in file TIFF. Utilizzare questo codice di esempio per convertire PSB in TIFF all'interno di qualsiasi applicazione basata su Java Web o desktop.
-url: it/java/conversion/psb-to-tiff/
+url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

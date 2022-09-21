@@ -1,7 +1,7 @@
 ---
 title: Převod AI na GIF přes Javu
 description: Ukázkový konverzní kód Java pro formát AI na soubor GIF. Pomocí tohoto příkladu kódu převeďte AI na GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
-url: cz/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

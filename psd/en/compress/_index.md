@@ -1,7 +1,7 @@
 ---
-title: PSD PSB Compress Solution 
+title: PSD PSB Compress Solution
 weight: 7730
-url: /reduce-size
+url: 
 limit: 
 description: Compress Adobe Photoshop images to reduce files sizes
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]

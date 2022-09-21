@@ -7,7 +7,7 @@ feature: conversion
 informat: PSD
 outformat: GIF
 otherformats: BMP JPEG JPEG2000 JP2 PDF PNG TIFF
-url: it/net/conversion/psd-to-gif/
+url: psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

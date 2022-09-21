@@ -1,7 +1,7 @@
 ---
 title: Convert PSD to BMP via Java
 weight: 260
-url: /java/conversion/psd-to-bmp/
+url: psd-to-bmp/
 description: Sample Java conversion code for PSD format to BMP file. Use this example code to convert PSD to BMP within any Web or Desktop Java based application.
 ---
 

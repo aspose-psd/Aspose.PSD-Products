@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSB کو PNG میں تبدیل کریں۔
 weight: 110
 description: نمونہ جاوا کنورژن کوڈ PSB فارمیٹ کے لیے PNG فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو PNG میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psb-to-png/
+url: psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

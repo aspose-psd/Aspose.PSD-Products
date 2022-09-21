@@ -1,7 +1,7 @@
 ---
 title: सी#के माध्यम से एआई को पीडीएफ में बदलें
 description: AI से PDF C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर एआई फाइलों को पीडीएफ रूपांतरण में बैच के लिए एपीआई उदाहरण कोड का उपयोग करें।
-url: hi/net/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
