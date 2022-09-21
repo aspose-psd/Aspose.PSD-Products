@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے AI کو PSB میں تبدیل کریں۔
 description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ PSB فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر AI کو PSB میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

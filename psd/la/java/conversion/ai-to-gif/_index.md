@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad GIF per Java
 description: Sample Java conversionis code pro AI format ad GIF lima. Hoc exemplo utere codice ad AI ad GIF convertendum in quavis applicatione Tela vel Desktop Java subnixa.
-url: la/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

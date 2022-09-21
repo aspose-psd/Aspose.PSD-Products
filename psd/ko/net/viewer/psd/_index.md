@@ -2,7 +2,7 @@
 title: .NET을 통해 PSD 파일 형식 보기
 weight: 100
 description: .NET Framework, .NET Core에서 PSD 문서를 로드, 렌더링 및 표시하는 C# 소스 코드.
-url: ko/net/viewer
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

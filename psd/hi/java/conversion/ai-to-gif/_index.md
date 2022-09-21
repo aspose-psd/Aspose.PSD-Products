@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से एआई को जीआईएफ में बदलें
 description: एआई प्रारूप के लिए जीआईएफ फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में AI को GIF में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

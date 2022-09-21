@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSD को बीएमपी में कनवर्ट करें
 weight: 260
 description: बीएमपी फ़ाइल में PSD प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में PSD को BMP में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psd-to-bmp/
+url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

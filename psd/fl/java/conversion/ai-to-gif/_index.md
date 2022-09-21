@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly GIF-muotoon Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodosta GIF-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn GIF-muotoon missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

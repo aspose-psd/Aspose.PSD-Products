@@ -2,7 +2,7 @@
 title: واٹر مارک PSD دستاویز بذریعہ .NET
 weight: 130
 description: .NET Framework, .NET Core پر PSD فائل میں واٹر مارک شامل کرنے یا ہٹانے کے لیے C# سورس کوڈ۔
-url: ur/net/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: تحويل PSD إلى PDF عبر Java
 weight: 360
 description: نموذج كود تحويل جافا لتنسيق PSD إلى ملف PDF. استخدم رمز المثال هذا لتحويل PSD إلى PDF داخل أي تطبيق يستند إلى Web أو Desktop Java.
-url: ar/java/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

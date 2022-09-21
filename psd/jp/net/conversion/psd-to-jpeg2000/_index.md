@@ -1,7 +1,7 @@
 ---
 title: C＃を介してPSDをJPEG2000に変換します
 description: PSDからJPEG2000C＃への変換のサンプルコード。VB.NET、Asp.NET、または任意の.NETベースのアプリケーション内でのバッチPSDファイルからJPEG2000への変換にAPIサンプルコードを使用します。
-url: jp/net/conversion/psd-to-jpeg2000/
+url: psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

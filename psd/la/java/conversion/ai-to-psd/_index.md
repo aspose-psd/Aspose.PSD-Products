@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad PSD per Javam
 description: Sample Java conversionem pro AI format ad fasciculum PSD. Hoc exemplo utere codice ut AI ad PSD convertat intra cuiuslibet Telae vel Desktop Java in applicatione subnixa.
-url: la/java/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

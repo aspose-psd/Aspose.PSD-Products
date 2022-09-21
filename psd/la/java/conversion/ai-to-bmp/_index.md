@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad BMP per Java
 description: Sample Java conversionis pro AI format ad limam BMP. Hoc exemplo utere codice ut AI ad BMP convertat intra applicationem cuiuslibet Telae vel Desktop Java substructio.
-url: la/java/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

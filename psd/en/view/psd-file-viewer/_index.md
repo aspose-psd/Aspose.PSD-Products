@@ -1,11 +1,10 @@
 ---
 title: PSD File Viewer
 weight: 7730
-url: /view/psd-file-viewer
+url: 
 limit: 
-description: PSD File Viewer 
+description: PSD File Viewer
 keywords: [psd file viewer, psd viewer, view psd, view psd file]
-weight: 50
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

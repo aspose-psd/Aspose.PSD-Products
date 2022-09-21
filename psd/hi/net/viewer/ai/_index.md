@@ -1,7 +1,7 @@
 ---
 title: .NET के माध्यम से AI फ़ाइल स्वरूप देखें
 description: .NET फ्रेमवर्क, .NET कोर, विंडोज़ एज़्योर, मोनो या ज़ैमरिन प्लेटफ़ॉर्म पर AI दस्तावेज़ों को लोड करने, प्रस्तुत करने और प्रदर्शित करने के लिए C# स्रोत कोड।
-url: hi/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

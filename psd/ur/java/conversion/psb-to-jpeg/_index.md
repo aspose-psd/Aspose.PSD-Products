@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSB کو JPEG میں تبدیل کریں۔
 weight: 180
 description: نمونہ جاوا کنورژن کوڈ PSB فارمیٹ کے لیے JPEG فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو JPEG میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psb-to-jpeg/
+url: psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

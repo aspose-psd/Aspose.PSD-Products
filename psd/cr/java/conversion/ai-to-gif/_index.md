@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u GIF putem Jave
 description: Primjer Java koda za pretvorbu za AI format u GIF datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u GIF unutar bilo koje web- ili desktop aplikacije temeljene na Java.
-url: cr/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

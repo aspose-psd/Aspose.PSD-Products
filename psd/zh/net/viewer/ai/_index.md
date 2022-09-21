@@ -1,7 +1,7 @@
 ---
 title: 通過 .NET 查看 AI 文件格式
 description: 用於在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上加載、渲染和顯示 AI 文檔的 C# 源代碼。
-url: zh/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: Převod PSB na BMP přes Javu
 weight: 300
 description: Ukázkový konverzní kód Java pro formát PSB na soubor BMP. Pomocí tohoto příkladu kódu převeďte PSB na BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
-url: cz/java/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

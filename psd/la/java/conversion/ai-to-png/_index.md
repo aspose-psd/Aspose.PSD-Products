@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad PNG per Java
 description: Sample Java conversionis pro AI format ad PNG lima. Hoc exemplo utere codice ut AI ad PNG convertatur in applicatione cuiuslibet Telae vel Desktop Java subnixa.
-url: la/java/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

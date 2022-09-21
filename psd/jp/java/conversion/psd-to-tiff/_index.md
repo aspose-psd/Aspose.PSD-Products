@@ -2,7 +2,7 @@
 title: Javaを介してPSDをTIFFに変換する
 weight: 170
 description: PSD形式からTIFFファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でPSDをTIFFに変換します。
-url: jp/java/conversion/psd-to-tiff/
+url: psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

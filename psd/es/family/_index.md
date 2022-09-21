@@ -2,7 +2,7 @@
 title: API de Photoshop .NET y Java | Analizar archivos PSD y PSB
 weight: 10
 description: Biblioteca para leer, escribir y exportar archivos PSD y PSB en múltiples plataformas. Extraiga y manipule capas sin Photoshop instalado.
-url: es/family/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: Převod AI na JPEG přes Javu
 description: Ukázkový konverzní kód Java pro formát AI na soubor JPEG. Pomocí tohoto příkladu kódu převeďte AI na JPEG v jakékoli webové nebo desktopové aplikaci založené na Javě.
-url: cz/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

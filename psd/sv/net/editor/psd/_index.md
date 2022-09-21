@@ -1,7 +1,7 @@
 ---
 title: Redigera PSD-dokument via .NET
 description: C#-källkod för att redigera PSD-filen på .NET Framework, .NET Core.
-url: sv/net/editor
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

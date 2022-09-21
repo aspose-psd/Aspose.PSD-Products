@@ -1,7 +1,7 @@
 ---
 title: Muunna PSD JPEG2000:ksi C#:n kautta
 description: Esimerkkikoodi PSD:stä JPEG2000 C#-muunnokseen. Käytä API-esimerkkikoodia erässä PSD-tiedostojen muuntamiseen JPEG2000-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/psd-to-jpeg2000/
+url: psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

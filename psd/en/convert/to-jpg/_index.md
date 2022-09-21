@@ -1,11 +1,10 @@
 ---
 title: Convert PSD to JPG
 weight: 7730
-url: convert/to-jpg
+url: 
 limit: 
 description: Convert Adobe PhotoShop files to JPG
 keywords: [convert psd to jpg, psd to jpg, conversion to jpg, create jpg from psd, print psd as jpg]
-weight: 80
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

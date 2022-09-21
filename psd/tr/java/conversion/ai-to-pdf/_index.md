@@ -1,7 +1,7 @@
 ---
 title: AI'yı Java ile PDF'ye dönüştürün
 description: AI formatı için PDF dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada AI'yi PDF'ye dönüştürmek için bu örnek kodu kullanın.
-url: tr/java/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

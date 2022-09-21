@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSD کو PNG میں تبدیل کریں۔
 weight: 80
 description: نمونہ جاوا کنورژن کوڈ برائے PSD فارمیٹ PNG فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو PNG میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psd-to-png/
+url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad TIFF per Java
 description: Sample Java conversionis pro AI format ad fasciculum TIFF. Hoc exemplo utere codice ut AI ad TIFF convertatur in applicatione cuiuslibet Telae vel Desktop Java subnixa.
-url: la/java/conversion/ai-to-tiff/
+url: ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

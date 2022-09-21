@@ -7,7 +7,7 @@ feature: conversion
 informat: PSB
 outformat: BMP
 otherformats: GIF JPEG JPEG2000 JP2 PDF PNG PSD TIFF
-url: ar/net/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

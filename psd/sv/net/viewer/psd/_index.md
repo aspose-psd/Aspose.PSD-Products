@@ -2,7 +2,7 @@
 title: Visa PSD-filformat via .NET
 weight: 100
 description: C#-källkod för att ladda, rendera och visa PSD-dokument på .NET Framework, .NET Core.
-url: sv/net/viewer
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

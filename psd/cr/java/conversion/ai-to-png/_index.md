@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u PNG putem Jave
 description: Primjer Java koda za pretvorbu za AI format u PNG datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u PNG unutar bilo koje aplikacije temeljene na Javi na webu ili stolnom računalu.
-url: cr/java/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

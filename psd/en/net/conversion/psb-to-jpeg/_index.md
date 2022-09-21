@@ -1,7 +1,7 @@
 ---
 title: Convert PSB to JPEG with C#
 description: Export PSD, PSB & AI file via .NET API
-url: /net/conversion/psb-to-jpeg/
+url: psb-to-jpeg/
 family: psd
 platformtag: net
 feature: conversion

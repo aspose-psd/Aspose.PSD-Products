@@ -1,7 +1,7 @@
 ---
 title: แปลง PSD เป็น JPEG2000 ผ่าน Java
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ PSD เป็นไฟล์ JPEG2000 ใช้โค้ดตัวอย่างนี้เพื่อแปลง PSD เป็น JPEG2000 ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
-url: th/java/conversion/psd-to-jpeg2000/
+url: psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

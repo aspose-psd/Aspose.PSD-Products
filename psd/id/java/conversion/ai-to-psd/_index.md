@@ -1,7 +1,7 @@
 ---
 title: Konversi AI ke PSD melalui Java
 description: Contoh kode konversi Java untuk format AI ke file PSD. Gunakan kode contoh ini untuk mengonversi AI ke PSD dalam aplikasi berbasis Java Web atau Desktop apa pun.
-url: id/java/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

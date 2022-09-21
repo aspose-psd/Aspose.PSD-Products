@@ -1,7 +1,7 @@
 ---
 title: Converti AI in BMP tramite C#
 description: Codice di esempio per la conversione da AI a BMP C#. Utilizzare il codice di esempio API per la conversione batch di file AI in BMP all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
-url: it/net/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

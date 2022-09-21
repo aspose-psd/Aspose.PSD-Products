@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad JPEG2000 per Java
 description: Sample Java conversionis pro AI format ad fasciculum JPEG2000. Hoc exemplo utere codice ut AI ad JPEG2000 convertat intra cuiuslibet Telae vel Desktop Java sub applicatione.
-url: la/java/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

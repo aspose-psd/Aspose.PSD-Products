@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSD को JPEG में बदलें
 weight: 20
 description: जेपीईजी फ़ाइल में PSD प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में PSD को JPEG में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psd-to-jpeg/
+url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

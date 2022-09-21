@@ -1,7 +1,7 @@
 ---
 title: Převod AI na PSB přes Javu
 description: Ukázkový konverzní kód Java pro formát AI na soubor PSB. Pomocí tohoto příkladu kódu převeďte AI na PSB v jakékoli webové nebo desktopové Java aplikaci.
-url: cz/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

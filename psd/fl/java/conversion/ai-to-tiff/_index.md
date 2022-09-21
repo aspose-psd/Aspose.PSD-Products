@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly TIFF-muotoon Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodosta TIFF-tiedostoon. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn TIFF-muotoon missä tahansa Web- tai työpöytä Java-pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-tiff/
+url: ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

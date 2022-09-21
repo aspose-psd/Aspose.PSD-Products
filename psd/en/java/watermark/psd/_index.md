@@ -1,7 +1,7 @@
 ---
 title: Watermark PSD document via Java
 weight: 60
-url: /java/watermark
+url: 
 description: Java sample code to add or remove watermark to PSD file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

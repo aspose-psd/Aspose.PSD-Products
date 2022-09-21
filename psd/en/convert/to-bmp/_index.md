@@ -1,11 +1,10 @@
 ---
 title: Convert PSD to BMP
 weight: 7730
-url: convert/to-bmp
+url: 
 limit: 
 description: Convert Adobe PhotoShop PSD files to BMP
 keywords: [convert psd to bmp, psd to bmp, conversion to bmp, create bmp from psd, print psd as bmp]
-weight: 80
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

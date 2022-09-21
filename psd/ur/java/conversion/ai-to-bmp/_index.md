@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے AI کو BMP میں تبدیل کریں۔
 description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ BMP فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن میں AI کو BMP میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

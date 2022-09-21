@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly GIF:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi GIF C# -muunnokseksi. Käytä API-esimerkkikoodia tekoälytiedostojen GIF-muuntamiseen VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

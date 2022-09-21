@@ -2,7 +2,7 @@
 title: Převést PSD do PDF přes C#
 weight: 200
 description: Ukázkový kód pro převod PSD do PDF C#. Použijte ukázkový kód API pro dávkový převod souborů PSD do PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
-url: cz/net/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

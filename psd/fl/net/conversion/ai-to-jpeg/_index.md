@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly JPEG:ksi C#:n kautta
 description: Esimerkkikoodi AI-JPEG C# -muunnokseen. Käytä API-esimerkkikoodia tekoälytiedostojen erämuuntamiseen JPEG-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

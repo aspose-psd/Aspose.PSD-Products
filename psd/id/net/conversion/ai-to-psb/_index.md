@@ -1,7 +1,7 @@
 ---
 title: Konversi AI ke PSB melalui C#
 description: Contoh kode untuk konversi AI ke PSB C#. Gunakan kode contoh API untuk file batch AI ke konversi PSB dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
-url: id/net/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

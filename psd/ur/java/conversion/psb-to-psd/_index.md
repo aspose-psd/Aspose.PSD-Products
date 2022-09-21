@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSB کو PSD میں تبدیل کریں۔
 weight: 160
 description: نمونہ جاوا کنورژن کوڈ PSB فارمیٹ کے لیے PSD فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSB کو PSD میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psb-to-psd/
+url: psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

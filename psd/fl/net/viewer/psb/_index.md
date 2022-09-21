@@ -2,7 +2,7 @@
 title: Tarkastele PSB-tiedostomuotoja .NET:n kautta
 weight: 320
 description: C#-lähdekoodi PSB-asiakirjojen lataamiseen, hahmontamiseen ja näyttämiseen .NET Frameworkissa, .NET Coressa.
-url: fl/net/viewer/psb/
+url: psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

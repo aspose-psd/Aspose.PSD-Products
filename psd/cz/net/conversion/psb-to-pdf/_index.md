@@ -2,7 +2,7 @@
 title: Převést PSB do PDF přes C#
 weight: 340
 description: Ukázkový kód pro převod PSB do PDF C#. Použijte ukázkový kód API pro dávkový převod souborů PSB do PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
-url: cz/net/conversion/psb-to-pdf/
+url: psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

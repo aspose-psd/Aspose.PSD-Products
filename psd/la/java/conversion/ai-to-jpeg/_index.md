@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad JPEG per Java
 description: Sample Java conversionis pro AI format ad limam JPEG. Hoc exemplo utere codice ut AI ad JPEG convertat in applicatione cuiuslibet Telae vel Desktop Java subnixa.
-url: la/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

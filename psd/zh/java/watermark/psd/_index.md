@@ -2,7 +2,7 @@
 title: Java 水印 PSD 文件
 weight: 60
 description: 用於在 JSP/JSF 應用程序和桌面應用程序的 Java 運行時環境中向 PSD 文件添加或刪除水印的 Java 示例代碼。
-url: zh/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,7 +7,7 @@ feature: conversion
 informat: PSB
 outformat: GIF
 otherformats: BMP JPEG JPEG2000 JP2 PDF PNG PSD TIFF
-url: tr/net/conversion/psb-to-gif/
+url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

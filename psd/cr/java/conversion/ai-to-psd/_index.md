@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u PSD putem Jave
 description: Primjer Java koda za pretvorbu za AI format u PSD datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u PSD unutar bilo koje web- ili desktop aplikacije temeljene na Javi.
-url: cr/java/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

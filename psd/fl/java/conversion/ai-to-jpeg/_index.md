@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly JPEG:ksi Javan kautta
 description: Esimerkki Java-muunnoskoodista AI-muodosta JPEG-tiedostoon. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn JPEG-muotoon missä tahansa Web- tai työpöytä Java-pohjaisessa sovelluksessa.
-url: fl/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

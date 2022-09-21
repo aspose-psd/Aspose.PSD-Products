@@ -1,7 +1,7 @@
 ---
 title: सी # फोटोशॉप फ़ाइलें रूपांतरण
 description: फ़ोटोशॉप PSD, PSB को PDF और छवियों को BMP, JPG, PNG, TIFF सहित .NET लाइब्रेरी के माध्यम से C# कोड की कुछ पंक्तियों में कनवर्ट करें।
-url: hi/net/conversion/
+url: 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

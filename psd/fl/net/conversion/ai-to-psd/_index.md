@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PSD:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi PSD C# -muunnokseen. Käytä API-esimerkkikoodia tekoälytiedostojen muuntamiseen PSD-tiedostoiksi VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

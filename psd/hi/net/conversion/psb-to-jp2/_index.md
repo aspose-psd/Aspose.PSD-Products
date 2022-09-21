@@ -7,7 +7,7 @@ feature: conversion
 informat: PSB
 outformat: JP2
 otherformats: BMP GIF JPEG JPEG2000 PDF PNG PSD TIFF
-url: hi/net/conversion/psb-to-jp2/
+url: psb-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

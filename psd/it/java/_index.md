@@ -2,7 +2,7 @@
 title: API Java Photoshop | Analisi dei formati PSD e PSB
 weight: 270
 description: Crea, modifica o converti formati PSD e PSB utilizzando questa libreria all'interno di qualsiasi applicazione Java senza richiedere il software Photoshop
-url: it/java/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: AI über Java in BMP konvertieren
 description: Beispiel-Java-Konvertierungscode für das AI-Format in eine BMP-Datei. Verwenden Sie diesen Beispielcode, um AI in BMP in jeder Java-basierten Web- oder Desktop-Anwendung zu konvertieren.
-url: de/java/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: एआई को सी # के माध्यम से जेपीईजी 2000 में बदलें
 description: AI से JPEG2000 C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर JPEG2000 रूपांतरण में बैच AI फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
-url: hi/net/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

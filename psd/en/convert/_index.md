@@ -1,11 +1,10 @@
 ---
-title: Convert PSD PSB or AI 
+title: Convert PSD PSB or AI
 weight: 7730
-url: /convert
+url: 
 limit: 
 description: Convert Adobe PhotoShop & Illustrator files images and other formats
 keywords: [convert psd, convert to jpg, convert to png, convert to pdf]
-weight: 50
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

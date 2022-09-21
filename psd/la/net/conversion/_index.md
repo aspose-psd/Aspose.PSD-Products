@@ -1,7 +1,7 @@
 ---
 title: C# Lima Photoshop Conversion
 description: Converte Photoshop PSD, PSB ad PDF ac Imagines BMP, JPG, PNG, TIFF cum paucis lineis ex C# codice per .NET bibliothecam.
-url: la/net/conversion/
+url: 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

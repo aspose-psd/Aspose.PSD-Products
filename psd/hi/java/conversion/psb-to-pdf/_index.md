@@ -2,7 +2,7 @@
 title: जावा के माध्यम से पीएसबी को पीडीएफ में बदलें
 weight: 190
 description: पीएसबी प्रारूप के लिए पीडीएफ फाइल में जावा रूपांतरण कोड का नमूना। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में पीएसबी को पीडीएफ में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psb-to-pdf/
+url: psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

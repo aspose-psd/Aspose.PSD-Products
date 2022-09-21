@@ -2,7 +2,7 @@
 title: जावा के माध्यम से पीएसबी को बीएमपी में बदलें
 weight: 300
 description: पीएसबी प्रारूप के लिए नमूना जावा रूपांतरण कोड बीएमपी फ़ाइल में। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में पीएसबी को बीएमपी में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

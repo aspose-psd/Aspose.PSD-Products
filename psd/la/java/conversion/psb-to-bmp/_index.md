@@ -2,7 +2,7 @@
 title: Converte PSB ad BMP per Java
 weight: 300
 description: Sample Java conversionis signum pro PSB forma ad BMP lima. Hoc exemplo utere codice ad PSB ad BMP convertendum intra cuiuslibet Telae vel Desktop Java sub applicatione subnixa.
-url: la/java/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

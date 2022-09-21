@@ -2,7 +2,7 @@
 title: สร้าง แก้ไข หรือแปลงไฟล์ PSD และ PSB เป็นรูปแบบ PDF และรูปภาพ
 weight: 310
 description: High Code APIs และแอพฟรีสำหรับแก้ไขไฟล์ Photoshop ความสามารถในการอัปเดตคุณสมบัติของเลเยอร์ เพิ่มลายน้ำ หมุนมาตราส่วน Flip Crop Dithering Raster Conversion
-url: th/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: एआई को सी # के माध्यम से बीएमपी में बदलें
 description: एआई से बीएमपी सी# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर एआई फाइलों को बीएमपी रूपांतरण में बैच के लिए एपीआई उदाहरण कोड का उपयोग करें।
-url: hi/net/conversion/ai-to-bmp/
+url: ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

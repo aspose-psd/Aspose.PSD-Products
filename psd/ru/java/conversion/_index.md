@@ -1,7 +1,7 @@
 ---
 title: Преобразование документов Java Photoshop
 description: Преобразование Photoshop PSD, PSB в изображения, включая BMP, JPG, PNG, TIFF и PDF, с помощью библиотеки Java.
-url: ru/java/conversion/
+url: 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

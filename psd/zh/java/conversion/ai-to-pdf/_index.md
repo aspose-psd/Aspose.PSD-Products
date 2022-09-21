@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 將 AI 轉換為 PDF
 description: AI 格式到 PDF 文件的示例 Java 轉換代碼。使用此示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 AI 轉換為 PDF。
-url: zh/java/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

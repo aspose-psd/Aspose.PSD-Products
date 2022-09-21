@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PNG:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi PNG C# -muunnokselle. Käytä API-esimerkkikoodia AI-tiedostojen erämuuntamiseen PNG-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

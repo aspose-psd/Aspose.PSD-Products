@@ -2,7 +2,7 @@
 title: Javaを介してPSBをBMPに変換する
 weight: 300
 description: PSB形式からBMPファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でPSBをBMPに変換します。
-url: jp/java/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

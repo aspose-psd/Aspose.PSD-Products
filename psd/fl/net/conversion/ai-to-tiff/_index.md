@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly TIFF:ksi C#:n kautta
 description: Esimerkkikoodi AI:ksi TIFF C# -muunnokseen. Käytä API-esimerkkikoodia AI-tiedostojen erämuuntamiseen TIFF-muotoon VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-tiff/
+url: ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

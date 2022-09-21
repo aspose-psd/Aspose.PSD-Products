@@ -1,7 +1,7 @@
 ---
 title: 通過 C# 將 AI 轉換為 TIFF
 description: AI 到 TIFF C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 AI 文件批量轉換為 TIFF。
-url: zh/net/conversion/ai-to-tiff/
+url: ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

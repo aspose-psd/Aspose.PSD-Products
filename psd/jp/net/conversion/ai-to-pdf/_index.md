@@ -1,7 +1,7 @@
 ---
 title: C＃を介してAIをPDFに変換する
 description: AIからPDFへのC＃変換のサンプルコード。VB.NET、Asp.NET、または任意の.NETベースのアプリケーション内でのバッチAIファイルからPDFへの変換にAPIサンプルコードを使用します。
-url: jp/net/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: ดูรูปแบบไฟล์ AI ผ่าน .NET
 description: C# source code เพื่อโหลด แสดง และแสดงเอกสาร AI บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
-url: th/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

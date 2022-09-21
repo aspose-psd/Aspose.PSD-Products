@@ -1,7 +1,7 @@
 ---
 title: .NET کے ذریعے AI فائل فارمیٹس دیکھیں.NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلیٹ فارمز پر AI دستاویزات کو لوڈ، رینڈر اور ڈسپلے کرنے کے لیے C# سورس کوڈ۔
 description: C# source code to load, render and display AI documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
-url: ur/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

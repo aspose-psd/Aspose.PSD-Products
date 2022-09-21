@@ -7,7 +7,7 @@ feature: conversion
 informat: PSD
 outformat: BMP
 otherformats: GIF JPEG JPEG2000 JP2 PDF PNG TIFF
-url: ar/net/conversion/psd-to-bmp/
+url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

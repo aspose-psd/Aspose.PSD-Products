@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή AI σε JPEG μέσω Java
 description: Δείγμα κώδικα μετατροπής Java για μορφή AI σε αρχείο JPEG. Χρησιμοποιήστε αυτό το παράδειγμα κώδικα για να μετατρέψετε την τεχνητή νοημοσύνη σε JPEG σε οποιαδήποτε εφαρμογή που βασίζεται σε Web ή Desktop Java.
-url: el/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

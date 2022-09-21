@@ -1,7 +1,7 @@
 ---
 title: Перетворіть AI у TIFF за допомогою C#
 description: Зразок коду для перетворення AI в TIFF C#. Використовуйте приклад коду API для пакетного перетворення файлів AI в TIFF у VB.NET, Asp.NET або будь-якому додатку на основі .NET.
-url: ua/net/conversion/ai-to-tiff/
+url: ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

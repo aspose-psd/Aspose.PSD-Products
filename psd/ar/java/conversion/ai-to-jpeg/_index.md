@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى JPEG عبر Java
 description: عينة كود تحويل Java لتنسيق AI إلى ملف JPEG. استخدم رمز المثال هذا لتحويل AI إلى JPEG داخل أي تطبيق يستند إلى Web أو Desktop Java.
-url: ar/java/conversion/ai-to-jpeg/
+url: ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

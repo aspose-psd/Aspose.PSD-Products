@@ -2,7 +2,7 @@
 title: Προβολή μορφών αρχείων PSB μέσω .NET
 weight: 320
 description: Πηγαίος κώδικας C# για φόρτωση, απόδοση και εμφάνιση εγγράφων PSB σε .NET Framework, .NET Core.
-url: el/net/viewer/psb/
+url: psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

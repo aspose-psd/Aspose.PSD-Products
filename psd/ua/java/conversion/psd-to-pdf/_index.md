@@ -2,7 +2,7 @@
 title: Конвертуйте PSD в PDF за допомогою Java
 weight: 360
 description: Зразок коду перетворення Java для формату PSD у файл PDF. Використовуйте цей приклад коду для перетворення PSD у PDF у будь-якому веб- або настільному додатку Java на базі.
-url: ua/java/conversion/psd-to-pdf/
+url: psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

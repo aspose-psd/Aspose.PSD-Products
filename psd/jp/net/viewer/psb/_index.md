@@ -2,7 +2,7 @@
 title: .NET経由でPSBファイル形式を表示
 weight: 320
 description: .NET Framework、.NET CoreでPSBドキュメントをロード、レンダリング、表示するためのC＃ソースコード。
-url: jp/net/viewer/psb/
+url: psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

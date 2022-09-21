@@ -2,7 +2,7 @@
 title: Vodeni žig PSD dokument putem Jave
 weight: 60
 description: Java uzorak koda za dodavanje ili uklanjanje vodenog žiga u PSD datoteku u Java Runtime Environment za JSP/JSF aplikacije i aplikacije za stolna računala.
-url: cr/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

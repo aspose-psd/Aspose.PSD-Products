@@ -1,7 +1,7 @@
 ---
 title: Převod AI do PDF přes Java
 description: Ukázkový konverzní kód Java pro formát AI do souboru PDF. Tento ukázkový kód použijte k převodu umělé inteligence do PDF v jakékoli webové nebo desktopové Java aplikaci.
-url: cz/java/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Konversi AI ke PSB melalui Java
 description: Contoh kode konversi Java untuk format AI ke file PSB. Gunakan kode contoh ini untuk mengonversi AI ke PSB dalam aplikasi berbasis Java Web atau Desktop.
-url: id/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

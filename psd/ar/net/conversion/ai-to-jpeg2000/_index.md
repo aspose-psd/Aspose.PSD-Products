@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى JPEG2000 عبر C #
 description: نموذج رمز للتحويل من AI إلى JPEG2000 C #. استخدم رمز مثال API لملفات AI المجمعة لتحويل JPEG2000 داخل VB.NET أو Asp.NET أو أي تطبيق قائم على .NET.
-url: ar/net/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

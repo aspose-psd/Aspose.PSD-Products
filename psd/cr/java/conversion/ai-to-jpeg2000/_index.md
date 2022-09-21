@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u JPEG2000 putem Jave
 description: Primjer Java koda za pretvorbu za AI format u JPEG2000 datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u JPEG2000 unutar bilo koje web ili desktop aplikacije temeljene na Java.
-url: cr/java/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

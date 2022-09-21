@@ -1,7 +1,7 @@
 ---
 title: Pregledajte AI formate datoteka putem .NET-a
 description: C# izvorni kod za učitavanje, renderiranje i prikaz AI dokumenata na platformama .NET Framework, .NET Core, Windows Azure, Mono ili Xamarin.
-url: cr/net/viewer/ai/
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

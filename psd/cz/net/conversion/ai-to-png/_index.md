@@ -1,7 +1,7 @@
 ---
 title: Převést AI na PNG přes C#
 description: Ukázkový kód pro převod AI na PNG C#. Použijte ukázkový kód API pro dávkový převod souborů AI na PNG v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
-url: cz/net/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: .NET and Java Photoshop APIs | Parse PSD et PSB Files
 weight: 10
 description: Bibliothecam legere scribere et exportare PSD & PSB lima in multiplex suggestis. Stratis extrahendis et manipulatis sine Photoshop inauguratus est.
-url: la/family/
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,7 +2,7 @@
 title: Convertir PSB a PSD a través de Java
 weight: 160
 description: Ejemplo de código de conversión de Java para formato PSB a archivo PSD. Utilice este código de ejemplo para convertir PSB a PSD dentro de cualquier aplicación basada en Web o Java de escritorio.
-url: es/java/conversion/psb-to-psd/
+url: psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

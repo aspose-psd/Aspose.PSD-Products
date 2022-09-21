@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PDF:ksi C#:n kautta
 description: Esimerkkikoodi tekoälyn muuntamiseen PDF C#:ksi. Käytä API-esimerkkikoodia tekoälytiedostojen muuntamiseen PDF-tiedostoiksi VB.NET-, Asp.NET- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: fl/net/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

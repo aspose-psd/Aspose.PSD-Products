@@ -2,7 +2,7 @@
 title: Muunna PSB BMP:ksi Javalla
 weight: 300
 description: Esimerkki Java-muunnoskoodista PSB-muodolle BMP-tiedostoksi. Käytä tätä esimerkkikoodia muuntaaksesi PSB:n BMP:ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: fl/java/conversion/psb-to-bmp/
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

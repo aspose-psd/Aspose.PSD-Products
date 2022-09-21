@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से एआई को पीएसबी में बदलें
 description: पीएसबी फ़ाइल में एआई प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन में AI को PSB में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: hi/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

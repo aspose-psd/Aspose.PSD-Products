@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie AI in PDF über C#
 description: Beispielcode für die Konvertierung von AI in PDF C#. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von AI-Dateien in PDF innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
-url: de/net/conversion/ai-to-pdf/
+url: ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

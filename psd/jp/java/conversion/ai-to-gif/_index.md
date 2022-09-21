@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAIをGI​​Fに変換する
 description: AI形式からGIFファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でAIをGI​​Fに変換します。
-url: jp/java/conversion/ai-to-gif/
+url: ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

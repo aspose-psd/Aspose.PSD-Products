@@ -1,7 +1,7 @@
 ---
 title: Převod AI na PSD přes Javu
 description: Ukázkový konverzní kód Java pro formát AI na soubor PSD. Pomocí tohoto příkladu kódu převeďte AI na PSD v jakékoli webové nebo desktopové Java aplikaci.
-url: cz/java/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: 通過 .NET 查看 PSD 文件格式
 weight: 100
 description: 用於在 .NET Framework、.NET Core 上加載、渲染和顯示 PSD 文檔的 C# 源代碼。
-url: zh/net/viewer
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u PSB putem Jave
 description: Uzorak Java koda za pretvorbu za AI format u PSB datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u PSB unutar bilo koje web ili Desktop aplikacije temeljene na Java.
-url: cr/java/conversion/ai-to-psb/
+url: ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

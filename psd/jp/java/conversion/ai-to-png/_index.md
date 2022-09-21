@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAIをPNGに変換する
 description: AI形式からPNGファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でAIをPNGに変換します。
-url: jp/java/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

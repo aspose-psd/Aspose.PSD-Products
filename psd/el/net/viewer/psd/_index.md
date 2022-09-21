@@ -2,7 +2,7 @@
 title: Προβολή μορφών αρχείων PSD μέσω .NET
 weight: 100
 description: Πηγαίος κώδικας C# για φόρτωση, απόδοση και εμφάνιση εγγράφων PSD σε .NET Framework, .NET Core.
-url: el/net/viewer
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

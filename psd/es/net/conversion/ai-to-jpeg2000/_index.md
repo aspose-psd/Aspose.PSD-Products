@@ -1,7 +1,7 @@
 ---
 title: Convertir AI a JPEG2000 a través de C#
 description: Código de muestra para la conversión de AI a JPEG2000 C#. Utilice el código de ejemplo de API para la conversión de archivos AI por lotes a JPEG2000 dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
-url: es/net/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

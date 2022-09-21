@@ -1,7 +1,7 @@
 ---
 title: Muunna tekoäly PSD:ksi Javalla
 description: Esimerkki Java-muunnoskoodista AI-muodosta PSD-tiedostoon. Käytä tätä esimerkkikoodia muuntaaksesi tekoälyn PSD:ksi missä tahansa Web- tai Desktop Java -sovelluksessa.
-url: fl/java/conversion/ai-to-psd/
+url: ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

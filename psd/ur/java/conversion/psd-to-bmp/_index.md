@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے PSD کو BMP میں تبدیل کریں۔
 weight: 260
 description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ کے لیے BMP فائل میں۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن کے اندر PSD کو BMP میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/psd-to-bmp/
+url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

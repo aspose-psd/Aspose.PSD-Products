@@ -2,7 +2,7 @@
 title: Υδατογράφημα εγγράφου PSD μέσω Java
 weight: 60
 description: Δείγμα κώδικα Java για προσθήκη ή αφαίρεση υδατογραφήματος σε αρχείο PSD στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
-url: el/java/watermark
+url: 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے AI کو JPEG2000 میں تبدیل کریں۔
 description: AI فارمیٹ کے لیے JPEG2000 فائل میں جاوا کنورژن کوڈ کا نمونہ۔ کسی بھی ویب یا ڈیسک ٹاپ جاوا پر مبنی ایپلیکیشن میں AI کو JPEG2000 میں تبدیل کرنے کے لیے اس مثالی کوڈ کا استعمال کریں۔
-url: ur/java/conversion/ai-to-jpeg2000/
+url: ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

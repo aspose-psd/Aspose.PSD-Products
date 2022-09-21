@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u PNG putem C#
 description: Primjer koda za pretvorbu AI u PNG C#. Koristite API primjer koda za skupnu pretvorbu AI datoteka u PNG unutar VB.NET, Asp.NET ili bilo koje .NET aplikacije.
-url: cr/net/conversion/ai-to-png/
+url: ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

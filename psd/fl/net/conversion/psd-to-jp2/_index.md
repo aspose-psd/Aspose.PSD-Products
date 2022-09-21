@@ -7,7 +7,7 @@ feature: conversion
 informat: PSD
 outformat: JP2
 otherformats: BMP GIF JPEG JPEG2000 PDF PNG TIFF
-url: fl/net/conversion/psd-to-jp2/
+url: psd-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
