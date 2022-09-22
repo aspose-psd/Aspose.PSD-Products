@@ -1,7 +1,7 @@
 ---
 title: แก้ไขเอกสาร PSD ผ่าน .NET
 description: C# ซอร์สโค้ดเพื่อแก้ไขไฟล์ PSD บน .NET Framework, .NET Core
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

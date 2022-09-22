@@ -2,7 +2,7 @@
 title: वॉटरमार्क PSD दस्तावेज़ .NET . के माध्यम से
 weight: 130
 description: .NET फ्रेमवर्क, .NET कोर पर PSD फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए C# स्रोत कोड।
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

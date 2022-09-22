@@ -2,7 +2,7 @@
 title: Java를 통한 워터마크 PSD 문서
 weight: 60
 description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용 Java Runtime Environment에서 PSD 파일에 워터마크를 추가하거나 제거하는 Java 샘플 코드입니다.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

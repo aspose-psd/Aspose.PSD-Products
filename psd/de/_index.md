@@ -2,7 +2,7 @@
 title: Erstellen, bearbeiten oder konvertieren Sie PSD- und PSB-Dateien in PDF- und Bildformate
 weight: 310
 description: High Code APIs und kostenlose Apps zum Bearbeiten von Photoshop-Dateien. Möglichkeit zum Aktualisieren von Ebeneneigenschaften, Hinzufügen von Wasserzeichen, Drehen, Drehen, Drehen, Schneiden, Dithering, Rasterkonvertierung.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

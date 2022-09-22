@@ -2,7 +2,7 @@
 title: Skapa, redigera eller konvertera PSD- och PSB-filer till PDF- och bildformat
 weight: 310
 description: High Code API:er och gratisappar för att redigera Photoshop-filer. Möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar rotera skala Flip Crop Dithering Raster Conversion.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

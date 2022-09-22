@@ -2,7 +2,7 @@
 title: Visum PSD Tabellae per .NET
 weight: 100
 description: C# source code onerare, reddere et ostendere documenta PSD in NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

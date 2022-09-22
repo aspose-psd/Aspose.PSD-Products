@@ -2,7 +2,7 @@
 title: Vattenstämpel PSD-dokument via Java
 weight: 60
 description: Java-exempelkod för att lägga till eller ta bort vattenstämpel till PSD-fil i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

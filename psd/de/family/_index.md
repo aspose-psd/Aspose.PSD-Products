@@ -2,7 +2,7 @@
 title: .NET- und Java-Photoshop-APIs | Analysieren Sie PSD- und PSB-Dateien
 weight: 10
 description: Bibliothek zum Lesen, Schreiben und Exportieren von PSD- und PSB-Dateien auf mehreren Plattformen. Extrahieren und bearbeiten Sie Ebenen, ohne dass Photoshop installiert ist.
-url: 
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

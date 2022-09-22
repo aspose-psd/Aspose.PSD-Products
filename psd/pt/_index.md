@@ -2,7 +2,7 @@
 title: Crie, edite ou converta arquivos PSD e PSB para PDF e formatos de imagem
 weight: 310
 description: APIs de alto código e aplicativos gratuitos para editar arquivos do Photoshop. Capacidade de atualizar as propriedades da camada, adicionar marcas d'água girar escala Flip Crop Dithering Conversion Raster.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

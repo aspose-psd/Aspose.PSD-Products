@@ -2,7 +2,7 @@
 title: C# .NET Photoshop Manipulation API – Aspose
 weight: 90
 description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a převodu formátů Photoshop PSD PSB
-url: 
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

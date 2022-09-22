@@ -1,7 +1,7 @@
 ---
 title: .NET کے ذریعے PSD دستاویز میں ترمیم کریں۔
 description: .NET فریم ورک، .NET کور پر PSD فائل میں ترمیم کرنے کے لیے C# سورس کوڈ۔
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

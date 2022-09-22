@@ -2,7 +2,7 @@
 title: .NET ve Java Photoshop API'leri | PSD ve PSB Dosyalarını Ayrıştırma
 weight: 10
 description: PSD ve PSB dosyalarını birden çok platformda okumak ve dışa aktarmak için kitaplık. Photoshop yüklü olmadan katmanları ayıklayın ve değiştirin.
-url: 
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

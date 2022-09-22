@@ -1,13 +1,13 @@
 ---
 title: Convert PSB to JP2 with C#
 description: Export PSD, PSB & AI file via .NET API
-url: psb-to-jp2/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: JP2
 otherformats: BMP GIF JPEG JPEG2000 PDF PNG PSD TIFF
+url: psb-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

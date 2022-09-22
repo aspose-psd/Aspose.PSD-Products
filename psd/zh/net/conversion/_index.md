@@ -1,7 +1,7 @@
 ---
 title: C# Photoshop 文件轉換
 description: 通過 .NET 庫用幾行 C# 代碼將 Photoshop PSD、PSB 轉換為 PDF 和圖像，包括 BMP、JPG、PNG、TIFF。
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

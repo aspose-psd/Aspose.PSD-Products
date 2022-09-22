@@ -1,10 +1,10 @@
 ---
 title: PSB Reduce Size Solution
 weight: 7730
-url: 
 limit: 
 description: Reduce PSD files size
 keywords: [reduce psb size, make psb smaller, reduce psb, remove unnecessary psb data, compress psb file, compress psb]
+url: psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}

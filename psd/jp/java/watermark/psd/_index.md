@@ -2,7 +2,7 @@
 title: Java経由の透かしPSDドキュメント
 weight: 60
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境でPSDファイルに透かしを追加または削除するJavaサンプルコード。
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

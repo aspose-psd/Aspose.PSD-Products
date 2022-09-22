@@ -1,7 +1,7 @@
 ---
 title: Java Photoshop Belgeleri Dönüştürme
 description: Photoshop PSD, PSB'yi Java kitaplığı aracılığıyla BMP, JPG, PNG, TIFF ve PDF dahil olmak üzere Görüntülere dönüştürün.
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

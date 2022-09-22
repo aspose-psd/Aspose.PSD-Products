@@ -1,7 +1,7 @@
 ---
 title: C＃Photoshopファイル変換
 description: .NETライブラリを介して数行のC＃コードでPhotoshop PSD、PSBをPDFおよびBMP、JPG、PNG、TIFFを含む画像に変換します。
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

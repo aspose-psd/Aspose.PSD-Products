@@ -2,7 +2,7 @@
 title: .NET- ja Java Photoshop -sovellusliittymät | Jäsennä PSD- ja PSB-tiedostot
 weight: 10
 description: Kirjasto, jolla voit lukea ja viedä PSD- ja PSB-tiedostoja useille alustoille. Pura ja käsittele tasoja ilman Photoshopia.
-url: 
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

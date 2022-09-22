@@ -2,7 +2,7 @@
 title: Documento PSD de marca de agua a través de Java
 weight: 60
 description: Código de muestra de Java para agregar o eliminar una marca de agua en un archivo PSD en Java Runtime Environment para aplicaciones de escritorio y aplicaciones JSP/JSF.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

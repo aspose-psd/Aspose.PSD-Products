@@ -2,7 +2,7 @@
 title: C# .NET فوٹوشاپ مینیپولیشن API - Aspose
 weight: 90
 description: C# ASP.NET VB.NET فوٹوشاپ لائبریری فوٹوشاپ PSD PSB فارمیٹس میں ترمیم اور تبدیل کرنے کے لیے
-url: 
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

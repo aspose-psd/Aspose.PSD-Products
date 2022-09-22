@@ -1,7 +1,7 @@
 ---
 title: Muokkaa PSD-dokumenttia .NET:n kautta
 description: C#-lähdekoodi PSD-tiedoston muokkaamiseen .NET Frameworkissa, .NET Coressa.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

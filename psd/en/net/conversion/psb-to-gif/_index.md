@@ -1,13 +1,13 @@
 ---
 title: Convert PSB to GIF with C#
 description: Export PSD, PSB & AI file via .NET API
-url: psb-to-gif/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: GIF
 otherformats: BMP JPEG JPEG2000 JP2 PDF PNG PSD TIFF
+url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

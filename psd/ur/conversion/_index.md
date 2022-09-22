@@ -3,7 +3,7 @@ title: PSD PSB اور AI فارمیٹ کنورژن حل
 weight: 7730
 limit: 
 description: Adobe PhotoShop اور Illustrator فائلوں کی تصاویر اور دیگر فارمیٹس میں تبدیل کریں
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/agp/conversion-solution >}} 

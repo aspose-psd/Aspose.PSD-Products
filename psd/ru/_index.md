@@ -2,7 +2,7 @@
 title: Создание, редактирование или преобразование файлов PSD и PSB в форматы PDF и изображений
 weight: 310
 description: High Code API и бесплатные приложения для редактирования файлов Photoshop. Возможность обновлять свойства слоя, добавлять водяные знаки, вращать масштаб, Flip Crop Dithering Raster Conversion.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

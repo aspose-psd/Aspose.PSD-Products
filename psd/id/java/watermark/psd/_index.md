@@ -2,7 +2,7 @@
 title: Dokumen PSD tanda air melalui Java
 weight: 60
 description: Kode sampel Java untuk menambah atau menghapus tanda air ke file PSD di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

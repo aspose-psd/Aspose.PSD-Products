@@ -2,7 +2,7 @@
 title: Java Photoshop API | PSD 和 PSB 格式解析
 weight: 270
 description: 在任何 Java 應用程序中使用此庫創建修改或轉換 PSD 和 PSB 格式，無需 Photoshop 軟件
-url: 
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

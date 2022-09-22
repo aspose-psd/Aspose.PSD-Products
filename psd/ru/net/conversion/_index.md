@@ -1,7 +1,7 @@
 ---
 title: Преобразование файлов C# Photoshop
 description: Конвертируйте Photoshop PSD, PSB в PDF и изображения, включая BMP, JPG, PNG, TIFF, с помощью нескольких строк кода C# через библиотеку .NET.
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

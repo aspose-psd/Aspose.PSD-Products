@@ -2,7 +2,7 @@
 title: Vesileima PSD-dokumentti Javan kautta
 weight: 60
 description: Java-esimerkkikoodi vesileiman lisäämiseen tai poistamiseen PSD-tiedostoon Java Runtime Environment -ympäristössä JSP/JSF-sovellukselle ja työpöytäsovelluksille.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

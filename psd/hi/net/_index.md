@@ -2,7 +2,7 @@
 title: सी # .NET फोटोशॉप मैनिपुलेशन एपीआई - Aspose
 weight: 90
 description: C# ASP.NET VB.NET फोटोशॉप लाइब्रेरी फोटोशॉप PSD PSB फॉर्मेट को एडिट और कन्वर्ट करने के लिए
-url: 
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

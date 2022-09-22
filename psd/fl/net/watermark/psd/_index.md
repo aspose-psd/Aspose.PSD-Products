@@ -2,7 +2,7 @@
 title: Vesileima PSD-dokumentti .NET:n kautta
 weight: 130
 description: C#-lähdekoodi vesileiman lisäämiseksi tai poistamiseksi PSD-tiedostosta .NET Frameworkissa, .NET Coressa.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Перетворення документів Java Photoshop
 description: Перетворюйте Photoshop PSD, PSB у зображення, включаючи BMP, JPG, PNG, TIFF та PDF за допомогою бібліотеки Java.
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,10 +1,10 @@
 ---
 title: View PSD, PSB or AI
 weight: 7730
-url: 
 limit: 
 description: Convert Adobe PhotoShop & Illustrator files images and other formats
 keywords: [view psd, view psb, open psd, open psb, open ai, view ai, view image, open photoshop file, open illustrator file]
+url: view/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

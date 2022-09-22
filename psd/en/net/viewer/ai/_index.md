@@ -1,7 +1,7 @@
 ---
 title: View AI File Formats via .NET
-url: ai/
 description: C# source code to load, render and display AI documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+url: ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

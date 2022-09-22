@@ -2,7 +2,7 @@
 title: Créer, modifier ou convertir des fichiers PSD et PSB en formats PDF et image
 weight: 310
 description: API High Code et applications gratuites pour éditer des fichiers Photoshop. Possibilité de mettre à jour les propriétés du calque, d'ajouter des filigranes, de faire pivoter l'échelle.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

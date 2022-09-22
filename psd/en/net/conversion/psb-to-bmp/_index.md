@@ -1,13 +1,13 @@
 ---
 title: Convert PSB to BMP with C#
 description: Export PSD, PSB & AI file via .NET API
-url: psb-to-bmp/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: BMP
 otherformats: GIF JPEG JPEG2000 JP2 PDF PNG PSD TIFF
+url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

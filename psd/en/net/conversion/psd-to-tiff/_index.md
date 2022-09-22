@@ -1,13 +1,13 @@
 ---
 title: Convert PSD to TIFF with C#
 description: Export PSD, PSB & AI file via .NET API
-url: psd-to-tiff/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSD
 outformat: TIFF
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF PNG
+url: psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

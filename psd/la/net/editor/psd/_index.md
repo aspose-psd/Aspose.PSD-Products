@@ -1,7 +1,7 @@
 ---
 title: Edit PSD documentum per .NET
 description: C# source code ad lima in .NET Framework .NET Core edit PSD.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
