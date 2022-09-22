@@ -1,13 +1,13 @@
 ---
 title: Convert PSD to PNG with C#
 description: Export PSD, PSB & AI file via .NET API
-url: psd-to-png/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSD
 outformat: PNG
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF TIFF
+url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: Akvomarko PSD-dokumento per .NET
 weight: 130
 description: C# fontkodo por aldoni aŭ forigi akvomarkon al PSD-dosiero sur .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

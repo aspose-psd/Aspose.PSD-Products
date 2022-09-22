@@ -2,7 +2,7 @@
 title: Rigardu PSD Dosierformatojn per .NET
 weight: 100
 description: C# fontkodo por ŝargi, bildigi kaj montri PSD-dokumentojn sur .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

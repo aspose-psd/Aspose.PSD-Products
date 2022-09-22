@@ -2,7 +2,7 @@
 title: Zobrazení formátů souborů PSD přes .NET
 weight: 100
 description: Zdrojový kód C# pro načítání, vykreslování a zobrazování dokumentů PSD na .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

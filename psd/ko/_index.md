@@ -2,7 +2,7 @@
 title: PSD 및 PSB 파일을 PDF 및 이미지 형식으로 생성, 편집 또는 변환
 weight: 310
 description: Photoshop 파일을 편집하기 위한 High Code API 및 무료 앱. 레이어 속성을 업데이트하는 기능, 워터마크를 추가하는 기능 회전 배율 Flip Crop Dithering Raster Conversion.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

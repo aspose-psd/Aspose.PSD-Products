@@ -1,7 +1,7 @@
 ---
 title: جاوا فوٹوشاپ دستاویزات کی تبدیلی
 description: فوٹوشاپ PSD، PSB کو جاوا لائبریری کے ذریعے BMP، JPG، PNG، TIFF اور PDF سمیت تصاویر میں تبدیل کریں۔
-url: 
+url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

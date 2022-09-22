@@ -1,10 +1,10 @@
 ---
 title: Open PSD file online
 weight: 7730
-url: 
 limit: 
 description: Open PSD file online using Aspose.PSD
 keywords: [open psd, open psb online, open PSD file, open photoshop file, preview psd]
+url: open-PSD-online/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

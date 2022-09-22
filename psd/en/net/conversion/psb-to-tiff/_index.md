@@ -1,13 +1,13 @@
 ---
 title: Convert PSB to TIFF with C#
 description: Export PSD, PSB & AI file via .NET API
-url: psb-to-tiff/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: TIFF
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF PNG PSD
+url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

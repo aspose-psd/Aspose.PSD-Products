@@ -1,7 +1,7 @@
 ---
 title: تحرير مستند PSD عبر .NET
 description: كود مصدر C # لتحرير ملف PSD على .NET Framework ، .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

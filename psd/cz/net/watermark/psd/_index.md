@@ -2,7 +2,7 @@
 title: Vodoznak PSD dokument přes .NET
 weight: 130
 description: Zdrojový kód C# pro přidání nebo odstranění vodoznaku do souboru PSD na .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

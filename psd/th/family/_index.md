@@ -2,7 +2,7 @@
 title: .NET และ Java Photoshop APIs | แยกวิเคราะห์ไฟล์ PSD และ PSB
 weight: 10
 description: ห้องสมุดเพื่ออ่านเขียนและส่งออกไฟล์ PSD & PSB บนหลายแพลตฟอร์ม แยกและจัดการเลเยอร์โดยไม่ต้องติดตั้ง Photoshop
-url: 
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

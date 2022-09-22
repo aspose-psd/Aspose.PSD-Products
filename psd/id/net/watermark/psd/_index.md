@@ -2,7 +2,7 @@
 title: Dokumen PSD tanda air melalui .NET
 weight: 130
 description: Kode sumber C# untuk menambah atau menghapus tanda air ke file PSD di .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

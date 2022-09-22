@@ -2,7 +2,7 @@
 title: Vytvářejte, upravujte nebo převádějte soubory PSD a PSB do formátu PDF a obrázků
 weight: 310
 description: High Code API a bezplatné aplikace pro úpravu souborů Photoshopu. Možnost aktualizovat vlastnosti vrstvy, přidávat vodoznaky a otáčet měřítko Flip Crop Dithering Raster Conversion.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

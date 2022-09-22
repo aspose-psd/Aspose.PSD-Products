@@ -2,7 +2,7 @@
 title: PSD ve PSB dosyalarını oluşturun, düzenleyin veya PDF ve görüntü formatlarına dönüştürün
 weight: 310
 description: Photoshop dosyalarını düzenlemek için Yüksek Kod API'leri ve Ücretsiz Uygulamalar. Katman özelliklerini güncelleme, filigran ekleme yeteneği döndürme ölçeği Flip Crop Dithering Raster Conversion.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,10 +1,10 @@
 ---
 title: Convert PSD to TIFF
 weight: 7730
-url: 
 limit: 
 description: Service to convert PSD files to Tiff
 keywords: [convert psd to tiff, psd to tiff, conversion to tiff, create tiff from psd, print psd as tiff]
+url: to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

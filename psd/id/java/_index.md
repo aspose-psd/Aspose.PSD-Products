@@ -2,7 +2,7 @@
 title: Java Photoshop API | Penguraian Format PSD dan PSB
 weight: 270
 description: Buat modifikasi atau konversi format PSD dan PSB menggunakan perpustakaan ini dalam aplikasi Java apa pun tanpa memerlukan perangkat lunak Photoshop
-url: 
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

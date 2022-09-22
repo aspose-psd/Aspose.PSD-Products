@@ -2,7 +2,7 @@
 title: Vattenstämpel PSD-dokument via .NET
 weight: 130
 description: C#-källkod för att lägga till eller ta bort vattenstämpel till PSD-fil på .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

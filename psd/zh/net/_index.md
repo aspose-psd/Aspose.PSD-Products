@@ -2,7 +2,7 @@
 title: C# .NET Photoshop 操作 API - Aspose
 weight: 90
 description: C# ASP.NET VB.NET Photoshop庫創建編輯和轉換Photoshop PSD PSB格式
-url: 
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

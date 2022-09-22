@@ -1,7 +1,7 @@
 ---
 title: Redaktu PSD-dokumenton per .NET
 description: C# fontkodo por redakti la PSD-dosieron sur .NET Framework, .NET Core.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

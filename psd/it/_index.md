@@ -2,7 +2,7 @@
 title: Crea, modifica o converti file PSD e PSB in formati PDF e immagine
 weight: 310
 description: API High Code e app gratuite per modificare i file di Photoshop. Possibilità di aggiornare le proprietà del livello, aggiungere filigrane, ruotare la scala, capovolgere, ritagliare, dithering, conversione raster.
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

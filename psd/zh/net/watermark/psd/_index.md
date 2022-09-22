@@ -2,7 +2,7 @@
 title: .NET 水印 PSD 文件
 weight: 130
 description: C# 源代碼，用於在 .NET Framework、.NET Core 上向 PSD 文件添加或刪除水印。
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: .NET i Java Photoshop API-ji | Parsirajte PSD i PSB datoteke
 weight: 10
 description: Knjižnica za čitanje pisanja i izvoz PSD i PSB datoteka na više platformi. Izdvojite i manipulirajte slojevima bez instaliranog Photoshopa.
-url: 
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

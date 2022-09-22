@@ -1,7 +1,7 @@
 ---
 title: Convert PSB to JPEG2000 via Java
-url: psb-to-jpeg2000/
 description: Sample Java conversion code for PSB format to JPEG2000 file. Use this example code to convert PSB to JPEG2000 within any Web or Desktop Java based application.
+url: psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

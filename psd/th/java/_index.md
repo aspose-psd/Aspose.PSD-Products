@@ -2,7 +2,7 @@
 title: Java Photoshop API | การแยกวิเคราะห์รูปแบบ PSD และ PSB
 weight: 270
 description: สร้างแก้ไขหรือแปลงรูปแบบ PSD และ PSB โดยใช้ไลบรารีนี้ภายในแอปพลิเคชัน Java ใด ๆ โดยไม่ต้องใช้ซอฟต์แวร์ Photoshop
-url: 
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

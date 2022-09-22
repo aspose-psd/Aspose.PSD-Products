@@ -1,10 +1,10 @@
 ---
 title: PSD PSB Reduce Size Solution
 weight: 7730
-url: 
 limit: 
 description: Reduce PSD files size
 keywords: [reduce psd size, make psd smaller, reduce psd, remove unnecessary psd data]
+url: reduce-size/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Adobe Photoshop File Format Solution" h2="High Code APIs and free apps for PSD, PSB with ability to reduce size of files and compress using undocumented possibilities" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Product Solution" >}}

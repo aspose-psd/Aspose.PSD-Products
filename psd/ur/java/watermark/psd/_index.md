@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے واٹر مارک PSD دستاویز
 weight: 60
 description: JSP/JSF ایپلیکیشن اور ڈیسک ٹاپ ایپلیکیشنز کے لیے جاوا رن ٹائم ماحولیات پر PSD فائل میں واٹر مارک شامل کرنے یا ہٹانے کے لیے جاوا کا نمونہ کوڈ۔
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

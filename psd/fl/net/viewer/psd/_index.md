@@ -2,7 +2,7 @@
 title: Tarkastele PSD-tiedostomuotoja .NET:n kautta
 weight: 100
 description: C#-lähdekoodi PSD-dokumenttien lataamiseen, hahmontamiseen ja näyttämiseen .NET Frameworkissa, .NET Coressa.
-url: 
+url: psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

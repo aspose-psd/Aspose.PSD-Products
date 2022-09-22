@@ -2,7 +2,7 @@
 title: NET و Java Photoshop APIs | تحليل ملفات PSD و PSB
 weight: 10
 description: مكتبة لقراءة كتابة وتصدير ملفات PSD & PSB على منصات متعددة. استخراج الطبقات ومعالجتها بدون تثبيت Photoshop.
-url: 
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

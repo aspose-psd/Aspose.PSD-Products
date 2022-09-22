@@ -2,7 +2,7 @@
 title: PSDおよびPSBファイルをPDFおよび画像形式に作成、編集、または変換する
 weight: 310
 description: Photoshopファイルを編集するためのハイコードAPIと無料アプリ。レイヤープロパティを更新し、透かしを追加してスケールを回転させる機能フリップクロップディザリングラスター変換。
-url: 
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
