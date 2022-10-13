@@ -102,7 +102,7 @@ url: java/
  <div class="d1-logo">
   <img width="70" height="75" alt="API Pemrosesan Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
-   Apose.PSD
+   Aspose.PSD
   </header>
   <footer>
    <small>
@@ -148,7 +148,7 @@ url: java/
  <div class="d1-logo">
   <img width="70" height="75" alt="API Pemrosesan Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
-   Apose.PSD
+   Aspose.PSD
   </header>
   <footer>
    <small>
@@ -217,7 +217,7 @@ url: java/
  <div class="d1-logo">
   <img width="70" height="75" alt="API Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
   <header>
-   Apose.PSD
+   Aspose.PSD
   </header>
   <footer>
    <small>

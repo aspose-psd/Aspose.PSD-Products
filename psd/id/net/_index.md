@@ -134,7 +134,7 @@ url: net/
  <div class="d1-logo">
   <img width="70" height="75" alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
   <header>
-   Apose.PSD
+   Aspose.PSD
   </header>
   <footer>
    <small>
@@ -185,7 +185,7 @@ url: net/
  <div class="d1-logo">
   <img width="70" height="75" alt="API Manipulasi PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
   <header>
-   Apose.PSD
+   Aspose.PSD
   </header>
   <footer>
    <small>
@@ -254,7 +254,7 @@ url: net/
  <div class="d1-logo">
   <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
   <header>
-   Apose.PSD
+   Aspose.PSD
   </header>
   <footer>
    <small>
