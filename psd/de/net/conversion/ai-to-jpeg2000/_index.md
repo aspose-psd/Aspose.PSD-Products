@@ -16,7 +16,7 @@ Um AI in JPEG2000 zu konvertieren, verwenden wir<a href="/psd/{{< lang-code >}}n
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 

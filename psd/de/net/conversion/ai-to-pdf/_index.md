@@ -16,7 +16,7 @@ Um AI in PDF zu konvertieren, verwenden wir<a href="/psd/{{< lang-code >}}net">A
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 

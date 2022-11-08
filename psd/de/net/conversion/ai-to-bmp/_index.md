@@ -16,7 +16,7 @@ Um AI in BMP umzuwandeln, verwenden wir<a href="/psd/{{< lang-code >}}net">Aspos
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 

@@ -22,7 +22,7 @@ url: psd/
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 

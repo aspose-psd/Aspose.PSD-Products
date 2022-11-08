@@ -16,7 +16,7 @@ Um PSD in JPEG2000 zu konvertieren, verwenden wir<a href="/psd/{{< lang-code >}}
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 
