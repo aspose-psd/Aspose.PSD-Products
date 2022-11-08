@@ -23,7 +23,7 @@ url: psd/
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
-``cs
+```cs
 
 PM> Install-Package Aspose.PSD
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="Κωδικός C# για προβολή PSD" offSpacer="" %}}
 
-``cs
+```cs
 
 ```
 
