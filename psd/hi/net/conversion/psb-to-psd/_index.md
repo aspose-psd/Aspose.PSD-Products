@@ -5,7 +5,7 @@ description: पीएसबी से पीएसडी सी# रूपा�
 url: psb-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" PSB को C# के माध्यम से PSD में बदलें" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName=" Aspose.PSD" subTitlepfName=" .NET . के लिए" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" .NET . के लिए" >}}
@@ -107,11 +107,11 @@ PSD, Photoshop Document, Adobe Photoshop के मूल फ़ाइल स्
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle=" आप पीएसबी को कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं जिनमें कुछ नीचे सूचीबद्ध हैं।" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-bmp/" name="PSB TO BMP " description="{{bmp _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-gif/" name="PSB TO GIF " description="{{gif _name}}">}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-gif/" name="PSB TO GIF " description="{{gif _name}}" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-jpeg/" name="PSB TO JPEG " description="{{jpeg _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-pdf/" name="PSB TO PDF " description="{{pdf _name}}">}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-pdf/" name="PSB TO PDF " description="{{pdf _name}}" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-png/" name="PSB TO PNG " description="{{png _name}}" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-psd/" name="PSB TO PSD " description="{{psd _name}}">}}
+{{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-psd/" name="PSB TO PSD " description="{{psd _name}}" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="net/conversion/psb-to-tiff/" name="PSB TO TIFF " description="{{tiff _name}}" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

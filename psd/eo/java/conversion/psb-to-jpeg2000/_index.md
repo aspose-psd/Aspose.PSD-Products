@@ -4,7 +4,7 @@ description: Ekzempla Ĝava konverta kodo por PSB-formato al JPEG2000-dosiero. U
 url: psb-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu PSB al JPEG2000 per Java" h2="Denaska Java Biblioteko por Legi, Skribi kaj Eksporti PSB al JPEG2000 sen bezonado de Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por Java" >}}

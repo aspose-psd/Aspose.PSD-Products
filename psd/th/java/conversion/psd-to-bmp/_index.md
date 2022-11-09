@@ -5,7 +5,7 @@ description: ตัวอย่างโค้ดการแปลง Java ส�
 url: psd-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="แปลง PSD เป็น BMP ผ่าน Java" h2="Java Photoshop API สำหรับการแปลง PSD เป็นภาพแรสเตอร์รวมถึง BMP" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="Aspose.PSD" subTitlepfName="สำหรับ Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="สำหรับ Java" >}}

@@ -5,7 +5,7 @@ description: Esempio di codice di conversione Java per il formato PSB in file JP
 url: psb-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Converti PSB in JPEG tramite Java" h2="API Java Photoshop per PSB Conversione in immagini raster incluso JPEG" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="Aspose.PSD" subTitlepfName="per Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="per Java" >}}

@@ -4,7 +4,7 @@ description: AI에서 PNG로 C# 변환을 위한 샘플 코드. VB.NET, Asp.NET 
 url: ai-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C#을 통해 AI를 PNG로 변환" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="아포즈.PSD" subTitlepfName=".NET용" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName=".NET용" >}}

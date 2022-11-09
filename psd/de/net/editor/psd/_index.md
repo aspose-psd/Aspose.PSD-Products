@@ -4,7 +4,7 @@ description: C#-Quellcode zum Bearbeiten der PSD-Datei auf .NET Framework, .NET 
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Bearbeiten Sie das PSD-Dokument über C#" h2="Erstellen Sie Ihre eigenen .NET-Apps, um PSD-Dateien mit serverseitigen APIs zu bearbeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="für .NET" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="GIF" fileiconsmall3="PDF" fileiconsmall4="PNG" fileiconsmall5="JPEG" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="für .NET" >}}

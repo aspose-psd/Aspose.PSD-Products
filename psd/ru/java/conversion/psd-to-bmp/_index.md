@@ -5,7 +5,7 @@ description: Пример Java-кода преобразования форма�
 url: psd-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Конвертировать PSD в BMP через Java" h2="Java Photoshop API для преобразования PSD в растровые изображения, включая BMP" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="Aspose.PSD" subTitlepfName="для Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="для Java" >}}

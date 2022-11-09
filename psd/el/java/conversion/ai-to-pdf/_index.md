@@ -4,7 +4,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 url: ai-to-pdf/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Μετατροπή AI σε PDF μέσω Java" h2="Εγγενής βιβλιοθήκη Java για ανάγνωση, εγγραφή και εξαγωγή τεχνητής νοημοσύνης σε PDF χωρίς να χρειάζεται το Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="Aspose.PSD" subTitlepfName="για Java" downloadUrl="" fileiconsmall1="PDF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="για Java" >}}

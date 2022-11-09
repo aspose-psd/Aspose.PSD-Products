@@ -4,7 +4,7 @@ description: Beispiel-Java-Konvertierungscode für das AI-Format in eine PSD-Dat
 url: ai-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertieren Sie AI in PSD über Java" h2="Native Java-Bibliothek zum Lesen, Schreiben und Exportieren von AI in PSD, ohne dass Adobe erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="für Java" downloadUrl="" fileiconsmall1="PSD" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="für Java" >}}

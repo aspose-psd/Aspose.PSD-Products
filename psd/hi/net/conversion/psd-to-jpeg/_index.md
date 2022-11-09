@@ -11,7 +11,7 @@ url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# के माध्यम से PSD को JPEG में बदलें" h2=" PSD और पीएसबी के लिए नेट फोटोशॉप एपीआई जेपीईजी सहित रेखापुंज छवियों में रूपांतरण">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# के माध्यम से PSD को JPEG में बदलें" h2=" PSD और पीएसबी के लिए नेट फोटोशॉप एपीआई जेपीईजी सहित रेखापुंज छवियों में रूपांतरण" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

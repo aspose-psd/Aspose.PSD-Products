@@ -5,7 +5,7 @@ description: JSP/JSFアプリケーションおよびデスクトップアプリ
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Javaを介してテキスト透かしをPSDに追加" h2="サーバー側APIを使用してPSDファイルに透かしを入れる独自のJavaアプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName=" Aspose.PSD" subTitlepfName="Javaの場合" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName="Javaの場合" >}}

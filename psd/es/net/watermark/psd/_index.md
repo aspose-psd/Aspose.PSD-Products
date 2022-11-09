@@ -5,7 +5,7 @@ description: Código fuente de C# para agregar o eliminar marcas de agua en arch
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Agregar marca de agua de texto a PSD a través de C#" h2="Cree sus propias aplicaciones .NET para marcar con agua los archivos PSD usando las API del lado del servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="para .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="para .NET" >}}

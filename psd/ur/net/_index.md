@@ -7,7 +7,7 @@ url: net/
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1=" فوٹوشاپ فائلوں میں ہیرا پھیری کے لیے NET APIs" h2=" بغیر کسی ایڈوب فوٹوشاپ کے انحصار کے PSD اور PSB فائلیں بنائیں، پڑھیں، ترمیم کریں اور تبدیل کریں۔"
-logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
+logoImageSrc pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" >}}
 
@@ -133,7 +133,7 @@ logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD پروسیسنگ API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD پروسیسنگ API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -184,7 +184,7 @@ logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="PSD ہیرا پھیری APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt="PSD ہیرا پھیری APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -253,7 +253,7 @@ logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>

@@ -11,7 +11,7 @@ url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Pretvorite PSB u TIFF putem C#" h2=".NET Photoshop API za PSD i PSB Pretvorba u rasterske slike uključujući TIFF">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Pretvorite PSB u TIFF putem C#" h2=".NET Photoshop API za PSD i PSB Pretvorba u rasterske slike uključujući TIFF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

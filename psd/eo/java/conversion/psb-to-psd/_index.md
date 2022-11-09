@@ -5,7 +5,7 @@ description: Ekzempla Ĝava konverta kodo por PSB-formato al PSD-dosiero. Uzu ĉ
 url: psb-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu PSB al PSD per Java" h2="Java Photoshop API por PSB al PSD Konvertiĝo" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por Java" >}}

@@ -5,7 +5,7 @@ description: Ekzempla Ĝava konverta kodo por PSD-formato al TIFF-dosiero. Uzu �
 url: psd-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu PSD al TIFF per Java" h2="Java Photoshop API por PSD Konvertiĝo al rastrumaj bildoj inkluzive de TIFF" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por Java" >}}

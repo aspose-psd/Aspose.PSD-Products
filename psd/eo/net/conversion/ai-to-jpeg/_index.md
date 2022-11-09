@@ -4,7 +4,7 @@ description: Ekzempla kodo por konvertiĝo de AI al JPEG C#. Uzu API-ekzemplan k
 url: ai-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konverti AI al JPEG per C#" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="Supoze.PSD" subTitlepfName="por .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por .NET" >}}

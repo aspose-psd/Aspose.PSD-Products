@@ -5,7 +5,7 @@ description: PSD formatı için JPEG dosyasına örnek Java dönüştürme kodu.
 url: psd-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Java aracılığıyla PSD'yi JPEG'e dönüştürün" h2=" JPEG dahil raster görüntülere PSD Dönüşümü için Java Photoshop API" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="Aspose.PSD" subTitlepfName="Java için" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Java için" >}}

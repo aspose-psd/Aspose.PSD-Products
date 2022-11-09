@@ -11,7 +11,7 @@ url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" تحويل PSD إلى BMP عبر C #" h2=". NET Photoshop API لتحويل PSD و PSB إلى صور نقطية بما في ذلك BMP">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" تحويل PSD إلى BMP عبر C #" h2=". NET Photoshop API لتحويل PSD و PSB إلى صور نقطية بما في ذلك BMP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

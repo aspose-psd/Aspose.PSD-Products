@@ -4,7 +4,7 @@ description: نموذج كود تحويل Java لتنسيق AI إلى ملف TIF
 url: ai-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" تحويل AI إلى TIFF عبر Java" h2=" مكتبة Java أصلية لقراءة وكتابة وتصدير AI إلى TIFF دون الحاجة إلى Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName=" Aspose.PSD" subTitlepfName=" لجافا" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" لجافا" >}}

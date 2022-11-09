@@ -5,7 +5,7 @@ description: C# izvorni kod za dodavanje ili uklanjanje vodenog žiga u PSD dato
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Dodajte tekstualni vodeni žig u PSD putem C#" h2="Izgradite vlastite .NET aplikacije za vodeni žig PSD datoteka pomoću API-ja na strani poslužitelja." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="za .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="za .NET" >}}

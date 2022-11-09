@@ -5,7 +5,7 @@ description: Ejemplo de código de conversión de Java para formato PSD a archiv
 url: psd-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir PSD a BMP a través de Java" h2="API de Java Photoshop para conversión de PSD a imágenes raster, incluido BMP" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="Aspose.PSD" subTitlepfName="para Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="para Java" >}}

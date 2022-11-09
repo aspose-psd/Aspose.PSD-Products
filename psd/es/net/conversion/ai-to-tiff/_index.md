@@ -4,7 +4,7 @@ description: Código de muestra para la conversión de AI a TIFF C#. Utilice el 
 url: ai-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir AI a TIFF a través de C#" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="para .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="para .NET" >}}

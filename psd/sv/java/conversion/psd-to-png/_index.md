@@ -5,7 +5,7 @@ description: Exempel på Java-konverteringskod för PSD-format till PNG-fil. Anv
 url: psd-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertera PSD till PNG via Java" h2="Java Photoshop API för PSD-konvertering till rasterbilder inklusive PNG" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="Aspose.PSD" subTitlepfName="för Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="för Java" >}}

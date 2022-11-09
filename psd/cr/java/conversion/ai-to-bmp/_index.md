@@ -4,7 +4,7 @@ description: Uzorak Java koda za pretvorbu za AI format u BMP datoteku. Upotrije
 url: ai-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Pretvorite AI u BMP putem Jave" h2="Nativna Java knjižnica za čitanje, pisanje i izvoz AI u BMP bez potrebe za Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="Aspose.PSD" subTitlepfName="za Javu" downloadUrl="" fileiconsmall1="BMP" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="za Javu" >}}

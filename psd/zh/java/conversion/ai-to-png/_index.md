@@ -4,7 +4,7 @@ description: AI 格式到 PNG 文件的示例 Java 轉換代碼。使用此示�
 url: ai-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="通過Java將AI轉為PNG" h2="無需 Adob​​e 即可讀取、寫入和將 AI 導出為 PNG 的本機 Java 庫。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="Aspose.PSD" subTitlepfName="Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Java" >}}

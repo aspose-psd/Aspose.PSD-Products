@@ -4,7 +4,7 @@ description: عينة كود تحويل Java لتنسيق AI إلى ملف JPEG2
 url: ai-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" تحويل AI إلى JPEG2000 عبر Java" h2=" مكتبة Java أصلية لقراءة وكتابة وتصدير AI إلى JPEG2000 دون الحاجة إلى Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName=" Aspose.PSD" subTitlepfName=" لجافا" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" لجافا" >}}
@@ -109,7 +109,7 @@ Aspose.PSD هي واجهة برمجة تطبيقات لمعالجة تنسيق P
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="/{{jpeg2000_url}} ">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="/{{jpeg2000_url}} " >}}
 {{jpeg2000}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}

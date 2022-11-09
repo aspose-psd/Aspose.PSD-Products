@@ -5,7 +5,7 @@ description: C# source code to add or remove watermark to PSD file on .NET Frame
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Add Text Watermark to PSD via C#" h2="Build your own .NET apps to watermark PSD files using server-side APIs." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for .NET" >}}

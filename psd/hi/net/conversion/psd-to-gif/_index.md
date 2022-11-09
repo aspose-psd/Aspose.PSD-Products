@@ -11,7 +11,7 @@ url: psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="सी#के माध्यम से PSD को जीआईएफ में कनवर्ट करें" h2=" PSD और पीएसबी के लिए नेट फोटोशॉप एपीआई जीआईएफ सहित रेखापुंज छवियों में रूपांतरण">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="सी#के माध्यम से PSD को जीआईएफ में कनवर्ट करें" h2=" PSD और पीएसबी के लिए नेट फोटोशॉप एपीआई जीआईएफ सहित रेखापुंज छवियों में रूपांतरण" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

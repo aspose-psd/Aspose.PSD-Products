@@ -5,7 +5,7 @@ description: PSD formatı için PSB dosyasına örnek Java dönüştürme kodu. 
 url: psd-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="PSD'yi Java ile PSB'ye dönüştürün" h2="Adobe Photoshop'a ihtiyaç duymadan herhangi bir Java uygulamasından PSD'yi okuyun ve PSD'ye dönüştürün." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName="Java için" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Java için" >}}

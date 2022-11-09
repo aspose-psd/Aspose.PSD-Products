@@ -4,7 +4,7 @@ description: पीएनजी फ़ाइल में एआई प्रा
 url: ai-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से AI को PNG में बदलें" h2=" मूल जावा पुस्तकालय एडोब की आवश्यकता के बिना पीएनजी को पढ़ने, लिखने और एआई निर्यात करने के लिए।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="Aspose.PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

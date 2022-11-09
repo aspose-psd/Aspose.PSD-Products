@@ -11,7 +11,7 @@ url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSD کو PNG میں تبدیل کریں" h2=" .NET فوٹوشاپ API برائے PSD اور PSB کنورژن کو راسٹر امیجز بشمول PNG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSD کو PNG میں تبدیل کریں" h2=" .NET فوٹوشاپ API برائے PSD اور PSB کنورژن کو راسٹر امیجز بشمول PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

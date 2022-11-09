@@ -5,7 +5,7 @@ description: Zdrojový kód C# pro načítání, vykreslování a zobrazování 
 url: psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Prohlížeč souborů PSB pro .NET" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName="pro .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="pro .NET" >}}

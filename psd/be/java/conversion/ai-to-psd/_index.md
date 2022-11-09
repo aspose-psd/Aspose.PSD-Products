@@ -4,7 +4,7 @@ description: Прыклад кода пераўтварэння Java для фа
 url: ai-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Канвертаваць AI ў PSD праз Java" h2=" Родная бібліятэка Java для чытання, запісу і экспарту AI ў PSD без неабходнасці Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="для Java" downloadUrl="" fileiconsmall1="PSD" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="для Java" >}}

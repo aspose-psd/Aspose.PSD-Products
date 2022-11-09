@@ -5,7 +5,7 @@ description: जेपीईजी फ़ाइल में PSD प्रार
 url: psd-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से PSD को JPEG में बदलें" h2=" जेपीईजी सहित रेखापुंज छवियों के लिए PSD रूपांतरण के लिए जावा फोटोशॉप एपीआई" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="असोस करें।PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

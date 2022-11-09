@@ -5,7 +5,7 @@ description: Beispiel-Java-Konvertierungscode für das PSB-Format in eine TIFF-D
 url: psb-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertieren Sie PSB über Java in TIFF" h2="Java Photoshop API für PSB-Konvertierung in Rasterbilder einschließlich TIFF" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="für Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="für Java" >}}

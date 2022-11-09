@@ -4,7 +4,7 @@ description: Primjer Java koda za pretvorbu za PSB format u JPEG2000 datoteku. U
 url: psb-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Pretvorite PSB u JPEG2000 putem Jave" h2="Nativna Java knjižnica za čitanje, pisanje i izvoz PSB-a u JPEG2000 bez potrebe za Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName="za Javu" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="za Javu" >}}

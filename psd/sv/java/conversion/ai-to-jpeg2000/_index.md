@@ -4,7 +4,7 @@ description: Exempel på Java-konverteringskod för AI-format till JPEG2000-fil.
 url: ai-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertera AI till JPEG2000 via Java" h2="Native Java Library för att läsa, skriva och exportera AI till JPEG2000 utan att behöva Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName="för Java" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="för Java" >}}

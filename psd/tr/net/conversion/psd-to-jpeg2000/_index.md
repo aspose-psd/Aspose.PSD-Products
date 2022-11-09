@@ -4,7 +4,7 @@ description: PSD'den JPEG2000'e C# dönüştürme için örnek kod. Toplu PSD do
 url: psd-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="PSD'yi C# ile JPEG2000'e dönüştürün" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName=".NET için" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=".NET için" >}}

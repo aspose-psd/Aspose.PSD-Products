@@ -11,7 +11,7 @@ url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="通過C#將PSD轉JPEG" h2=".NET Photoshop API 用於 PSD 和 PSB 轉換為包括 JPEG 在內的光柵圖像">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="通過C#將PSD轉JPEG" h2=".NET Photoshop API 用於 PSD 和 PSB 轉換為包括 JPEG 在內的光柵圖像" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

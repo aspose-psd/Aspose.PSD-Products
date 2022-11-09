@@ -5,7 +5,7 @@ description: Пример кода Java для добавления или уд�
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Добавить текстовый водяной знак в PSD через Java" h2="Создавайте собственные Java-приложения для добавления водяных знаков в PSD-файлы с помощью серверных API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="для Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="для Java" >}}

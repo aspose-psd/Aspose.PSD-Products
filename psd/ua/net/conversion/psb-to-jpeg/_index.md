@@ -11,7 +11,7 @@ url: psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Перетворити PSB на JPEG за допомогою C#" h2=".NET Photoshop API для PSD і PSB Перетворення в растрові зображення, включаючи JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Перетворити PSB на JPEG за допомогою C#" h2=".NET Photoshop API для PSD і PSB Перетворення в растрові зображення, включаючи JPEG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

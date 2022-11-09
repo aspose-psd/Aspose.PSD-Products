@@ -4,7 +4,7 @@ description: Ekzempla Ĝava konverta kodo por AI-formato al GIF-dosiero. Uzu ĉi
 url: ai-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu AI al GIF per Java" h2="Denaska Java Biblioteko por Legi, Skribi kaj Eksporti AI al GIF sen bezoni Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="GIF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por Java" >}}

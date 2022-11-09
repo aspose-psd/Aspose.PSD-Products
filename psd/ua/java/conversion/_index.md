@@ -11,9 +11,9 @@ url: conversion/
 
 Формат PSD Adobe® Photoshop® – це формат дизайнерів для розробки візиток, дизайну логотипів, макетів флаєрів, дизайну веб-сайтів та багато іншого. Зазвичай дизайнери експортують шари PSD до одного зображення, включаючи JPG, PNG, GIF, TIFF тощо, через Adobe Photoshop. Для перетворення Photoshop PSD у растрові зображення та PDF у будь-якому рішенні Java **Java PSD API** може зробити це з легкістю. Для будь-якої програми автоматизації перетворення PSD наведені нижче приклади кодів можна легко інтегрувати для растрових зображень і перетворення PDF.
 
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Перетворення Photoshop PSD в PDF" %}}
+{{% blocks/products/pf/feature-page-section h2="Перетворення Photoshop PSD в PDF" %}}
 
 Щоб перетворити Photoshop PSD у PDF, обробіть це, завантажте файл Photoshop PSD за допомогою [класу зображення](https://apireference.aspose.com/psd/java/com.aspose.psd/Image). Створіть об’єкт [PdfOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) для відповідних налаштувань PDF. Нарешті викличте метод [Image.save](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-), який має вихід PDF-документ і спеціальні параметри налаштувань.
 
@@ -21,13 +21,13 @@ url: conversion/
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-pdf-conversion.java" >}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="psb-to-pdf psd-to-pdf" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Перетворюйте Photoshop PSD у зображення JPG, PNG, BMP" %}}
+{{% blocks/products/pf/feature-page-section h2="Перетворюйте Photoshop PSD у зображення JPG, PNG, BMP" %}}
 
 Java PSD API забезпечує аналогічний шаблон для перетворення. Таким чином, шаблон перетворення в растрові зображення JPG, BMP, PNG, GIF, TIFF такий же, як у PDF, а не конкретні налаштування зображення. API надає [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JpegOptions](https://apireference.aspose.com/psd/java/com .aspose.psd.imageoptions/JpegOptions), [BmpOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GifOptions](https://apireference.aspose .com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) для PNG, JPG , BMP, GIF, JP2 відповідно. Таким чином, процес завантажує файл, використовує відповідні параметри зображення та зберігає PSD у вибраному зображенні.
 
@@ -35,7 +35,7 @@ Java PSD API забезпечує аналогічний шаблон для п�
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-images-conversion.java" >}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
 

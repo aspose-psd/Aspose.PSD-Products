@@ -4,7 +4,7 @@ description: ตัวอย่างโค้ดการแปลง Java ส�
 url: ai-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="แปลง AI เป็น BMP ผ่าน Java" h2=" Native Java Library เพื่ออ่าน เขียน และส่งออก AI เป็น BMP โดยไม่ต้องใช้ Adobe" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="อัสสัมชัญPSD" subTitlepfName="สำหรับ Java" downloadUrl="" fileiconsmall1="BMP" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="อัสสัมชัญPSD" subTitlepfName="สำหรับ Java" >}}

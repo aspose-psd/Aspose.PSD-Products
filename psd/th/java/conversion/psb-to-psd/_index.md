@@ -5,7 +5,7 @@ description: ตัวอย่างโค้ดการแปลง Java ส�
 url: psb-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="แปลง PSB เป็น PSD ผ่าน Java" h2="Java Photoshop API สำหรับ PSB เป็น PSD Conversion" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="สำหรับ Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="อัสสัมชัญPSD" subTitlepfName="สำหรับ Java" >}}

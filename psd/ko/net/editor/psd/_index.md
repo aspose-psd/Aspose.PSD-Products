@@ -4,7 +4,7 @@ description: .NET Framework, .NET Core에서 PSD 파일을 편집하는 C# 소�
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C#을 통해 PSD 문서 편집" h2="서버 측 API를 사용하여 PSD 파일을 편집하기 위해 자신의 .NET 앱을 빌드합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="아포즈.PSD" subTitlepfName=".NET용" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="GIF" fileiconsmall3="PDF" fileiconsmall4="PNG" fileiconsmall5="JPEG" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName=".NET용" >}}

@@ -4,7 +4,7 @@ description: Primjer Java koda za pretvorbu za AI format u PSD datoteku. Upotrij
 url: ai-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Pretvorite AI u PSD putem Jave" h2="Native Java knjižnica za čitanje, pisanje i izvoz AI u PSD bez potrebe za Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="za Javu" downloadUrl="" fileiconsmall1="PSD" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="za Javu" >}}

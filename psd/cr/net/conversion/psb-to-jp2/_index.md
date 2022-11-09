@@ -11,7 +11,7 @@ url: psb-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Pretvorite PSB u JP2 putem C#" h2=".NET Photoshop API za PSD i PSB Pretvorba u rasterske slike uključujući JP2">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Pretvorite PSB u JP2 putem C#" h2=".NET Photoshop API za PSD i PSB Pretvorba u rasterske slike uključujući JP2" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

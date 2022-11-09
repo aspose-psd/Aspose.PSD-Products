@@ -5,7 +5,7 @@ description: Kode sumber C# untuk menambah atau menghapus tanda air ke file PSD 
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Tambahkan Tanda Air Teks ke PSD melalui C#" h2="Buat aplikasi .NET Anda sendiri untuk memberi tanda air pada file PSD menggunakan API sisi server." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="untuk .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="untuk .NET" >}}

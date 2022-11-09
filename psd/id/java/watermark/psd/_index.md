@@ -5,7 +5,7 @@ description: Kode sampel Java untuk menambah atau menghapus tanda air ke file PS
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Tambahkan Tanda Air Teks ke PSD melalui Java" h2="Buat aplikasi Java Anda sendiri untuk memberi tanda air pada file PSD menggunakan API sisi server." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="untuk Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="untuk Java" >}}

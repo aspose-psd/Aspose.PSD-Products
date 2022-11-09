@@ -4,7 +4,7 @@ description: एआई प्रारूप के लिए जीआईएफ
 url: ai-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से एआई को जीआईएफ में बदलें" h2=" Adobe की आवश्यकता के बिना GIF को पढ़ने, लिखने और AI को निर्यात करने के लिए मूल जावा लाइब्रेरी।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="GIF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

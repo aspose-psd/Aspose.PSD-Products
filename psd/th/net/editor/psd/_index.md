@@ -4,7 +4,7 @@ description: C# ซอร์สโค้ดเพื่อแก้ไขไฟ�
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="แก้ไขเอกสาร PSD ผ่าน C#" h2="สร้างแอป .NET ของคุณเองเพื่อแก้ไขไฟล์ PSD โดยใช้ API ฝั่งเซิร์ฟเวอร์" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="อัสสัมชัญPSD" subTitlepfName="สำหรับ .NET" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="GIF" fileiconsmall3="PDF" fileiconsmall4="PNG" fileiconsmall5="JPEG" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="สำหรับ .NET" >}}

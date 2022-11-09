@@ -4,7 +4,7 @@ description: Esempio di codice di conversione Java per il formato PSB in file JP
 url: psb-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Converti PSB in JPEG2000 tramite Java" h2="Libreria Java nativa per leggere, scrivere ed esportare PSB in JPEG2000 senza bisogno di Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName="per Java" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="per Java" >}}

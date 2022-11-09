@@ -4,7 +4,7 @@ description: .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 플�
 url: ai/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=".NET용 AI 파일 뷰어" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="아포즈.PSD" subTitlepfName=".NET용" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName=".NET용" >}}

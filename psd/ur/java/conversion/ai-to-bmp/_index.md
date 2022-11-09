@@ -4,7 +4,7 @@ description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ 
 url: ai-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="جاوا کے ذریعے AI کو BMP میں تبدیل کریں۔" h2=" Adobe کی ضرورت کے بغیر AI کو BMP میں پڑھنے، لکھنے اور ایکسپورٹ کرنے کے لیے مقامی Java لائبریری۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" downloadUrl="" fileiconsmall1="BMP" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" >}}
@@ -90,7 +90,7 @@ aspose-psd API کا</artifactId>
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="AI سے BMP کنورژن لائیو ڈیمو"
-sectionDescription="[AI کو BMP میں تبدیل کریں](https://products.aspose.app/psd/conversion/ai-to-bmp) ابھی ہماری لائیو ڈیمو ویب سائٹ پر جا کر۔ لائیو ڈیمو کے درج ذیل فوائد ہیں۔Aspose API ڈاؤن لوڈ کرنے کی ضرورت نہیں ہے۔" >}}
+sectionDescription >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" کوئی کوڈ لکھنے کی ضرورت نہیں۔" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" بس اپنی AI فائل اپ لوڈ کریں، یہ فوری طور پر BMP میں تبدیل ہو جائے گی۔" >}}

@@ -14,8 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Free Online App to Convert PSD" >}}
 <h3 class="headingpdleft">Multiformat PSD, PSB and AI Converter</h3>
 <p>Ability to convert psd to different formats is a widely requested feature. Aspose.PSD is pixel-perfect accurate on it. You can convert PSD to any formats, this built-in convert app provides "psd save to png", "psd convert to jpg", "psd to pdf conversion"</p>
-{{< psd/conversion 
-`https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
@@ -24,8 +23,7 @@ url: convert/
     }`
 ""
 "Code samples for conversion PSD to other formats in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Free web application to convert your PSD, PSB and AI Images to Png, Pdf, Jpg, Tif, Pdf, Gif and other formats" "https://products.aspose.app/psd/conversion"
->}}
+"Free web application to convert your PSD, PSB and AI Images to Png, Pdf, Jpg, Tif, Pdf, Gif and other formats" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD conversion feature are cloud-ready and can be used on Windows, Linux and Mac Servers. PSD Convert on-premise solution is available for Java and the latest version of .Net as well as .Net Framework 2.0 +</p>
 

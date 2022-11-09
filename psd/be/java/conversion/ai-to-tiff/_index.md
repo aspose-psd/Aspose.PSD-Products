@@ -4,7 +4,7 @@ description: Прыклад кода пераўтварэння Java для фа
 url: ai-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Канвертаваць AI ў TIFF праз Java" h2="Уласная бібліятэка Java для чытання, запісу і экспарту AI ў TIFF без неабходнасці Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="для Java" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="для Java" >}}

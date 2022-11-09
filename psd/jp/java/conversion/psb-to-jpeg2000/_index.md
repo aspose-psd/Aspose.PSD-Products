@@ -4,7 +4,7 @@ description: PSB形式からJPEG2000ファイルへのサンプルJava変換コ�
 url: psb-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Java経由でPSBをJPEG2000に変換する" h2="アドビを必要とせずにPSBを読み取り、書き込み、およびJPEG2000にエクスポートするためのネイティブJavaライブラリ。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName=" Aspose.PSD" subTitlepfName="Javaの場合" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName="Javaの場合" >}}
@@ -105,7 +105,7 @@ Adobe Photoshopは、ファイルを2つの形式で保存します。サイズ�
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="/{{jpeg2000_url}} ">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="/{{jpeg2000_url}} " >}}
 {{jpeg2000}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}

@@ -4,7 +4,7 @@ description: C#-källkod för att redigera PSD-filen på .NET Framework, .NET Co
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Redigera PSD-dokumentet via C#" h2="Skapa dina egna .NET-appar för att redigera PSD-filer med API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="för .NET" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="GIF" fileiconsmall3="PDF" fileiconsmall4="PNG" fileiconsmall5="JPEG" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="för .NET" >}}

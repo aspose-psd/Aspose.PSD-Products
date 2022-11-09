@@ -4,7 +4,7 @@ description: Ekzempla Ĝava konverta kodo por AI-formato al PNG-dosiero. Uzu ĉi
 url: ai-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu AI al PNG per Java" h2="Denaska Java Biblioteko por Legi, Skribi kaj Eksporti AI al PNG sen bezoni Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por Java" >}}

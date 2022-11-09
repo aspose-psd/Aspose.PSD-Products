@@ -11,7 +11,7 @@ url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Pretvorite PSD u JPEG putem C#" h2=".NET Photoshop API za PSD i PSB Pretvorba u rasterske slike uključujući JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Pretvorite PSD u JPEG putem C#" h2=".NET Photoshop API za PSD i PSB Pretvorba u rasterske slike uključujući JPEG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

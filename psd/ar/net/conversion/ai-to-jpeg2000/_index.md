@@ -4,7 +4,7 @@ description: نموذج رمز للتحويل من AI إلى JPEG2000 C #. اس�
 url: ai-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" تحويل AI إلى JPEG2000 عبر C #" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName=" Aspose.PSD" subTitlepfName=" ل .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" ل .NET" >}}
@@ -91,7 +91,7 @@ PM> تثبيت الحزمة Aspose.PSD
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="/{{jpeg2000_url}} ">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="/{{jpeg2000_url}} " >}}
 {{jpeg2000}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}

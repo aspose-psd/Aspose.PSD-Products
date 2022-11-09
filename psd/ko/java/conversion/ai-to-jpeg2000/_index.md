@@ -4,7 +4,7 @@ description: AI 형식을 JPEG2000 파일로 변환하는 샘플 Java 변환 코
 url: ai-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Java를 통해 AI를 JPEG2000으로 변환" h2="Adobe 없이도 AI를 JPEG2000으로 읽고, 쓰고, 내보낼 수 있는 기본 Java 라이브러리." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="아포즈.PSD" subTitlepfName="자바용" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName="자바용" >}}

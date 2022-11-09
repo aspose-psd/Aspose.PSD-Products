@@ -5,7 +5,7 @@ description: Esimerkki Java-muunnoskoodista PSB-muodolle TIFF-tiedostoksi. Käyt
 url: psb-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna PSB TIFF:ksi Javan avulla" h2="Java Photoshop API PSB:n muuntamiseen rasterikuviksi, mukaan lukien TIFF" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalla" >}}

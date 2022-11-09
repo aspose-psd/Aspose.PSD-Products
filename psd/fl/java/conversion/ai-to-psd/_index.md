@@ -4,7 +4,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodosta PSD-tiedostoon. Käytä 
 url: ai-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna tekoäly PSD:ksi Javalla" h2="Alkuperäinen Java-kirjasto, jolla voit lukea, kirjoittaa ja viedä tekoälyä PSD:hen ilman Adoben tarvetta." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="PSD" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalle" >}}

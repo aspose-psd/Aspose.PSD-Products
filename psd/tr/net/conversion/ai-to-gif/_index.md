@@ -4,7 +4,7 @@ description: AI'dan GIF'e C# dönüşümü için örnek kod. VB.NET, Asp.NET vey
 url: ai-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="AI'yi C# ile GIF'e dönüştürün" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="Aspose.PSD" subTitlepfName=".NET için" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=".NET için" >}}

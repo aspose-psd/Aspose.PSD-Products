@@ -11,7 +11,7 @@ url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή PSD σε JPEG μέσω C#" h2=".NET Photoshop API για PSD & PSB Μετατροπή σε εικόνες ράστερ συμπεριλαμβανομένου JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή PSD σε JPEG μέσω C#" h2=".NET Photoshop API για PSD & PSB Μετατροπή σε εικόνες ράστερ συμπεριλαμβανομένου JPEG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

@@ -4,7 +4,7 @@ description: نمونہ جاوا کنورژن کوڈ برائے AI فارمیٹ 
 url: ai-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="جاوا کے ذریعے AI کو PSB میں تبدیل کریں۔" h2=" Adobe کی ضرورت کے بغیر AI کو PSB میں پڑھنے، لکھنے اور ایکسپورٹ کرنے کے لیے مقامی جاوا لائبریری۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" downloadUrl="" fileiconsmall1="PSB" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" >}}

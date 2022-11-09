@@ -5,7 +5,7 @@ description: Ukázkový konverzní kód Java pro formát PSD do souboru PDF. Ten
 url: psd-to-pdf/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Převést PSD do PDF přes Java" h2="Java Photoshop API pro převod PSD do PDF" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="Aspose.PSD" subTitlepfName="pro Javu" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="pro Javu" >}}

@@ -5,7 +5,7 @@ description: Esimerkki Java-muunnoskoodista PSD-muodosta PSB-tiedostoon. Käytä
 url: psd-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna PSD PSB:ksi Javan kautta" h2="Lue ja muunna PSD PSB:ksi mistä tahansa Java-sovelluksesta ilman Adobe Photoshopia." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalla" >}}

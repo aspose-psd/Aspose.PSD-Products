@@ -5,7 +5,7 @@ description: TIFF फ़ाइल में PSD प्रारूप के ल
 url: psd-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से PSD को TIFF में बदलें" h2=" PSD के लिए जावा फोटोशॉप एपीआई टीआईएफएफ सहित रेखापुंज छवियों में रूपांतरण" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="असोस करें।PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

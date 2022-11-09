@@ -4,7 +4,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 url: psb-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Μετατροπή PSB σε JPEG2000 μέσω Java" h2="Εγγενής βιβλιοθήκη Java για ανάγνωση, εγγραφή και εξαγωγή PSB σε JPEG2000 χωρίς να χρειάζεστε το Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName="για Java" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="για Java" >}}

@@ -4,7 +4,7 @@ description: एआई प्रारूप के लिए PSD फ़ाइ�
 url: ai-to-psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से AI को PSD में बदलें" h2=" मूल जावा लाइब्रेरी एडोब की आवश्यकता के बिना एआई को PSD में पढ़ने, लिखने और निर्यात करने के लिए।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="PSD" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

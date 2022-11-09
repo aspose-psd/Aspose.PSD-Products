@@ -14,8 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Free Online App to View PSD, PSB or AI format online" >}}
 <p>Ability to view psd online is popular service, that can help you to save time and money. You don't need Adobe Photoshop to open the PSD files. Built-in app provides pixel-perfect psd view</p>
-{{< psd/view 
-`https://psd-api-core-rl2ajsbv.k8s.dynabic.com/`
+{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/`
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         // To get the pixel-perfect PSD File Image just use this code
@@ -23,8 +22,7 @@ url: view/
     }`
 "Tutorial how to open PSD files without Photoshop" "https://products.aspose.com/psd/net/viewer/"
 "Code samples for viewing PSD as PNG"  "https://docs.aspose.com/psd/net/psd-to-png/"
-"Low-code app to open PSD, PSB and AI Images" "https://products.aspose.app/psd/viewer"
->}}
+"Low-code app to open PSD, PSB and AI Images" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD viewer features are cloud-ready and can be used on Windows, Linux and Mac Servers. On-premise solution is available for <a href="https://products.aspose.com/psd/java/">Java</a> and the latest version of <a href="https://products.aspose.com/psd/net/">.Net</a> as well as .Net Framework 2.0 +</p>
 
 <h3 class="headingpdleft">PSD Viewers for different formats</h3>

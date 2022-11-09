@@ -4,7 +4,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodosta PNG-tiedostoon. Käytä 
 url: ai-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna tekoäly PNG:ksi Javan avulla" h2="Alkuperäinen Java-kirjasto, jolla voit lukea, kirjoittaa ja viedä tekoälyä PNG-muotoon ilman Adoben tarvetta." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalle" >}}

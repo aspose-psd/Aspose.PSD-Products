@@ -5,7 +5,7 @@ description: PSB 형식을 PNG 파일로 변환하는 샘플 Java 변환 코드.
 url: psb-to-png/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Java를 통해 PSB를 PNG로 변환" h2="PSB를 위한 Java Photoshop API PNG를 포함한 래스터 이미지로 변환" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="아포즈.PSD" subTitlepfName="자바용" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName="자바용" >}}

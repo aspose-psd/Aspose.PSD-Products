@@ -11,7 +11,7 @@ url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="PSB über C# in TIFF konvertieren" h2=".NET Photoshop API für PSD- und PSB-Konvertierung in Rasterbilder einschließlich TIFF">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="PSB über C# in TIFF konvertieren" h2=".NET Photoshop API für PSD- und PSB-Konvertierung in Rasterbilder einschließlich TIFF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

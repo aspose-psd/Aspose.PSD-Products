@@ -4,7 +4,7 @@ description: AIからJPEG2000C＃変換のサンプルコード。VB.NET、Asp.N
 url: ai-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" C＃経由でAIをJPEG2000に変換" h2="" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName=" Aspose.PSD" subTitlepfName=" for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PSD" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" for .NET" >}}
@@ -91,7 +91,7 @@ PhotoshopおよびIllustratorのファイル操作ライブラリ。レイヤー
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="/{{jpeg2000_url}} ">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="/{{jpeg2000_url}} " >}}
 {{jpeg2000}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}

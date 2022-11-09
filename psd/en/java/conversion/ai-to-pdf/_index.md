@@ -4,7 +4,7 @@ description: Sample Java conversion code for AI format to PDF file. Use this exa
 url: ai-to-pdf/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convert AI to PDF via Java" h2="Native Java Library to Read, Write & Export AI to PDF without needing Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="Aspose.PSD" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PDF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}

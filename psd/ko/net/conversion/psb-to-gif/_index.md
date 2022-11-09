@@ -11,7 +11,7 @@ url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 PSB를 GIF로 변환" h2=".NET Photoshop API GIF를 포함한 래스터 이미지로 PSD 및 PSB 변환">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 PSB를 GIF로 변환" h2=".NET Photoshop API GIF를 포함한 래스터 이미지로 PSD 및 PSB 변환" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

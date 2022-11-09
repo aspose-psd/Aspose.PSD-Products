@@ -4,7 +4,7 @@ description: AI 格式到 BMP 文件的示例 Java 轉換代碼。使用此示�
 url: ai-to-bmp/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="通過Java將AI轉BMP" h2="無需 Adob​​e 即可讀取、寫入和導出 AI 到 BMP 的原生 Java 庫。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="Aspose.PSD" subTitlepfName="Java" downloadUrl="" fileiconsmall1="BMP" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Java" >}}

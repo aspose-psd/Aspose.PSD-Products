@@ -4,7 +4,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodosta GIF-tiedostoksi. Käytä
 url: ai-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna tekoäly GIF-muotoon Javan kautta" h2="Alkuperäinen Java-kirjasto, jolla voit lukea, kirjoittaa ja viedä tekoälyä GIF-muotoon ilman Adoben tarvetta." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="GIF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalle" >}}

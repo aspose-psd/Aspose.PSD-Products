@@ -5,7 +5,7 @@ description: PSB形式からGIFファイルへのサンプルJava変換コード
 url: psb-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Javaを介してPSBをGIFに変換する" h2="GIFを含むラスター画像へのPSB変換用のJavaPhotoshopAPI" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName=" Aspose.PSD" subTitlepfName="Javaの場合" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName="Javaの場合" >}}

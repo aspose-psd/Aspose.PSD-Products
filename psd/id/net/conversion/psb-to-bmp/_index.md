@@ -11,7 +11,7 @@ url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi PSB ke BMP melalui C#" h2=".NET Photoshop API untuk PSD & PSB Konversi ke gambar raster termasuk BMP">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi PSB ke BMP melalui C#" h2=".NET Photoshop API untuk PSD & PSB Konversi ke gambar raster termasuk BMP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

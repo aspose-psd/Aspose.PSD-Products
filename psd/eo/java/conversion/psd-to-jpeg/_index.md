@@ -5,7 +5,7 @@ description: Ekzempla Ĝava konverta kodo por PSD-formato al JPEG-dosiero. Uzu �
 url: psd-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu PSD al JPEG per Java" h2="Java Photoshop API por PSD Konvertiĝo al rastrumaj bildoj inkluzive de JPEG" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="Aspose.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="por Java" >}}

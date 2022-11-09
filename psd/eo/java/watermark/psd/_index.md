@@ -5,7 +5,7 @@ description: Java ekzempla kodo por aldoni aŭ forigi akvomarkon al PSD-dosiero 
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Aldonu Tekstan Akvomarkon al PSD per Java" h2="Konstruu viajn proprajn Java-aplikaĵojn por akvomarki PSD-dosierojn per servilflankaj API-oj." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por Java" >}}

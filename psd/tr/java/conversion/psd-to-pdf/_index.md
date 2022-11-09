@@ -5,7 +5,7 @@ description: PSD formatı için PDF dosyasına örnek Java dönüştürme kodu. 
 url: psd-to-pdf/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="PSD'yi Java ile PDF'ye dönüştürün" h2="PSD'den PDF'ye Dönüştürme için Java Photoshop API" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="Aspose.PSD" subTitlepfName="Java için" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Java için" >}}

@@ -4,7 +4,7 @@ description: Exemple de code de conversion Java pour le format PSD en fichier JP
 url: psd-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir PSD en JPEG2000 via Java" h2="Bibliothèque Java native pour lire, écrire et exporter des PSD vers JPEG2000 sans avoir besoin d'Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Asposer.PSD" subTitlepfName="pour Java" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Asposer.PSD" subTitlepfName="pour Java" >}}

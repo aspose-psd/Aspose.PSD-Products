@@ -11,7 +11,7 @@ url: psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti PSB in PNG tramite C#" h2=".NET Photoshop API per PSD e PSB Conversione in immagini raster inclusi PNG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti PSB in PNG tramite C#" h2=".NET Photoshop API per PSD e PSB Conversione in immagini raster inclusi PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

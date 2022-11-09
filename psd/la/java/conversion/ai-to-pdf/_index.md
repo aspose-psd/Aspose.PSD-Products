@@ -4,7 +4,7 @@ description: Sample Java conversionem pro AI format ad documentum fasciculi PDF.
 url: ai-to-pdf/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Converte AI ad PDF per Java" h2=" Bibliothecam indigenam Javam legere, Scribere & Export AI ad PDF non egens Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="Aspose.PSD" subTitlepfName=" Java" downloadUrl="" fileiconsmall1="PDF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=" Java" >}}
