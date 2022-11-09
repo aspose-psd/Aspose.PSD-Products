@@ -14,8 +14,7 @@ url: psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Free Online App to Compress PSD and reduce its size</h3>
 <p>Compress large PSD and PSB files using lossy and lossless methods. Discover hidden potential of Aspose.PSD. It's not always safe for  Data in PSD File, so if you use it often you should test the PSD Files after the compression. Please note, that some compress features are Lossy, so after these types of compression you will not be able to restore initial PSD Files. This feature is provided "as is". You can compress PSD or reduce size of PSB files.</p>
-{{< psd/compress 
-`https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
 `      // Lossless compression
         // Remove Cache Data			
@@ -138,8 +137,7 @@ url: psb/
             return stream;
         }`
 "Code samples for compression of PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
-"Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress"
->}}
+"Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Aspose.PSD compress features use the high-code API. The Compress PSD Solution is available in Java and .Net. You can use Aspose.PSD for compression or other tasks on the Back-end of your web-service.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
