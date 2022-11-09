@@ -23,7 +23,7 @@ url: psd-to-jpeg/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Ξεκινήστε με το .NET Photoshop API" %}}
-Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PSD``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PSD``.
+Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PSD``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PSD```.
 
 Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
