@@ -23,7 +23,7 @@ url: psb-to-pdf/
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
-``cs
+```cs
 
 PM> Install-Package Aspose.PSD
 

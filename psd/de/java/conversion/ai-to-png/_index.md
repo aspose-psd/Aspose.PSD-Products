@@ -16,7 +16,7 @@ Um AI in PNG zu rendern, verwenden wir<a href="/psd/{{< lang-code >}}java">Aspos
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-„cs
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -30,7 +30,7 @@ Um AI in PNG zu rendern, verwenden wir<a href="/psd/{{< lang-code >}}java">Aspos
 
 {{% blocks/products/pf/agp/code-block title="Abhängigkeit" offSpacer="true" %}}
 
-„cs
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-psd</artifactId>

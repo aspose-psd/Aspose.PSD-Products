@@ -21,7 +21,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/code-block title="Αποθετήριο" offSpacer="true" %}}
 
-``cs
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,7 +35,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/code-block title="Εξάρτηση" offSpacer="true" %}}
 
-``cs
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-psd</artifactId>

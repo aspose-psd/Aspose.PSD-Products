@@ -16,7 +16,7 @@ url: psb-to-jpeg2000/
 
 {{% blocks/products/pf/agp/code-block title="Αποθετήριο" offSpacer="true" %}}
 
-``cs
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -30,7 +30,7 @@ url: psb-to-jpeg2000/
 
 {{% blocks/products/pf/agp/code-block title="Εξάρτηση" offSpacer="true" %}}
 
-``cs
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-psd</artifactId>

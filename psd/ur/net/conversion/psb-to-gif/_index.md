@@ -23,7 +23,7 @@ url: psb-to-gif/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API کے ساتھ شروع کریں۔" %}}
-کمانڈ لائن سے بطور ``nuget install Aspose.PSD``` یا ```Install-Package Aspose.PSD``` کے ساتھ Visual Studio کے پیکیج مینیجر کنسول کے ذریعے انسٹال کریں۔
+کمانڈ لائن سے بطور ```nuget install Aspose.PSD``` یا ```Install-Package Aspose.PSD``` کے ساتھ Visual Studio کے پیکیج مینیجر کنسول کے ذریعے انسٹال کریں۔
 
 متبادل طور پر، [ڈاؤن لوڈز](https://releases.aspose.com/psd/net) سے زپ فائل میں آف لائن MSI انسٹالر یا DLLs حاصل کریں۔
 

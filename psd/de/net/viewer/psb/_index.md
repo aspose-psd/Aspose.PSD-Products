@@ -23,7 +23,7 @@ url: psb/
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 
@@ -61,7 +61,7 @@ PM> Installationspaket Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="C#-Code zum Anzeigen von PSB" offSpacer="" %}}
 
-„cs
+```cs
 
 ```
 

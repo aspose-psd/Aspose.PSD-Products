@@ -16,7 +16,7 @@ Um die AI-Datei anzuzeigen, verwenden wir<a href="/psd/{{< lang-code >}}net">Asp
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
-„cs
+```cs
 
 PM> Installationspaket Aspose.PSD
 
@@ -56,7 +56,7 @@ PM> Installationspaket Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="C#-Code zum Anzeigen von KI" offSpacer="" %}}
 
-„cs
+```cs
 
 
 

@@ -32,7 +32,7 @@ Untuk merender AI ke PDF, kami akan menggunakan<a href="/psd/{{< lang-code >}}ja
 
 ```cs
 <dependency>
-<groupId>com.asposeaspose-psd
+<groupId>com.asposeaspose-psd</groupId>
 <artifactId>aspose-psd</artifactId>
 <version>versi aspose-psd API</version>
 <classifier>jdk17</classifier>
