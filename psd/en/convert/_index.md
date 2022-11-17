@@ -20,8 +20,8 @@ url: convert/
         image.Save(sourceFileName + ".pdf", new PdfOptions());
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }`
-""
+    }` 
+"" 
 "Code samples for conversion PSD to other formats in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Free web application to convert your PSD, PSB and AI Images to Png, Pdf, Jpg, Tif, Pdf, Gif and other formats" "https://products.aspose.app/psd/conversion" >}}
 <br />

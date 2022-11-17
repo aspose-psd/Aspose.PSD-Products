@@ -17,10 +17,10 @@ url: to-png/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }`
-	"png"
+    }` 
+	"png" 
 "Convert example from PSD to PNG can using Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Free web application to convert your PSD files to PNG and many other formats" "https://products.aspose.app/psd/conversion"
+"Free web application to convert your PSD files to PNG and many other formats" "https://products.aspose.app/psd/conversion" 
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Conversion of PSD to PNG by Aspose.PSD is pixel-perfect. But can have some conversion differences when converting 16 bit and 32 bit images. The main reasons are different. When you converting to PNG that supports only 8 bit per channel colors you lose the additional information. Also, for 8 bit converion of PSD to PNG are used preview, in some cases original file has not preview becasue it was removed for the <a href="/psd/reduce-size">reducing PSD file size.</a>. In this case is better to use <a href="/psd">Aspose.PSD High-Code API</a></p>
 {{< /blocks/products/pf/feature-page-section >}}

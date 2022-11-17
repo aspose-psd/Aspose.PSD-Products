@@ -17,10 +17,10 @@ url: to-gif/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
-    }`
-"gif"
+    }` 
+"gif" 
 "Convert example from PSD to GIF can using Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Convert your PSD file to GIF online" "https://products.aspose.app/psd/conversion/psd-to-gif"
+"Convert your PSD file to GIF online" "https://products.aspose.app/psd/conversion/psd-to-gif" 
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
 <p>Convert PSD to GIF using power of Aspose.PSD. Built-in PSD to GIF conversion is a simple widget for your solution. After the uploading of PSD document just press "convert to GIF" and wait for the result. Result of the converting from PSD into GIF will be exported without layers. The final size in most cases will be smaller. But the quality can be missed also. Because of the maximum size of GIF Image Palette. PSD file supports "True Colors" but the GIF supports only 256 colors. </p>
 {{< /blocks/products/pf/feature-page-section >}}

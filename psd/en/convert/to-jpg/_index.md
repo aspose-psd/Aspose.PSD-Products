@@ -17,10 +17,10 @@ url: to-jpg/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
-    }`
-		"jpg"
+    }` 
+		"jpg" 
 "Convert example from PSD to JPG using Aspose.PSD high-code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Application to convert PSD files to JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg"
+"Application to convert PSD files to JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>The main parameter for conversion of PSD to Jpeg is a Quality. You can set quality from 0 to 100 using Aspose.PSD High-Code API. Conversion quality 100 is a maximum, in this case converted to Jpeg PSD file will have minimal amount of artefacts and quality loses. 0 is minimal quality of JPG Image after conversion. Converted file will be tiny, but the image can be terrible. Please choose this options if you absolutely know for what purposes the conversion result will be used. If you don't want to lose quality of image and the additional information, you'd better to use specialized <a href="/psd/reduce-size">PSD Compress</a></p>
 {{< /blocks/products/pf/feature-page-section >}}

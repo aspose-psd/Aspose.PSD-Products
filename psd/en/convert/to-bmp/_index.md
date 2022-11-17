@@ -17,10 +17,10 @@ url: to-bmp/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
-    }`
-	"bmp"
+    }` 
+	"bmp" 
 "Convert example from PSD to BMP can using Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Convert your PSD file to BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp"
+"Convert your PSD file to BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>Conversion of PSD to BMP can be quickly made by Aspose.PSD. If you want to use other modern output format please check the <a href="/psd/convert">Convert PSD to raster</a> app. This no-code App <a href="/psd/convert/to-bmp">converts PSD to BMP</a>. Bmp format can be open with the any software you have on the PC or Mac. If you want to use compressed BMP format after the conversion from PSB, you better to use <a href="/psd">High-code Conversion tools from Aspose.PSD</a>. If if just need to compress the PSD file, than converting into the BMP is not the best choise because BMP is large format in common</p>
 {{< /blocks/products/pf/feature-page-section >}}

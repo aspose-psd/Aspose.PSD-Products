@@ -17,10 +17,10 @@ url: to-pdf/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
-    }`
-	"pdf"
+    }` 
+	"pdf" 
 "Code samples of conversion PSD to PDF in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Free web application to convert your PSD files to Pdf and many other formats" "https://products.aspose.app/psd/conversion"
+"Free web application to convert your PSD files to Pdf and many other formats" "https://products.aspose.app/psd/conversion" 
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Conversion of PSD to PDF by Aspose.PSD has two types - pixel-perfect conversion and conversion with ability to select text. For the pixel-perfect conversion you need to use <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">ReadOnlyMode property</a>, please check the API reference if the Aspose.PSD will be used as high-code app. If you need the ability to select text, please use the code above.</p>
 {{< /blocks/products/pf/feature-page-section >}}

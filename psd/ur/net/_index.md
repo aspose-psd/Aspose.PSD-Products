@@ -6,8 +6,7 @@ url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" فوٹوشاپ فائلوں میں ہیرا پھیری کے لیے NET APIs" h2=" بغیر کسی ایڈوب فوٹوشاپ کے انحصار کے PSD اور PSB فائلیں بنائیں، پڑھیں، ترمیم کریں اور تبدیل کریں۔"
-logoImageSrc pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=" فوٹوشاپ فائلوں میں ہیرا پھیری کے لیے NET APIs" h2=" بغیر کسی ایڈوب فوٹوشاپ کے انحصار کے PSD اور PSB فائلیں بنائیں، پڑھیں، ترمیم کریں اور تبدیل کریں۔" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" >}}
 

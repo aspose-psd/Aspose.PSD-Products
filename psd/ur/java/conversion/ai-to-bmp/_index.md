@@ -89,8 +89,7 @@ aspose-psd API کا</artifactId>
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="AI سے BMP کنورژن لائیو ڈیمو"
-sectionDescription >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="AI سے BMP کنورژن لائیو ڈیمو" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" کوئی کوڈ لکھنے کی ضرورت نہیں۔" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" بس اپنی AI فائل اپ لوڈ کریں، یہ فوری طور پر BMP میں تبدیل ہو جائے گی۔" >}}

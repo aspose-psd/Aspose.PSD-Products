@@ -43,9 +43,9 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}`
-"View AI files without Illustrator" "https://products.aspose.com/psd/view/"
-"GIST Examples of viewing AI files using high-code API" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs"
+	}` 
+"View AI files without Illustrator" "https://products.aspose.com/psd/view/" 
+"GIST Examples of viewing AI files using high-code API" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
 "Aspose Low-code app to view AI online" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>View AI file with Aspose.PSD. Easy and fast AI Viewer.</p>
 {{< /blocks/products/pf/feature-page-section >}}

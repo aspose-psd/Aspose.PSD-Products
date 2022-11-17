@@ -133,7 +133,7 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }`
+        }` 
 "Code samples for compression of PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB files can be up to 2gb, so you can get the case when this app is can not upload PSB file to reduce its size. In this cases it's better to use <a href="/psd">on-premise psd format solution as Aspose.PSD</a> and write compress code by yourself. The code examples hot to compress PSB format can be found in this article, just switch the tabs in built-in PSB File Reduce App</p>

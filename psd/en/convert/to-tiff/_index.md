@@ -17,10 +17,10 @@ url: to-tiff/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
-    }`
-	"tiff"
+    }` 
+	"tiff" 
 "Convert example from PSD to Tiff with High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
-"Web application to convert your PSD files to Tiff" "https://products.aspose.app/psd/conversion"
+"Web application to convert your PSD files to Tiff" "https://products.aspose.app/psd/conversion" 
 "Examples on Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>Result of converting PSD to Tiff can be large in respect of hard disk space. But you get the lossless compressed file with the additional metadata. Not all metadata is properly converted from PSD to Tiff, if you need to extract metadata of PSD Layers, please try <a href="https://products.aspose.app/psd/metadata">PSD Metadata Extractor</a>. If you want to use all power of PSD high-code API please try <a href="/psd">Aspose.PSD</a> for .Net or Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
