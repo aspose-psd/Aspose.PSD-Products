@@ -5,7 +5,7 @@ description: Exemple de code de conversion Java pour le format PSD en fichier PS
 url: psd-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir PSD en PSB via Java" h2="Lisez et convertissez PSD en PSB depuis n'importe quelle application Java sans avoir besoin d'Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Asposer.PSD" subTitlepfName="pour Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Asposer.PSD" subTitlepfName="pour Java" >}}

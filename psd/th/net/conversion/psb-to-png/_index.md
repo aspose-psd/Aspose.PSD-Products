@@ -11,7 +11,7 @@ url: psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง PSB เป็น PNG ผ่าน C #" h2=" .NET Photoshop API สำหรับ PSD & PSB การแปลงเป็นภาพแรสเตอร์รวมถึง PNG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง PSB เป็น PNG ผ่าน C #" h2=" .NET Photoshop API สำหรับ PSD & PSB การแปลงเป็นภาพแรสเตอร์รวมถึง PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

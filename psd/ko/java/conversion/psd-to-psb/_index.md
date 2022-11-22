@@ -5,7 +5,7 @@ description: PSD 형식을 PSB 파일로 변환하는 샘플 Java 변환 코드.
 url: psd-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Java를 통해 PSD를 PSB로 변환" h2="Adobe Photoshop 없이도 모든 Java 응용 프로그램 내에서 PSD를 읽고 PSB로 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="아포즈.PSD" subTitlepfName="자바용" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName="자바용" >}}

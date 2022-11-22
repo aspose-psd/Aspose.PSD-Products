@@ -11,7 +11,7 @@ url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Перетворити PSB на BMP за допомогою C#" h2=".NET Photoshop API для PSD і PSB Перетворення в растрові зображення, включаючи BMP">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Перетворити PSB на BMP за допомогою C#" h2=".NET Photoshop API для PSD і PSB Перетворення в растрові зображення, включаючи BMP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

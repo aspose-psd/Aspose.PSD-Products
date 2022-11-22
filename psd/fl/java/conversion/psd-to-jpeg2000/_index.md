@@ -4,7 +4,7 @@ description: Esimerkki Java-muunnoskoodista PSD-muodosta JPEG2000-tiedostoon. K�
 url: psd-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna PSD JPEG2000:ksi Javalla" h2="Alkuperäinen Java-kirjasto, jolla voit lukea, kirjoittaa ja viedä PSD:n JPEG2000-muotoon ilman Adoben tarvetta." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalle" >}}

@@ -5,7 +5,7 @@ description: Ejemplo de código de conversión de Java para formato PSB a archiv
 url: psb-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir PSB a GIF a través de Java" h2="API de Java Photoshop para conversión de PSB a imágenes rasterizadas, incluido GIF" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="Aspose.PSD" subTitlepfName="para Java" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="para Java" >}}

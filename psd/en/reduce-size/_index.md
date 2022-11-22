@@ -11,11 +11,10 @@ url: reduce-size/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Reduce size of PSD Files">}}
+{{< blocks/products/pf/feature-page-section h2="Reduce size of PSD Files" >}}
 
 <p>Reduce size of large PSD is a simple operation if you use Aspose.PSD. Reducing of the size can be archieved by removing cache data from PSD Files, Merging Layers, Converting to PSD Format with the less bit per color amount. Also, you can change color mode of PSD File, for example change from CMYK color to RGBA Color reduces the PSD file size. This app used not-documented features of PSD format, so the final result can be broken. Please use PSD File Reduce only if you clear know what you want to archive.</p>
-{{< psd/compress 
-`https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			
@@ -136,10 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }`
+        }` 
 "Code samples for compression of PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
-"Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress/psd"
->}}
+"Web application to compress PSD and PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>If you need to reduce size of PSB file instead of PSD, you can use minor modification of this app. Please check the "<a href="/psd/reduce-size/psb">Reduce size of PSB</a>" application.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -4,7 +4,7 @@ description: जेपीईजी फ़ाइल में एआई प्र
 url: ai-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से AI को JPEG में बदलें" h2=" नेटिव जावा लाइब्रेरी एडोब की आवश्यकता के बिना एआई को जेपीईजी में पढ़ने, लिखने और निर्यात करने के लिए।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="Aspose.PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="JPEG" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

@@ -4,7 +4,7 @@ description: Uzorak Java koda za pretvorbu za AI format u TIFF datoteku. Upotrij
 url: ai-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Pretvorite AI u TIFF putem Jave" h2="Native Java knjižnica za čitanje, pisanje i izvoz AI u TIFF bez potrebe za Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="za Javu" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="za Javu" >}}

@@ -4,7 +4,7 @@ description: Exemple de code de conversion Java pour le format AI en fichier GIF
 url: ai-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir l'IA en GIF via Java" h2="Bibliothèque Java native pour lire, écrire et exporter l'IA vers GIF sans avoir besoin d'Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="Asposer.PSD" subTitlepfName="pour Java" downloadUrl="" fileiconsmall1="GIF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Asposer.PSD" subTitlepfName="pour Java" >}}

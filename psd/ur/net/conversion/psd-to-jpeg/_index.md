@@ -11,7 +11,7 @@ url: psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSD کو JPEG میں تبدیل کریں" h2=". NET فوٹوشاپ API برائے PSD اور PSB کو راسٹر امیجز بشمول JPEG میں تبدیل کرنا">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSD کو JPEG میں تبدیل کریں" h2=". NET فوٹوشاپ API برائے PSD اور PSB کو راسٹر امیجز بشمول JPEG میں تبدیل کرنا" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

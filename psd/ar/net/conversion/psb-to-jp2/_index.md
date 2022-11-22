@@ -11,7 +11,7 @@ url: psb-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" تحويل PSB إلى JP2 عبر C #" h2=" .NET Photoshop API لتحويل PSD & PSB إلى صور نقطية بما في ذلك JP2">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" تحويل PSB إلى JP2 عبر C #" h2=" .NET Photoshop API لتحويل PSD & PSB إلى صور نقطية بما في ذلك JP2" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

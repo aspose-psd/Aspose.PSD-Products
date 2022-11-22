@@ -11,7 +11,7 @@ url: psb-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" PSB को C# के माध्यम से JP2 में बदलें" h2=" .पीएसडी और पीएसबी के लिए नेट फोटोशॉप एपीआई JP2 सहित रेखापुंज छवियों में रूपांतरण">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" PSB को C# के माध्यम से JP2 में बदलें" h2=" .पीएसडी और पीएसबी के लिए नेट फोटोशॉप एपीआई JP2 सहित रेखापुंज छवियों में रूपांतरण" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

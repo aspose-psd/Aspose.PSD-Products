@@ -11,7 +11,7 @@ url: psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" C＃を介してPSBをJPEGに変換します" h2=" .NET Photoshop API for PSD＆PSBJPEGを含むラスター画像への変換">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" C＃を介してPSBをJPEGに変換します" h2=" .NET Photoshop API for PSD＆PSBJPEGを含むラスター画像への変換" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

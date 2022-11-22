@@ -11,7 +11,7 @@ url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Канвертаваць PSD у PNG праз C#" h2=".NET Photoshop API для PSD і PSB Пераўтварэнне ў растравыя выявы, уключаючы PNG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Канвертаваць PSD у PNG праз C#" h2=".NET Photoshop API для PSD і PSB Пераўтварэнне ў растравыя выявы, уключаючы PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

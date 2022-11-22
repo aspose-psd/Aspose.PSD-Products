@@ -4,7 +4,7 @@ description: AI formatı için TIFF dosyasına örnek Java dönüştürme kodu. 
 url: ai-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="AI'yi Java aracılığıyla TIFF'ye dönüştürün" h2="Adobe'ye ihtiyaç duymadan AI'yı Okumak, Yazmak ve TIFF'e Dışa Aktarmak için Yerel Java Kitaplığı." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="Java için" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Java için" >}}

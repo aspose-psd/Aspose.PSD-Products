@@ -4,7 +4,7 @@ description: .NET فریم ورک، .NET کور پر PSD فائل میں ترم�
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="C# کے ذریعے PSD دستاویز میں ترمیم کریں" h2="سرور سائیڈ APIs کا استعمال کرتے ہوئے PSD فائلوں میں ترمیم کرنے کے لیے اپنی .NET ایپس بنائیں۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="GIF" fileiconsmall3="PDF" fileiconsmall4="PNG" fileiconsmall5="JPEG" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" >}}

@@ -4,7 +4,7 @@ description: Ukázkový konverzní kód Java pro formát AI na soubor GIF. Pomoc
 url: ai-to-gif/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Převést AI na GIF přes Javu" h2="Nativní knihovna Java pro čtení, zápis a export AI do GIF bez potřeby Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="Aspose.PSD" subTitlepfName="pro Javu" downloadUrl="" fileiconsmall1="GIF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="pro Javu" >}}

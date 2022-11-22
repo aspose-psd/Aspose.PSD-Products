@@ -4,7 +4,7 @@ description: Ekzempla Ĝava konverta kodo por PSD-formato al JPEG2000-dosiero. U
 url: psd-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Konvertu PSD al JPEG2000 per Java" h2="Denaska Java Biblioteko por Legi, Skribi kaj Eksporti PSD al JPEG2000 sen bezonado de Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Supoze.PSD" subTitlepfName="por Java" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="por Java" >}}

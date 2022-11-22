@@ -11,7 +11,7 @@ url: psb-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSB کو JP2 میں تبدیل کریں" h2=" .NET فوٹوشاپ API برائے PSD اور PSB کنورژن کو راسٹر امیجز بشمول JP2">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSB کو JP2 میں تبدیل کریں" h2=" .NET فوٹوشاپ API برائے PSD اور PSB کنورژن کو راسٹر امیجز بشمول JP2" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

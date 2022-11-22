@@ -5,7 +5,7 @@ description: PSB فارمیٹ کے لیے جاوا کو پی ڈی ایف فائ�
 url: psb-to-pdf/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="جاوا کے ذریعے PSB کو PDF میں تبدیل کریں۔" h2="جاوا فوٹوشاپ API PSB سے پی ڈی ایف کنورژن کے لیے" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSB" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" >}}

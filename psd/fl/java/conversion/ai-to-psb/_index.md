@@ -4,7 +4,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodolle PSB-tiedostoksi. Käytä
 url: ai-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna tekoäly PSB:ksi Javan kautta" h2="Alkuperäinen Java-kirjasto, jolla voit lukea, kirjoittaa ja viedä tekoälyä PSB:hen ilman Adoben tarvetta." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName="Javalla" downloadUrl="" fileiconsmall1="PSB" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalle" >}}

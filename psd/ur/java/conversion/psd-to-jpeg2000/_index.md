@@ -4,7 +4,7 @@ description: نمونہ جاوا کنورژن کوڈ PSD فارمیٹ میں JPE
 url: psd-to-jpeg2000/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="جاوا کے ذریعے PSD کو JPEG2000 میں تبدیل کریں۔" h2=" Adobe کی ضرورت کے بغیر PSD کو JPEG2000 میں پڑھنے، لکھنے اور برآمد کرنے کے لیے مقامی جاوا لائبریری۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG2000" pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" downloadUrl="" fileiconsmall1="JPEG2000" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" >}}

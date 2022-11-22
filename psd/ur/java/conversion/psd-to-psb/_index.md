@@ -5,7 +5,7 @@ description: PSD فارمیٹ کے PSB فائل میں جاوا کے تبادل�
 url: psd-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="جاوا کے ذریعے PSD کو PSB میں تبدیل کریں۔" h2=" ایڈوب فوٹوشاپ کی ضرورت کے بغیر کسی بھی جاوا ایپلیکیشن کے اندر سے PSD کو PSB میں پڑھیں اور تبدیل کریں۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" >}}

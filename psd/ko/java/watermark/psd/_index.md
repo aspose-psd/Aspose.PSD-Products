@@ -5,7 +5,7 @@ description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Java를 통해 PSD에 텍스트 워터마크 추가" h2="서버 측 API를 사용하여 PSD 파일에 워터마크를 표시하는 자체 Java 앱을 빌드합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="아포즈.PSD" subTitlepfName="자바용" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="아포즈.PSD" subTitlepfName="자바용" >}}

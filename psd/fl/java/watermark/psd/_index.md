@@ -5,7 +5,7 @@ description: Java-esimerkkikoodi vesileiman lisäämiseen tai poistamiseen PSD-t
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Lisää tekstivesileima PSD:hen Javan kautta" h2="Rakenna omia Java-sovelluksiasi vesileimataksesi PSD-tiedostoja käyttämällä palvelinpuolen sovellusliittymiä." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalla" >}}

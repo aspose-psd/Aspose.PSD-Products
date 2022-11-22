@@ -11,7 +11,7 @@ url: psd-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera PSD till JP2 via C#" h2=".NET Photoshop API för PSD & PSB Konvertering till rasterbilder inklusive JP2">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera PSD till JP2 via C#" h2=".NET Photoshop API för PSD & PSB Konvertering till rasterbilder inklusive JP2" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

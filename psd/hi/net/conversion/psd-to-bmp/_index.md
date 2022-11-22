@@ -11,7 +11,7 @@ url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" PSD को C# के माध्यम से BMP में बदलें" h2=" PSD और पीएसबी के लिए नेट फोटोशॉप एपीआई बीएमपी सहित रेखापुंज छवियों में रूपांतरण">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" PSD को C# के माध्यम से BMP में बदलें" h2=" PSD और पीएसबी के लिए नेट फोटोशॉप एपीआई बीएमपी सहित रेखापुंज छवियों में रूपांतरण" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

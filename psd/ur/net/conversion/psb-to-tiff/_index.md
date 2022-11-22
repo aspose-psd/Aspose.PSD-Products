@@ -11,7 +11,7 @@ url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" PSB کو C# کے ذریعے TIFF میں تبدیل کریں" h2=". NET فوٹوشاپ API برائے PSD اور PSB کنورژن ٹو ​​راسٹر امیجز بشمول TIFF">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" PSB کو C# کے ذریعے TIFF میں تبدیل کریں" h2=". NET فوٹوشاپ API برائے PSD اور PSB کنورژن ٹو ​​راسٹر امیجز بشمول TIFF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

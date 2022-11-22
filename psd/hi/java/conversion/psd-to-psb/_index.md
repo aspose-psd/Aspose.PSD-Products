@@ -5,7 +5,7 @@ description: पीएसबी फ़ाइल में PSD प्रारू
 url: psd-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" जावा के माध्यम से PSD को PSB में बदलें" h2=" Adobe Photoshop की आवश्यकता के बिना किसी भी Java अनुप्रयोगों के भीतर PSD को PSB में पढ़ें और बदलें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PSD" >}}
 
 {{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" जावा के लिए" >}}

@@ -11,7 +11,7 @@ url: psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование PSD в GIF с помощью C#" h2=".NET Photoshop API для преобразования PSD и PSB в растровые изображения, включая GIF">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование PSD в GIF с помощью C#" h2=".NET Photoshop API для преобразования PSD и PSB в растровые изображения, включая GIF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

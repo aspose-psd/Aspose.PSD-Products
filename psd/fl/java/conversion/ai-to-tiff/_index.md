@@ -4,7 +4,7 @@ description: Esimerkki Java-muunnoskoodista AI-muodosta TIFF-tiedostoon. Käytä
 url: ai-to-tiff/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Muunna tekoäly TIFF-muotoon Javan avulla" h2="Alkuperäinen Java-kirjasto, jolla voit lukea, kirjoittaa ja viedä tekoälyä TIFF-muotoon ilman Adoben tarvetta." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="Aspose.PSD" subTitlepfName="Javalle" downloadUrl="" fileiconsmall1="TIFF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="Javalle" >}}

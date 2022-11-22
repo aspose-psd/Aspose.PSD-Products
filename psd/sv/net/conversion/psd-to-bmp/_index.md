@@ -11,7 +11,7 @@ url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera PSD till BMP via C#" h2=".NET Photoshop API för PSD & PSB Konvertering till rasterbilder inklusive BMP">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera PSD till BMP via C#" h2=".NET Photoshop API för PSD & PSB Konvertering till rasterbilder inklusive BMP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

@@ -11,7 +11,7 @@ url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="PSB über C# in GIF konvertieren" h2=".NET Photoshop API für PSD- und PSB-Konvertierung in Rasterbilder einschließlich GIF">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="PSB über C# in GIF konvertieren" h2=".NET Photoshop API für PSD- und PSB-Konvertierung in Rasterbilder einschließlich GIF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

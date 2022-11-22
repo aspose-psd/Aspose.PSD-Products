@@ -4,7 +4,7 @@ description: Exemple de code de conversion Java pour le format AI en fichier JPE
 url: ai-to-jpeg/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Convertir AI en JPEG via Java" h2="Bibliothèque Java native pour lire, écrire et exporter l'IA vers JPEG sans avoir besoin d'Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="Asposer.PSD" subTitlepfName="pour Java" downloadUrl="" fileiconsmall1="JPEG" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Asposer.PSD" subTitlepfName="pour Java" >}}

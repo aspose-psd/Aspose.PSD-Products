@@ -5,7 +5,7 @@ description: .NET Framework, .NET Core پر PSD فائل میں واٹر مار�
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="پی ایس ڈی میں C# کے ذریعے ٹیکسٹ واٹر مارک شامل کریں" h2="سرور سائیڈ APIs کا استعمال کرتے ہوئے PSD فائلوں کو واٹر مارک کرنے کے لیے اپنی .NET ایپس بنائیں۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" >}}

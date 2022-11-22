@@ -5,7 +5,7 @@ description: C# fontkodo por aldoni aŭ forigi akvomarkon al PSD-dosiero sur .NE
 url: psd/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1="Aldonu Tekstan Akvomarkon al PSD per C#" h2="Konstruu viajn proprajn .NET-aplikaĵojn por akvomarki PSD-dosierojn per servilflankaj API-oj." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSD" pfName="Supoze.PSD" subTitlepfName="por .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
 
 {{< blocks/products/pf/main-container pfName="Supoze.PSD" subTitlepfName="por .NET" >}}

@@ -4,7 +4,7 @@ description: Sample Java conversionis pro AI format ad PSB lima. Hoc exemplo ute
 url: ai-to-psb/
 ---
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/upper-banner h1=" Converti AI ad PSB per Java" h2=" Bibliothecam indigenam Javam legere, Scribere & Exportare AI ad PSB non egens Adobe." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PSB" pfName="Aspose.PSD" subTitlepfName=" Java" downloadUrl="" fileiconsmall1="PSB" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="AI" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=" Java" >}}
