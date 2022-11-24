@@ -56,7 +56,7 @@ url: net/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="С первого взгляда" description="Обзор API"." >}}
+{{< blocks/products/pf/carousel-item h3="С первого взгляда" description="Обзор API" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

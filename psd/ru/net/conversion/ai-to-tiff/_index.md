@@ -75,7 +75,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для конвертации AI в TIFF" sectionDescription="Check our live demos for [AI to TIFF conversion](https://products.aspose.app/psd/conversion/ai-to-tiff) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Нет необходимости ничего скачивать или настраивать»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не нужно писать код" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл AI и нажмите кнопку \'Convert\'"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл AI и нажмите кнопку \'Convert\'" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Вы мгновенно получите ссылку для загрузки полученного файла TIFF»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
