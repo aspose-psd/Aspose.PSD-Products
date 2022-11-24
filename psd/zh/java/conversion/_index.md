@@ -1,23 +1,23 @@
 ---
-title: Java Photoshop 文檔轉換
-description: 通過 Java 庫將 Photoshop PSD、PSB 轉換為包括 BMP、JPG、PNG、TIFF 和 PDF 在內的圖像。
+title: Java Photoshop 文档
+description: 通过 Java 库将 Photoshop PSD、PSB 转换为包括 BMP、JPG、PNG、TIFF 和 PDF 在内的图像。
 url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Java 轉換 Adob​​e® Photoshop® 文件" h2="將 Photoshop PSD、PSB 轉換為 JPG、PNG、BMP、TIFF 圖像和 PDF 以構建跨平台的 Java 應用程序。" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Java 转换 Adobe® Photoshop® 文件" h2="将 Photoshop PSD、PSB 转换为 JPG、PNG、BMP、TIFF 图像和 PDF 以构建跨平台 Java 应用程序。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop® 的 PSD 格式是一種用於設計名片、標誌設計、傳單模型、網站設計等的設計師格式。設計師通過 Adob​​e Photoshop 將 PSD 圖層導出為單個圖像（包括 JPG、PNG、GIF、TIFF 等）是一種常見的情況。對於在任何 Java 解決方案中將 Photoshop PSD 轉換為光柵圖像和 PDF，**Java PSD API** 可以輕鬆完成。對於任何 PSD 轉換自動化應用程序，可以輕鬆集成以下示例代碼以進行光柵圖像和 PDF 轉換。
+Adobe® Photoshop® 的 PSD 格式是一种设计师格式，用于设计名片、徽标设计、传单模型、网站设计等。设计师通常会通过 Adobe Photoshop 将 PSD 图层导出到单张图像，包括 JPG、PNG、GIF、TIFF 等。要在任何 Java 解决方案中将 photoshop PSD 转换为光栅图像和 PDF，**Java PSD API** 可以轻松完成。对于任何 PSD 转换自动化应用程序，可以轻松集成以下示例代码以进行光栅图像和 PDF 转换。
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Photoshop PSD轉PDF" %}}
+{{% blocks/products/pf/feature-page-section h2="Photoshop PSD 转换为 PDF" %}}
 
-要將 Photoshop PSD 轉換為 PDF，過程是，使用 [圖像類](https://apireference.aspose.com/psd/java/com.aspose.psd/Image) 加載 Photoshop PSD 文件。創建 [PdfOptions 類](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) 對象，用於相關的 PDF 設置。最後調用具有輸出的 [Image.save](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) 方法PDF 文檔和特定設置選項。
+要将 Photoshop PSD 转换为 PDF，处理方法是，使用加载 Photoshop PSD 文件 [图像类别](https://apireference.aspose.com/psd/java/com.aspose.psd/Image)。创建 [PDFOptions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) 对象，用于相关的 PDF 设置。终于打电话了 [图片。保存](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) 具有输出 PDF 文档和特定设置选项的方法。
 
-{{% blocks/products/pf/feature-page-code h3="將Photoshop PSD轉換為PDF的Java代碼" %}}
+{{% blocks/products/pf/feature-page-code h3="将 Photoshop PSD 转换为 PDF 的 Java 代码" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-pdf-conversion.java" >}}
 
@@ -27,11 +27,11 @@ Adobe® Photoshop® 的 PSD 格式是一種用於設計名片、標誌設計、�
 
 {{< blocks/products/pf/feature-page-options pairs="psb-to-pdf psd-to-pdf" >}}
 
-{{% blocks/products/pf/feature-page-section h2="將Photoshop PSD轉換為JPG、PNG、BMP圖像" %}}
+{{% blocks/products/pf/feature-page-section h2="将 Photoshop PSD 转换为 JPG、PNG、BMP 图像" %}}
 
-Java PSD API 提供了類似的轉換模式。因此，將 JPG、BMP、PNG、GIF、TIFF 轉換為光柵圖像的模式與 PDF 相同，而不是特定的圖像設置。API提供[PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)、[JpegOptions](https://apireference.aspose.com/psd/java/com .aspose.psd.imageoptions/JpegOptions), [BmpOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GifOptions](https://apireference.aspose PNG、JPG , BMP, GIF, JP2 分別。所以過程是加載文件，使用相關的圖像選項並將 PSD 保存到選擇的圖像中。
+Java PSD API 提供了类似的转换模式。因此，将JPG、BMP、PNG、GIF、TIFF转换为光栅图像的模式与PDF相同，而不是特定的图像设置。API 提供了 [png 期权](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JPEG 选项](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions), [bmPoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GIF 选项](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions), [jpeg2000 选项](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) 分别用于 PNG、JPG、BMP、GIF、JP2。因此，过程是加载文件，使用相关的图像选项，然后将PSD保存到所选图像中。
 
-{{% blocks/products/pf/feature-page-code h3="將Photoshop PSD轉換為圖像的Java代碼" %}}
+{{% blocks/products/pf/feature-page-code h3="将 Photoshop PSD 转换为图像的 Java 代码" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-images-conversion.java" >}}
 
