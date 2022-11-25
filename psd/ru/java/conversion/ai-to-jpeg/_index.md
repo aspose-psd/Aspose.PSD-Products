@@ -55,11 +55,9 @@ url: ai-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузить входное изображение AI
-- Инициализировать
- [Опции JPEG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/jpegOptions) объект класса
+- Инициализировать [Опции JPEG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/jpegOptions) объект класса
 - Укажите свойства изображения
 - Сохранить выходное изображение JPEG
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-jpeg/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

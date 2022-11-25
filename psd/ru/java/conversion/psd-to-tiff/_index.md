@@ -60,8 +60,8 @@ url: psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите PSD-файл
-- Создайте экземпляр
- [Класс опционов TIFF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)- Используйте метод Image.save (String, TIFFOptions) для преобразования.
+- Создайте экземпляр [Класс опционов TIFF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
+- Используйте метод Image.save (String, TIFFOptions) для преобразования.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,6 @@ url: psd-to-tiff/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

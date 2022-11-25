@@ -52,7 +52,6 @@ PM> Install-Package Aspose.PSD
 - Среда разработки, такая как Microsoft Visual Studio
 - Файл Aspose.PSD для .NET, на который ссылается ваш проект
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Код C# для просмотра AI" offSpacer="" %}}

@@ -55,11 +55,9 @@ url: ai-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузить входное изображение AI
-- Инициализировать
- [Опции JPEG 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/jpeg2000Options) объект класса
+- Инициализировать [Опции JPEG 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/jpeg2000Options) объект класса
 - Укажите свойства изображения
 - Сохранить выходное изображение JPEG2000
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-jpeg2000/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

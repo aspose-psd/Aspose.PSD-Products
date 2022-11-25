@@ -55,11 +55,9 @@ url: ai-to-psb/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузить входное изображение AI
-- Инициализировать
- [Опции PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/psdOptions) объект класса
+- Инициализировать [Опции PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/psdOptions) объект класса
 - Укажите версию
 - Сохранить выходной файл PSB
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-psb/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

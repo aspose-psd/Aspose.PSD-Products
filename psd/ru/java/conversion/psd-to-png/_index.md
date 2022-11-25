@@ -60,8 +60,8 @@ url: psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите PSD-файл
-- Создайте экземпляр
- [Класс опций PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)- Используйте метод Image.save (String, PNGOptions) для преобразования.
+- Создайте экземпляр [Класс опций PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
+- Используйте метод Image.save (String, PNGOptions) для преобразования.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,6 @@ url: psd-to-png/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

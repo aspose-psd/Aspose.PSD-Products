@@ -36,11 +36,10 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузите PSB с [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод [Опции JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) учебный класс
-1. Позвонить
- [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
+1. Загрузите PSB с [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
+ [Опции JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) учебный класс
+1. Позвонить [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте имя выходного файла и объект Jpeg2000Options
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -55,7 +54,6 @@ PM> Install-Package Aspose.PSD
 - Microsoft Windows или совместимая ОС с платформой .NET Framework, .NET Core и PHP, VBScript, Delphi, C++ с помощью COM Interop.
 - Среда разработки, такая как Microsoft Visual Studio.
 - Файл Aspose.PSD для .NET DLL, на который ссылается ваш проект.
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -95,6 +93,9 @@ Adobe photoshop сохраняет файлы в двух форматах. Фа
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="https://docs.fileformat.com/image/jp2/" >}}
         JPEG 2000 (JP2) — это система кодирования изображений и современный стандарт сжатия изображений.
+
+
+
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
