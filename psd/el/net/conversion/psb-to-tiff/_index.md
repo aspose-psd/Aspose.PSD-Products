@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PSB σε TIFF με C#
-description: Εξαγωγή αρχείου PSD, PSB & AI μέσω .NET API
+description: Εξαγωγή αρχείων PSD, PSB & AI μέσω του API .NET
 family: psd
 platformtag: net
 feature: conversion
@@ -11,24 +11,24 @@ url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή PSB σε TIFF μέσω C#" h2=".NET Photoshop API για PSD & PSB Μετατροπή σε εικόνες ράστερ συμπεριλαμβανομένου TIFF" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή PSB σε TIFF μέσω C#" h2=".NET Photoshop API για PSD & PSB Μετατροπή σε εικόνες ράστερ συμπεριλαμβανομένου του TIFF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Απόδοση υψηλής ποιότητας PSB ως TIFF" %}}
-1. Φορτώστε το PSB με τη μέθοδο [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Δημιουργήστε μια παρουσία της κλάσης [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions)
-1. Καλέστε τη μέθοδο [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
+{{% blocks/products/pf/agp/feature-section-col title="Υψηλής Ποιότητας Απόδοση του PSB ως TIFF" %}}
+1. Φορτώστε το PSB με [Εικόνα.Φόρτωση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) μέθοδος
+ [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) τάξη
+1. Καλέστε [Εικόνα.Αποθήκευση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) μέθοδος
 1. Περάστε το όνομα αρχείου εξόδου και το αντικείμενο του TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Ξεκινήστε με το .NET Photoshop API" %}}
-Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.PSD``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.PSD```.
+{{% blocks/products/pf/agp/feature-section-col title="Ξεκινήστε με το API του Photoshop NET" %}}
+Εγκατάσταση από τη γραμμή εντολών ως ```nuget install Aspose.PSD``` ή μέσω της κονσόλας διαχείρισης πακέτων του Visual Studio με ```Install-Package Aspose.PSD```
 
-Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/psd/net).
+Εναλλακτικά, λάβετε το πρόγραμμα εγκατάστασης MSI χωρίς σύνδεση ή DLL σε ένα αρχείο ZIP από [λήψεις](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=" Κωδικός NET C# για μετατροπή PSB σε TIFF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Κωδικός .NET C# για μετατροπή PSB σε TIFF" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-tiff.cs" >}}
 

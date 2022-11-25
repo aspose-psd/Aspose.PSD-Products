@@ -1,20 +1,20 @@
 ---
-title: Java Photoshop API | Ανάλυση μορφών PSD και PSB
+title: Java Photoshop API | PSD και PSB ανάλυση μορφής
 weight: 270
-description: Δημιουργήστε τροποποιήστε ή μετατρέψτε μορφές PSD και PSB χρησιμοποιώντας αυτήν τη βιβλιοθήκη σε οποιαδήποτε εφαρμογή Java χωρίς να απαιτείται λογισμικό Photoshop
+description: Δημιουργήστε τροποποιήστε ή μετατρέψτε μορφές PSD και PSB χρησιμοποιώντας αυτή τη βιβλιοθήκη σε οποιαδήποτε εφαρμογή Java χωρίς να απαιτείται λογισμικό Photoshop
 url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Βιβλιοθήκη Java για αρχεία Photoshop" h2="Δημιουργήστε, φορτώστε, τροποποιήστε και αποδώστε μορφές εγγράφων PSD & PSB μέσα από εφαρμογές Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="για Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Βιβλιοθήκη Java για αρχεία Photoshop" h2="Δημιουργία, φόρτωση, τροποποίηση και απόδοση PSD & PSB formats εγγράφων μέσα από εφαρμογές Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="για Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Το Aspose.PSD για Java είναι ένα εύχρηστο API χειρισμού μορφής αρχείου του Adobe Photoshop. Μπορεί εύκολα να φορτώσει και να διαβάσει αρχεία PSD, PSB και AI, δίνοντας τη δυνατότητα στους προγραμματιστές Java να εκτελούν λειτουργίες όπως ενημέρωση ιδιοτήτων επιπέδου, προσθήκη υδατογραφημάτων, συμπίεση, περιστροφή, κλιμάκωση ή απόδοση μιας μορφής αρχείου σε άλλη χωρίς να χρειάζεται να εγκαταστήσουν το Adobe Photoshop. Μορφές εικόνας όπως JPEG, TIFF, GIF, PNG, BMP, JPEG2000 και μπορούν εύκολα να ανοίξουν και να προστεθούν ως στρώμα με λίγες μόνο γραμμές κώδικα. Τα αρχεία PSD, PSB και AI μπορούν να εξαχθούν στην αναφερόμενη μορφή και στη μορφή PDF επιπλέον
+ Το Aspose.PSD για Java είναι ένα εύχρηστο API χειρισμού μορφής αρχείου Adobe Photoshop. Μπορεί εύκολα να φορτώσει και να διαβάσει PSD, PSB & AI αρχεία, καθιστώντας δυνατή για τους προγραμματιστές Java να εκτελούν λειτουργίες όπως η ενημέρωση των ιδιοτήτων στρώμα, προσθήκη υδατογραφημάτων, συμπίεση, περιστροφή, κλιμάκωση ή απόδοση μιας μορφής αρχείου σε μια άλλη, χωρίς να χρειάζεται να εγκαταστήσετε το Adobe Photoshop. Μορφές εικόνας όπως JPEG, TIFF, GIF, PNG, BMP, JPEG2000 και μπορούν εύκολα να ανοιχτούν και να προστεθούν ως στρώμα με λίγες μόνο γραμμές κώδικα. PSD, PSB & AI αρχεία μπορούν να εξαχθούν στην αναφερόμενη μορφή, και σε μορφή PDF επιπλέον
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -33,13 +33,13 @@ url: java/
    </header>
    <ul>
     <li>
-     Περιστροφή ή Αναστροφή
+     Περιστροφή ή αναστροφή
     </li>
     <li>
-     Κλίμακα ή Περικοπή
+     Κλιμάκωση ή περικοπή
     </li>
     <li>
-     Χρωματική αντιπαράθεση
+     Πρόσμειξη
     </li>
     <li>
      Ανάγνωση ή εγγραφή δεδομένων Exif
@@ -48,10 +48,10 @@ url: java/
      Μετασχηματισμοί μήτρας
     </li>
     <li>
-     Σχέδιο & Συμπλήρωση Σχημάτων
+     Σχεδίαση και πλήρωση σχημάτων
     </li>
     <li>
-     Ρύθμιση φωτεινότητας, αντίθεσης ή γάμα
+     Ρύθμιση φωτεινότητας, αντίθεσης ή γάμμα
     </li>
    </ul>
   </div>
@@ -68,31 +68,31 @@ url: java/
      Φόρτωση αρχείου
     </li>
     <li>
-     Επεξεργασία Ακατέργαστων Δεδομένων
+     Επεξεργασία ακατέργαστων δεδομένων
     </li>
     <li>
      Συμπίεση RLE
     </li>
     <li>
-     Μετατροπή σε εικόνες
+     Μετατροπή σε Εικόνες
     </li>
     <li>
-     Γεμίστε τα στρώματα
+     Επίπεδα γεμίσματος
     </li>
     <li>
-     Επίπεδα προσαρμογής
+     Επίπεδα ρύθμισης
     </li>
     <li>
-     Εφέ επιπέδου
+     Εφέ στρώσης
     </li>
     <li>
-     Μάσκες Raster, Vector και Clipping
+     Μάσκες ράστερ, διανύσματος και αποκοπής
     </li>
     <li>
      Επίπεδα κειμένου
     </li>
     <li>
-     Οι περισσότερες λειτουργίες εικόνας αρχείων PSD/PSB
+     Οι περισσότερες από τις λειτουργίες εικόνας αρχείων PSD/PSB
     </li>
    </ul>
   </div>
@@ -100,16 +100,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=«API επεξεργασίας Java psd» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     Για
+     για
     </em>
-    Ιάβα
+    Java
    </small>
   </footer>
  </div>
@@ -118,7 +118,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το API υποστηρίζει εφαρμογές Desktop, Web και Console σε πλατφόρμες όπως Windows, Linux/Unix, MacOS όπου διατίθεται Java." >}}
+{{< blocks/products/pf/carousel-item h3="Ανεξαρτησία Πλατφόρμας" description="Το API υποστηρίζει εφαρμογές Desktop, Web και κονσόλας σε πλατφόρμες όπως τα Windows, Linux/Unix, MacOS όπου η Java είναι διαθέσιμη." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,11 +128,11 @@ url: java/
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime Environment
+    Περιβάλλον χρόνου εκτέλεσης Java
    </header>
    <ul>
     <li>
-     Εφαρμογή JSP/JSF
+     Αίτηση JSP/JSF
     </li>
     <li>
      Εφαρμογές επιφάνειας εργασίας
@@ -146,16 +146,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd API επεξεργασίας" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=«API επεξεργασίας Java psd» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     Για
+     για
     </em>
-    Ιάβα
+    Java
    </small>
   </footer>
  </div>
@@ -164,12 +164,12 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Aspose.PSD για Java [υποστηριζόμενες μορφές αρχείων](https://docs.aspose.com/psd/java/supported-file-formats/) παρατίθενται παρακάτω." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.PSD για Java [υποστηριζόμενες μορφές αρχείων] (https://docs.aspose.com/psd/java/supported-file-formats/) παρατίθενται παρακάτω." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Εισόδου-εξόδου
+    Είσοδος/Έξοδος
    </header>
    <ul>
     <li>
@@ -183,31 +183,31 @@ url: java/
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Μόνο έξοδος
+    Μόνο Έξοδος
    </header>
    <ul>
     <li>
      <b>
       Μορφές ράστερ:
      </b>
-     TIFF, JPEG, PNG, GIF, BMP, JPEG2000
+     ΤΙΦ, JPEG, PNG, GIF, BMP, JPEG2000
     </li>
     <li>
      <b>
-      Αλλα:
+      Άλλα:
      </b>
      PDF
     </li>
    </ul>
    <header>
-    Μόνο εισαγωγή
+    Μόνο Είσοδος
    </header>
    <ul>
     <li>
      <b>
       Εικονογράφος:
      </b>
-     Όλα συμπεριλαμβάνονται
+     ΑΛ
     </li>
    </ul>
   </div>
@@ -215,16 +215,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=«API της Java psd» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     Για
+     για
     </em>
-    Ιάβα
+    Java
    </small>
   </footer>
  </div>
@@ -243,7 +243,7 @@ url: java/
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένες δυνατότητες Photoshop Java API
+    Προηγμένες δυνατότητες API του Photoshop
    </h2>
    <p>
     &amp;nbsp
@@ -259,14 +259,14 @@ url: java/
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Δημιουργήστε ένα αρχείο Photoshop από την αρχή</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Δημιουργία αρχείου Photoshop από την αρχή</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Φορτώστε υπάρχοντα αρχεία Photoshop</a>
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Φόρτωση υφιστάμενων αρχείων Photoshop</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -287,28 +287,28 @@ url: java/
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">Σχεδιάστε και συμπληρώστε βασικά σχήματα</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">Σχεδίαση & γέμισμα βασικών σχημάτων</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Περικοπή, περιστροφή και αλλαγή μεγέθους εικόνων</a>
+      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Περικοπή, περιστροφή & αλλαγή μεγέθους εικόνων</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/">Υποστήριξη επιπέδων</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/">Υποστήριξη στρώσεων</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Επιπέδωση στρώσης</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Ισοπέδωση στρώσης</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -329,56 +329,56 @@ url: java/
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Άνοιγμα και εξαγωγή αρχείων PSD με κάποιο συνδυασμό λειτουργιών RGB, CMYK, LAB, Grayscale με 8/16/32 bit ανά κανάλι.</a>
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Άνοιγμα και εξαγωγή αρχείων PSD με κάποιο συνδυασμό λειτουργιών RGB, CMYK, LAB, κλίμακας του γκρι με 8/16/32 bit ανά κανάλι.</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Υποστήριξη των πιο χρησιμοποιούμενων εφέ επιπέδου</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Υποστήριξη των πιο χρησιμοποιούμενων Εφέ στρώσης</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Σκία επιπέδου</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Σκιά στρώσης</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Εξωτερικό/Εσωτερικό/Κεντρικό εφέ εγκεφαλικού επεισοδίου</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Εφέ εγκεφαλικού επεισοδίου έξω/εσωτερικών/κέντρου</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Εφέ χρώματος/μοτίβου/διαβάθμισης επιπέδου</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Αποτέλεσμα στρώσης χρώματος/μοτίβο/διαβάθμισης</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">Προσθήκη και επεξεργασία επιπέδων κειμένου στο Runtime</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">Προσθήκη και επεξεργασία στρώσεων κειμένου κατά το χρόνο εκτέλεσης</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Επίπεδα προσαρμογής όπως φωτεινότητα/αντίθεση, καμπύλες, απόχρωση/κορεσμός, φίλτρο φωτογραφιών και πολλά άλλα</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Ρύθμιση επιπέδων όπως Φωτεινότητα/Αντίθεση, Καμπύλες, Απόχρωση/Κορεσμός, Φίλτρο Φωτογραφίας και πολλά άλλα</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">Υποστήριξη Vector, Raster, Clipping Masks και των συνδυασμών τους</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">Υποστήριξη διανυσματικών, ράστερ, μασκών αποκοπής και των συνδυασμών τους</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -392,7 +392,7 @@ url: java/
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/supported-resources/">Υποστήριξη μεγάλου αριθμού πόρων επιπέδου</a>
+      <a href="https://docs.aspose.com/psd/java/supported-resources/">Υποστήριξη ενός μεγάλου αριθμού πόρων Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -406,7 +406,7 @@ url: java/
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Ανάγνωση και επεξεργασία των επιπέδων πλήρωσης</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Ανάγνωση και επεξεργασία επιπέδων γεμίσματος</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -420,33 +420,33 @@ url: java/
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εξαγωγή της ημερομηνίας και ώρας δημιουργίας επιπέδου
+     Εξαγωγή της ημερομηνίας και ώρας δημιουργίας στρώσης
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Επισήμανση χρώματος φύλλου
+     Τονισμός χρώματος φύλλου
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Τελευταίες δυνατότητες API PSD</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD για .NET API προσθέτοντας συνεχώς περισσότερες δυνατότητες για να το κάνει ισχυρό. Εδώ είναι μια λίστα με λίγες επιλογές από τις πιο πρόσφατες που προστέθηκαν.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Υποστήριξη επιπέδων πλήρωσης. Γέμισμα μοτίβου, χρώματος και διαβάθμισης</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Υποστήριξη GdFlResource, VmskResource, PtFlResource και VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Φορτώστε αρχεία εικόνας JPEG/PNG/κτλ στο PsdImage χωρίς άμεση φόρτωση</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Υποστήριξη Layer Vector Masks και Text Layer Custom FlipRotate</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Απόδοση εφέ Stroke με Color Fill για εξαγωγή</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -456,7 +456,7 @@ url: java/
      Μετατροπή αρχείων PSD σε εικόνες ράστερ
     </h2>
     <p>
-     Η βιβλιοθήκη Aspose.PSD για Java υποστηρίζει τη μετατροπή αρχείων PSD σε οποιαδήποτε από τις υποστηριζόμενες εικόνες ράστερ, με λίγες μόνο γραμμές κώδικα.
+     Aspose.PSD για τη βιβλιοθήκη Java υποστηρίζει PSD μετατροπή αρχείων σε οποιαδήποτε από τις υποστηριζόμενες εικόνες ράστερ, με λίγες μόνο γραμμές κώδικα.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -468,18 +468,18 @@ url: java/
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Χειριστείτε τα επίπεδα του Photoshop με ευκολία
+     Εύκολη διαχείριση των επιπέδων του Photoshop
     </h2>
     <p>
-     Ο χειρισμός του επιπέδου PSD, όπως η συγχώνευση επιπέδων, η ενημέρωση κειμένου σε επίπεδα, η ρύθμιση εφέ ή η εξαγωγή επιπέδου ως εικόνα είναι μερικές από τις δυνατότητες χειραγώγησης που παρέχει το API. Επιπλέον, μπορεί να εντοπίσει ισοπεδωμένα έγγραφα PSD καθώς και να δημιουργήσει μικρογραφίες.
+     Ο χειρισμός επιπέδων PSD, όπως η συγχώνευση επιπέδων, η ενημέρωση κειμένου σε επίπεδα, η ρύθμιση εφέ ή η εξαγωγή επιπέδου ως εικόνας, είναι μερικά από τα χαρακτηριστικά χειρισμού που παρέχει το API. Επιπλέον, μπορεί να ανιχνεύσει πεπλατυσμένα έγγραφα PSD, καθώς και να δημιουργήσει μικρογραφίες.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Περικοπή, περιστροφή και αλλαγή μεγέθους εικόνων εν κινήσει
+     Περικοπή, περιστροφή & αλλαγή μεγέθους εικόνων εν κινήσει
     </h2>
     <p>
-     Οποιαδήποτε δυνατότητα χειρισμού εικόνας, όπως αναστροφή, περικοπή, περιστροφή και αλλαγή μεγέθους εικόνων μπορεί να εφαρμοστεί με λίγες μόνο γραμμές κώδικα, π.χ. κάτω από το απόσπασμα περιστρέφει την εικόνα.
+     Οποιοδήποτε χαρακτηριστικό χειρισμού εικόνας όπως αναστροφή, περικοπή, περιστροφή και αλλαγή μεγέθους εικόνων μπορεί να υλοποιηθεί με λίγες μόνο γραμμές κώδικα π.χ κάτω από το απόσπασμα περιστρέφει την εικόνα.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -488,14 +488,14 @@ url: java/
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     Επιπλέον, το API παρέχει διαφορετικά φίλτρα απεικόνισης, όπως ρύθμιση αντίθεσης, φωτεινότητας ή γάμμα σε εικόνες ράστερ, παραμόρφωση ή θόλωση εικόνων, καθώς και τα πιο διάσημα φίλτρα όπως τα Gauss Wiener, Median, Bradley Threshold και Motion Wiener.
+     Επιπλέον, το API παρέχει διαφορετικά φίλτρα απεικόνισης, όπως ρύθμιση της αντίθεσης, φωτεινότητας ή γάμμα σε εικόνες ράστερ, πρόσμειξη ή θόλωση των εικόνων, καθώς και τα πιο διάσημα φίλτρα όπως Gauss Wiener, Median, Bradley Threshold, και Motion Wiener.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Εφαρμογή φίλτρων απεικόνισης</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p>Το Aspose.PSD για Java παρέχει τις βασικές δυνατότητες απεικόνισης, όπως προσαρμογή χρώματος μέσω των βιβλιοθηκών κλάσεών του. Οι προγραμματιστές μπορούν εύκολα να προσαρμόσουν τη φωτεινότητα, την αντίθεση ή το γάμμα σε εικόνα ράστερ που έχει φορτωθεί από το API. Επιπλέον, οι προγραμματιστές μπορούν να αλλοιώσουν ή να θολώσουν δυναμικά τις εικόνες, καθώς και να χρησιμοποιήσουν δημοφιλή φίλτρα όπως το Median, το Motion Wiener, το Gauss Wiener και το Bradley Threshold.</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -506,23 +506,24 @@ url: java/
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Εκπαιδευτικές Πηγές" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/psd/java/" >}}
-{{< blocks/products/pf/slr-element name="Κωδικός πηγής" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Πηγαίος Κώδικας" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Αναφορές API" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="Αποθετήριο" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="Βίντεο εκμάθησης" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προϊόντος" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Δωρεάν υποστήριξη" href="https://forum.aspose.com/c/psd" >}}
-{{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη Προϊόντων" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/psd" >}}
+{{< blocks/products/pf/slr-element name="Αμειβόμενη Υποστήριξη" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/psd/" >}}
 {{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/psd/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.PSD για Java;" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα πελατών" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Ιστορίες Επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
