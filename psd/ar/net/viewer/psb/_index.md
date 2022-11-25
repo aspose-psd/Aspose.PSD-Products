@@ -1,7 +1,7 @@
 ---
 title: عرض تنسيقات ملفات PSB عبر.NET
 weight: 320
-description: كود مصدر C # لتحميل مستندات PSB وعرضها وعرضها على .NET Framework و.NET Core.
+description: كود مصدر C# لتحميل مستندات PSB وعرضها وعرضها على .NET Framework و.NET Core.
 url: psb/
 ---
 
@@ -15,7 +15,7 @@ url: psb/
 
  من أجل عرض ملف PSB، سنستخدم
  [Aspose.PSD لـ دوت نت](/psd/{{< lang-code >}}net) 
- API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # لاستخدامها مع أي عارض. افتح
+ API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C# لاستخدامها مع أي عارض. افتح
  [نوجيت](https://www.nuget.org/packages/aspose.psd) 
  مدير الحزم، ابحث عن
 
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="كود C # لعرض PSB" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="كود C# لعرض PSB" offSpacer="" %}}
 
 ```cs
 
@@ -99,7 +99,7 @@ PM> Install-Package Aspose.PSD
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="تنسيقات المشاهد الأخرى المدعومة" subTitle="باستخدام C #، يمكن للمرء أيضًا عرض العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
+{{< blocks/products/pf/agp/other-supported-section title="تنسيقات المشاهد الأخرى المدعومة" subTitle="باستخدام C#، يمكن للمرء أيضًا عرض العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/" name="" description="" >}}
 

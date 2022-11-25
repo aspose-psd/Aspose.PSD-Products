@@ -1,5 +1,5 @@
 ---
-title: تحويل PSB إلى TIFF باستخدام C #
+title: تحويل PSB إلى TIFF باستخدام C#
 description: تصدير ملف PSD و PSB و AI عبر واجهة برمجة التطبيقات.NET
 family: psd
 platformtag: net
@@ -11,7 +11,7 @@ url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل PSB إلى TIFF عبر C #" h2="واجهة برمجة تطبيقات فوتوشوب لـ PSD و PSB لتحويل الصور النقطية بما في ذلك TIFF" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل PSB إلى TIFF عبر C#" h2="واجهة برمجة تطبيقات فوتوشوب لـ PSD و PSB لتحويل الصور النقطية بما في ذلك TIFF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -28,7 +28,7 @@ url: psb-to-tiff/
 بدلاً من ذلك، احصل على مثبت MSI غير المتصل بالإنترنت أو ملفات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="كود .NET C # لتحويل PSB إلى TIFF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="كود .NET C# لتحويل PSB إلى TIFF" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-tiff.cs" >}}
 

@@ -28,7 +28,7 @@ url: psb-to-png/
 بدلاً من ذلك، احصل على مثبت MSI غير المتصل بالإنترنت أو ملفات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="كود .NET C # لتحويل PSB إلى PNG" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="كود .NET C# لتحويل PSB إلى PNG" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-png.cs" >}}
 

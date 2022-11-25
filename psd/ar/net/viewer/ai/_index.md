@@ -1,6 +1,6 @@
 ---
 title: عرض تنسيقات ملفات AI عبر .NET
-description: كود مصدر C # لتحميل مستندات الذكاء الاصطناعي وعرضها وعرضها على منصات .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin.
+description: كود مصدر C# لتحميل مستندات الذكاء الاصطناعي وعرضها وعرضها على منصات .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin.
 url: ai/
 ---
 
@@ -12,7 +12,7 @@ url: ai/
 
 {{% blocks/products/pf/agp/content h2="كيفية عرض ملف AI باستخدام C#" %}}
 
-من أجل عرض ملف AI، سنستخدم <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C # لاستخدامها مع أي عارض. افتح <a href="https://www.nuget.org/packages/aspose.psd">نوجيت</a> مدير الحزم، ابحث عن <b>Aspose.PSD</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+من أجل عرض ملف AI، سنستخدم <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمنصة C# لاستخدامها مع أي عارض. افتح <a href="https://www.nuget.org/packages/aspose.psd">نوجيت</a> مدير الحزم، ابحث عن <b>Aspose.PSD</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="كود C # لعرض الذكاء الاصطناعي" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="كود C# لعرض الذكاء الاصطناعي" offSpacer="" %}}
 
 ```cs
 

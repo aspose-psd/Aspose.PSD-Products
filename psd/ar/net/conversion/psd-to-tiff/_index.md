@@ -28,7 +28,7 @@ url: psd-to-tiff/
 بدلاً من ذلك، احصل على مثبت MSI غير المتصل بالإنترنت أو ملفات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="كود .NET C # لتحويل PSD إلى TIFF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="كود .NET C# لتحويل PSD إلى TIFF" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-tiff.cs" >}}
 

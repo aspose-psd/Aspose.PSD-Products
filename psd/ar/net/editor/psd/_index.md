@@ -1,6 +1,6 @@
 ---
 title: تحرير مستند PSD عبر .NET
-description: كود مصدر C # لتحرير ملف PSD على .NET Framework و.NET Core.
+description: كود مصدر C# لتحرير ملف PSD على .NET Framework و.NET Core.
 url: psd/
 ---
 
@@ -14,7 +14,7 @@ url: psd/
 
  من أجل تحرير ملف PSD، سنستخدم
  [Aspose.PSD لـ دوت نت](/psd/{{< lang-code >}}net) 
- API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات لمنصة C #. افتح
+ API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات لمنصة C#. افتح
  [نوجيت](https://www.nuget.org/packages/aspose.psd) 
  مدير الحزم، ابحث عن
 
@@ -65,7 +65,7 @@ PM> Install-Package Aspose.PSD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 
-إليك الطريقة السهلة لإنشاء ملف PSD جديد باستخدام C #.
+إليك الطريقة السهلة لإنشاء ملف PSD جديد باستخدام C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="إنشاء ملف PSD - C#" offSpacer="" %}}
 
@@ -74,7 +74,7 @@ PM> Install-Package Aspose.PSD
 {{% /blocks/products/pf/agp/code-block %}}
 
 
-توضح التعليمة البرمجية التالية كيفية إضافة طبقات جديدة إلى ملف PSD باستخدام C #.
+توضح التعليمة البرمجية التالية كيفية إضافة طبقات جديدة إلى ملف PSD باستخدام C#.
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="إنشاء/إضافة طبقات - C#" offSpacer="" %}}
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-add-layers.cs" >}}

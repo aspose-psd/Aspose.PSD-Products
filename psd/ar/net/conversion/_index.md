@@ -9,7 +9,7 @@ url: conversion/
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-يحفظ تنسيق PSD البيانات في أشكال الطبقات وهو التنسيق المعروف لـ Adobe® Photoshop® لأغراض التصميم بما في ذلك تصميمات مواقع الويب. يمكن للمصممين بسهولة تصدير طبقات PSD إلى صور فردية بما في ذلك PNG و JPG و GIF و TIFF وما إلى ذلك عبر Adobe Photoshop. لتنفيذ تحويل الفوتوشوب إلى الصور النقطية وملفات PDF ضمن حول.NET دون تثبيت Adobe Photoshop، يمكن لـ .NET API القيام بذلك بسهولة. يمكن دمج أكواد أمثلة C # التالية بسهولة لأتمتة محول ملفات PSD إلى تنسيقات الصور النقطية و PDF. حتى المبرمجين يمكنهم استخراج الطبقات من أي صورة PSD.
+يحفظ تنسيق PSD البيانات في أشكال الطبقات وهو التنسيق المعروف لـ Adobe® Photoshop® لأغراض التصميم بما في ذلك تصميمات مواقع الويب. يمكن للمصممين بسهولة تصدير طبقات PSD إلى صور فردية بما في ذلك PNG و JPG و GIF و TIFF وما إلى ذلك عبر Adobe Photoshop. لتنفيذ تحويل الفوتوشوب إلى الصور النقطية وملفات PDF ضمن حول.NET دون تثبيت Adobe Photoshop، يمكن لـ .NET API القيام بذلك بسهولة. يمكن دمج أكواد أمثلة C# التالية بسهولة لأتمتة محول ملفات PSD إلى تنسيقات الصور النقطية و PDF. حتى المبرمجين يمكنهم استخراج الطبقات من أي صورة PSD.
 
 
 {{% /blocks/products/pf/feature-page-summary %}}
@@ -18,7 +18,7 @@ url: conversion/
 
 لتحويل PSD إلى مستند PDF، العملية هي تحميل ملف PSD باستخدام [فئة الصورة](https://apireference.aspose.com/net/psd/aspose.psd/image). أبدع [فئة خيارات PDF](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) كائن، لإعدادات PDF ذات الصلة. اتصل أخيرًا [احفظ الصورة](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) طريقة إخراج ملف PDF وخيارات PDF للتحويل.
 
-{{% blocks/products/pf/feature-page-code h3="كود C # لتحويل فوتوشوب PSD إلى PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="كود C# لتحويل فوتوشوب PSD إلى PDF" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-pdf.cs" >}}
 
@@ -33,7 +33,7 @@ url: conversion/
 لتحويل PSD إلى الصور، تكون عملية تحويل PSD إلى PDF تقريبًا، قم بتحميل الملف باستخدام Image.Load ثم بدلاً من استخدام خيارات حفظ PDF، باستخدام خيارات حفظ الصور ذات الصلة مثل [خيارات JPEG](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpegoptions), [خيارات PNG](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions),  [خيارات BMP](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [خيارات TIFF](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions),  [خيارات GIF](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [خيارات جيه بي إي جي 2000](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) لـ JPG و PNG و BMP و TIFF و GIF و JP2 على التوالي ثم قم بالتحويل أخيرًا عن طريق استدعاء وظيفة الحفظ باستخدام المعلمات ذات الصلة.
 
 
-{{% blocks/products/pf/feature-page-code h3="كود C # لتحويل فوتوشوب PSD إلى PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="كود C# لتحويل فوتوشوب PSD إلى PDF" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-images.cs" >}}
 

@@ -1,5 +1,5 @@
 ---
-title: تحويل PSB إلى JP2 باستخدام C #
+title: تحويل PSB إلى JP2 باستخدام C#
 description: تصدير ملف PSD و PSB و AI عبر واجهة برمجة التطبيقات.NET
 family: psd
 platformtag: net
@@ -28,7 +28,7 @@ url: psb-to-jp2/
 بدلاً من ذلك، احصل على مثبت MSI غير المتصل بالإنترنت أو ملفات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="كود .NET C # لتحويل PSB إلى JP2" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="كود .NET C# لتحويل PSB إلى JP2" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-jp2.cs" >}}
 

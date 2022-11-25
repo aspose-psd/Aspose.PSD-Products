@@ -1,6 +1,6 @@
 ---
 title: تحويل AI إلى PDF عبر C#
-description: نموذج كود لتحويل AI إلى PDF C #. استخدم رمز مثال API لملفات AI المجمعة لتحويل PDF داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
+description: نموذج كود لتحويل AI إلى PDF C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل PDF داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
 url: ai-to-pdf/
 ---
 
@@ -12,7 +12,7 @@ url: ai-to-pdf/
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل AI إلى PDF باستخدام C#" %}}
 
-من أجل تحويل AI إلى PDF، سنستخدم <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها لمنصة C #. افتح <a href="https://www.nuget.org/packages/aspose.psd">نوجيت</a> مدير الحزم، ابحث عن <b>Aspose.PSD</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+من أجل تحويل AI إلى PDF، سنستخدم <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها لمنصة C#. افتح <a href="https://www.nuget.org/packages/aspose.psd">نوجيت</a> مدير الحزم، ابحث عن <b>Aspose.PSD</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="يُظهر نموذج التعليمة البرمجية هذا تحويل AI إلى PDF C #" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="يُظهر نموذج التعليمة البرمجية هذا تحويل AI إلى PDF C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "3c8deaec4ce20917c561030c536ff589" "convert-ai-to-pdf.cs" >}}
 

@@ -1,6 +1,6 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى BMP عبر C#
-description: نموذج كود لتحويل AI إلى BMP C #. استخدم رمز مثال API لملفات AI المجمعة لتحويل BMP داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
+description: نموذج كود لتحويل AI إلى BMP C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل BMP داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
 url: ai-to-bmp/
 ---
 
@@ -12,7 +12,7 @@ url: ai-to-bmp/
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل AI إلى BMP باستخدام C#" %}}
 
-من أجل تحويل AI إلى BMP، سنستخدم <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها لمنصة C #. افتح <a href="https://www.nuget.org/packages/aspose.psd">نوجيت</a> مدير الحزم، ابحث عن <b>Aspose.PSD</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+من أجل تحويل AI إلى BMP، سنستخدم <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها لمنصة C#. افتح <a href="https://www.nuget.org/packages/aspose.psd">نوجيت</a> مدير الحزم، ابحث عن <b>Aspose.PSD</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 
