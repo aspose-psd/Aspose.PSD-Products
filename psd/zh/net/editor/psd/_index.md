@@ -17,8 +17,8 @@ url: psd/
  API 是适用于 C# 平台的功能丰富、强大且易于使用的文档操作 API。打开
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  包管理器，搜索
- 并安装。您也可以使用包管理器控制台中的以下命令。
 
+ 并安装。您也可以使用包管理器控制台中的以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -48,7 +48,6 @@ PM> Install-Package Aspose.PSD
 + 使用 psDimage 实例访问 PSD 文件的图层、资源和其他数据。
 + 使用 psDimage 实例的 “保存” 方法保存更改后的文件。
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -62,7 +61,6 @@ PM> Install-Package Aspose.PSD
 -微软 Windows 或具有 .NET Framework、.NET Core 的兼容
 -像微软 Visual Studio 这样的开发环境。
 -您的项目中引用的 Aspose.PSD for .NET。
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -94,7 +92,6 @@ PM> Install-Package Aspose.PSD
 
 接下来，您可以看到如何在 TextLayer 中更改文本的示例。您可以使用 textLayer.updateText () 方法将图层中的所有文本替换为新文本并保存所有样式。
 或者使用 iText 功能，用自己的特定样式配置每个文本部分。
-
 <!-- CODE-BLOCK -->
 {{% blocks/products/pf/agp/code-block title="在 TextLayer 中更改文本-C#" offSpacer="" %}}
 

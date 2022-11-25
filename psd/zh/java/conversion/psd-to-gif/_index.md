@@ -60,8 +60,8 @@ url: psd-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSD 文件
--创建一个实例
- [GIF 选项类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)-使用 Image.Save（字符串、gifOptions）方法进行转换。
+-创建一个实例 [GIF 选项类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
+-使用 Image.Save（字符串、gifOptions）方法进行转换。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,6 @@ url: psd-to-gif/
 
 -微软 Windows 或带有 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境的兼容操作系统。
 -直接从以下网址获取最新版本的 Aspose.PSD for Java
-
  [Aspose Maven 存储库](https://repository.aspose.com/psd/)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -63,7 +63,6 @@ url: psd-to-psb/
 1。将图像对象投射到 psDimage
 1。使用输出文件路径和 psdoPtions 实例调用 psdimage.Save 方法
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -76,7 +75,6 @@ url: psd-to-psb/
 
 -微软 Windows 或带有 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境的兼容操作系统。
 -直接从以下网址获取最新版本的 Aspose.PSD for Java
-
  [Aspose Maven 存储库](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -36,11 +36,10 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-1。为 AI 加载 [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法 [bmPoptions](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/bmpoptions) 班级
-1。打电话
- [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
+1。为 AI 加载 [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
+ [bmPoptions](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/bmpoptions) 班级
+1。打电话 [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。传递 bmPoptions 的输出文件名和对象
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -55,7 +54,6 @@ PM> Install-Package Aspose.PSD
 -微软 Windows 或通过 COM Interop 搭载.NET Framework、.NET Core 和 PHP、VBScript、Delphi、C++ 的兼容操作系统。
 -像微软 Visual Studio 这样的开发环境。
 -您的项目中引用的.NET DLL 的 Aspose.PSD。
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
