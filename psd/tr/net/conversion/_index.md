@@ -1,22 +1,22 @@
 ---
-title: C# Photoshop Dosyalarını Dönüştürme
-description: Photoshop PSD, PSB'yi PDF'ye ve BMP, JPG, PNG, TIFF dahil olmak üzere birkaç satır C# koduyla .NET kitaplığı aracılığıyla Görüntülere dönüştürün.
+title: C# Photoshop Dosyaları Dönüştürme
+description: Photoshop PSD, PSB'yi PDF'ye ve BMP, JPG, PNG, TIFF gibi görüntüleri birkaç satır C# koduyla .NET kütüphanesi aracılığıyla dönüştürün.
 url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# ile Adobe® Photoshop® Dönüştürme" h2="Platformlar arası .NET uygulamaları oluşturmak için Photoshop PSD, PSB'yi PDF ve JPG, PNG, BMP, TIFF Görüntülerine dönüştürün." >}}
+{{< blocks/products/pf/feature-page-header h1="C# ile Adobe® Photoshop® Dönüştürme" h2="Convert Photoshop PSD, PSB PDF ve JPG, PNG, BMP, TIFF Görüntüler çapraz platform .NET uygulamaları oluşturmak için." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-PSD formatı, verileri katman formlarında kaydeder ve web sitesi tasarımları da dahil olmak üzere tasarım amaçları için Adobe® Photoshop®'un iyi bilinen formatıdır. Tasarımcılar, PSD katmanlarını PNG, JPG, GIF, TIFF vb. dahil olmak üzere Adobe Photoshop aracılığıyla tekli görüntülere kolayca aktarabilir. Adobe Photoshop kurulumu olmadan .NET çözümü içinde raster görüntülere ve PDF'ye photoshop dönüştürme uygulamak için .NET API bunu kolaylıkla yapabilir. Aşağıdaki C# örnek kodları, PSD dosya dönüştürücüsünün raster görüntü biçimlerine ve PDF'ye otomasyonu için kolayca entegre edilebilir. Programcılar bile herhangi bir PSD görüntüsünden katmanları çıkarabilir.
+PSD formatı, verileri katman biçiminde kaydeder ve web sitesi tasarımları da dahil olmak üzere tasarım amaçları için Adobe® Photoshop® 'un iyi bilinmesi biçimidir. Tasarımcılar kolayca Adobe Photoshop aracılığıyla PNG, JPG, GIF, TIFF vb. Dahil olmak üzere tek görüntülere PSD katmanlarını dışa aktarabilir. Adobe Photoshop kurulumu olmadan.NET çözümü içinde raster görüntülere ve PDF'ye photoshop dönüşümünü uygulamak için, .NET API bunu kolaylıkla yapabilir. Aşağıdaki C# örnek kodları kolayca raster görüntü formatları ve PDF içine PSD dosyaları dönüştürücü otomasyonu için entegre edilebilir. Programcılar bile herhangi bir PSD görüntüsünden katmanları çıkarabilir.
 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Photoshop PSD'yi PDF'ye dönüştürün" %}}
+{{% blocks/products/pf/feature-page-section h2="Photoshop PSD'yi PDF'ye Dönüştür" %}}
 
-PSD'yi PDF belgesine dönüştürmek için, İşlem, PSD dosyasını [Image class](https://apireference.aspose.com/net/psd/aspose.psd/image) kullanarak yükleyin. İlgili PDF ayarları için [PdfOptions sınıfı](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) nesnesi oluşturun. Son olarak, çıktı PDF dosyasına ve dönüştürme için PDF seçeneklerine sahip [Image.Save](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) yöntemini çağırın.
+PSD'yi PDF belgesine dönüştürmek için, Süreç, PSD dosyasını kullanarak yükleyin [Görüntü sınıfı](https://apireference.aspose.com/net/psd/aspose.psd/image)Oluştur [PDFoptions sınıfı](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) nesne, ilgili PDF ayarları için. Sonunda ara [Image.Save](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) yöntemi olan çıkış PDF dosyası ve PDF seçenekleri dönüştürme için.
 
 {{% blocks/products/pf/feature-page-code h3="Photoshop PSD'den PDF'ye Dönüştürme için C# Kodu" %}}
 
@@ -28,12 +28,12 @@ PSD'yi PDF belgesine dönüştürmek için, İşlem, PSD dosyasını [Image clas
 
 {{< blocks/products/pf/feature-page-options pairs="psb-to-pdf psd-to-pdf" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Photoshop PSD'den JPG, PNG, BMP Görüntülerine Dönüştürme" %}}
+{{% blocks/products/pf/feature-page-section h2="Photoshop PSD JPG, PNG, BMP Görüntü Dönüşüm" %}}
 
-PSD'yi Görüntülere dönüştürme işlemi, PSD'den PDF'ye neredeyse aynıdır, Dosyayı Image.Load kullanarak yükleyin ve ardından PDF kaydetme seçeneklerini kullanmak yerine [JpegOptions](https://apireference.aspose) gibi ilgili görüntü kaydetme seçeneklerini kullanın. com/net/psd/aspose.psd.imageoptions/jpegoptions), [PngOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions), [BmpOptions](https:// apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [TiffOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions), [GifOptions]( https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [Jpeg2000Options](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) için Sırasıyla JPG, PNG, BMP, TIFF, GIF, JP2 ve son olarak ilgili parametrelerle Kaydet işlevini çağırarak dönüştürün.
+PSD'yi Görüntüler işlemine dönüştürmek için PSD'den PDF'ye neredeyse aynıdır, Image.Load'u kullanarak dosyayı yükleyin ve ardından PDF kaydetme seçeneklerini kullanmak yerine, ilgili görüntü kaydetme seçeneklerini kullanarak [JPEGOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpegoptions), [PNGOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions),  [BMPoptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [TiffOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions),  [GIFOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [Jpeg2000Seçenekler](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) sırasıyla JPG, PNG, BMP, TIFF, GIF, JP2 için ve son olarak ilgili parametrelerle Kaydet işlevini arayarak dönüştürün.
 
 
-{{% blocks/products/pf/feature-page-code h3=" Photoshop PSD'den Görüntüye Dönüştürme için C# Kodu" %}}
+{{% blocks/products/pf/feature-page-code h3="Görüntü Dönüştürme Photoshop PSD için C# Kodu" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-images.cs" >}}
 
