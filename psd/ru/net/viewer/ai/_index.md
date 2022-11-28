@@ -85,7 +85,7 @@ Aspose.PSD — это API для работы с форматами Photoshop. �
         {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для просмотра AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Нет необходимости писать или компилировать код" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите AI-файл и нажмите кнопку\" Просмотр\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="При необходимости загрузите AI-файл по ссылке" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
