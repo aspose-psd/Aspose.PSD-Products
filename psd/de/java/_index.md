@@ -1,20 +1,20 @@
 ---
-title: Java-Photoshop-API | PSD- und PSB-Formatanalyse
+title: Java Photoshop-API | Analyse von PSD- und PSB-Formaten
 weight: 270
-description: Erstellen, ändern oder konvertieren Sie PSD- und PSB-Formate mit dieser Bibliothek in jeder Java-Anwendung, ohne dass Photoshop-Software erforderlich ist
+description: Erstellen, ändern oder konvertieren Sie PSD- und PSB-Formate mithilfe dieser Bibliothek in jeder Java-Anwendung, ohne dass Photoshop-Software erforderlich ist.
 url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java-Bibliothek für Photoshop-Dateien" h2="Erstellen, laden, ändern und rendern Sie PSD- und PSB-Dokumentformate aus Java-Anwendungen heraus." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="für Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java-Bibliothek für Photoshop-Dateien" h2="Erstellen, laden, ändern und rendern Sie PSD- und PSB-Dokumentformate aus Java-Anwendungen heraus." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="für Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PSD für Java ist eine einfach zu verwendende API zur Bearbeitung von Adobe Photoshop-Dateiformaten. Es kann PSD-, PSB- und AI-Dateien problemlos laden und lesen, sodass Java-Entwickler Vorgänge wie das Aktualisieren von Ebeneneigenschaften, das Hinzufügen von Wasserzeichen, Komprimieren, Drehen, Skalieren oder Rendern eines Dateiformats in ein anderes ausführen können, ohne Adobe Photoshop installieren zu müssen. Bildformate wie JPEG, TIFF, GIF, PNG, BMP, JPEG2000 und können mit nur wenigen Codezeilen einfach geöffnet und als Ebene hinzugefügt werden. PSD-, PSB- und AI-Dateien können in das aufgeführte Format und zusätzlich in das PDF-Format exportiert werden
+ Aspose.PSD für Java ist eine einfach zu verwendende API zur Bearbeitung von Adobe Photoshop-Dateiformaten. Es kann problemlos PSD-, PSB- und AI-Dateien laden und lesen, sodass die Java-Entwickler Vorgänge wie das Aktualisieren von Ebeneneigenschaften, das Hinzufügen von Wasserzeichen, die Komprimierung, Rotation, Skalierung oder das Rendern eines Dateiformats in ein anderes ausführen können, ohne Adobe Photoshop installieren zu müssen. Bildformate wie JPEG, TIFF, GIF, PNG, BMP, JPEG2000 können einfach geöffnet und als Ebene mit nur wenigen Codezeilen hinzugefügt werden. PSD-, PSB- und AI-Dateien können in das aufgelistete Format und zusätzlich in das PDF-Format exportiert werden
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,24 +22,24 @@ url: java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die API." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Ein Überblick über die API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Bildgebungsfunktionen
+    Funktionen der Bildgebung
    </header>
    <ul>
     <li>
-     Drehen oder spiegeln
+     Drehen oder Umdrehen
     </li>
     <li>
      Skalieren oder Zuschneiden
     </li>
     <li>
-     Zittern
+     Zaudern
     </li>
     <li>
      Exif-Daten lesen oder schreiben
@@ -62,25 +62,25 @@ url: java/
    </header>
    <ul>
     <li>
-     Dateierstellung
+     Erstellung von Dateien
     </li>
     <li>
-     Laden von Dateien
+     Datei wird geladen
     </li>
     <li>
-     Rohdatenverarbeitung
+     Verarbeitung von Rohdaten
     </li>
     <li>
      RLE-Komprimierung
     </li>
     <li>
-     Umwandlung in Bilder
+     Konvertierung in Bilder
     </li>
     <li>
      Ebenen füllen
     </li>
     <li>
-     Anpassungsebenen
+     Einstellungsebenen
     </li>
     <li>
      Ebeneneffekte
@@ -92,7 +92,7 @@ url: java/
      Textebenen
     </li>
     <li>
-     Die meisten Bildmodi für PSD/PSB-Dateien
+     Bildmodi der meisten PSD/PSB-Dateien
     </li>
    </ul>
   </div>
@@ -100,7 +100,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java-PSD-Verarbeitungs-API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=„Java PSD-Verarbeitungs-API“ src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -118,7 +118,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="API unterstützt Desktop-, Web- und Konsolenanwendungen auf Plattformen wie Windows, Linux/Unix, MacOS, wo Java verfügbar ist." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Die API unterstützt Desktop-, Web- und Konsolenanwendungen auf Plattformen wie Windows, Linux/Unix, macOS, auf denen Java verfügbar ist." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -146,7 +146,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java-PSD-Verarbeitungs-API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=„Java PSD-Verarbeitungs-API“ src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -164,12 +164,12 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.PSD für Java [unterstützte Dateiformate](https://docs.aspose.com/psd/java/supported-file-formats/) sind unten aufgeführt." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.PSD für Java [unterstützte Dateiformate] (https://docs.aspose.com/psd/java/supported-file-formats/) sind unten aufgeführt." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Input-Output
+    Ein-/Ausgabe
    </header>
    <ul>
     <li>
@@ -188,15 +188,15 @@ url: java/
    <ul>
     <li>
      <b>
-      Rasterformate:
+      Raster-Formate:
      </b>
      TIFF, JPEG, PNG, GIF, BMP, JPEG2000
     </li>
     <li>
      <b>
-      Sonstiges:
+      Andere:
      </b>
-     Pdf
+     PDF
     </li>
    </ul>
    <header>
@@ -207,7 +207,7 @@ url: java/
      <b>
       Illustrator:
      </b>
-     KI
+     AI
     </li>
    </ul>
   </div>
@@ -215,7 +215,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java-psd-API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=„Java-PSD-API“ src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -243,7 +243,7 @@ url: java/
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Erweiterte Photoshop-Java-API-Funktionen
+    Erweiterte Funktionen der Photoshop Java-API
    </h2>
    <p>
     &amp;nbsp
@@ -259,14 +259,14 @@ url: java/
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Eine Photoshop-Datei von Grund auf neu erstellen</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Erstellen Sie eine Photoshop-Datei von Grund auf</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Vorhandene Photoshop-Dateien laden</a>
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Bestehende Photoshop-Dateien laden</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -280,21 +280,21 @@ url: java/
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">Auf einen rechteckigen Bereich schneiden</a>
+      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">An einen rechteckigen Bereich ausschneiden</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">Zeichne und fülle einfache Formen</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">Grundformen zeichnen und füllen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Bilder zuschneiden, drehen und in der Größe ändern</a>
+      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Bilder zuschneiden, drehen und ihre Größe ändern</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -308,14 +308,14 @@ url: java/
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Ebenenglättung</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Abflachung der Schicht</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Fähigkeit zum Exportieren der PSD-Dateivorschau</a>
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Möglichkeit, eine PSD-Dateivorschau zu exportieren</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -350,14 +350,14 @@ url: java/
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Outside/Inner/Center Stroke-Effekt</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Effekt „Außenseite/Innenseite/Mitte“</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Farb-/Muster-/Verlaufsebeneneffekt</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Ebeneneffekt Farbe/Muster/Farbverlauf</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -371,21 +371,21 @@ url: java/
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Anpassungsebenen wie Helligkeit/Kontrast, Kurven, Farbton/Sättigung, Fotofilter und vieles mehr</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Einstellungsebenen wie Helligkeit/Kontrast, Kurven, Farbton/Sättigung, Fotofilter und vieles mehr</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">Unterstützung von Vektor-, Raster-, Schnittmasken und deren Kombinationen</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">Unterstützung von Vektor-, Raster- und Schnittmasken und deren Kombinationen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Verwaltet die Deckkraft von Ebenen</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Opazität von Ebenen verwalten</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,7 +399,7 @@ url: java/
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Datenextraktion aus Bildabschnittsressourcen
+     Datenextraktion aus Ressourcen der Bildabteilung
     </p>
    </div>
    <div class="col-lg-4">
@@ -413,54 +413,54 @@ url: java/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Unterstützung verknüpfter Schichten</a>
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Unterstützung von verknüpften Ebenen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extrahieren von Erstellungsdatum und -zeit der Ebene
+     Extrahieren von Datum und Uhrzeit der Ebenenerstellung
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hervorhebung der Blattfarbe
+     Markierung der Blattfarbe
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Neueste PSD-API-Funktionen</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD für .NET API fügt kontinuierlich weitere Funktionen hinzu, um es leistungsstark zu machen. Hier ist eine Liste mit einigen Auswahlen der zuletzt hinzugefügten.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Unterstützung von Füllebenen. Muster, Farbe und Verlaufsfüllung</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Unterstützung von GdFlResource, VmskResource, PtFlResource und VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Lade JPEG/PNG/usw. Bilddateien in PsdImage ohne direktes Laden</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Unterstützung von Ebenenvektormasken und benutzerdefiniertem FlipRotate für Textebenen</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Rendering des Stroke-Effekts mit Farbfüllung für den Export</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertieren Sie PSD-Dateien in Rasterbilder
+     PSD-Dateien in Rasterbilder konvertieren
     </h2>
     <p>
-     Die Bibliothek Aspose.PSD für Java unterstützt die Konvertierung von PSD-Dateien in alle unterstützten Rasterbilder mit nur wenigen Codezeilen.
+     Die Bibliothek Aspose.PSD for Java unterstützt die Konvertierung von PSD-Dateien in jedes der unterstützten Rasterbilder mit nur wenigen Codezeilen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Konvertieren Sie PSD in BMP, GIF und JPEG - Java
+      PSD in BMP, GIF und JPEG konvertieren - Java
      </h3>
      
 	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
@@ -471,31 +471,31 @@ url: java/
      Bearbeiten Sie Photoshop-Ebenen mit Leichtigkeit
     </h2>
     <p>
-     Die Manipulation von PSD-Ebenen wie das Zusammenführen von Ebenen, das Aktualisieren von Text auf Ebenen, das Festlegen von Effekten oder das Exportieren von Ebenen als Bild sind nur einige der Manipulationsfunktionen, die die API bietet. Darüber hinaus kann es reduzierte PSD-Dokumente erkennen und Miniaturansichten erstellen.
+     Die Bearbeitung von PSD-Ebenen wie das Zusammenführen von Ebenen, das Aktualisieren von Text auf Ebenen, das Festlegen von Effekten oder das Exportieren von Ebenen als Bild sind nur einige der Bearbeitungsfunktionen, die die API bietet. Darüber hinaus kann es abgeflachte PSD-Dokumente erkennen und Miniaturansichten erstellen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bilder unterwegs zuschneiden, drehen und skalieren
+     Bilder unterwegs zuschneiden, drehen und in der Größe ändern
     </h2>
     <p>
-     Jede Bildbearbeitungsfunktion wie Spiegeln, Zuschneiden, Drehen und Ändern der Größe von Bildern kann mit nur wenigen Codezeilen implementiert werden, z. B. dreht das folgende Snippet das Bild.
+     Jede Bildbearbeitungsfunktion wie das Umdrehen, Zuschneiden, Drehen und Ändern der Größe von Bildern kann mit nur wenigen Codezeilen implementiert werden, z. B. das folgende Snippet dreht das Bild.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Drehen eines Bildes - Java
+      Ein Bild drehen - Java
      </h3>
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     Darüber hinaus bietet die API verschiedene Bildfilter wie die Anpassung von Kontrast, Helligkeit oder Gamma auf Rasterbildern, Dithering oder Unschärfe von Bildern sowie die bekanntesten Filter, darunter Gauss Wiener, Median, Bradley Threshold und Motion Wiener.
+     Darüber hinaus bietet API verschiedene Bildfilter wie die Anpassung von Kontrast, Helligkeit oder Gamma bei Rasterbildern, Dithering oder Unschärfe von Bildern sowie die bekanntesten Filter wie Gauss Wiener, Median, Bradley Threshold und Motion Wiener.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Implementierung von Imaging-Filtern</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p>Aspose.PSD für Java bietet die wichtigsten Imaging-Funktionen wie Farbanpassung über seine Klassenbibliotheken. Entwickler können Helligkeit, Kontrast oder Gamma auf Rasterbildern, die von der API geladen werden, einfach anpassen. Darüber hinaus können Entwickler Bilder dynamisch dithern oder weichzeichnen sowie beliebte Filter wie Median, Motion Wiener, Gauss Wiener und Bradley Threshold verwenden.</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -510,12 +510,13 @@ url: java/
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API-Referenzen" href="https://apireference.aspose.com/java/psd" >}}
-{{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Repositorium" href="https://repository.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-element name="Videos mit Anleitungen" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Produktunterstützung" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.com/c/psd" >}}
-{{< blocks/products/pf/slr-element name="Kostenpflichtiger Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/psd/" >}}
 {{< blocks/products/pf/slr-element name="Versionshinweise" href="https://docs.aspose.com/psd/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
