@@ -1,23 +1,23 @@
 ---
-title: Konverze dokumentů Java Photoshop
-description: Převeďte Photoshop PSD, PSB na obrázky včetně BMP, JPG, PNG, TIFF a PDF prostřednictvím knihovny Java.
+title: Převod dokumentů Java Photoshop
+description: Převést Photoshop PSD, PSB na obrázky včetně BMP, JPG, PNG, TIFF a PDF prostřednictvím knihovny Java.
 url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze souborů Adobe® Photoshop® přes Java" h2="Převádějte Photoshop PSD, PSB do JPG, PNG, BMP, TIFF a PDF pro vytváření multiplatformních Java aplikací." >}}
+{{< blocks/products/pf/feature-page-header h1="Převod souborů Adobe® Photoshop® přes Javu" h2="Převést Photoshop PSD, PSB na JPG, PNG, BMP, TIFF obrázky a PDF vytvářet cross-platform Java aplikace." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Formát PSD Adobe® Photoshop® je formát pro návrháře pro navrhování vizitek, návrhů log, maket letáků, návrhů webových stránek a mnoho dalšího. Je to běžný případ, kdy návrháři exportují vrstvy PSD do jednoho obrázku včetně JPG, PNG, GIF, TIFF atd. přes Adobe Photoshop. Pro převod PSD ve Photoshopu na rastrové obrázky a PDF v rámci jakéhokoli řešení Java to snadno zvládne **Java PSD API**. Pro jakoukoli aplikaci pro automatizaci převodu PSD lze snadno integrovat níže uvedené příklady kódů pro rastrové obrázky a převod PDF.
+Formát PSD Adobe® Photoshop® je formát návrhářů pro navrhování vizitek, návrhů loga, makety letáků, návrhů webových stránek a mnoho dalšího. Je to běžný případ pro návrháře exportovat vrstvy PSD do jednoho obrázku včetně JPG, PNG, GIF, TIFF atd. Přes Adobe Photoshop. Pro převod Photoshopu PSD na rastrové obrázky a PDF v libovolném řešení Java, **Java PSD API** to zvládne s lehkostí. Pro jakoukoli aplikaci pro automatizaci konverzí PSD lze níže uvedené kódy snadno integrovat pro rastrové obrázky a konverzi PDF.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Photoshop PSD převod do PDF" %}}
+{{% blocks/products/pf/feature-page-section h2="Převod Photoshop PSD do PDF" %}}
 
-Chcete-li převést Photoshop PSD na PDF, Process is, Načtěte soubor Photoshop PSD pomocí [třídy obrázku] (https://apireference.aspose.com/psd/java/com.aspose.psd/Image). Vytvořte objekt [PdfOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) pro příslušná nastavení PDF. Nakonec zavolejte metodu [Image.save](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) s výstupem Dokument PDF a specifické možnosti nastavení.
+Chcete-li převést Photoshop PSD do formátu PDF, proces je, Vložte soubor Photoshop PSD pomocí [Třída obrázku](https://apireference.aspose.com/psd/java/com.aspose.psd/Image). Vytvořit [Třída PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) objekt, pro relevantní nastavení PDF. Konečně zavolejte [Obrázek.Uložit](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) metoda s výstupním dokumentem PDF a specifickými možnostmi nastavení.
 
-{{% blocks/products/pf/feature-page-code h3="Java kód pro převod Photoshop PSD do PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="Kód Java pro převod Photoshopu PSD do formátu PDF" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-pdf-conversion.java" >}}
 
@@ -27,11 +27,11 @@ Chcete-li převést Photoshop PSD na PDF, Process is, Načtěte soubor Photoshop
 
 {{< blocks/products/pf/feature-page-options pairs="psb-to-pdf psd-to-pdf" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Převeďte Photoshop PSD na obrázky JPG, PNG, BMP" %}}
+{{% blocks/products/pf/feature-page-section h2="Převést Photoshop PSD na JPG, PNG, BMP obrázky" %}}
 
-Java PSD API poskytuje podobný vzor pro převod. Vzor převodu na rastrové obrázky JPG, BMP, PNG, GIF, TIFF je tedy stejný jako u PDF, nikoli konkrétní nastavení obrázku. API poskytuje [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JpegOptions](https://apireference.aspose.com/psd/java/com .aspose.psd.imageoptions/JpegOptions), [BmpOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GifOptions](https://apireference.aspose .com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) pro PNG, JPG , BMP, GIF, JP2 resp. Takže proces je načíst soubor, použít příslušné možnosti obrázku a uložit PSD do obrázku podle výběru.
+Java PSD API poskytuje podobný vzor pro konverzi. Takže vzor převodu do rastrových obrázků JPG, BMP, PNG, GIF, TIFF je stejný jako PDF spíše než konkrétní nastavení obrazu. API poskytuje [Možnosti PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JPEGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions), [BMPoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [Možnosti GifOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Možnosti Jpeg2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) pro PNG, JPG, BMP, GIF, JP2. Takže proces je načíst soubor, použijte příslušné možnosti obrazu a uložte PSD do obrazu dle výběru.
 
-{{% blocks/products/pf/feature-page-code h3="Java kód pro převod Photoshop PSD na obrázek" %}}
+{{% blocks/products/pf/feature-page-code h3="Kód Java pro převod Photoshopu PSD na obrázek" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-images-conversion.java" >}}
 

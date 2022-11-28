@@ -1,6 +1,6 @@
 ---
 title: Převést PSD na PNG pomocí C#
-description: Export souboru PSD, PSB a AI přes .NET API
+description: Export souborů PSD, PSB a AI přes rozhraní.NET API
 family: psd
 platformtag: net
 feature: conversion
@@ -11,24 +11,24 @@ url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést PSD na PNG přes C#" h2=" .NET Photoshop API pro převod PSD a PSB na rastrové obrázky včetně PNG" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést PSD na PNG přes C#" h2=".NET Photoshop API pro PSD a PSB Konverze na rastrové obrázky včetně PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Vysoce kvalitní vykreslování PSD jako PNG" %}}
-1. Načtěte PSD metodou [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Vytvořte instanci třídy [PngOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions)
-1. Zavolejte metodu [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
-1. Předejte výstupní název souboru a objekt PngOptions
+1. Načíst PSD pomocí [Image.Načíst](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
+ [Možnosti PngOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) třída
+1. Zavolejte [Obrázek.Uložit](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
+1. Předat název výstupního souboru a objekt PngOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Začněte s .NET Photoshop API" %}}
-Instalujte z příkazového řádku jako ```nuget install Aspose.PSD``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.PSD```.
+{{% blocks/products/pf/agp/feature-section-col title="Začínáme s rozhraním NET Photoshop API" %}}
+Instalace z příkazového řádku jako ```nuget install Aspose.PSD``` nebo pomocí konzoly Správce balíčků aplikace Visual Studio s ```Install-Package Aspose.PSD```
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení] (https://releases.aspose.com/psd/net).
+Případně můžete získat offline instalační program MSI nebo DLL v souboru ZIP [ke stažení](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# kód pro převod PSD do PNG" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title=".NET C# kód pro PSD na konverzi PNG" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-png.cs" >}}
 
