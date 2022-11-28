@@ -11,24 +11,24 @@ url: psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti PSB in TIFF tramite C#" h2=".NET Photoshop API per PSD e PSB Conversione in immagini raster incluso TIFF" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti PSB in TIFF tramite C#" h2=".NET Photoshop API per la conversione da PSD e PSB a immagini raster, incluso TIFF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendering di alta qualità di PSB come TIFF" %}}
-1. Caricare il PSB con il metodo [Image.Load](https://apiference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Crea un'istanza della classe [TiffOptions](https://apiference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions)
-1. Chiama il metodo [Image.Save](https://apiference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
+1. Carica il PSB con [Immagine.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metodo
+ [Opzioni TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) classe
+1. Chiama [Immagine.Salva](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metodo
 1. Passa il nome del file di output e l'oggetto di TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con l'API .NET Photoshop" %}}
-Installa dalla riga di comando come ```nuget install Aspose.PSD``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.PSD```.
+Installa dalla riga di comando come ```nuget install Aspose.PSD``` o tramite la console Package Manager di Visual Studio con ```Install-Package Aspose.PSD```
 
-In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/psd/net).
+In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [scaricati](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET Codice C# per la conversione da PSB a TIFF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Codice C# .NET per la conversione da PSB a TIFF" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-tiff.cs" >}}
 
