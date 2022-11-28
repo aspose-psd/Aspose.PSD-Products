@@ -15,7 +15,7 @@ url: psd-to-jp2/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="JP2" के रूप में PSD का उच्च गुणवत्ता वाला प्रतिपादन" %}}
+{{% blocks/products/pf/agp/feature-section-col title="JP2 के रूप में PSD का उच्च गुणवत्ता वाला प्रतिपादन" %}}
 1। PSD को इसके साथ लोड करें [छवि. लोड](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) तरीका
  [Jpeg2000Options](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) वर्ग
 1। कॉल करें [छवि. सेव करें](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) तरीका
