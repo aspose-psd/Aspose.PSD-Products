@@ -215,7 +215,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=«Ява PSD API» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=«Java PSD API» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Перетворюйте файли Microsoft Visio у формати PDF, HTML, зображення та інші
   </header>

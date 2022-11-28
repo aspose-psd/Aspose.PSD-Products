@@ -15,7 +15,7 @@ url: /
 Високий код API для PSD, PSB & AI форматів файлів маніпуляції в Windows Forms, ASP.NET, WPF, WCF або будь-якого типу додатків на основі .NET Framework 2.0 або пізнішої версії.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Ява" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
 API Java для маніпулювання файлами Photoshop та Illustrator. Створюйте, завантажуйте, змінюйте та візуалізуйте формати PSD, PSB та AI у програмах на базі Java без будь-яких програмних залежностей.
 {{< /blocks/products/pf/product >}}
 
