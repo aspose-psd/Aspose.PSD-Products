@@ -1,22 +1,22 @@
 ---
 title: C# .NET Photoshop Manipulation API - Aspose
 weight: 90
-description: C# ASP.NET VB.NET Photoshop-bibliotek för att skapa redigering och konvertera Photoshop PSD PSB-format
+description: C# ASP.NET VB.NET Photoshop-bibliotek för att skapa redigera och konvertera Photoshop PSD PSB-format
 url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API:er för att manipulera Photoshop-filer" h2="Skapa, läs, redigera och konvertera PSD- och PSB-filer utan några Adobe Photoshop-beroenden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="för .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API: er för att manipulera Photoshop-filer" h2="Skapa, läsa, redigera och konvertera PSD- och PSB-filer utan några Adobe Photoshop-beroenden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="för .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.PSD för .NET är en avancerad PSD och API för manipulering av AI-filformat på ingångsnivå utan några Adobe Photoshop- eller Adobe Illustrator-beroenden. API:et gör det möjligt att skapa och redigera Photoshop-filerna samt ger möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar, utföra grafikoperationer eller konvertera ett filformat till ett annat.</p>
+<p>Aspose.PSD för .NET är en avancerad PSD och ingångsnivå AI-filer format manipulation API utan några Adobe Photoshop eller Adobe Illustrator beroenden. API gör det möjligt att skapa och redigera Photoshop-filer samt ge möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar, utföra grafikoperationer eller konvertera ett filformat till ett annat.</p>
 
 <p>
- API:et stöder import som ett lager och export till följande format:
+ API:et stöder import som ett lager och exporterar till följande format:
  <a href="https://docs.fileformat.com/image/png/">
   PNG
  </a>
@@ -48,7 +48,7 @@ url: net/
  <a href="https://docs.fileformat.com/image/psb/">
   PSB
  </a>
- tillsammans med export till pdf med valbar text. Aspose.PSD stöder delvis sådana Adobe Photoshop-funktioner som justeringslager, rendering och redigering av textlager, fyllningslager, lagereffekter, redigering av raster och vektormasker för lager.
+ tillsammans med export till Pdf med valbar text. Aspose.PSD stöder delvis sådana Adobe Photoshop-funktioner som Justeringslager, Text Layer rendering och redigering, Fyllningslager, Lagereffekter, Redigering av raster och vektormasker för lager.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -61,14 +61,14 @@ url: net/
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Bildfunktioner
+    Imaging funktioner
    </header>
    <ul>
     <li>
      Rotera eller Vänd
     </li>
     <li>
-     Skala eller Beskär
+     Skala eller beskära
     </li>
     <li>
      Dithering
@@ -77,10 +77,10 @@ url: net/
      Läs eller skriv Exif-data
     </li>
     <li>
-     Matristransformationer
+     Matris Transformationer
     </li>
     <li>
-     Ritning & fyllning av former
+     Ritning och fyllning av former
     </li>
     <li>
      Justera ljusstyrka, kontrast eller gamma
@@ -97,13 +97,13 @@ url: net/
      Skapande av filer
     </li>
     <li>
-     Fil laddas
+     Arkiv Laddar
     </li>
     <li>
-     Bearbetning av rådata
+     Rå databehandling
     </li>
     <li>
-     RLE-kompression
+     RLE-komprimering
     </li>
     <li>
      Konvertering till bilder
@@ -112,19 +112,19 @@ url: net/
      Fyll lager
     </li>
     <li>
-     Justeringslager
+     Justerings lager
     </li>
     <li>
-     Lagereffekter
+     Layer Effekter
     </li>
     <li>
-     Raster, vektor och urklippsmasker
+     Raster-, vektor- och urklippsmasker
     </li>
     <li>
      Textlager
     </li>
     <li>
-     De flesta bildlägen för PSD/PSB-filer
+     De flesta av PSD/PSB-filer bildlägen
     </li>
    </ul>
   </div>
@@ -132,16 +132,16 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=”.NET PSD Processing API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Är Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
      för
     </em>
-    .NETTO
+    .NET
    </small>
   </footer>
  </div>
@@ -150,7 +150,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.PSD för .NET stöder alla .NET-ramverk från och med 2.0." >}}
+{{< blocks/products/pf/carousel-item h3="Plattform Oberoende" description="Aspose.PSD för .NET stöder alla .NET-ramverk från 2,0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -159,7 +159,7 @@ url: net/
    </header>
    <ul>
     <li>
-     Windows-applikation
+     Windows-program
     </li>
     <li>
      ASP.NET webbapplikation
@@ -176,23 +176,23 @@ url: net/
      ASP.NET Core webbapplikation
     </li>
     <li>
-     .NET Core-baserad Windows-applikation
+     .NET Core-baserade Windows-program
     </li>
    </ul>
   </div>
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API:er för PSD-manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=”PSD Manipulation API: er” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Är Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
      för
     </em>
-    .NETTO
+    .NET
    </small>
   </footer>
  </div>
@@ -201,7 +201,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.PSD för .NET stöder de flesta populära [Photoshop & rasterbild](https://docs.aspose.com/psd/net/supported-file-formats/) filformat." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.PSD för .NET stöder de mest populära filformaten [Photoshop & rasterbild] (https://docs.aspose.com/psd/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -220,7 +220,7 @@ url: net/
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Endast utgång
+    Endast utdata
    </header>
    <ul>
     <li>
@@ -231,13 +231,13 @@ url: net/
     </li>
     <li>
      <b>
-      Övrig:
+      Annat:
      </b>
      PDF
     </li>
    </ul>
    <header>
-    Endast ingång
+    Endast inmatning
    </header>
    <ul>
     <li>
@@ -252,16 +252,16 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=”.NET PSD API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Är Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
      för
     </em>
-    .NETTO
+    .NET
    </small>
   </footer>
  </div>
@@ -280,7 +280,7 @@ url: net/
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade .NET PSD Manipulation API-funktioner
+    Avancerad. NET PSD Manipulation API
    </h2>
    <p>
     &amp;nbsp
@@ -303,7 +303,7 @@ url: net/
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Ladda in befintliga Photoshop-filer</a>
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Ladda befintliga Photoshop-filer</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,14 +317,14 @@ url: net/
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images/">Rita och fyll grundläggande former</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images/">Rita och fyll i grundläggande former</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">Beskär, rotera och ändra storlek på bilder</a>
+      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">Beskära, rotera och ändra storlek på bilder</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,14 +345,14 @@ url: net/
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD-fil Förhandsgranska Pixel-Perfect Exporting</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD-fil Preview Pixel-Perfect Exportera</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">Stöd för RGB, CMYK, LAB, Gråskala med 8/16/32 bitar per kanal</a>
+      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">Stöd för RGB, CMYK, LAB, gråskala med 8/16/32 bitar per kanal</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -366,21 +366,21 @@ url: net/
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Datum och tid för att skapa lager
+     Datum och tid för skapande av lager
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Färgmarkering av ark
+     Färgmarkering av arkfärg
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/">Lagermasker</a>
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/">Layer masker</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -401,7 +401,7 @@ url: net/
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Svart och vitt justeringslager
+     Svartvitt justeringslager
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,33 +415,33 @@ url: net/
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Justeringslager för kanalmixer</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Kanal Mixer Justering</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">Färgbalansjusteringslager</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">Färgbalans Justeringslager</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Kurvjusteringslager</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Kurvor Justeringslager</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">Exponeringsjusteringslager</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">Justeringslager</a>
     </p>
    </div>
    <div class="col-lg-4"><em class="fa fa-align-right ico-blue fa-2x col-lg-2"></em><p class="col-lg-10">
       <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-hue-saturation-of-adjustment-layers">
-      Nyans/mättnadsjusteringslager
+      Justeringsskikt för nyans/mättnad
       </a></p></div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
@@ -454,14 +454,14 @@ url: net/
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Nivåjusteringslager</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Nivåer justering lager</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Fotofilterjusteringslager</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Foto Filter Justering Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -482,14 +482,14 @@ url: net/
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Redigering av rasterlagermasker</a>
+      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Redigering av Raster Layer Masks</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Hantera opacitet för lager och platta till lager</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Hantera opacitet för lager och platta lager</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -503,14 +503,14 @@ url: net/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Stöd för ett stort antal bildsektionsresurser</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Stöd för ett stort antal bildavsnittsresurser</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">Manipulation med fyllningslager</a>
+      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">Manipulering med fyllning</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -524,7 +524,7 @@ url: net/
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Exportera lagergrupper</a>
+      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Lagergrupper Export</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -536,21 +536,21 @@ url: net/
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Senaste PSD API-funktioner</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD för .NET API lägger kontinuerligt till fler funktioner för att göra den kraftfull. Här är en lista över några val från de senaste som lagts till.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Stöd för fyllningslager. Mönster, färg och gradientfyllning</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Stöd för GdFlResource, VmskResource, PtFlResource och VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Ladda in JPEG/PNG/etc-bildfiler till PsdImage utan direktladdning</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Rasterisering av lagervektormasker och textlager anpassad FlipRotate</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Återgivning av Stroke-effekt med Color Fill för export</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -560,33 +560,33 @@ url: net/
      Exportera PSD till olika rasterformat
     </h2>
     <p>
-     Aspose.PSD för .NET ger möjligheten att exportera PSD-filer till något av de rasterbildsformat som stöds, med bara några rader kod.
+     Aspose.PSD för .NET ger möjlighet att exportera PSD-filer till någon av de stödda rasterbildformat, med bara några rader kod.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Konvertera PSD till PNG, JPEG & TIFF - C#
+      Konvertera PSD till PNG, JPEG och TIFF - C#
      </h3>
     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Få åtkomst till och manipulera PSD-lager
+     Tillgång & Manipulera PSD Lager
     </h2>
     <p>
-     Aspose.PSD för .NET låter dig komma åt lager av en PSD med möjligheten att rita på den med antingen bild eller text. Du kan slå samman lager, uppdatera text på lager, ställa in effekter eller exportera lager som en bild. Du kan också använda PSD .NET API för att upptäcka tillplattade PSD-filer eller skapa miniatyrer.
+     Aspose.PSD för .NET kan du komma åt lager av en PSD med möjlighet att dra på det med antingen bild eller text. Du kan slå samman lager, uppdatera text på lager, ställa in effekter eller exportera lager som en bild. Du kan också använda PSD. NET API för att upptäcka tillplattade PSD-filer eller skapa miniatyrer.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Läs eller skapa PSD-filer
+     Läsa eller skapa PSD-filer
     </h2>
     <p>
-     Aspose.PSD för .NET stöder inte bara inläsning av PSD- och PSB-filformat för manipulering och konvertering utan det ger också möjlighet att skapa PSD- och PSB-filer från grunden. .NET-utvecklare kan använda API:et för att automatisera scenarier som kan hjälpa dem på vägen.
+     Aspose.PSD for .NET stöder inte bara inläsning av PSD- och PSB-filformat för manipulation och konvertering utan det ger också möjlighet att skapa PSD- och PSB-filer från grunden. .NET-utvecklare kan använda API: et för att automatisera scenarier som kan hjälpa dem på väg.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Skapa PSD från början - C#
+      Skapa PSD från grunden - C#
      </h3>
      {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
@@ -596,7 +596,7 @@ url: net/
      Olika bildfilter
     </h2>
     <p>
-     Aspose.PSD för .NET tillhandahåller kärnbildsfunktionerna såsom färgjustering via sina klassbibliotek. Utvecklare kan enkelt justera ljusstyrka, kontrast eller gamma på rasterbild som laddas av API:et. Dessutom kan utvecklare dynamiskt vibrera eller sudda ut bilder samt använda populära filter inklusive Median, Gauss Wiener, Motion Wiener och Bradley Threshold.
+     Aspose.PSD för .NET tillhandahåller kärnbildningsfunktioner som färgjustering via sina klassbibliotek. Utvecklare kan enkelt justera ljusstyrka, kontrast eller gamma på rasterbild laddad av API. Dessutom kan utvecklare dynamiskt gitter eller oskärpa bilder samt använda populära filter inklusive Median, Gauss Wiener, Motion Wiener och Bradley Threshold.
     </p>
    </div>
   </div>
@@ -612,26 +612,27 @@ url: net/
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/psd/net/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/net/psd" >}}
-{{< blocks/products/pf/slr-element name="Instruktionsvideor" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Förvar" href="https://repository.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-element name="Handledning Videor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/psd" >}}
-{{< blocks/products/pf/slr-element name="Betalad support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Betalt stöd" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/psd/" >}}
-{{< blocks/products/pf/slr-element name="Versionsinformation" href="https://docs.aspose.com/psd/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/psd/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.PSD för .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kunder Lista" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Framgångshistorier" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD erbjuder individuella PSD API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD erbjuder individuella PSD API: er för andra populära utvecklingsmiljöer enligt nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

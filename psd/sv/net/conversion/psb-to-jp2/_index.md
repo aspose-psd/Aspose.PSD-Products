@@ -15,20 +15,20 @@ url: psb-to-jp2/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Högkvalitetsrendering av PSB som JP2" %}}
-1. Ladda PSB med metoden [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Skapa en instans av klassen [Jpeg2000Options](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options)
-1. Anropa metoden [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
-1. Skicka ut filnamn och objekt för Jpeg2000Options
+{{% blocks/products/pf/agp/feature-section-col title="Hög kvalitet Rendering av PSB som JP2" %}}
+1. Ladda PSB med [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metod
+ [Jpeg2000Alternativ](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) klass
+1. Ring [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metod
+1. Skicka utdatafilnamn och objekt för Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Kom igång med .NET Photoshop API" %}}
-Installera från kommandoraden som ```nuget install Aspose.PSD``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.PSD```.
+Installera från kommandoraden som ```nuget install Aspose.PSD``` eller via Package Manager-konsolen i Visual Studio med ```Install-Package Aspose.PSD```
 
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/psd/net).
+Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [nedladdningar](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C#-kod för PSB till JP2-konvertering" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title=".NET C# Kod för PSB till JP2-konvertering" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-jp2.cs" >}}
 
