@@ -1,24 +1,24 @@
 ---
-title: Conversion de fichiers C# Photoshop
-description: Convert Photoshop PSD, PSB to PDF and Images including BMP, JPG, PNG, TIFF with few lines of C# code via .NET library.
+title: Conversion de fichiers Photoshop en C#
+description: Convertissez Photoshop PSD, PSB en PDF et en images, y compris BMP, JPG, PNG, TIFF avec quelques lignes de code C# via la bibliothèque .NET.
 url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion Adobe® Photoshop® via C#" h2="Convertissez Photoshop PSD, PSB en PDF et JPG, PNG, BMP, TIFF Images pour créer des applications .NET multiplateformes." >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion d'Adobe® Photoshop® via C#" h2="Convertissez Photoshop PSD, PSB en PDF et en images JPG, PNG, BMP, TIFF pour créer des applications .NET multiplateformes." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Le format PSD enregistre les données sous forme de calques et est le format bien connu d'Adobe® Photoshop® à des fins de conception, y compris la conception de sites Web. Les concepteurs peuvent facilement exporter des calques PSD vers des images uniques, notamment PNG, JPG, GIF, TIFF, etc. via Adobe Photoshop. Pour implémenter la conversion Photoshop en images raster et PDF dans la solution .NET sans installation d'Adobe Photoshop, l'API .NET peut le faire facilement. Les codes d'exemple C # suivants peuvent facilement être intégrés pour l'automatisation du convertisseur de fichiers PSD en formats d'image raster et PDF. Même les programmeurs peuvent extraire des calques de n'importe quelle image PSD.
+Le format PSD enregistre les données sous forme de couches et est le format bien connu d’Adobe® Photoshop® à des fins de conception, y compris les conceptions de sites Web
 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Convertir Photoshop PSD en PDF" %}}
 
-Pour convertir un document PSD en PDF, le processus consiste à charger le fichier PSD à l'aide de [Classe d'image] (https://apireference.aspose.com/net/psd/aspose.psd/image). Créez un objet [PdfOptions class](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) pour les paramètres PDF pertinents. Enfin, appelez la méthode [Image.Save](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) ayant le fichier PDF de sortie et les options PDF pour la conversion.
+Pour convertir un document PSD en document PDF, procédez comme suit : Chargez le fichier PSD en utilisant [Classe d'image](https://apireference.aspose.com/net/psd/aspose.psd/image). Créez [Classe PDFOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) objet, pour les paramètres PDF pertinents. Enfin, appelez [Image. Enregistrer](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) méthode comportant un fichier PDF de sortie et des options PDF pour la conversion.
 
-{{% blocks/products/pf/feature-page-code h3="Code C# pour la conversion Photoshop PSD en PDF" %}}
+{{% blocks/products/pf/feature-page-code h3="Code C# pour la conversion de Photoshop PSD en PDF" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-pdf.cs" >}}
 
@@ -30,10 +30,10 @@ Pour convertir un document PSD en PDF, le processus consiste à charger le fichi
 
 {{% blocks/products/pf/feature-page-section h2="Conversion d'images Photoshop PSD en JPG, PNG, BMP" %}}
 
-Pour convertir PSD en images, le processus est presque identique à celui de PSD en PDF, chargez le fichier à l'aide de Image.Load, puis au lieu d'utiliser les options d'enregistrement PDF, utilisez les options d'enregistrement d'image pertinentes telles que [JpegOptions] (https://apireference.aspose. com/net/psd/aspose.psd.imageoptions/jpegoptions), [PngOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions), [BmpOptions](https:// apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [TiffOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions), [GifOptions]( https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [Jpeg2000Options](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) pour JPG, PNG, BMP, TIFF, GIF, JP2 respectivement et enfin convertir en appelant la fonction Enregistrer avec les paramètres pertinents.
+Pour convertir un PSD en images, le processus est presque identique à celui d'un PSD en PDF. Chargez le fichier à l'aide d'Image.Load, puis au lieu d'utiliser les options d'enregistrement PDF, utilisez les options de sauvegarde d'image pertinentes telles que [Options JPEG](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpegoptions), [Options PNG](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions),  [Options BMP](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [Options TIFF](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions),  [Options GIF](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [Options pour JPEG 2000](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) pour JPG, PNG, BMP, TIFF, GIF, JP2 respectivement et enfin convertissez en appelant la fonction Save avec les paramètres pertinents.
 
 
-{{% blocks/products/pf/feature-page-code h3="Code C# pour la conversion Photoshop PSD en image" %}}
+{{% blocks/products/pf/feature-page-code h3="Code C# pour la conversion de Photoshop PSD en image" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-images.cs" >}}
 

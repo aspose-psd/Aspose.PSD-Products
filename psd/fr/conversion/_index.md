@@ -1,8 +1,9 @@
 ---
-title: Solution de conversion de format PSD PSB et AI
+title: Solution de conversion de formats PSD PSB et AI
 weight: 7730
 limit: 
-description: Convertissez les images des fichiers Adobe PhotoShop et Illustrator et d'autres formats
+description: Conversion de fichiers Adobe PhotoShop et Illustrator, d'images et d'autres formats
+keywords: ["psd", "psb", "ai", "conversion to png", "conversion to jpg", "conversion to pdf", "convert to gif", "convert to bmp", "convert to tiff"]
 url: conversion/
 ---
 
