@@ -1,8 +1,9 @@
 ---
-title: PSD PSB & AI โซลูชันการแปลงรูปแบบ
+title: โซลูชันการแปลงรูปแบบ PSD PSB และ AI
 weight: 7730
 limit: 
-description: แปลงไฟล์รูปภาพ Adobe PhotoShop & Illustrator และรูปแบบอื่นๆ
+description: การแปลงไฟล์ Adobe PhotoShop และ Illustrator รูปภาพและรูปแบบอื่น ๆ
+keywords: ["psd", "psb", "ai", "conversion to png", "conversion to jpg", "conversion to pdf", "convert to gif", "convert to bmp", "convert to tiff"]
 url: conversion/
 ---
 
