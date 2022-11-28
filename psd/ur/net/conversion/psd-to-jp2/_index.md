@@ -1,6 +1,6 @@
 ---
-title: C# کے ساتھ PSD کو JP2 میں تبدیل کریں
-description: .NET API کے ذریعے PSD، PSB اور AI فائل برآمد کریں۔
+title: پی ایس ڈی کو جے پی 2 میں سی # کے ساتھ تبدیل کریں
+description: .NET API کے ذریعے پی ایس ڈی، پی ایس بی اور اے اے فائل برآمد کریں
 family: psd
 platformtag: net
 feature: conversion
@@ -11,24 +11,24 @@ url: psd-to-jp2/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSD کو JP2 میں تبدیل کریںPSD اور PSB کے لیے NET فوٹوشاپ API بشمول JP2" h2=".NET Photoshop API for PSD & PSB Conversion to raster images including JP2" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="پی ایس ڈی کو جے پی 2 میں سی # کے ذریعے تبدیل کریں" h2="پی ایس ڈی اور پی ایس بی تبادلوں کے لئے .NET فوٹوشاپ API سمیت ریسٹر تصاویر کے لئے 2" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" PSD کی JP2 کے طور پر اعلیٰ معیار کی رینڈرنگ" %}}
-1. [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ سے PSD لوڈ کریں
-1. [Jpeg2000Options](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) کلاس کی ایک مثال بنائیں
-1. کال کریں [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
-1. پاس آؤٹ پٹ فائل کا نام اور Jpeg2000Options کا آبجیکٹ
+{{% blocks/products/pf/agp/feature-section-col title="جے پی ڈی کے طور پر پی ایس ڈی کے اعلی معیار کی انجام" %}}
+1. پی ایس ڈی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
+ [جے پیجی 2000 کے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) جماعت
+1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
+1. Jpeg2000Options کے آؤٹ پٹ فائل کا نام اور اعتراض پاس کریں
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API کے ساتھ شروع کریں۔" %}}
-کمانڈ لائن سے بطور ```nuget install Aspose.PSD``` یا ```Install-Package Aspose.PSD``` کے ساتھ Visual Studio کے پیکیج مینیجر کنسول کے ذریعے انسٹال کریں۔
+{{% blocks/products/pf/agp/feature-section-col title=".NET فوٹوشاپ API کے ساتھ شروع کریں" %}}
+کمانڈ لائن سے انسٹال کریں ```nuget install Aspose.PSD``` یا ویژیول سٹوڈیو کے پیکیج مینیجر کنسول کے ذریعے ```Install-Package Aspose.PSD```
 
-متبادل طور پر، [ڈاؤن لوڈز](https://releases.aspose.com/psd/net) سے زپ فائل میں آف لائن MSI انسٹالر یا DLLs حاصل کریں۔
+متبادل طور پر، زپ فائل میں آف لائن MSI انسٹالر یا DLL حاصل کریں [ڈاؤن لوڈ](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=". NET C# کوڈ برائے PSD سے JP2 کی تبدیلی" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="پی ایس ڈی کے لئے جے پی 2 تبادلوں کے لئے .NET سی # کوڈ" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-jp2.cs" >}}
 

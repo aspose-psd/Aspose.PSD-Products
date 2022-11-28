@@ -1,28 +1,28 @@
 ---
-title: C# .NET فوٹوشاپ مینیپولیشن API - Aspose
+title: C# .NET فوٹوشاپ ہیرا پھیری API - اسپوس
 weight: 90
-description: C# ASP.NET VB.NET فوٹوشاپ لائبریری فوٹوشاپ PSD PSB فارمیٹس میں ترمیم اور تبدیل کرنے کے لیے
+description: C# ASP.NET VB.NET فوٹوشاپ لائبریری میں ترمیم اور فوٹوشاپ پی ایس ڈی پی ایس بی فارمیٹس کو تبدیل کرنے
 url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" فوٹوشاپ فائلوں میں ہیرا پھیری کے لیے NET APIs" h2=" بغیر کسی ایڈوب فوٹوشاپ کے انحصار کے PSD اور PSB فائلیں بنائیں، پڑھیں، ترمیم کریں اور تبدیل کریں۔" pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1="نیٹ APIs فوٹوشاپ فائلوں کو جوڑتوڑ کرنے کے" h2="کسی بھی ایڈوب فوٹوشاپ انحصار کے بغیر پی ایس ڈی اور پی ایس بی فائلوں کو تخلیق کریں، پڑھیں، ترمیم کریں اور تبدیل کریں." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD.NET کے لیے" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.PSD for .NET ایک ایڈوانسڈ PSD اور انٹری لیول AI فائلز فارمیٹس مینیپولیشن API ہے بغیر کسی Adobe Photoshop یا Adobe Illustrator کے انحصار کے۔ API فوٹوشاپ فائلوں کو بنانے اور ان میں ترمیم کرنے کے ساتھ ساتھ پرت کی خصوصیات کو اپ ڈیٹ کرنے، واٹر مارکس شامل کرنے، گرافکس آپریشنز انجام دینے یا ایک فائل فارمیٹ کو دوسرے میں تبدیل کرنے کی سہولت فراہم کرتا ہے۔</p>
+<p>.net کے لئے Aspose.PSD کسی بھی ایڈوب فوٹوشاپ یا ایڈوب Illustrator انحصار کے بغیر ایک اعلی درجے کی پی ایس ڈی اور اندراج سطح AI فائلوں فارمیٹس ہیرا پھیری API ہے API فوٹوشاپ فائلوں کو تخلیق اور ترمیم کرنے کے ساتھ ساتھ پرت کی خصوصیات کو اپ ڈیٹ کرنے، پانی کے نشان شامل کرنے، گرافکس آپریشن انجام دینے یا ایک فائل کی شکل کو دوسرے میں تبدیل کرنے کی صلاحیت فراہم کرنے کی اجازت دیتا ہے.</p>
 
 <p>
- API ایک پرت کے طور پر درآمد اور درج ذیل فارمیٹس میں برآمد کی حمایت کرتا ہے:
+ API مندرجہ ذیل فارمیٹس میں ایک پرت اور برآمد کے طور پر درآمد کی حمایت کرتا ہے:
  <a href="https://docs.fileformat.com/image/png/">
-  پی این جی
+  PNG
  </a>
  ,
  <a href="https://docs.fileformat.com/image/jpeg/">
-  جے پی ای جی
+  جے پی ای جی۔
  </a>
  ,
  <a href="https://docs.fileformat.com/image/j2k/">
@@ -34,11 +34,11 @@ url: net/
  </a>
  ,
  <a href="https://docs.fileformat.com/image/bmp/">
-  بی ایم پی
+  بی ایم پی۔
  </a>
  ,
  <a href="https://docs.fileformat.com/image/tiff/">
-  جھگڑا
+  TIFF
  </a>
  ,
  <a href="https://docs.fileformat.com/image/psd/">
@@ -48,7 +48,7 @@ url: net/
  <a href="https://docs.fileformat.com/image/psb/">
   پی ایس بی
  </a>
- منتخب متن کے ساتھ پی ڈی ایف میں برآمد کے ساتھ۔ Aspose.PSD جزوی طور پر ایڈوب فوٹوشاپ کی خصوصیات کو سپورٹ کرتا ہے جیسے کہ ایڈجسٹمنٹ لیئرز، ٹیکسٹ لیئر رینڈرنگ اور ایڈیٹنگ، فل لیئرز، لیئرز ایفیکٹس، راسٹر کی ایڈیٹنگ اور پرتوں کے لیے ویکٹر ماسک۔
+ منتخب متن کے ساتھ پی ڈی ایف کو برآمد کے ساتھ ساتھ. Aspose.PSD جزوی طور پر ایڈجسٹمنٹ تہوں، متن پرت انجام اور ترمیم کے طور پر ایڈوب فوٹوشاپ کی خصوصیات کی حمایت کرتا ہے، تہوں کو بھریں، تہوں اثرات، تہوں کے لئے ریسٹر اور ویکٹر ماسک کی ترمیم.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -56,7 +56,7 @@ url: net/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="ایک نظر میں" description="API کا ایک جائزہ۔" >}}
+{{< blocks/products/pf/carousel-item h3="ایک نظر میں" description="API کا ایک جائزہ." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -65,25 +65,25 @@ url: net/
    </header>
    <ul>
     <li>
-     گھمائیں یا پلٹائیں۔
+     گھمائیں یا پلٹائیں
     </li>
     <li>
      پیمانہ یا فصل
     </li>
     <li>
-     بجھانا
+     ڈتھرنگ
     </li>
     <li>
-     Exif ڈیٹا پڑھیں یا لکھیں۔
+     Exif ڈیٹا پڑھیں یا لکھیں
     </li>
     <li>
-     میٹرکس ٹرانسفارمیشنز
+     میٹرکس تبدیلیوں
     </li>
     <li>
-     شکلیں بنانا اور بھرنا
+     ڈرائنگ اور شکلیں بھرنے
     </li>
     <li>
-     چمک، کنٹراسٹ یا گاما کو ایڈجسٹ کریں۔
+     چمک، برعکس یا گاما کو ایڈجسٹ کریں
     </li>
    </ul>
   </div>
@@ -94,10 +94,10 @@ url: net/
    </header>
    <ul>
     <li>
-     فائل کی تخلیق
+     فائل تخلیق
     </li>
     <li>
-     فائل لوڈ ہو رہی ہے۔
+     فائل لوڈنگ
     </li>
     <li>
      خام ڈیٹا پروسیسنگ
@@ -106,25 +106,25 @@ url: net/
      RLE کمپریشن
     </li>
     <li>
-     تصاویر میں تبدیلی
+     تصاویر میں تبادلوں
     </li>
     <li>
-     پرتیں بھریں۔
+     تہوں کو بھریں
     </li>
     <li>
-     ایڈجسٹمنٹ کی پرتیں۔
+     ایڈجسٹمنٹ تہوں
     </li>
     <li>
      پرت کے اثرات
     </li>
     <li>
-     راسٹر، ویکٹر اور کلپنگ ماسک
+     ریسٹر، ویکٹر اور تراشہ ماسک
     </li>
     <li>
-     متن کی تہیں
+     متن کی تہوں
     </li>
     <li>
-     زیادہ تر PSD/PSB فائلوں کے امیج موڈز
+     زیادہ تر پی ایس ڈی/پی ایس بی فائلوں کی تصویر کے طریقوں
     </li>
    </ul>
   </div>
@@ -132,14 +132,14 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD پروسیسنگ API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“.NET پی ایس ڈی پروسیسنگ API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     کے لیے
+     کے لئے
     </em>
     .NET
    </small>
@@ -150,16 +150,16 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="پلیٹ فارم کی آزادی" description="Aspose.PSD برائے .NET 2.0 سے شروع ہونے والے کسی بھی .NET فریم ورک کو سپورٹ کرتا ہے۔" >}}
+{{< blocks/products/pf/carousel-item h3="پلیٹ فارم آزادی" description=". NET کے لئے Aspose.PSD 2.0 سے شروع ہونے والے کسی بھی نیٹ فریم ورک کی حمایت کرتا ہے." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    .نیٹ فریم ورک
+    نیٹ فریم ورک
    </header>
    <ul>
     <li>
-     ونڈوز ایپلی کیشن
+     ونڈوز ایپلیکیشن
     </li>
     <li>
      ASP.NET ویب ایپلیکیشن
@@ -169,28 +169,28 @@ url: net/
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    .NET سٹینڈرڈ
+    نیٹ اسٹینڈرڈ
    </header>
    <ul>
     <li>
-     ASP.NET کور ویب ایپلیکیشن
+     ASP.NET کور ویب کی درخواست
     </li>
     <li>
-     .NET کور پر مبنی ونڈوز ایپلی کیشن
+     .NET کور کی بنیاد پر ونڈوز کی درخواست
     </li>
    </ul>
   </div>
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="PSD ہیرا پھیری APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“پی ایس ڈی ہیرا پھیری APIs” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     کے لیے
+     کے لئے
     </em>
     .NET
    </small>
@@ -201,19 +201,19 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3=" تعاون یافتہ فائل فارمیٹس" description="Aspose.PSD برائے .NET سب سے زیادہ مقبول [فوٹوشاپ اور راسٹر امیج](https://docs.aspose.com/psd/net/supported-file-formats/) فائل فارمیٹس کو سپورٹ کرتا ہے۔" >}}
+{{< blocks/products/pf/carousel-item h3="سپورٹ شدہ فائل فارمیٹس" description=".NET کے لئے Aspose.PSD سب سے زیادہ مقبول [فوٹوشاپ اور ریسٹر تصویر] (https://docs.aspose.com/psd/net/supported-file-formats/) فائل فارمیٹس کی حمایت کرتا ہے." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    ان پٹ/آؤٹ پٹ
+    ان پٹ/آوٹ پٹ
    </header>
    <ul>
     <li>
      <b>
       فوٹوشاپ:
      </b>
-     پی ایس ڈی، پی ایس بی
+     پی ایس ڈی, پی ایس بی
     </li>
    </ul>
   </div>
@@ -225,15 +225,15 @@ url: net/
    <ul>
     <li>
      <b>
-      راسٹر فارمیٹس:
+      ریسٹر فارمیٹس:
      </b>
-     TIFF, JPEG, PNG, GIF, BMP, JPEG2000
+     ٹف، جے پی جی، پی این جی، GIF، بیمپ، JPEG2000
     </li>
     <li>
      <b>
       دیگر:
      </b>
-     PDF
+     پی ڈی ایف
     </li>
    </ul>
    <header>
@@ -242,7 +242,7 @@ url: net/
    <ul>
     <li>
      <b>
-      مصور:
+      Illustrator:
      </b>
      اے آئی
     </li>
@@ -252,14 +252,14 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“.NET پی ایس ڈی اے پی آئی” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     کے لیے
+     کے لئے
     </em>
     .NET
    </small>
@@ -280,7 +280,7 @@ url: net/
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    اعلی درجے کی .NET PSD ہیرا پھیری API خصوصیات
+    اعلی درجے کی .NET پی ایس ڈی ہیرا پھیری API خصوصیات
    </h2>
    <p>
     &amp;nbsp
@@ -289,235 +289,235 @@ url: net/
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/"> فوٹوشاپ فائلوں کو تصاویر میں تبدیل کریں۔</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">فوٹوشاپ فائلوں کو تصاویر میں تبدیل کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">شروع سے فوٹوشاپ فائل بنائیں</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">سکریچ سے فوٹوشاپ فائل بنائیں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">موجودہ فوٹوشاپ فائلیں لوڈ کریں۔</a>
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">موجودہ فوٹوشاپ فائلوں کو لوڈ کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">ایک مستطیل خطہ پر تراشیں۔</a>
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">ایک آئتاکار علاقے پر کلپ کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images/">بنیادی شکلیں ڈرا اور بھریں۔</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images/">ڈرا اور بنیادی سائز بھرنے</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">تصاویر کو تراشیں، گھمائیں اور سائز تبدیل کریں۔</a>
+      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">تصاویر کو فصل کریں، گھمائیں اور سائز تبدیل کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">پرتیں ضم کریں۔</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">تہوں ضم کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/#supported-layers">پرتوں کی حمایت</a>
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/#supported-layers">تہوں کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD فائل کا پیش نظارہ Pixel-Perfect Exporting</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">پی ایس ڈی فائل پیش نظارہ پکسل کامل برآمد</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">فی چینل 8/16/32 بٹس کے ساتھ RGB، CMYK، LAB، گرے اسکیل کی سپورٹ</a>
+      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">آرجیبی، CMYK، LAB، گرے پیمانے کی حمایت 8/16/32 بٹس فی چینل کے ساتھ</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">پرت کے اثرات کا اطلاق</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">پرت اثرات کا اطلاق</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     پرت کی تخلیق کی تاریخ اور وقت
+     پرت تخلیق کی تاریخ اور وقت
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     شیٹ کا رنگ نمایاں کرنا
+     شیٹ کا رنگ نمایاں
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/">پرت کے ماسک</a>
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/">پرت ماسک</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-text-layers/#update-text-layer-in-psd-file">رن ٹائم پر ٹیکسٹ لیئرز کی اپ ڈیٹ</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-text-layers/#update-text-layer-in-psd-file">رن ٹائم پر ٹیکسٹ تہوں کی اپ ڈیٹ کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">ایڈجسٹمنٹ لیئرز کی سپورٹ</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">ایڈجسٹمنٹ تہوں کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     بلیک اینڈ وائٹ ایڈجسٹمنٹ پرت
+     سیاہ اور سفید ایڈجسٹمنٹ پرت
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">چمک/کنٹراسٹ ایڈجسٹمنٹ پرت</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">چمکی/اس کے برعکس ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">چینل مکسر ایڈجسٹمنٹ لیئر</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">چینل مکسر ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">رنگ بیلنس ایڈجسٹمنٹ پرت</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">رنگ توازن ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers"> منحنی خطوط کی ایڈجسٹمنٹ پرت</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">منحنی خطوط کی ت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">ایکسپوزر ایڈجسٹمنٹ لیئر</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">نمائش ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4"><em class="fa fa-align-right ico-blue fa-2x col-lg-2"></em><p class="col-lg-10">
       <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-hue-saturation-of-adjustment-layers">
-      ہیو/سیچوریشن ایڈجسٹمنٹ پرت
+      ہیو/سنترپتی ایڈجسٹمنٹ پر
       </a></p></div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">الٹی ایڈجسٹمنٹ لیئر</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">الٹ ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">لیولز ایڈجسٹمنٹ پرت</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">سطح ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">فوٹو فلٹر ایڈجسٹمنٹ لیئر</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">تصویر فلٹر ایڈجسٹمنٹ پرت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-clipping-mask">کلپنگ ماسک کی رینڈرنگ</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-clipping-mask">تراشہ ماسک کی انجام</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/">ویکٹر لیئر ماسک کی رن ٹائم راسٹرائزیشن</a>
+      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/">ویکٹر پرت ماسک کے رن ٹائم ریسٹرائزیشن</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">راسٹر لیئر ماسک کی ترمیم</a>
+      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">ریسٹر پرت ماسک کی ترمیم</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">پرتوں کی دھندلاپن اور چپٹی پرتوں کا نظم کریں۔</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">تہوں کی دھندلاپن کا انتظام کریں & تہوں چپٹا</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">پرت کے وسائل کی ایک بڑی تعداد کی حمایت</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">پرت وسائل کی ایک بڑی تعداد کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">تصویری سیکشن کے وسائل کی ایک بڑی تعداد کا تعاون</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">تصویری سیکشن وسائل کی ایک بڑی تعداد کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">فل پرتوں کے ساتھ ہیرا پھیری</a>
+      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">بھریں تہوں کے ساتھ ہیرا پھیری</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers"> لنک شدہ پرتوں کو شامل کرنا اور ہٹانا</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">منسلک تہوں کو شامل کرنے اور ہٹانے</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -531,62 +531,62 @@ url: net/
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">AI فائلوں کو کھولنے اور برآمد کرنے کی اہلیت</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">AI فائلوں کو کھولنے اور برآمد کرنے کی صلاحیت</a>
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title"> تازہ ترین PSD API خصوصیات</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p> .NET API کے لیے Aspose.PSD اسے طاقتور بنانے کے لیے مسلسل مزید خصوصیات شامل کر رہا ہے۔ یہاں شامل کردہ تازہ ترین چنوں میں سے چند چنوں کی فہرست ہے۔</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>فل پرتوں کی حمایت۔ پیٹرن، رنگ اور گریڈینٹ بھریں۔</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>GdFlResource، VmskResource، PtFlResource اور VsmsResource کی سپورٹ</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li> JPEG/PNG/etc تصویری فائلوں کو PsdImage پر براہ راست لوڈ کیے بغیر لوڈ کریں</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>پرت ویکٹر ماسک اور ٹیکسٹ لیئر کسٹم فلپ روٹیٹ کی راسٹرائزیشن</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>برآمد کے لیے کلر فل کے ساتھ اسٹروک اثر کی رینڈرنگ</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     پی ایس ڈی کو مختلف راسٹر فارمیٹس میں ایکسپورٹ کریں۔
+     مختلف ریسٹر فارمیٹس میں پی ایس ڈی برآمد کریں
     </h2>
     <p>
-     Aspose.PSD for .NET PSD فائلوں کو کسی بھی معاون راسٹر امیج فارمیٹس میں برآمد کرنے کی صلاحیت فراہم کرتا ہے، کوڈ کی صرف چند لائنوں کے ساتھ۔
+     .net کے لئے Aspose.PSD پی ایس ڈی فائلوں کو کسی بھی معاون ریسٹر تصویر فارمیٹس میں برآمد کرنے کی صلاحیت فراہم کرتا ہے، کوڈ کی صرف چند لائنوں کے ساتھ.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      PSD کو PNG، JPEG اور TIFF - C# میں تبدیل کریں
+      پی ایس ڈی کو PNG، JPEG اور TIFF میں تبدیل کریں - C#
      </h3>
     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     پی ایس ڈی پرتوں تک رسائی اور ہیرا پھیری کریں۔
+     رسائی اور پی ایس ڈی تہوں جوڑتوڑ
     </h2>
     <p>
-     Aspose.PSD for .NET آپ کو تصویر یا متن کے ساتھ اس پر کھینچنے کی صلاحیت کے ساتھ PSD کی تہوں تک رسائی فراہم کرتا ہے۔ آپ تہوں کو ضم کر سکتے ہیں، تہوں پر متن کو اپ ڈیٹ کر سکتے ہیں، اثرات مرتب کر سکتے ہیں یا تصویر کے طور پر پرت برآمد کر سکتے ہیں۔ آپ چپٹی ہوئی PSD فائلوں کا پتہ لگانے یا تھمب نیلز بنانے کے لیے PSD .NET API بھی استعمال کر سکتے ہیں۔
+     .NET کے لئے Aspose.PSD آپ کو تصویر یا متن کے ساتھ اس پر اپنی طرف متوجہ کرنے کی صلاحیت کے ساتھ ایک پی ایس ڈی کی تہوں تک رسائی حاصل کرنے کی اجازت دیتا ہے. آپ تہوں کو ضم کر سکتے ہیں, تہوں پر متن اپ ڈیٹ, ایک تصویر کے طور پر اثرات یا برآمد پرت مقرر. آپ بھی چپٹی پی ایس ڈی فائلوں کا پتہ لگانے یا تمبنےل بنانے کے لئے پی ایس ڈی.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSD فائلیں پڑھیں یا بنائیں
+     پی ایس ڈی فائلیں پڑھیں یا بنائیں
     </h2>
     <p>
-     Aspose.PSD for .NET نہ صرف ہیرا پھیری اور تبدیلی کے لیے PSD اور PSB فائل فارمیٹس کو لوڈ کرنے کی حمایت کرتا ہے بلکہ یہ شروع سے PSD اور PSB فائلیں بنانے کی صلاحیت بھی فراہم کرتا ہے۔ .NET ڈویلپرز API کا استعمال ایسے منظرناموں کو خودکار کرنے کے لیے کر سکتے ہیں جو ان کے راستے میں مدد کر سکتے ہیں۔
+     .NET کے لئے Aspose.PSD نہ صرف ہیرا پھیری اور تبادلوں کے لئے پی ایس ڈی اور پی ایس بی فائل فارمیٹس لوڈ کرنے کی حمایت کرتا ہے بلکہ یہ سکریچ سے پی ایس ڈی اور پی ایس بی فائلوں کو تخلیق کرنے کی صلاحیت بھی فراہم کرتا ہے. .NET ڈویلپرز API کو منظرنامے کو خود کار طریقے سے استعمال کرنے کے لئے استعمال کرسکتے ہیں جو ان کے راستے میں مدد کرسکتے ہیں.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      شروع سے پی ایس ڈی بنائیں - C#
+      سکریچ سے پی ایس ڈی بنائیں - سی #
      </h3>
      {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
@@ -596,7 +596,7 @@ url: net/
      مختلف امیجنگ فلٹرز
     </h2>
     <p>
-     Aspose.PSD برائے .NET اپنی کلاس لائبریریوں کے ذریعے کلر ایڈجسٹمنٹ جیسی امیجنگ کی بنیادی خصوصیات فراہم کرتا ہے۔ ڈویلپرز API کے ذریعے لوڈ کردہ راسٹر امیج پر آسانی سے چمک، کنٹراسٹ یا گاما کو ایڈجسٹ کر سکتے ہیں۔ مزید برآں، ڈویلپرز متحرک طور پر تصاویر کو دھندلا یا دھندلا کر سکتے ہیں اور ساتھ ہی مقبول فلٹرز استعمال کر سکتے ہیں جن میں میڈین، گاس وینر، موشن وینر اور بریڈلی تھریشولڈ شامل ہیں۔
+     .NET کے لئے Aspose.PSD اس کی کلاس لائبریریوں کے ذریعے اس طرح کے رنگ ایڈجسٹمنٹ کے طور پر بنیادی امیجنگ خصوصیات فراہم کرتا ہے. ڈویلپرز آسانی سے چمک ایڈجسٹ کر سکتے ہیں, اس کے برعکس یا گاما raster تصویر پر API کی طرف سے بھری ہوئی. مزید برآں، ڈویلپرز متحرک طور پر تصاویر کو دھندلا یا دھندلا سکتے ہیں اور ساتھ ہی میڈین، گاؤس وینر، موشن وینر اور بریڈلی تھراسلیڈ سمیت مقبول فلٹر استعمال کرسکتے ہیں.
     </p>
    </div>
   </div>
@@ -612,18 +612,19 @@ url: net/
 {{< blocks/products/pf/slr-element name="دستاویزات" href="https://docs.aspose.com/psd/net/" >}}
 {{< blocks/products/pf/slr-element name="ماخذ کوڈ" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API حوالہ جات" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="مخزن" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="ٹیوٹوریل ویڈیوز" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="پروڈکٹ سپورٹ" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="مفت سپورٹ" href="https://forum.aspose.com/c/psd" >}}
-{{< blocks/products/pf/slr-element name="معاوضہ سپورٹ" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="ادا شدہ سپورٹ" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="بلاگ" href="https://blog.aspose.com/category/psd/" >}}
-{{< blocks/products/pf/slr-element name="ریلیز نوٹس" href="https://docs.aspose.com/psd/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="ریلیز نوٹ" href="https://docs.aspose.com/psd/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle=" .NET کے لیے Aspose.PSD کیوں؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="صارفین کی فہرست" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="کیوں Aspose.PSD. نیٹ کے لئے؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="گاہکوں کی فہرست" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="کامیابی کی کہانیاں" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -631,7 +632,7 @@ url: net/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD دیگر مقبول ترقیاتی ماحول کے لیے انفرادی PSD APIs پیش کرتا ہے جیسا کہ ذیل میں درج ہے:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD ذیل میں درج کے طور پر دیگر مقبول ترقی کے ماحول کے لئے انفرادی پی ایس ڈی APIs پیش کرتا ہے:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

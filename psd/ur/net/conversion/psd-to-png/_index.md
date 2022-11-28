@@ -1,6 +1,6 @@
 ---
-title: PSD کو C# کے ساتھ PNG میں تبدیل کریں
-description: .NET API کے ذریعے PSD، PSB اور AI فائل برآمد کریں۔
+title: پی ایس ڈی کو سی # کے ساتھ PNG میں تبدیل کریں
+description: .NET API کے ذریعے پی ایس ڈی، پی ایس بی اور اے اے فائل برآمد کریں
 family: psd
 platformtag: net
 feature: conversion
@@ -11,24 +11,24 @@ url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSD کو PNG میں تبدیل کریں" h2=" .NET فوٹوشاپ API برائے PSD اور PSB کنورژن کو راسٹر امیجز بشمول PNG" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="پی ایس ڈی کو PNG کے ذریعہ سی # میں تبدیل کریں" h2="پی ایس ڈی اور پی ایس بی تبادلوں کے لئے .NET فوٹوشاپ API PNG سمیت ریسٹر تصاویر کے لئے" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="پی ایس ڈی کی پی این جی کے طور پر اعلیٰ معیار کی رینڈرنگ" %}}
-1. [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ سے PSD لوڈ کریں
-1. [PngOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) کلاس کی ایک مثال بنائیں
-1. کال کریں [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
-1. پاس آؤٹ پٹ فائل کا نام اور PngOptions کا آبجیکٹ
+{{% blocks/products/pf/agp/feature-section-col title="PNG کے طور پر پی ایس ڈی کے اعلی معیار کی انجام" %}}
+1. پی ایس ڈی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
+ [پی این جی آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) جماعت
+1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
+1. پاس آؤٹ پٹ فائل کا نام اور pngOptions کا اعتراض
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API کے ساتھ شروع کریں۔" %}}
-کمانڈ لائن سے بطور ```nuget install Aspose.PSD``` یا ```Install-Package Aspose.PSD``` کے ساتھ Visual Studio کے پیکیج مینیجر کنسول کے ذریعے انسٹال کریں۔
+{{% blocks/products/pf/agp/feature-section-col title=".NET فوٹوشاپ API کے ساتھ شروع کریں" %}}
+کمانڈ لائن سے انسٹال کریں ```nuget install Aspose.PSD``` یا ویژیول سٹوڈیو کے پیکیج مینیجر کنسول کے ذریعے ```Install-Package Aspose.PSD```
 
-متبادل طور پر، [ڈاؤن لوڈز](https://releases.aspose.com/psd/net) سے زپ فائل میں آف لائن MSI انسٹالر یا DLLs حاصل کریں۔
+متبادل طور پر، زپ فائل میں آف لائن MSI انسٹالر یا DLL حاصل کریں [ڈاؤن لوڈ](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=". NET C# کوڈ برائے PSD سے PNG کی تبدیلی" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="پی ایس ڈی کے لئے پی ایس ڈی سے PNG تبادلوں کے لئے .NET سی # کوڈ" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-png.cs" >}}
 
