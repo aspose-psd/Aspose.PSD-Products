@@ -1,8 +1,9 @@
 ---
-title: PSD PSB＆AIフォーマット変換ソリューション
+title: PSD PSB および AI フォーマット変換ソリューション
 weight: 7730
 limit: 
-description: Adob​​e PhotoShop＆Illustratorファイルの画像やその他の形式を変換する
+description: アドビフォトショップとイラストレーターのファイル、画像、その他の形式の変換
+keywords: ["psd", "psb", "ai", "conversion to png", "conversion to jpg", "conversion to pdf", "convert to gif", "convert to bmp", "convert to tiff"]
 url: conversion/
 ---
 

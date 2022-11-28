@@ -1,22 +1,22 @@
 ---
-title: C＃.NET Photoshop Manipulation API-Aspose
+title: C# .NET フォトショップ操作 API-アスポーズ
 weight: 90
-description: Photoshop PSD PSB形式の編集と変換を作成するためのC＃ASP.NETVB.NETPhotoshopライブラリ
+description: C# ASP.NET VB.NET Photoshop PSB フォーマットを作成、編集、変換するための Photoshop ライブラリ
 url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Photoshopファイルを操作するための.NETAPI" h2=" Adob​​e Photoshopに依存せずに、PSDおよびPSBファイルを作成、読み取り、編集、変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName=" Aspose.PSD" subTitlepfName=" for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1="フォトショップファイルを操作するための.NET API" h2="アドビフォトショップに依存することなく、PSDおよびPSBファイルを作成、読み取り、編集、変換できます。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p> Aspose.PSD for .NETは、高度なPSDであり、AdobePhotoshopやAdobeIllustratorに依存しないエントリーレベルのAIファイル形式の操作APIです。APIを使用すると、Photoshopファイルを作成および編集できるだけでなく、レイヤープロパティの更新、透かしの追加、グラフィック操作の実行、またはあるファイル形式から別のファイル形式への変換を行うことができます。</p>
+<p>Aspose.PSD for .NET は、アドビフォトショップやアドビイラストレーターに依存しない、高度な PSD およびエントリーレベルの AI ファイル形式操作 API です。このAPIを使用すると、Photoshopファイルを作成および編集できるだけでなく、レイヤープロパティの更新、ウォーターマークの追加、グラフィック操作の実行、またはあるファイル形式から別のファイル形式への変換を行うことができます。</p>
 
 <p>
- APIは、レイヤーとしてのインポートと次の形式へのエクスポートをサポートしています。
+ API は、レイヤーとしてのインポートと次の形式へのエクスポートをサポートしています。
  <a href="https://docs.fileformat.com/image/png/">
   PNG
  </a>
@@ -26,7 +26,7 @@ url: net/
  </a>
  ,
  <a href="https://docs.fileformat.com/image/j2k/">
-  JPEG2000
+  JPEG
  </a>
  ,
  <a href="https://docs.fileformat.com/image/gif/">
@@ -44,11 +44,11 @@ url: net/
  <a href="https://docs.fileformat.com/image/psd/">
   PSD
  </a>
- と
+ そして
  <a href="https://docs.fileformat.com/image/psb/">
   PSB
  </a>
- 選択可能なテキストを使用してPDFにエクスポートします。Aspose.PSDは、調整レイヤー、テキストレイヤーのレンダリングと編集、レイヤーの塗りつぶし、レイヤー効果、レイヤーのラスターとベクターマスクの編集などのAdobePhotoshop機能を部分的にサポートします。
+ 選択可能なテキストとともに Pdf にエクスポートします。Aspose.PSD は、調整レイヤー、テキストレイヤーのレンダリングと編集、塗りつぶしレイヤー、レイヤーエフェクト、レイヤーのラスターマスクとベクターマスクの編集などの Adobe Photoshop 機能を部分的にサポートしています。
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -56,7 +56,7 @@ url: net/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="概要" description="APIの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="API の概要" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -68,54 +68,54 @@ url: net/
      回転または反転
     </li>
     <li>
-     スケールまたはクロップ
+     スケーリングまたはクロップ
     </li>
     <li>
      ディザリング
     </li>
     <li>
-     Exifデータの読み取りまたは書き込み
+     Exif データの読み取りまたは書き込み
     </li>
     <li>
-     行列変換
+     マトリックス変換
     </li>
     <li>
      図形の描画と塗りつぶし
     </li>
     <li>
-     明るさ、コントラスト、またはガンマを調整します
+     明るさ、コントラスト、ガンマの調整
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Photoshopの機能
+    フォトショップ機能
    </header>
    <ul>
     <li>
-     ファイルの作成
+     ファイル作成
     </li>
     <li>
-     ファイルの読み込み
+     ファイル読み込み
     </li>
     <li>
-     生データ処理
+     未加工データ処理
     </li>
     <li>
-     RLE圧縮
+     RLE 圧縮
     </li>
     <li>
      画像への変換
     </li>
     <li>
-     レイヤーを塗りつぶす
+     フィルレイヤー
     </li>
     <li>
      調整レイヤー
     </li>
     <li>
-     レイヤー効果
+     レイヤーエフェクト
     </li>
     <li>
      ラスター、ベクター、クリッピングマスク
@@ -124,7 +124,7 @@ url: net/
      テキストレイヤー
     </li>
     <li>
-     ほとんどのPSD/PSBファイルの画像モード
+     ほとんどのPSD/PSBファイルイメージモード
     </li>
    </ul>
   </div>
@@ -132,7 +132,7 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NETPSD処理API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=「.NET PSD プロセッシング API」 src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -141,7 +141,7 @@ url: net/
     <em>
      にとって
     </em>
-    。ネット
+    .NET
    </small>
   </footer>
  </div>
@@ -150,40 +150,40 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description=" Aspose.PSD for .NETは、2.0以降のすべての.NETフレームワークをサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォーム独立性" description=".NET 用 Aspose.PSD は 2.0 以降のすべての.NET フレームワークをサポートしています。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    。ネットフレームワーク
+    .NET フレームワーク
    </header>
    <ul>
     <li>
-     Windowsアプリケーション
+     ウィンドウズアプリケーション
     </li>
     <li>
-     ASP.NETWebアプリケーション
+     ASP.NET ウェブアプリケーション
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    .NET標準
+    .NET スタンダード
    </header>
    <ul>
     <li>
-     ASP.NETCoreWebアプリケーション
+     ASP.NET コア Web アプリケーション
     </li>
     <li>
-     .NETCoreベースのWindowsアプリケーション
+     .NET コアベースの Windows アプリケーション
     </li>
    </ul>
   </div>
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="PSD操作API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=「PSD 操作API」 src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -192,7 +192,7 @@ url: net/
     <em>
      にとって
     </em>
-    。ネット
+    .NET
    </small>
   </footer>
  </div>
@@ -201,17 +201,17 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description=" Aspose.PSD for .NETは、最も一般的な[Photoshopとラスターイメージ]（https://docs.aspose.com/psd/net/supported-file-formats/）ファイル形式をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description=".NET 用 Aspose.PSD は、最も一般的な [Photoshop とラスターイメージ] (https://docs.aspose.com/psd/net/supported-file-formats/) ファイル形式をサポートしています。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    入出力
+    入力/出力
    </header>
    <ul>
     <li>
      <b>
-      Photoshop：
+      フォトショップ:
      </b>
      PSD、PSB
     </li>
@@ -225,15 +225,15 @@ url: net/
    <ul>
     <li>
      <b>
-      ラスター形式：
+      ラスタフォーマット:
      </b>
      TIFF、JPEG、PNG、GIF、BMP、JPEG2000
     </li>
     <li>
      <b>
-      他の：
+      その他:
      </b>
-     PDF
+     PDFファイル
     </li>
    </ul>
    <header>
@@ -242,9 +242,9 @@ url: net/
    <ul>
     <li>
      <b>
-      イラストレーター：
+      イラストレーター:
      </b>
-     AI
+     人工知能
     </li>
    </ul>
   </div>
@@ -252,7 +252,7 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=" .NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=「.NET PSD API」 src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -261,7 +261,7 @@ url: net/
     <em>
      にとって
     </em>
-    。ネット
+    .NET
    </small>
   </footer>
  </div>
@@ -280,44 +280,44 @@ url: net/
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度な.NETPSD操作API機能
+    .NET PSD 操作用の高度な API 機能
    </h2>
    <p>
-    ＆nbsp
+    &amp;nbsp
    </p>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Photoshopファイルを画像に変換する</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">フォトショップファイルを画像に変換</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Photoshopファイルを最初から作成する</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">フォトショップファイルを一から作成する</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">既存のPhotoshopファイルをロードする</a>
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">既存の Photoshop ファイルを読み込む</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">長方形の領域にクリップします</a>
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">長方形の領域にクリップする</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images/">基本的な図形を描画して塗りつぶす</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images/">基本図形の描画と塗りつぶし</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -331,7 +331,7 @@ url: net/
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">レイヤーをマージ</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">レイヤーを結合</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,21 +345,21 @@ url: net/
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSDファイルプレビューピクセル-完璧なエクスポート</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD ファイルプレビューピクセルパーフェクトエクスポート</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">チャネルあたり8/16/32ビットのRGB、CMYK、LAB、グレースケールのサポート</a>
+      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">チャンネルあたり8/16/32ビットのRGB、CMYK、LAB、グレースケールのサポート</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">レイヤー効果の適用</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">レイヤーエフェクトの適用</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +373,7 @@ url: net/
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シートカラーの強調表示
+     シートカラーハイライト
     </p>
    </div>
    <div class="col-lg-4">
@@ -401,7 +401,7 @@ url: net/
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     白黒調整レイヤー
+     モノクロ調整レイヤー
     </p>
    </div>
    <div class="col-lg-4">
@@ -447,7 +447,7 @@ url: net/
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">調整レイヤーを反転</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">反転調整レイヤー</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -461,7 +461,7 @@ url: net/
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">写真フィルター調整レイヤー</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">フォトフィルター調整レイヤー</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -489,7 +489,7 @@ url: net/
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">レイヤーの不透明度を管理してレイヤーをフラット化</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">レイヤーの不透明度の管理とレイヤーの平坦化</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -510,14 +510,14 @@ url: net/
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">塗りつぶしレイヤーを使用した操作</a>
+      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">フィルレイヤーによる操作</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">リンクされたレイヤーの追加と削除</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">リンクレイヤーの追加と削除</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -531,62 +531,62 @@ url: net/
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">AIファイルを開いてエクスポートする機能</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">AI ファイルを開いてエクスポートする機能</a>
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">最新のPSDAPI機能</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p> Aspose.PSD for .NET APIは、強力にするために継続的に機能を追加しています。ここに追加された最新のものからのいくつかのピックのリストがあります。</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>塗りつぶしレイヤーのサポート。パターン、色、グラデーションの塗りつぶし</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li> GdFlResource、VmskResource、PtFlResource、およびVsmsResourceのサポート</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li> JPEG / PNG/etc画像ファイルを直接ロードせずにPsdImageにロードする</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>レイヤーベクターマスクとテキストレイヤーのカスタムFlipRotateのラスタライズ</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>エクスポート用のカラーフィルを使用したスト​​ローク効果のレンダリング</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSDをさまざまなラスター形式にエクスポートする
+     PSD をさまざまなラスター形式にエクスポート
     </h2>
     <p>
-     Aspose.PSD for .NETは、わずか数行のコードで、PSDファイルをサポートされているラスターイメージ形式のいずれかにエクスポートする機能を提供します。
+     Aspose.PSD for .NET には、わずか数行のコードで PSD ファイルをサポートされている任意のラスターイメージ形式にエクスポートする機能があります。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      PSDをPNG、JPEG、TIFFに変換-C＃
+      PSD ファイルを PNG、JPEG、TIFF 形式に変換-C#
      </h3>
     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSDレイヤーへのアクセスと操作
+     PSD レイヤーへのアクセスと操作
     </h2>
     <p>
-     Aspose.PSD for .NETを使用すると、PSDのレイヤーにアクセスして、画像またはテキストで描画することができます。レイヤーをマージしたり、レイヤーのテキストを更新したり、効果を設定したり、レイヤーを画像としてエクスポートしたりできます。また、PSD .NET APIを使用して、平坦化されたPSDファイルを検出したり、サムネイルを作成したりすることもできます。
+     Aspose.PSD for .NET では、PSD のレイヤーにアクセスして、画像またはテキストのいずれかを使って描画できます。レイヤーの結合、レイヤー上のテキストの更新、効果の設定、レイヤーを画像としてエクスポートできます。PSD .NET API を使用して、統合化された PSD ファイルを検出したり、サムネイルを作成したりすることもできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSDファイルの読み取りまたは作成
+     PSD ファイルの読み取りまたは作成
     </h2>
     <p>
-     Aspose.PSD for .NETは、操作と変換のためのPSDとPSBファイル形式の読み込みをサポートするだけでなく、PSDとPSBファイルを最初から作成する機能も提供します。.NET開発者は、APIを使用して、途中で役立つ可能性のあるシナリオを自動化できます。
+     Aspose.PSD for .NET では、操作や変換のための PSD および PSB ファイル形式の読み込みがサポートされるだけでなく、PSD および PSB ファイルを一から作成することもできます。.NET 開発者は API を使用して、作業に役立つシナリオを自動化できます。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ゼロからPSDを作成-C＃
+      PSD をゼロから作成-C#
      </h3>
      {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
@@ -596,7 +596,7 @@ url: net/
      さまざまなイメージングフィルター
     </h2>
     <p>
-     Aspose.PSD for .NETは、クラスライブラリを介した色調整などのコアイメージング機能を提供します。開発者は、APIによってロードされたラスターイメージの明るさ、コントラスト、またはガンマを簡単に調整できます。さらに、開発者は画像を動的にディザリングまたはぼかしたり、メディアン、ガウスウィーナー、モーションウィーナー、ブラッドリーしきい値などの一般的なフィルターを使用したりできます。
+     Aspose.PSD for .NET は、クラスライブラリによる色調整などの主要なイメージング機能を提供します。開発者は、API によってロードされたラスターイメージの明るさ、コントラスト、ガンマを簡単に調整できます。さらに、開発者は画像を動的にディザリングしたりぼかしたりできるほか、中央値、ガウスウィーナー、モーションウィーナー、ブラッドレーしきい値などの一般的なフィルターも使用できます。
     </p>
    </div>
   </div>
@@ -609,9 +609,10 @@ url: net/
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="ドキュメント" href="https://docs.aspose.com/psd/net/" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/psd/net/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="リポジトリ" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -622,16 +623,16 @@ url: net/
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/psd/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜAspose.PSDfor.NETなのか？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle=".NET 用の Aspose.PSD が選ばれる理由" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSDは、以下に示すように、他の一般的な開発環境向けに個別のPSDAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD には、以下に示すように、その他の一般的な開発環境向けに個別の PSD API が用意されています。" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

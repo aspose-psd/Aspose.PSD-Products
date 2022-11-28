@@ -1,23 +1,23 @@
 ---
-title: JavaPhotoshopドキュメント変換
-description: Javaライブラリを介してPhotoshopPSD、PSBをBMP、JPG、PNG、TIFF、PDFなどの画像に変換します。
+title: Java フォトショップドキュメント変換
+description: フォトショップのPSD、PSBをJavaライブラリ経由でBMP、JPG、PNG、TIFF、PDFなどの画像に変換します。
 url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介したAdobe®Photoshop®ファイル変換" h2=" Photoshop PSD、PSBをJPG、PNG、BMP、TIFF画像、PDFに変換して、クロスプラットフォームのJavaアプリケーションを構築します。" >}}
+{{< blocks/products/pf/feature-page-header h1="Java によるアドビ® フォトショップ® ファイル変換" h2="フォトショップのPSD、PSBをJPG、PNG、BMP、TIFFイメージおよびPDFに変換して、クロスプラットフォームのJavaアプリケーションを構築してください。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe®Photoshop®のPSD形式は、名刺、ロゴデザイン、チラシモックアップ、Webサイトデザインなどをデザインするためのデザイナーの形式です。デザイナーがAdobePhotoshopを介して、JPG、PNG、GIF、TIFFなどの単一の画像にPSDレイヤーをエクスポートするのは一般的なケースです。任意のJavaソリューション内でフォトショップPSDをラスター画像およびPDFに変換する場合、** Java PSDAPI**で簡単に行うことができます。PSD変換自動化アプリケーションの場合、以下のサンプルコードをラスター画像とPDF変換に簡単に統合できます。
+Adobe® Photoshop® のPSD形式は、名刺、ロゴデザイン、チラシのモックアップ、ウェブサイトのデザインなどをデザインするためのデザイナーのフォーマットです。デザイナーは、Adobe Photoshopを使用してPSDレイヤーをJPG、PNG、GIF、TIFFなどの単一の画像にエクスポートするのが一般的なケースです。フォトショップのPSDを任意のJavaソリューション内でラスターイメージやPDFに変換する場合、**Java PSD API**を使用すると簡単に変換できます。どのPSD変換自動化アプリケーションでも、以下のサンプルコードはラスター画像やPDF変換に簡単に統合できます。 **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="PhotoshopPSDからPDFへの変換" %}}
+{{% blocks/products/pf/feature-page-section h2="フォトショップ PSD から PDF への変換" %}}
 
-Photoshop PSDをPDFに変換するには、[Image class]（https://apireference.aspose.com/psd/java/com.aspose.psd/Image）を使用してPhotoshopPSDファイルをロードします。関連するPDF設定用に、[PdfOptionsクラス]（https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions）オブジェクトを作成します。最後に、[Image.save]（https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-）メソッドを呼び出して出力しますPDFドキュメントと特定の設定オプション。
+フォトショップ PSD を PDF に変換するには、以下を使用して Photoshop PSD ファイルをロードします。 [イメージクラス](https://apireference.aspose.com/psd/java/com.aspose.psd/Image)。作成 [PDF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) オブジェクト、関連する PDF 設定用。いよいよ電話 [画像. 保存](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) 出力PDFドキュメントと特定の設定オプションを持つメソッド。
 
-{{% blocks/products/pf/feature-page-code h3="PhotoshopPSDをPDFに変換するJavaコード" %}}
+{{% blocks/products/pf/feature-page-code h3="フォトショップ PSD を PDF に変換するための Java コード" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-pdf-conversion.java" >}}
 
@@ -27,11 +27,11 @@ Photoshop PSDをPDFに変換するには、[Image class]（https://apireference.
 
 {{< blocks/products/pf/feature-page-options pairs="psb-to-pdf psd-to-pdf" >}}
 
-{{% blocks/products/pf/feature-page-section h2=" Photoshop PSDをJPG、PNG、BMP画像に変換する" %}}
+{{% blocks/products/pf/feature-page-section h2="フォトショップ PSD を JPG、PNG、BMP イメージに変換" %}}
 
-Java PSD APIは、変換のための同様のパターンを提供します。したがって、ラスター画像JPG、BMP、PNG、GIF、TIFFに変換するパターンは、特定の画像設定ではなく、PDFと同じです。APIは、[PngOptions]（https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions）、[JpegOptions]（https://apireference.aspose.com/psd/java/com）を提供します.aspose.psd.imageoptions / JpegOptions）、[BmpOptions]（https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions）、[GifOptions]（https://apireference.aspose .com / psd / java / com.aspose.psd.imageoptions / GifOptions）、[Jpeg2000Options]（https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options）for PNG、JPG 、BMP、GIF、JP2それぞれ。したがって、プロセスはファイルをロードし、関連する画像オプションを使用して、PSDを選択した画像に保存します。
+Java PSD API でも同様の変換パターンが用意されています。そのため、JPG、BMP、PNG、GIF、TIFFのラスター画像への変換パターンは、特定の画像設定というよりはPDFと同じです。API が提供する [PNG オプション](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JPEG オプション](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions), [BMP オプション](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GIF オプション](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Jpeg 2000 オプション](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) それぞれPNG、JPG、BMP、GIF、JP2に対応しています。そのため、ファイルをロードし、関連する画像オプションを使用して、選択した画像にPSDを保存します。
 
-{{% blocks/products/pf/feature-page-code h3="PhotoshopPSDを画像に変換するJavaコード" %}}
+{{% blocks/products/pf/feature-page-code h3="フォトショップ PSD をイメージに変換する Java コード" %}}
 
 {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "photoshop-psd-to-images-conversion.java" >}}
 
