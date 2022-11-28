@@ -1,6 +1,6 @@
 ---
-title: PSB کو C# کے ساتھ BMP میں تبدیل کریں
-description: .NET API کے ذریعے PSD، PSB اور AI فائل برآمد کریں۔
+title: پی ایس بی کو بی ایم پی کے ساتھ سی # میں تبدیل کریں
+description: .NET API کے ذریعے پی ایس ڈی، پی ایس بی اور اے اے فائل برآمد کریں
 family: psd
 platformtag: net
 feature: conversion
@@ -11,25 +11,24 @@ url: psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# کے ذریعے PSB کو BMP میں تبدیل کریں" h2=" .NET فوٹوشاپ API برائے PSD اور PSB کنورژن بشمول BMP" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="پی ایس بی کو بی ایم پی کے ذریعہ سی # میں تبدیل کریں" h2="پی ایس ڈی اور پی ایس بی تبادلوں کے لئے .NET فوٹوشاپ API BMP سمیت ریسٹر تصاویر کے لئے" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" PSB کی BMP کے طور پر اعلیٰ معیار کی رینڈرنگ" %}}
-1. PSB کو [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ سے لوڈ کریں۔
-1. [BmpOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) کلاس کی ایک مثال بنائیں
-1. کال کریں [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
-1. پاس آؤٹ پٹ فائل کا نام اور BmpOptions کا آبجیکٹ
+{{% blocks/products/pf/agp/feature-section-col title="بی ایم پی کے طور پر پی ایس بی کے اعلی معیار کی انجام" %}}
+1. پی ایس بی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
+ [بی ایم آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) جماعت
+1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
+1. BMoptions کے آؤٹ پٹ فائل کا نام اور اعتراض پاس
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API کے ساتھ شروع کریں۔" %}}
-کمانڈ لائن سے بطور ```nuget install Aspose.PSD``` یا ```Install-Package Aspose.PSD``` کے ساتھ Visual Studio کے پیکیج مینیجر کنسول کے ذریعے انسٹال کریں۔
+{{% blocks/products/pf/agp/feature-section-col title=".NET فوٹوشاپ API کے ساتھ شروع کریں" %}}
+کمانڈ لائن سے انسٹال کریں ```nuget install Aspose.PSD``` یا ویژیول سٹوڈیو کے پیکیج مینیجر کنسول کے ذریعے ```Install-Package Aspose.PSD```
 
-متبادل طور پر، [ڈاؤن لوڈز](https://releases.aspose.com/psd/net) سے زپ فائل میں آف لائن MSI انسٹالر یا DLLs حاصل کریں۔
+متبادل طور پر، زپ فائل میں آف لائن MSI انسٹالر یا DLL حاصل کریں [ڈاؤن لوڈ](https://releases.aspose.com/psd/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
 
-PSB سے BMP کی تبدیلی کے لیے NET C# کوڈ{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSB to BMP Conversion" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="پی ایس بی بی کے لئے پی ایم پی تبادلوں کے لئے .NET سی # کوڈ" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-bmp.cs" >}}
 

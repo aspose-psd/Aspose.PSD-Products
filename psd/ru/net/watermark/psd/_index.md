@@ -18,8 +18,8 @@ url: psd/
  API, который представляет собой многофункциональный, мощный и простой в использовании API для работы с документами для платформы C#. Открыть
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  менеджер пакетов, поиск
- и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
+ и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -50,7 +50,6 @@ PM> Install-Package Aspose.PSD
 + Определите и установите шрифт, кисть и формат для текста водяных знаков
 + Нарисуйте водяной знак с помощью функции Graphics.DrawString
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные требования" %}}
@@ -64,7 +63,6 @@ PM> Install-Package Aspose.PSD
 - Microsoft Windows или совместимая ОС с платформой .NET Framework, .NET Core.
 - Среда разработки, такая как Microsoft Visual Studio.
 - Файл Aspose.PSD для .NET, на который ссылается ваш проект.
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

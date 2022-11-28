@@ -55,11 +55,9 @@ url: ai-to-psb/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载输入 AI 图像
--初始化
- [PSD 选项](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/psdOptions) 类对象
+-初始化 [PSD 选项](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/psdOptions) 类对象
 -指定版本
 -保存输出 PSB 文件
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-psb/
 
 -微软 Windows 或带有 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境的兼容操作系统。
 -直接从以下网址获取最新版本的 Aspose.PSD for Java
-
  [Aspose Maven 存储库](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

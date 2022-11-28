@@ -18,8 +18,8 @@ url: psd/
  API, который представляет собой многофункциональный, мощный и простой в использовании API для платформы C#, который можно использовать с любым Viewer. Открыть
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  менеджер пакетов, поиск
- и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
+ и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Консольная команда диспетчера пакетов" offSpacer="true" %}}
 
@@ -56,7 +56,6 @@ PM> Install-Package Aspose.PSD
 - Microsoft Windows или совместимая ОС с платформой .NET Framework, .NET Core
 - Среда разработки, такая как Microsoft Visual Studio
 - Файл Aspose.PSD для .NET, на который ссылается ваш проект
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

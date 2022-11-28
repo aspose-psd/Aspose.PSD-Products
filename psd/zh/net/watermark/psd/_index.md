@@ -18,8 +18,8 @@ url: psd/
  API 是适用于 C# 平台的功能丰富、强大且易于使用的文档操作 API。打开
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  包管理器，搜索
- 并安装。您也可以使用包管理器控制台中的以下命令。
 
+ 并安装。您也可以使用包管理器控制台中的以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -50,7 +50,6 @@ PM> Install-Package Aspose.PSD
 + 定义和设置水印文本的字体、画笔和格式
 + 使用 Graphics.drawString 函数绘制水印
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -64,7 +63,6 @@ PM> Install-Package Aspose.PSD
 -微软 Windows 或具有 .NET Framework、.NET Core 的兼容
 -像微软 Visual Studio 这样的开发环境。
 -您的项目中引用的 Aspose.PSD for .NET。
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

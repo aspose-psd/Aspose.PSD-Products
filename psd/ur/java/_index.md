@@ -1,20 +1,20 @@
 ---
-title: Java Photoshop API | PSD اور PSB فارمیٹ پارس کرنا
+title: جاوا فوٹوشاپ API | پی ایس ڈی اور پی ایس بی فارمیٹ کی تجزیہ
 weight: 270
-description: فوٹوشاپ سافٹ ویئر کی ضرورت کے بغیر کسی بھی جاوا ایپلی کیشن میں اس لائبریری کا استعمال کرتے ہوئے PSD اور PSB فارمیٹس میں ترمیم یا تبدیل کریں
+description: فوٹوشاپ سافٹ ویئر کی ضرورت کے بغیر کسی بھی جاوا درخواست کے اندر اس لائبریری کا استعمال کرتے ہوئے پی ایس ڈی اور پی ایس بی فارمیٹس میں ترمیم کریں
 url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="فوٹوشاپ فائلوں کے لیے جاوا لائبریری" h2="جاوا ایپلیکیشنز کے اندر سے PSD اور PSB دستاویز کے فارمیٹس بنائیں، لوڈ کریں، ان میں ترمیم کریں اور رینڈر کریں۔" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" downloadUrl="https://releases.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="فوٹوشاپ فائلوں کے لئے جاوا لائبریری" h2="جاوا ایپلی کیشنز کے اندر سے پی ایس ڈی اور پی ایس بی دستاویز فارمیٹس بنائیں، لوڈ کریں، ترمیم کریں اور رینڈر کریں." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="جاوا کے لیے" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- جاوا کے لیے Aspose.PSD Adobe Photoshop فائل فارمیٹ مینیپولیشن API استعمال کرنے میں آسان ہے۔ یہ آسانی سے پی ایس ڈی، پی ایس بی اور اے آئی فائلوں کو لوڈ اور پڑھ سکتا ہے، جس سے جاوا ڈویلپرز کو ایڈوب فوٹوشاپ انسٹال کرنے کی ضرورت کے بغیر پرت کی خصوصیات کو اپ ڈیٹ کرنے، واٹر مارکس، کمپریشن، روٹیشن، اسکیلنگ یا ایک فائل فارمیٹ کو دوسرے میں رینڈر کرنے جیسے کام انجام دینا ممکن بناتا ہے۔ تصویری فارمیٹس جیسے JPEG, TIFF, GIF, PNG, BMP, JPEG2000 اور آسانی سے کھولے اور کوڈ کی صرف چند لائنوں کے ساتھ ایک پرت کے طور پر شامل کیے جا سکتے ہیں۔ پی ایس ڈی، پی ایس بی اور اے آئی فائلوں کو درج شدہ فارمیٹ اور پی ڈی ایف فارمیٹ میں بھی ایکسپورٹ کیا جا سکتا ہے۔
+ جاوا کے لئے Aspose.PSD ایڈوب فوٹوشاپ فائل فارمیٹ ہیرا پھیری API استعمال کرنے کے لئے ایک آسان ہے. یہ آسانی سے پی ایس ڈی، پی ایس بی اور اے آئی فائلوں کو لوڈ اور پڑھ سکتا ہے، جاوا ڈویلپرز کے لئے پرت کی خصوصیات کو اپ ڈیٹ کرنے، پانی کے نشان، کمپریشن، گردش، اسکیلنگ یا ایڈوب فوٹوشاپ کو انسٹال کرنے کی ضرورت کے بغیر کسی فائل کی شکل کو دوسرے میں انجام دینے جیسے آپریشن کرنے کے لئے ممکن بناتا ہے. تصویر فارمیٹس جیسے JPEG، TIFF، GIF، PNG، BMP، JPEG2000 اور آسانی سے کھول دیا جا سکتا ہے اور کوڈ کی چند لائنوں کے ساتھ ایک پرت کے طور پر شامل کیا جا سکتا ہے. پی ایس ڈی، پی ایس بی اور اے اے فائلوں کو درج کردہ شکل میں برآمد کیا جا سکتا ہے، اور مزید پی ڈی ایف فارمیٹ میں
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,7 +22,7 @@ url: java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="ایک نظر میں" description="API کا ایک جائزہ۔" >}}
+{{< blocks/products/pf/carousel-item h3="ایک نظر میں" description="API کا ایک جائزہ." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,25 +33,25 @@ url: java/
    </header>
    <ul>
     <li>
-     گھمائیں یا پلٹائیں۔
+     گھمائیں یا پلٹائیں
     </li>
     <li>
      پیمانہ یا فصل
     </li>
     <li>
-     بجھانا
+     ڈتھرنگ
     </li>
     <li>
-     Exif ڈیٹا پڑھیں یا لکھیں۔
+     Exif ڈیٹا پڑھیں یا لکھیں
     </li>
     <li>
-     میٹرکس ٹرانسفارمیشنز
+     میٹرکس تبدیلیوں
     </li>
     <li>
-     شکلیں بنانا اور بھرنا
+     ڈرائنگ اور شکلیں بھرنے
     </li>
     <li>
-     چمک، کنٹراسٹ یا گاما کو ایڈجسٹ کریں۔
+     چمک، برعکس یا گاما کو ایڈجسٹ کریں
     </li>
    </ul>
   </div>
@@ -62,10 +62,10 @@ url: java/
    </header>
    <ul>
     <li>
-     فائل کی تخلیق
+     فائل تخلیق
     </li>
     <li>
-     فائل لوڈ ہو رہی ہے۔
+     فائل لوڈنگ
     </li>
     <li>
      خام ڈیٹا پروسیسنگ
@@ -74,25 +74,25 @@ url: java/
      RLE کمپریشن
     </li>
     <li>
-     تصاویر میں تبدیلی
+     تصاویر میں تبادلوں
     </li>
     <li>
-     پرتیں بھریں۔
+     تہوں کو بھریں
     </li>
     <li>
-     ایڈجسٹمنٹ کی پرتیں۔
+     ایڈجسٹمنٹ تہوں
     </li>
     <li>
      پرت کے اثرات
     </li>
     <li>
-     راسٹر، ویکٹر اور کلپنگ ماسک
+     ریسٹر، ویکٹر اور تراشہ ماسک
     </li>
     <li>
-     متن کی تہیں
+     متن کی تہوں
     </li>
     <li>
-     زیادہ تر PSD/PSB فائلوں کے امیج موڈز
+     زیادہ تر پی ایس ڈی/پی ایس بی فائلوں کی تصویر کے طریقوں
     </li>
    </ul>
   </div>
@@ -100,16 +100,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="جاوا پی ایس ڈی پروسیسنگ API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“جاوا پی ایس ڈی پروسیسنگ API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     کے لیے
+     کے لئے
     </em>
-    جاوا
+    Java
    </small>
   </footer>
  </div>
@@ -118,7 +118,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="پلیٹ فارم کی آزادی" description="API ڈیسک ٹاپ، ویب اور کنسول ایپلی کیشنز کو ونڈوز، لینکس/یونکس، میک او ایس جیسے پلیٹ فارمز پر سپورٹ کرتا ہے جہاں جاوا دستیاب ہے۔" >}}
+{{< blocks/products/pf/carousel-item h3="پلیٹ فارم آزادی" description="API ونڈوز، لینکس/یونکس، macOS جیسے پلیٹ فارمز پر ڈیسک ٹاپ، ویب اور کنسول ایپلی کیشنز کو سپورٹ کرتا ہے جہاں جاوا دستیاب ہے۔" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,11 +128,11 @@ url: java/
    <header>
     <i class="fa fa-cubes">
     </i>
-    جاوا رن ٹائم ماحولیات
+    جاوا رن ٹائم ماحول
    </header>
    <ul>
     <li>
-     JSP/JSF درخواست
+     جے ایس پی/جے ایس ایف کی درخواست
     </li>
     <li>
      ڈیسک ٹاپ ایپلی کیشنز
@@ -146,16 +146,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="جاوا پی ایس ڈی پروسیسنگ API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“جاوا پی ایس ڈی پروسیسنگ API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     کے لیے
+     کے لئے
     </em>
-    جاوا
+    Java
    </small>
   </footer>
  </div>
@@ -164,19 +164,19 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="سپورٹ شدہ فائل فارمیٹس" description="Aspose.PSD for Java [تعاون یافتہ فائل فارمیٹس](https://docs.aspose.com/psd/java/supported-file-formats/) ذیل میں درج ہیں۔" >}}
+{{< blocks/products/pf/carousel-item h3="سپورٹ شدہ فائل فارمیٹس" description="جاوا کے لئے Aspose.PSD [سپورٹ شدہ فائل فارمیٹس] (https://docs.aspose.com/psd/java/supported-file-formats/) ذیل میں درج ہیں." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    ان پٹ/آؤٹ پٹ
+    ان پٹ/آوٹ پٹ
    </header>
    <ul>
     <li>
      <b>
       فوٹوشاپ:
      </b>
-     پی ایس ڈی، پی ایس بی
+     پی ایس ڈی, پی ایس بی
     </li>
    </ul>
   </div>
@@ -188,15 +188,15 @@ url: java/
    <ul>
     <li>
      <b>
-      راسٹر فارمیٹس:
+      ریسٹر فارمیٹس:
      </b>
-     TIFF, JPEG, PNG, GIF, BMP, JPEG2000
+     ٹف، جے پی جی، پی این جی، GIF، بیمپ، JPEG2000
     </li>
     <li>
      <b>
       دیگر:
      </b>
-     PDF
+     پی ڈی ایف
     </li>
    </ul>
    <header>
@@ -205,7 +205,7 @@ url: java/
    <ul>
     <li>
      <b>
-      مصور:
+      Illustrator:
      </b>
      اے آئی
     </li>
@@ -215,16 +215,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="جاوا پی ایس ڈی API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“جاوا پی ایس ڈی API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     کے لیے
+     کے لئے
     </em>
-    جاوا
+    Java
    </small>
   </footer>
  </div>
@@ -259,84 +259,84 @@ url: java/
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">شروع سے فوٹوشاپ فائل بنائیں</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">سکریچ سے فوٹوشاپ فائل بنائیں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">موجودہ فوٹوشاپ فائلیں لوڈ کریں۔</a>
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">موجودہ فوٹوشاپ فائلوں کو لوڈ کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">راسٹر فارمیٹس میں AI فائلوں کو ایکسپورٹ کریں۔</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">ریسٹر فارمیٹس میں AI فائلوں کی برآمد</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">ایک مستطیل خطہ پر تراشیں۔</a>
+      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">ایک آئتاکار علاقے پر کلپ کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">بنیادی شکلیں ڈرا اور بھریں۔</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">ڈرا اور بنیادی سائز بھرنے</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">تصاویر کو تراشیں، گھمائیں اور سائز تبدیل کریں۔</a>
+      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">تصاویر کو فصل کریں، گھمائیں اور سائز تبدیل کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/">پرتوں کی حمایت</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/">تہوں کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">پرت چپٹا ہونا</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">پرت چپٹی</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">پی ایس ڈی فائل کا پیش نظارہ برآمد کرنے کی اہلیت</a>
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">پی ایس ڈی فائل پیش نظارہ برآمد کرنے کی صلاحیت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/export-layer-group-to-image/">پرت گروپ بنائیں اور برآمد کریں۔</a>
+      <a href="https://docs.aspose.com/psd/java/export-layer-group-to-image/">پرت گروپ بنائیں اور برآمد کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/"> PSD فائلوں کو کھولیں اور برآمد کریں RGB، CMYK، LAB، گرے اسکیل طریقوں کے ساتھ 8/16/32 بٹس فی چینل کے ساتھ۔</a>
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">آرجیبی، سی ایم کے، ایل اے بی، فی چینل 8/16/32 بٹس کے ساتھ گرے اسکیل طریقوں کے کچھ مجموعہ کے ساتھ پی ایس ڈی فائلوں کی کھولیں اور برآمد کریں.</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">سب سے زیادہ استعمال ہونے والے پرت اثرات کی حمایت</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">سب سے زیادہ استعمال کیا پرت اثرات کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -350,117 +350,117 @@ url: java/
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">باہر/اندر/سینٹر اسٹروک اثر</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">باہر/باطن/مرکز اسٹروک اثر</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">رنگ/پیٹرن/گریڈینٹ پرت کا اثر</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">رنگ/پیٹرن/میلان پرت اثر</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">رن ٹائم پر ٹیکسٹ لیئرز کا اضافہ اور ترمیم</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">رن ٹائم میں ٹیکسٹ تہوں کو شامل کرنا اور ترمیم کرنا</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">ایڈجسٹمنٹ پرتیں جیسے چمک/کنٹراسٹ، منحنی خطوط، رنگ/سنترپتی، فوٹو فلٹر اور بہت کچھ</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">چمک کی طرح ایڈجسٹمنٹ تہوں /اس کے برعکس, منحنی خطوط, ہیو/سنترپتی, تصویر فلٹر اور بہت کچھ</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">ویکٹر، راسٹر، کلپنگ ماسک اور اس کے امتزاج کی سپورٹ</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">ویکٹر، ریسٹر، تراشہ ماسک اور اس کے مجموعے کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">پرتوں کی دھندلاپن کا نظم کریں۔</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">تہوں کی دھندلاپن کا انتظام کریں</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/supported-resources/">پرت کے وسائل کی ایک بڑی تعداد کی حمایت</a>
+      <a href="https://docs.aspose.com/psd/java/supported-resources/">پرت وسائل کی ایک بڑی تعداد کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تصویری سیکشن کے وسائل سے ڈیٹا نکالنا
+     تصویری سیکشن وسائل سے ڈیٹا نکالنے
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">فل پرتوں کو پڑھنا اور اس میں ترمیم کرنا</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">پڑھنا اور بھریں تہوں کی ترمیم</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers"> لنکڈ پرتوں کی حمایت</a>
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">منسلک تہوں کی حمایت</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     پرت کی تخلیق کی تاریخ اور وقت نکالنا
+     پرت تخلیق کی تاریخ اور وقت نکالنا
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     شیٹ کا رنگ نمایاں کرنا
+     شیٹ کا رنگ نمایاں
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title"> تازہ ترین PSD API خصوصیات</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD برائے .NET API اسے طاقتور بنانے کے لیے مسلسل مزید خصوصیات شامل کر رہا ہے۔ یہاں شامل کردہ تازہ ترین چنوں میں سے چند چنوں کی فہرست ہے۔</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li> پرتوں کو بھرنے کی حمایت۔ پیٹرن، رنگ اور گریڈینٹ بھریں۔</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>GdFlResource، VmskResource، PtFlResource اور VsmsResource کی سپورٹ</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li> JPEG/PNG/etc تصویری فائلوں کو PsdImage پر براہ راست لوڈ کیے بغیر لوڈ کریں</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>پرت ویکٹر ماسک اور ٹیکسٹ لیئر کسٹم فلپ روٹیٹ کی سپورٹ</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>برآمد کے لیے کلر فل کے ساتھ اسٹروک اثر کی رینڈرنگ</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     پی ایس ڈی فائلوں کو راسٹر امیجز میں تبدیل کریں۔
+     ریسٹر تصاویر میں پی ایس ڈی فائلوں کو تبدیل کریں
     </h2>
     <p>
-     جاوا لائبریری کے لیے Aspose.PSD کوڈ کی صرف چند سطروں کے ساتھ، کسی بھی معاون راسٹر امیجز میں PSD فائلوں کی تبدیلی کی حمایت کرتا ہے۔
+     جاوا لائبریری کے لئے Aspose.PSD کوڈ کی صرف چند لائنوں کے ساتھ، حمایت کی ریسٹر تصاویر میں سے کسی کو پی ایس ڈی فائلوں کے تبادلوں کی حمایت کرتا ہے.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      PSD کو BMP، GIF اور JPEG - Java میں تبدیل کریں۔
+      پی ایس ڈی کو BMP، GIF اور JPEG میں تبدیل کریں - جاوا
      </h3>
      
 	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
@@ -468,34 +468,34 @@ url: java/
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     فوٹوشاپ کی تہوں کو آسانی سے جوڑیں۔
+     آسانی سے فوٹوشاپ تہوں جوڑتوڑ
     </h2>
     <p>
-     پی ایس ڈی پرت کی ہیرا پھیری جیسے تہوں کو ضم کرنا، تہوں پر متن کو اپ ڈیٹ کرنا، اثرات مرتب کرنا یا تصویر کے طور پر پرت کو برآمد کرنا API فراہم کرنے والی ہیرا پھیری کی خصوصیات میں سے کچھ ہیں۔ مزید یہ کہ یہ چپٹی پی ایس ڈی دستاویزات کا پتہ لگانے کے ساتھ ساتھ تھمب نیل بھی بنا سکتا ہے۔
+     ولی تہوں کی طرح پی ایس ڈی پرت ہیرا پھیری, تہوں پر متن کو اپ ڈیٹ کرنے, اثرات کی ترتیب یا ایک تصویر کے طور پر برآمد پرت API فراہم کرتا ہے کہ ہیرا پھیری خصوصیات میں سے چند ہیں. اس کے علاوہ، یہ چپٹی پی ایس ڈی دستاویزات کا پتہ لگانے کے ساتھ ساتھ تمبنےل بھی بنا سکتا ہے.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     چلتے پھرتے تصاویر کو تراشیں، گھمائیں اور سائز تبدیل کریں۔
+     جانے پر تصاویر کو فصل کریں، گھمائیں اور سائز تبدیل کریں
     </h2>
     <p>
-     کسی بھی تصویری ہیرا پھیری کی خصوصیت جیسے تصویروں کو پلٹنا، تراشنا، گھومنا اور سائز تبدیل کرنا کوڈ کی صرف چند لائنوں کے ساتھ لاگو کیا جا سکتا ہے جیسے نیچے کا ٹکڑا تصویر کو گھماتا ہے۔
+     flipping، کاٹنے، گھومنے اور سائز تصاویر کی طرح کسی بھی تصویر ہیرا پھیری خصوصیت کوڈ کے صرف چند لائنوں کے ساتھ لاگو کیا جا سکتا ہے مثال کے طور پر نیچے کا ٹکڑا تصویر گھما.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ایک تصویر کو گھومنا - جاوا
+      ایک تصویر گھومنے - جاوا
      </h3>
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     مزید برآں، API مختلف امیجنگ فلٹرز فراہم کرتا ہے جیسے راسٹر امیجز پر کنٹراسٹ، چمک یا گاما کی ایڈجسٹمنٹ، امیجز کو دھندلانا یا دھندلا کرنا نیز مشہور فلٹرز بشمول گاس وینر، میڈین، بریڈلی تھریشولڈ، اور موشن وینر۔
+     مزید برآں، API مختلف امیجنگ فلٹر فراہم کرتا ہے جیسے ریسٹر تصاویر پر برعکس، چمک یا گاما کی ایڈجسٹمنٹ، تصاویر کی ڈتھرنگ یا دھندلاپن کے ساتھ ساتھ گاؤس وینر، میڈین، بریڈلی تھراسلیڈ اور موشن وینر سمیت سب سے مشہور فلٹر بھی شامل ہیں.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">امیجنگ فلٹرز کا نفاذ</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p>Aspose.PSD for Java اپنی کلاس لائبریریوں کے ذریعے کلر ایڈجسٹمنٹ جیسی امیجنگ کی بنیادی خصوصیات فراہم کرتا ہے۔ ڈویلپرز API کے ذریعے لوڈ کردہ راسٹر امیج پر آسانی سے چمک، کنٹراسٹ یا گاما کو ایڈجسٹ کر سکتے ہیں۔ مزید برآں، ڈویلپر تصاویر کو متحرک یا دھندلا کرنے کے ساتھ ساتھ میڈین، موشن وینر، گاس وینر اور بریڈلی تھریشولڈ سمیت مقبول فلٹرز استعمال کر سکتے ہیں۔</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -510,18 +510,19 @@ url: java/
 {{< blocks/products/pf/slr-element name="دستاویزات" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="ماخذ کوڈ" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API حوالہ جات" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="مخزن" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="ٹیوٹوریل ویڈیوز" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="پروڈکٹ سپورٹ" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="مفت سپورٹ" href="https://forum.aspose.com/c/psd" >}}
-{{< blocks/products/pf/slr-element name="معاوضہ سپورٹ" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="ادا شدہ سپورٹ" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="بلاگ" href="https://blog.aspose.com/category/psd/" >}}
-{{< blocks/products/pf/slr-element name="ریلیز نوٹس" href="https://docs.aspose.com/psd/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="ریلیز نوٹ" href="https://docs.aspose.com/psd/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="جاوا کے لیے Aspose.PSD کیوں؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="صارفین کی فہرست" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="کیوں جاوا کے لئے Aspose.PSD؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="گاہکوں کی فہرست" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="کامیابی کی کہانیاں" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -529,7 +530,7 @@ url: java/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD دیگر مقبول ترقیاتی ماحول کے لیے انفرادی PSD APIs پیش کرتا ہے جیسا کہ ذیل میں درج ہے:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD ذیل میں درج کے طور پر دیگر مقبول ترقی کے ماحول کے لئے انفرادی پی ایس ڈی APIs پیش کرتا ہے:" >}}
 
     {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 

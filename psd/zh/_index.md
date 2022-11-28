@@ -2,7 +2,7 @@
 title: 创建、编辑 PSD 和 PSB 文件或将其转换为 PDF 和图像格式
 weight: 310
 description: 用于编辑 Photoshop 文件的 High Code API 和免费应用程序。能够更新图层属性，添加水印旋转缩放翻转裁剪抖动栅格转换。
-url: en/
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

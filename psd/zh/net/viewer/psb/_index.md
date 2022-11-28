@@ -18,8 +18,8 @@ url: psb/
  API 是一个功能丰富、功能强大且易于使用的 C# 平台的 API，可与任何查看器一起使用。打开
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  包管理器，搜索
- 并安装。您也可以使用包管理器控制台中的以下命令。
 
+ 并安装。您也可以使用包管理器控制台中的以下命令。
 
 {{% blocks/products/pf/agp/code-block title="软件包管理器控制台命令" offSpacer="true" %}}
 
@@ -56,7 +56,6 @@ PM> Install-Package Aspose.PSD
 -微软 Windows 或配备 .NET Framework、.NET Core
 -微软 Visual Studio 等开发环境
 -你的项目中引用的 Aspose.PSD for .NET
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

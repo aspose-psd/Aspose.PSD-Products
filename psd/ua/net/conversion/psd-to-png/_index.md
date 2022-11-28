@@ -1,6 +1,6 @@
 ---
-title: Перетворіть PSD у PNG за допомогою C#
-description: Експорт PSD, PSB та AI файлів через .NET API
+title: Перетворення PSD в PNG за допомогою C#
+description: Експорт PSD, PSB & AI файл через .NET API
 family: psd
 platformtag: net
 feature: conversion
@@ -11,24 +11,24 @@ url: psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Перетворити PSD у PNG за допомогою C#" h2=".NET Photoshop API для PSD і PSB Перетворення в растрові зображення, включаючи PNG" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Перетворення PSD в PNG через C#" h2=".NET Photoshop API для PSD & PSB Перетворення на растрові зображення, включаючи PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Висока якість відтворення PSD у форматі PNG" %}}
-1. Завантажте PSD за допомогою методу [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Створіть екземпляр класу [PngOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions)
-1. Викличте метод [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
-1. Передайте вихідний файл і об'єкт PngOptions
+{{% blocks/products/pf/agp/feature-section-col title="Висока якість візуалізації PSD як PNG" %}}
+1. Завантажте PSD з [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
+ [Параметри PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) клас
+1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
+1. Передайте назву файла виводу та об'єкт pngOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Початок роботи з .NET Photoshop API" %}}
-Встановіть з командного рядка як ```nuget install Aspose.PSD``` або через консоль диспетчера пакетів Visual Studio з ```Install-Package Aspose.PSD```.
+{{% blocks/products/pf/agp/feature-section-col title="Розпочніть роботу з API Photoshop. NET" %}}
+Встановити з командного рядка як ```nuget install Aspose.PSD``` або через консоль диспетчера пакетів Visual Studio з ```Install-Package Aspose.PSD```
 
-Крім того, завантажте офлайн-інсталятор MSI або DLL-файли у ZIP-файлі із [завантажень] (https://releases.aspose.com/psd/net).
+Крім того, отримайте автономний інсталятор MSI або DLL у ZIP-файлі з [завантаження](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Код для перетворення PSD у PNG" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title=".NET C# Код для PSB в PNG перетворення" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-png.cs" >}}
 

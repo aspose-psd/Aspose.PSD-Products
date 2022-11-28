@@ -55,11 +55,9 @@ url: ai-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузить входное изображение AI
-- Инициализировать
- [Опции PDF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/pdfOptions) объект класса
+- Инициализировать [Опции PDF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/pdfOptions) объект класса
 - Укажите свойства
 - Сохранить выходной PDF-файл
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-pdf/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -36,11 +36,10 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузите PSD с помощью [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод [Опции JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) учебный класс
-1. Позвонить
- [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
+1. Загрузите PSD с помощью [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
+ [Опции JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) учебный класс
+1. Позвонить [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте имя выходного файла и объект Jpeg2000Options
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -55,7 +54,6 @@ PM> Install-Package Aspose.PSD
 - Microsoft Windows или совместимая ОС с платформой .NET Framework, .NET Core и PHP, VBScript, Delphi, C++ с помощью COM Interop.
 - Среда разработки, такая как Microsoft Visual Studio.
 - Файл Aspose.PSD для .NET DLL, на который ссылается ваш проект.
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для конвертации PSD в JPEG2000" sectionDescription="Check our live demos for [PSD to JPEG2000 conversion](https://products.aspose.app/psd/conversion/psd-to-jpeg2000) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Нет необходимости ничего скачивать или настраивать»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не нужно писать код" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл PSD и нажмите кнопку \'Convert\'"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл PSD и нажмите кнопку \'Convert\'" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Вы мгновенно получите ссылку на загрузку для конечного файла JPEG2000»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
@@ -95,6 +93,9 @@ PSD, Photoshop Document, представляет собственный фор�
         
         {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="https://docs.fileformat.com/image/jp2/" >}}
         JPEG 2000 (JP2) — это система кодирования изображений и современный стандарт сжатия изображений.
+
+
+
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}

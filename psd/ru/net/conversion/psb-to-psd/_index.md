@@ -18,8 +18,8 @@ url: psb-to-psd/
  API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования документов для платформы C#. Открыть
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  менеджер пакетов, поиск
- и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
+ и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Консольная команда диспетчера пакетов" offSpacer="true" %}}
 
@@ -57,7 +57,6 @@ PM> Install-Package Aspose.PSD
 - Среда разработки, такая как Microsoft Visual Studio.
 - Файл Aspose.PSD для .NET DLL, на который ссылается ваш проект.
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="В этом примере кода показано преобразование PSB в PSD C#" offSpacer="" %}}
@@ -76,7 +75,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для конвертации PSB в PSD" sectionDescription="Check our live demos for [PSB to PSD conversion](https://products.aspose.app/psd/conversion/psb-to-psd) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Нет необходимости ничего скачивать или настраивать»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не нужно писать код" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл PSB и нажмите кнопку \'Convert\'"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл PSB и нажмите кнопку \'Convert\'" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Вы мгновенно получите ссылку на загрузку для файла PSD»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

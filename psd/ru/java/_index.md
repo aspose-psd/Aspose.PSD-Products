@@ -6,7 +6,7 @@ url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Библиотека Java для файлов Photoshop" h2="Создать, загрузить, изменить и сделать PSD форматов документов & PSB из Java приложений"." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Библиотека Java для файлов Photoshop" h2="Создать, загрузить, изменить и сделать PSD форматов документов & PSB из Java приложений" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
@@ -22,7 +22,7 @@ url: java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="С первого взгляда" description="Обзор API"." >}}
+{{< blocks/products/pf/carousel-item h3="С первого взгляда" description="Обзор API" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

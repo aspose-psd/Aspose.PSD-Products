@@ -60,8 +60,8 @@ url: psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите файл PSB
-- Создайте экземпляр
- [Класс опций BMP](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)- Используйте метод Image.save (String, BMPOptions) для преобразования.
+- Создайте экземпляр [Класс опций BMP](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
+- Используйте метод Image.save (String, BMPOptions) для преобразования.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,6 @@ url: psb-to-bmp/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

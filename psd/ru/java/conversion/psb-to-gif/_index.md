@@ -60,8 +60,8 @@ url: psb-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите файл PSB
-- Создайте экземпляр
- [Класс опций GIF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)- Используйте метод Image.save (String, GIFOptions) для преобразования.
+- Создайте экземпляр [Класс опций GIF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
+- Используйте метод Image.save (String, GIFOptions) для преобразования.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,6 @@ url: psb-to-gif/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

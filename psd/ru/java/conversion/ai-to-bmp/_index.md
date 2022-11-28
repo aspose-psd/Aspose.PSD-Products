@@ -55,11 +55,9 @@ url: ai-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузить входное изображение AI
-- Инициализировать
- [Опции BMP](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/bmpOptions) объект класса
+- Инициализировать [Опции BMP](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/bmpOptions) объект класса
 - Укажите свойства изображения
 - Сохранить выходное изображение BMP
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-bmp/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

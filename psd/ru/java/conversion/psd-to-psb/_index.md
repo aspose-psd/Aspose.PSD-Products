@@ -63,7 +63,6 @@ url: psd-to-psb/
 1. Применить объект «Изображение» к PSImage
 1. Вызовите метод PSDImage.save, указав путь к выходному файлу и экземпляр PSDOptions
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные требования" %}}
@@ -76,7 +75,6 @@ url: psd-to-psb/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

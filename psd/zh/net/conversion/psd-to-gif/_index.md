@@ -16,15 +16,16 @@ url: psd-to-gif/
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PSD 的高质量渲染为 GIF" %}}
-1。用以下方式加载 PSD [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法 [GIF 选项](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) 班级
-1。打电话
- [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
+1。用以下方式加载 PSD [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
+ [GIF 选项](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) 班级
+1。打电话 [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。传递 gifOptions 的输出文件名和对象
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API 入门" %}}
-从命令行安装为 ```nuget install Aspose.PSD``` 或者通过 Visual Studio 的软件包管理器控制台使用 ```Install-Package Aspose.PSD```或者，从 ZIP 文件中获取离线 MSI 安装程序或 DLL [下载](https://releases.aspose.com/psd/net).
+从命令行安装为 ```nuget install Aspose.PSD``` 或者通过 Visual Studio 的软件包管理器控制台使用 ```Install-Package Aspose.PSD```
+
+或者，从 ZIP 文件中获取离线 MSI 安装程序或 DLL [下载](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# 用于将 PSD 转换为 GIF 的代码" gistPath="" %}}

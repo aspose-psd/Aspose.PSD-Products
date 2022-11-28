@@ -36,11 +36,10 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузите ИИ с помощью [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод [Опции BMP](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/bmpoptions) учебный класс
-1. Позвонить
- [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
+1. Загрузите ИИ с помощью [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
+ [Опции BMP](https://apireference.aspose.com/imaging/net/aspose.imaging.imageoptions/bmpoptions) учебный класс
+1. Позвонить [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте имя выходного файла и объект BmpOptions
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -55,7 +54,6 @@ PM> Install-Package Aspose.PSD
 - Microsoft Windows или совместимая ОС с платформой .NET Framework, .NET Core и PHP, VBScript, Delphi, C++ с помощью COM Interop.
 - Среда разработки, такая как Microsoft Visual Studio.
 - Файл Aspose.PSD для .NET DLL, на который ссылается ваш проект.
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для конвертации AI в BMP" sectionDescription="Check our live demos for [AI to BMP conversion](https://products.aspose.app/psd/conversion/ai-to-bmp) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Нет необходимости ничего скачивать или настраивать»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не нужно писать код" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл AI и нажмите кнопку \'Convert\'"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите свой файл AI и нажмите кнопку \'Convert\'" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Вы мгновенно получите ссылку на загрузку для файла BMP»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

@@ -1,20 +1,20 @@
 ---
-title: Java Photoshop API | Penguraian Format PSD dan PSB
+title: Java Photoshop API | PSD dan PSB Format Parsing
 weight: 270
-description: Buat modifikasi atau konversi format PSD dan PSB menggunakan perpustakaan ini dalam aplikasi Java apa pun tanpa memerlukan perangkat lunak Photoshop
+description: Buat memodifikasi atau mengonversi format PSD dan PSB menggunakan perpustakaan ini dalam aplikasi Java apa pun tanpa memerlukan perangkat lunak Photoshop
 url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Perpustakaan Java untuk File Photoshop" h2="Buat, muat, ubah, dan render format dokumen PSD & PSB dari dalam aplikasi Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="untuk Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Perpustakaan Java untuk File Photoshop" h2="Membuat, memuat, memodifikasi dan membuat PSD & PSB format dokumen dari dalam aplikasi Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="untuk Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PSD untuk Java adalah API manipulasi format file Adobe Photoshop yang mudah digunakan. Itu dapat dengan mudah memuat dan membaca file PSD, PSB & AI, memungkinkan pengembang Java untuk melakukan operasi seperti memperbarui properti lapisan, menambahkan tanda air, kompresi, rotasi, penskalaan, atau rendering satu format file ke format file lainnya tanpa perlu menginstal Adobe Photoshop. Format gambar seperti JPEG, TIFF, GIF, PNG, BMP, JPEG2000 dan dapat dengan mudah dibuka dan ditambahkan sebagai lapisan hanya dengan beberapa baris kode. File PSD, PSB & AI dapat diekspor ke format yang tercantum, dan juga ke format PDF
+ Aspose.PSD untuk Java adalah mudah untuk menggunakan Adobe Photoshop format file manipulasi API. Hal ini dapat dengan mudah memuat dan membaca PSD, PSB & AI file, sehingga memungkinkan bagi pengembang Java untuk melakukan operasi seperti memperbarui properti lapisan, menambahkan watermark, kompresi, rotasi, scaling atau render satu format file yang lain tanpa perlu menginstal Adobe Photoshop. Format gambar seperti JPEG, TIFF, GIF, PNG, BMP, JPEG2000 dan dapat dengan mudah dibuka dan ditambahkan sebagai lapisan hanya dengan beberapa baris kode. File PSD, PSB & AI dapat diekspor ke format yang terdaftar, dan ke format PDF tambahan
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -42,7 +42,7 @@ url: java/
      Dithering
     </li>
     <li>
-     Baca atau Tulis Data Exif
+     Membaca atau Menulis Data Exif
     </li>
     <li>
      Transformasi Matriks
@@ -51,7 +51,7 @@ url: java/
      Menggambar & Mengisi Bentuk
     </li>
     <li>
-     Sesuaikan Kecerahan, Kontras, atau Gamma
+     Sesuaikan Kecerahan, Kontras atau Gamma
     </li>
    </ul>
   </div>
@@ -65,7 +65,7 @@ url: java/
      Pembuatan File
     </li>
     <li>
-     Pemuatan File
+     Memuat File
     </li>
     <li>
      Pemrosesan Data Mentah
@@ -77,7 +77,7 @@ url: java/
      Konversi ke Gambar
     </li>
     <li>
-     Isi Lapisan
+     Isi Layers
     </li>
     <li>
      Lapisan Penyesuaian
@@ -92,7 +92,7 @@ url: java/
      Lapisan Teks
     </li>
     <li>
-     Sebagian besar mode gambar file PSD/PSB
+     Sebagian besar PSD/PSB file mode gambar
     </li>
    </ul>
   </div>
@@ -100,7 +100,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API Pemrosesan Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java PSD Pengolahan API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -109,7 +109,7 @@ url: java/
     <em>
      untuk
     </em>
-    Jawa
+    Java
    </small>
   </footer>
  </div>
@@ -118,7 +118,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="API mendukung aplikasi Desktop, Web, dan Konsol pada platform seperti Windows, Linux/Unix, MacOS di mana Java tersedia." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="API mendukung aplikasi Desktop, Web, dan Konsol pada platform seperti Windows, Linux/Unix, macOS tempat Java tersedia." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ url: java/
    <header>
     <i class="fa fa-cubes">
     </i>
-    Lingkungan Waktu Proses Java
+    Java Runtime Lingkungan
    </header>
    <ul>
     <li>
@@ -146,7 +146,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API Pemrosesan Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java PSD Pengolahan API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -155,7 +155,7 @@ url: java/
     <em>
      untuk
     </em>
-    Jawa
+    Java
    </small>
   </footer>
  </div>
@@ -164,26 +164,26 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.PSD untuk Java [format file yang didukung](https://docs.aspose.com/psd/java/supported-file-formats/) tercantum di bawah ini." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.PSD untuk Java [format file yang didukung] (https://docs.aspose.com/psd/java/supported-file-formats/) tercantum di bawah ini." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Input output
+    Masukan/Keluaran
    </header>
    <ul>
     <li>
      <b>
       Photoshop:
      </b>
-     PSD, PSB
+     PSD
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Keluaran Saja
+    Output Saja
    </header>
    <ul>
     <li>
@@ -200,7 +200,7 @@ url: java/
     </li>
    </ul>
    <header>
-    Masukan Saja
+    Masukan Hanya
    </header>
    <ul>
     <li>
@@ -215,7 +215,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java PSD API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -224,7 +224,7 @@ url: java/
     <em>
      untuk
     </em>
-    Jawa
+    Java
    </small>
   </footer>
  </div>
@@ -243,7 +243,7 @@ url: java/
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Fitur Lanjutan Photoshop Java API
+    Fitur API Photoshop Java Lanjutan
    </h2>
    <p>
     &amp;nbsp
@@ -266,7 +266,7 @@ url: java/
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Muat file Photoshop yang ada</a>
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Memuat file Photoshop yang ada</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -280,14 +280,14 @@ url: java/
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">Klip ke wilayah persegi panjang</a>
+      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">Klip ke daerah persegi panjang</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">Gambar & isi bentuk dasar</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">Menggambar & mengisi bentuk dasar</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -301,7 +301,7 @@ url: java/
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/">Dukungan Lapisan</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/">Dukungan Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -322,28 +322,28 @@ url: java/
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/export-layer-group-to-image/">Buat dan Ekspor Grup Lapisan</a>
+      <a href="https://docs.aspose.com/psd/java/export-layer-group-to-image/">Buat dan Ekspor Grup Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Buka dan ekspor file PSD dengan beberapa kombinasi mode RGB, CMYK, LAB, Grayscale dengan 8/16/32 bit per saluran.</a>
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Buka dan ekspor file PSD dengan beberapa kombinasi mode RGB, CMYK, LAB, Grayscale dengan 8/16/32 bit per channel.</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Dukungan Efek Lapisan yang paling sering digunakan</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Dukungan Efek Lapisan yang paling banyak digunakan</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Bayangan Lapisan</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Lapisan Bayangan</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -357,7 +357,7 @@ url: java/
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Efek Lapisan Warna/Pola/Gradien</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Warna/Pola/Efek Lapisan Gradien</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -371,28 +371,28 @@ url: java/
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Lapisan Penyesuaian seperti Kecerahan/Kontras, Kurva, Rona/Saturasi, Filter Foto, dan banyak lagi</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Lapisan Penyesuaian seperti Brightness/Contrast, Curves, Hue/Saturation, Photo Filter dan banyak lagi</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">Dukungan Vektor, Raster, Clipping Mask dan kombinasinya</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">Dukungan Vektor, Raster, Clipping Masks dan kombinasinya</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Kelola Opacity of Layers</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Mengelola Opacity Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/supported-resources/">Dukungan sejumlah besar Sumber Daya Lapisan</a>
+      <a href="https://docs.aspose.com/psd/java/supported-resources/">Dukungan dari sejumlah besar Sumber Daya Layer</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -413,14 +413,14 @@ url: java/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Dukungan Lapisan Tertaut</a>
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Dukungan Linked Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mengekstrak Tanggal dan Waktu Pembuatan Layer
+     Penggalian Tanggal dan Waktu Pembuatan Lapisan
     </p>
    </div>
    <div class="col-lg-4">
@@ -432,31 +432,31 @@ url: java/
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Fitur API PSD Terbaru</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD untuk .NET API terus menambahkan lebih banyak fitur untuk membuatnya kuat. Berikut adalah daftar beberapa pilihan dari yang terbaru ditambahkan.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Dukungan lapisan Isi. Isi Pola, Warna, dan Gradien</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Dukungan untuk GdFlResource, VmskResource, PtFlResource, dan VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Muat file gambar JPEG/PNG/etc ke PsdImage tanpa memuat langsung</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Dukungan Layer Vector Masks dan Text Layer Custom FlipRotate</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Rendering efek Stroke dengan Color Fill untuk ekspor</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konversikan File PSD ke Gambar Raster
+     Konversi File PSD ke Gambar Raster
     </h2>
     <p>
-     Pustaka Aspose.PSD untuk Java mendukung konversi file PSD ke salah satu gambar raster yang didukung, hanya dengan beberapa baris kode.
+     Aspose.PSD untuk perpustakaan Java mendukung konversi file PSD ke salah satu gambar raster didukung, dengan hanya beberapa baris kode.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -468,18 +468,18 @@ url: java/
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Memanipulasi Layer Photoshop dengan Mudah
+     Memanipulasi Photoshop Layers dengan Mudah
     </h2>
     <p>
-     Manipulasi lapisan PSD seperti menggabungkan lapisan, memperbarui teks pada lapisan, mengatur efek atau mengekspor lapisan sebagai gambar adalah beberapa fitur manipulasi yang disediakan API. Selain itu, dapat mendeteksi dokumen PSD yang diratakan serta membuat thumbnail.
+     Manipulasi lapisan PSD seperti menggabungkan lapisan, memperbarui teks pada lapisan, pengaturan efek atau mengekspor lapisan sebagai gambar adalah beberapa fitur manipulasi yang disediakan API. Selain itu, dapat mendeteksi diratakan dokumen PSD serta membuat thumbnail.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Pangkas, Putar & Ubah Ukuran Gambar Saat Dalam Perjalanan
+     Pangkas, Putar & Ubah Ukuran Gambar Saat Dalam Pergi
     </h2>
     <p>
-     Setiap fitur manipulasi gambar seperti membalik, memotong, memutar, dan mengubah ukuran gambar dapat diterapkan hanya dengan beberapa baris kode, misalnya cuplikan di bawah ini memutar gambar.
+     Setiap fitur manipulasi gambar seperti membalik, memotong, memutar dan mengubah ukuran gambar dapat diimplementasikan hanya dengan beberapa baris kode misalnya di bawah cuplikan memutar gambar.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -488,14 +488,14 @@ url: java/
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     Selanjutnya, API menyediakan filter pencitraan yang berbeda seperti penyesuaian kontras, kecerahan atau gamma pada gambar raster, dithering atau pengaburan gambar serta filter paling terkenal termasuk Gauss Wiener, Median, Bradley Threshold, dan Motion Wiener.
+     Selain itu, API menyediakan filter pencitraan yang berbeda seperti penyesuaian kontras, kecerahan atau gamma pada gambar raster, dithering atau buram gambar serta filter paling terkenal termasuk Gauss Wiener, Median, Bradley Threshold, dan Motion Wiener.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Implementasi Filter Pencitraan</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p>Aspose.PSD for Java menyediakan fitur pencitraan inti seperti penyesuaian warna melalui perpustakaan kelasnya. Pengembang dapat dengan mudah menyesuaikan kecerahan, kontras, atau gamma pada gambar raster yang dimuat oleh API. Selanjutnya, pengembang dapat secara dinamis mengalihkan atau mengaburkan gambar serta menggunakan filter populer termasuk Median, Motion Wiener, Gauss Wiener, dan Bradley Threshold.</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -510,6 +510,7 @@ url: java/
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="Kode Sumber" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="Repositori" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -529,7 +530,7 @@ url: java/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD menawarkan API PSD individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD menawarkan API PSD individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 

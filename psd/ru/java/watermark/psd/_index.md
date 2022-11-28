@@ -63,7 +63,6 @@ url: psd/
 1. Нарисуйте водяной знак с помощью функции DrawString (...)
 1. Сохранить изображение на диск
 
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные требования" %}}

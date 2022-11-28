@@ -55,11 +55,9 @@ url: ai-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузить входное изображение AI
-- Инициализировать
- [Варианты GIF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/gifOptions) объект класса
+- Инициализировать [Варианты GIF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/gifOptions) объект класса
 - Укажите свойства изображения
 - Сохранить выходное GIF-изображение
-
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -73,7 +71,6 @@ url: ai-to-gif/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,21 +1,21 @@
 ---
-title: Konversi Dokumen Java Photoshop
-description: Konversi Photoshop PSD, PSB ke Gambar termasuk BMP, JPG, PNG, TIFF, dan PDF melalui perpustakaan Java.
+title: Konversi Dokumen Photoshop Java
+description: Mengkonversi Photoshop PSD, PSB ke Gambar termasuk BMP, JPG, PNG, TIFF dan PDF melalui perpustakaan Java.
 url: conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Adobe® Photoshop® Melalui Java" h2="Konversi Photoshop PSD, PSB ke JPG, PNG, BMP, TIFF Gambar dan PDF untuk membangun aplikasi Java lintas platform." >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Adobe® Photoshop® Melalui Java" h2="Mengkonversi Photoshop PSD, PSB ke JPG, PNG, BMP, TIFF Images dan PDF untuk membangun aplikasi Java lintas platform." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Format PSD dari Adobe® Photoshop® adalah format desainer untuk mendesain kartu nama, desain logo, mock-up flyer, desain situs web, dan banyak lagi. Ini adalah kasus umum bagi desainer untuk mengekspor lapisan PSD ke gambar tunggal termasuk JPG, PNG, GIF, TIFF dll melalui Adobe Photoshop. Untuk konversi photoshop PSD ke gambar raster dan PDF dalam solusi Java apa pun, **API PSD Java** dapat melakukannya dengan mudah. Untuk aplikasi otomatisasi konversi PSD, kode contoh di bawah ini dapat dengan mudah diintegrasikan untuk gambar raster dan konversi PDF.
+Format PSD Adobe® Photoshop® adalah format desainer untuk merancang kartu nama, desain logo, brosur mock-up, desain situs web dan banyak lagi. Ini adalah kasus umum bagi desainer untuk mengekspor lapisan PSD ke gambar tunggal termasuk JPG, PNG, GIF, TIFF dll melalui Adobe Photoshop. Untuk konversi Photoshop PSD ke gambar raster dan PDF dalam solusi Java, ** Java PSD API** dapat melakukannya dengan mudah. Untuk aplikasi otomatisasi konversi PSD, kode contoh di bawah ini dapat dengan mudah diintegrasikan untuk gambar raster dan konversi PDF. **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Photoshop PSD ke PDF" %}}
 
-Untuk mengonversi Photoshop PSD ke PDF, Prosesnya adalah, Muat file Photoshop PSD menggunakan [Image class](https://apireference.aspose.com/psd/java/com.aspose.psd/Image). Buat objek [PdfOptions class](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions), untuk setelan PDF yang relevan. Terakhir panggil metode [Image.save](https://apireference.aspose.com/psd/Java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) yang memiliki output Dokumen PDF dan opsi pengaturan khusus.
+Untuk mengonversi Photoshop PSD ke PDF, Prosesnya, Muat file PSD Photoshop menggunakan [Kelas gambar](https://apireference.aspose.com/psd/java/com.aspose.psd/Image). Buat [kelas PDFoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions) objek, untuk pengaturan PDF yang relevan. Akhirnya menelepon [Image.Save](https://apireference.aspose.com/psd/java/com.aspose.psd/Image#save-java.lang.String-com.aspose.psd.ImageOptionsBase-) metode memiliki dokumen PDF keluaran dan opsi pengaturan tertentu.
 
 {{% blocks/products/pf/feature-page-code h3="Kode Java untuk Mengonversi Photoshop PSD ke PDF" %}}
 
@@ -29,7 +29,7 @@ Untuk mengonversi Photoshop PSD ke PDF, Prosesnya adalah, Muat file Photoshop PS
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Photoshop PSD ke JPG, PNG, Gambar BMP" %}}
 
-Java PSD API menyediakan pola konversi yang serupa. Jadi pola konversi ke gambar raster JPG, BMP, PNG, GIF, TIFF sama dengan PDF daripada pengaturan gambar tertentu. API menyediakan [PngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JpegOptions](https://apireference.aspose.com/psd/java/com .aspose.psd.imageoptions/JpegOptions), [BmpOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GifOptions](https://apireference.aspose .com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) untuk PNG, JPG , BMP, GIF, JP2 masing-masing. Jadi prosesnya adalah memuat file, gunakan opsi gambar yang relevan dan simpan PSD ke dalam gambar pilihan.
+Java PSD API menyediakan pola yang sama untuk konversi. Jadi pola mengkonversi ke gambar raster JPG, BMP, PNG, GIF, TIFF sama seperti PDF daripada pengaturan gambar tertentu. API menyediakan [PNGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions), [JPEGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions), [BMPOPtions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions), [GifOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions), [Jpeg2000Opsi](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options) untuk PNG, JPG, BMP, GIF, JP2 masing-masing. Jadi proses adalah memuat file, menggunakan pilihan gambar yang relevan dan menyimpan PSD ke dalam gambar pilihan.
 
 {{% blocks/products/pf/feature-page-code h3="Kode Java untuk Mengonversi Photoshop PSD ke Gambar" %}}
 

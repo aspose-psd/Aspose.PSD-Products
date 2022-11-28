@@ -2,7 +2,7 @@
 title: Создавайте, редактируйте или конвертируйте файлы PSD и PSB в форматы PDF и изображений
 weight: 310
 description: High Code APIs и бесплатные приложения для редактирования файлов с Photoshop. Способность обновлять свойства слоя, добавить водяной знак вращения масштаба Flip Crop Gathering Raster Conversion.
-url: en/
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

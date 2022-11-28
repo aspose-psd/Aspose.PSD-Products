@@ -60,8 +60,8 @@ url: psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите файл PSB
-- Создайте экземпляр
- [Класс опций PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)- Используйте метод Image.save (String, PSDoptions) для преобразования.
+- Создайте экземпляр [Класс опций PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
+- Используйте метод Image.save (String, PSDoptions) для преобразования.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,6 @@ url: psb-to-psd/
 
 - Microsoft Windows или совместимая ОС с средой выполнения Java для приложений JSP/JSF и настольных приложений.
 - Загрузите последнюю версию Aspose.PSD для Java прямо из
-
  [Репозиторий Aspose Maven](https://repository.aspose.com/psd/)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

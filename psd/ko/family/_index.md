@@ -1,32 +1,33 @@
 ---
-title: .NET 및 Java Photoshop API | PSD 및 PSB 파일 구문 분석
+title: .NET 및 자바 포토샵 API | PSD 및 PSB 파일 파싱
 weight: 10
-description: 여러 플랫폼에서 PSD 및 PSB 파일 쓰기 및 내보내기를 읽기 위한 라이브러리입니다. Photoshop을 설치하지 않고 레이어를 추출하고 조작합니다.
+description: 여러 플랫폼에서 PSD 및 PSB 파일을 읽고 쓰고 내보낼 수 있는 라이브러리입니다.Photoshop을 설치하지 않고 레이어를 추출하고 조작할 수 있습니다.
 url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PSD, PSB 및 AI 파일 조작을 위한 API" h2=".NET 및 Java API를 사용하여 Adobe Photoshop 및 Adobe Illustrator 파일을 생성, 편집 및 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="아포즈.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="PSD, PSB 및 AI 파일을 조작하기 위한 API" h2=".NET 및 Java API는 어도비 포토샵과 어도비 일러스트레이터 파일을 만들고 편집하고 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName="Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.PSD 하이 코드 API 포함" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.PSD 하이 코드 API에는 다음이 포함됩니다." >}}
 
-{{< blocks/products/pf/product pfName="아포즈.PSD" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
-Windows Forms, ASP.NET 또는 .NET Framework 2.0 이상을 기반으로 하는 모든 유형의 응용 프로그램을 대상으로 합니다.
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
+Windows Forms, ASP.NET 또는 .NET 프레임워크 2.0 이상을 기반으로 하는 모든 유형의 응용 프로그램을 대상으로 합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="아포즈.PSD" title="자바" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
-데스크탑, 웹 또는 Java SE 또는 EE를 기반으로 하는 모든 종류의 애플리케이션을 위한 기본 Java API.
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="자바" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+Java SE 또는 EE를 기반으로 하는 데스크톱, 웹 또는 모든 종류의 애플리케이션을 위한 네이티브 Java API입니다.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="문서" href="https://docs.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="설명서" href="https://docs.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="http://aspose.github.io/" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 레퍼런스" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="리포지토리" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

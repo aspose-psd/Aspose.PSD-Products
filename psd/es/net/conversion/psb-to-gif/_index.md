@@ -1,6 +1,6 @@
 ---
-title: Convertir PSB a GIF con C#
-description: Exportar archivos PSD, PSB y AI a través de la API de .NET
+title: Convierte PSB a GIF con C#
+description: Exporte archivos PSD, PSB y AI a través de la API .NET
 family: psd
 platformtag: net
 feature: conversion
@@ -11,24 +11,24 @@ url: psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir PSB a GIF a través de C#" h2=".NET Photoshop API para conversión de PSD y PSB a imágenes de trama, incluido GIF" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir PSB a GIF a través de C#" h2="API .NET Photoshop para conversión de PSD y PSB a imágenes rasterizadas, incluido GIF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Representación de alta calidad de PSB como GIF" %}}
-1. Cargue el PSB con el método [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Cree una instancia de la clase [GifOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions)
-1. Llame al método [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
-1. Pase el nombre del archivo de salida y el objeto de GifOptions
+1. Cargue el PSB con [Imagen. Cargar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) método
+ [Opciones de GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) clase
+1. Llamada [Imagen. Guardar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) método
+1. Pasar el nombre de archivo de salida y el objeto de GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con la API de Photoshop de .NET" %}}
-Instale desde la línea de comandos como ```nuget install Aspose.PSD``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.PSD```.
+{{% blocks/products/pf/agp/feature-section-col title="Comience con la API .NET Photoshop" %}}
+Instalar desde la línea de comandos como ```nuget install Aspose.PSD``` o mediante la consola de gestión de paquetes de Visual Studio con ```Install-Package Aspose.PSD```
 
-Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/psd/net).
+También puede obtener el instalador MSI sin conexión o los archivos DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Código para conversión de PSB a GIF" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Código.NET C# para la conversión de PSB a GIF" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-gif.cs" >}}
 
