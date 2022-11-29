@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-「Aspose.PSD での PSD から PDF への変換のコードサンプル"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSDファイルをPdfやその他の多くの形式に変換する無料のWebアプリケーション" "https://products.aspose.app/psd/conversion" "
-「要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Aspose.PSD での PSD から PDF への変換のコードサンプル"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSDファイルをPdfやその他の多くの形式に変換する無料のWebアプリケーション" "https://products.aspose.app/psd/conversion" 
+"要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Aspose.PSD による PSD から PDF への変換には、ピクセルパーフェクト変換とテキスト選択機能付き変換の 2 種類があります。ピクセルパーフェクトな変換を行うには、 <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">読み取り専用モードプロパティ</a>、Aspose.PSD をハイコードアプリとして使用するかどうかは API リファレンスを確認してください。テキストを選択する機能が必要な場合は、上記のコードを使用してください。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

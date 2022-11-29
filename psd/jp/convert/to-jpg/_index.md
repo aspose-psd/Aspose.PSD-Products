@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-「Aspose.PSD ハイコード API を使用してサンプルを PSD から JPG に変換する"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSDファイルをJPEGに変換するアプリケーション" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-「要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Aspose.PSD ハイコード API を使用してサンプルを PSD から JPG に変換する"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSDファイルをJPEGに変換するアプリケーション" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>PSDをJpegに変換するための主なパラメータは品質です。Aspose.PSD ハイコード API を使用して、品質を 0 から 100 まで設定できます。変換品質は100が最大です。この場合、Jpeg PSDファイルに変換すると、アーティファクトや品質の低下が最小限に抑えられます。0は、変換後のJPG画像の最低品質です。変換後のファイルは小さくなりますが、画像がひどい場合があります。変換結果がどのような目的で使用されるかがはっきりわかっている場合は、このオプションを選択してください。画質や追加情報を失いたくない場合は、専用のものを使用する方がよいでしょう <a href="/psd/reduce-size">PSD 圧縮</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

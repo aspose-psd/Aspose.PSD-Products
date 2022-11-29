@@ -18,10 +18,10 @@ url: psb/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-「GistsでPSBファイルを開く例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" "
-「PhotoshopなしでPSBファイルを開く方法のチュートリアル" "https://products.aspose.com/psd/net/viewer/" "
-「スタンドアロンサービスとしてのPSBファイルビューア" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"GistsでPSBファイルを開く例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
+"PhotoshopなしでPSBファイルを開く方法のチュートリアル" "https://products.aspose.com/psd/net/viewer/" 
+"スタンドアロンサービスとしてのPSBファイルビューア" "https://products.aspose.app/psd/viewer" >}}
 <p>PSB内蔵ノーコードPSBビューアでPSBファイルを表示します。PSB File は現在のアプリケーションで開くことができます。追加の編集機能が必要な場合は、 <a href="https://products.aspose.app/psd/template-editor">PSB エディター</a>.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

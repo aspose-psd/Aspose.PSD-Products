@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-「PSDファイルを圧縮するためのコードサンプルは、公式のGithubリポジトリにあります"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-「PSD と PSB を圧縮する Web アプリケーション" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"PSDファイルを圧縮するためのコードサンプルは、公式のGithubリポジトリにあります"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"PSD と PSB を圧縮する Web アプリケーション" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSBファイルは最大2GBまで保存できるため、このアプリではPSBファイルをアップロードしてサイズを小さくできない場合があります。この場合は、使用する方が良いです <a href="/psd">Aspose.PSD のようなオンプレミスの psd 形式のソリューション</a> そして、自分で圧縮コードを書いてください。PSB形式を圧縮するのが難しいコード例は、この記事にあります。組み込みのPSB File Reduceアプリのタブを切り替えるだけです。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

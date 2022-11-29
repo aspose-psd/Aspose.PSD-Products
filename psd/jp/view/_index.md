@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-「フォトショップなしでPSDファイルを開く方法のチュートリアル" "https://products.aspose.com/psd/net/viewer/" "
-「PSD を PNG 形式で表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-「PSD、PSB、AI画像を開くためのローコードアプリ" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"フォトショップなしでPSDファイルを開く方法のチュートリアル" "https://products.aspose.com/psd/net/viewer/" 
+"PSD を PNG 形式で表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"PSD、PSB、AI画像を開くためのローコードアプリ" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD ビューアー機能はクラウド対応で、Windows、Linux、Mac サーバーで使用できます。オンプレミスソリューションは次の場合に利用できます <a href="https://products.aspose.com/psd/java/">Java</a> と最新バージョンの <a href="https://products.aspose.com/psd/net/">.Net</a> .Net フレームワーク 2.0 以降と同様に</p>
 
 <h3 class="headingpdleft">さまざまな形式のPSDビューア</h3>

@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-「PSD を Aspose.PSD 内の他の形式に変換するためのコードサンプル"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSD、PSB、AI 画像を PNG、PDF、Jpg、Tif、Pdf、Gif などの形式に変換する無料のウェブアプリケーション" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"PSD を Aspose.PSD 内の他の形式に変換するためのコードサンプル"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD、PSB、AI 画像を PNG、PDF、Jpg、Tif、Pdf、Gif などの形式に変換する無料のウェブアプリケーション" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD の変換機能はクラウド対応で、Windows、Linux、Mac サーバーで使用できます。PSD Convertオンプレミスソリューションは、Java、最新バージョンの.Net、および.Net Framework 2.0 以降で利用できます。</p>
 
