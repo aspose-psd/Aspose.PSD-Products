@@ -18,7 +18,7 @@ url: psb-to-pdf/
  API que es una API de conversión y manipulación de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
  [Nuget](https://www.nuget.org/packages/aspose.psd) 
  administrador de paquetes, busca
-
+ **Aspose.PSD** 
  e instalar. También puede usar el siguiente comando desde la consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola de Package Manager" offSpacer="true" %}}

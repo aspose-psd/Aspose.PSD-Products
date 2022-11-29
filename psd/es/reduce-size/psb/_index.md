@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Los ejemplos de código para la compresión de archivos PSD se pueden encontrar en el repositorio oficial de Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Aplicación web para comprimir PSD y PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Los ejemplos de código para la compresión de archivos PSD se pueden encontrar en el repositorio oficial de Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Aplicación web para comprimir PSD y PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Los archivos PSB pueden tener hasta 2 GB, por lo que puedes quedarte sin funda cuando esta aplicación no pueda subir archivos PSB para reducir su tamaño. En estos casos, es mejor usar <a href="/psd">solución de formato psd local como Aspose.PSD</a> y escribe código de compresión por ti mismo. Los ejemplos de código en formato PSB para comprimir se pueden encontrar en este artículo, simplemente cambie las pestañas en la aplicación PSB File Reduce integrada</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

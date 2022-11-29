@@ -17,8 +17,7 @@ url: psd/
  API que es una API de manipulación de documentos rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
  [Nuget](https://www.nuget.org/packages/aspose.psd) 
  administrador de paquetes, busca
- **Aspose.PSD**
-
+ **Aspose.PSD** 
  e instalar. También puede usar el siguiente comando desde la consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
