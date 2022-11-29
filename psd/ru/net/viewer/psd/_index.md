@@ -18,7 +18,7 @@ url: psd/
  API, который представляет собой многофункциональный, мощный и простой в использовании API для платформы C#, который можно использовать с любым Viewer. Открыть
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  менеджер пакетов, поиск
-
+ **Aspose.PSD** 
  и установите. Можно также использовать следующую команду в консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Консольная команда диспетчера пакетов" offSpacer="true" %}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для просмотра PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Нет необходимости писать или компилировать код" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите PSD-файл и нажмите кнопку\" Просмотреть\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите PSD-файл и нажмите кнопку Просмотреть" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="При необходимости загрузите PSD-файл по ссылке" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

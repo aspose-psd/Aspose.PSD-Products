@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-„Beispiel mit High-Code-API von PSD nach Tiff konvertieren"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Webanwendung zum Konvertieren Ihrer PSD-Dateien in Tiff" "https://products.aspose.app/psd/conversion" "
-„Beispiele für Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"Beispiel mit High-Code-API von PSD nach Tiff konvertieren"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Webanwendung zum Konvertieren Ihrer PSD-Dateien in Tiff" "https://products.aspose.app/psd/conversion" 
+"Beispiele für Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>Das Ergebnis der Konvertierung von PSD in Tiff kann in Bezug auf den Festplattenspeicher groß sein. Sie erhalten jedoch die verlustfrei komprimierte Datei mit den zusätzlichen Metadaten. Nicht alle Metadaten wurden korrekt von PSD nach Tiff konvertiert. Wenn Sie Metadaten von PSD-Ebenen extrahieren müssen, versuchen Sie es bitte <a href="https://products.aspose.app/psd/metadata">PSD-Metadatenextraktor</a>. Wenn Sie die gesamte Leistung der PSD-High-Code-API nutzen möchten, versuchen Sie es bitte <a href="/psd">Aspose.PSD</a> für .Net oder Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

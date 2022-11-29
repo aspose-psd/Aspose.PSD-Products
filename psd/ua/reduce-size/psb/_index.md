@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Зразки коду для стиснення PSD файлів можна знайти в офіційному сховищі Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Веб-додаток для стиснення PSD і PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Зразки коду для стиснення PSD файлів можна знайти в офіційному сховищі Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Веб-додаток для стиснення PSD і PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Файли PSB можуть бути до 2 Гб, тому ви можете отримати випадок, коли ця програма не може завантажити файл PSB, щоб зменшити його розмір. У цьому випадку краще використовувати <a href="/psd">на psd рішення формату як Aspose.PSD</a> і написати стиснути код самостійно. Приклади коду гарячого стиснення PSB формат можна знайти в цій статті, просто перемкніть вкладки у вбудованому PSB File Reduse App</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

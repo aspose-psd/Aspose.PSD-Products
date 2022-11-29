@@ -101,7 +101,7 @@ url: psd/
         {{< blocks/products/pf/agp/demobox sectionTitle="وضع علامة مائية على PSD عبر التطبيق عبر الإنترنت" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="لا حاجة لكتابة أي كود" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف PSD الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر\" Add\ "»" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف PSD الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر 'Add" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="احصل على رابط التنزيل للملف الناتج على الفور" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

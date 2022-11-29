@@ -18,10 +18,10 @@ url: psd-file-viewer/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-“将 PSD 文件导出为其他格式以供查看" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" "
-“GIST 在 Java 上使用高代码 API 查看其他格式的 PSD 文件的示例" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" "
-“Aspose 低代码应用程序可在线查看 PSD 文件" "https://products.aspose.app/psd/viewer/psd" >}}
+    }` 
+"将 PSD 文件导出为其他格式以供查看" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST 在 Java 上使用高代码 API 查看其他格式的 PSD 文件的示例" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"Aspose 低代码应用程序可在线查看 PSD 文件" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>使用内置的无代码 PSD 查看器查看 PSD 文件。快速准确地查看PSD文件。只需上传 PSD 文件即可。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

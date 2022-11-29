@@ -18,7 +18,7 @@ url: psd/
  API koji je bogat značajkama, moćan i jednostavan za korištenje API za C# platformu koji se koristi s bilo kojim preglednikom. Otvori
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  upravitelj paketa, traži
-
+ **Aspose.PSD** 
  i instalirati. Također možete upotrijebiti sljedeću naredbu iz konzole Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Naredba konzole upravitelja paketa" offSpacer="true" %}}

@@ -19,10 +19,10 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“포토샵 없이 PSD 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" "
-“Gists에서 PSD 파일을 여는 예" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "
-“PSD를 온라인으로 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"포토샵 없이 PSD 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" 
+"Gists에서 PSD 파일을 여는 예" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
+"PSD를 온라인으로 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD 보기 모든 PSD 파일을 열고 png로 다운로드할 수 있습니다.PSD 파일을 열면 이 파일의 픽셀 퍼펙트 미리보기가 사용됩니다.색상 당 8 비트, 16 비트 및 32 비트로 PSD 파일을 열 수 있습니다.열린 PSD 파일을 온라인으로 편집하려면 다음을 사용하십시오. <a href="https://products.aspose.app/psd/editor">PSD 에디터</a>.이 앱은 PSD 온라인에서만 열 수 있습니다.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

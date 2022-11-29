@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“ตัวอย่างรหัสของการแปลง PSD เป็น PDF ใน Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“เว็บแอปพลิเคชันฟรีเพื่อแปลงไฟล์ PSD ของคุณเป็น Pdf และรูปแบบอื่น ๆ อีกมากมาย" "https://products.aspose.app/psd/conversion" "
-“ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"ตัวอย่างรหัสของการแปลง PSD เป็น PDF ใน Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"เว็บแอปพลิเคชันฟรีเพื่อแปลงไฟล์ PSD ของคุณเป็น Pdf และรูปแบบอื่น ๆ อีกมากมาย" "https://products.aspose.app/psd/conversion" 
+"ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>การแปลง PSD เป็น PDF โดย Aspose.PSD มีสองประเภท - การแปลงพิกเซลที่สมบูรณ์แบบและการแปลงที่มีความสามารถในการเลือกข้อความสำหรับการแปลงพิกเซลที่สมบูรณ์แบบคุณต้องใช้ <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">คุณสมบัติ ReadOnlyMode</a>โปรดตรวจสอบการอ้างอิง API ถ้า Aspose.PSD จะถูกนำมาใช้เป็น app รหัสสูงหากคุณต้องการความสามารถในการเลือกข้อความโปรดใช้รหัสด้านบน</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

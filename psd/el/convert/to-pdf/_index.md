@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-«Δείγματα κώδικα μετατροπής PSD σε PDF σε Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Δωρεάν διαδικτυακή εφαρμογή για να μετατρέψετε τα PSD αρχεία σας σε Pdf και πολλές άλλες μορφές" "https://products.aspose.app/psd/conversion" "
-«Παραδείγματα για Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Δείγματα κώδικα μετατροπής PSD σε PDF σε Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Δωρεάν διαδικτυακή εφαρμογή για να μετατρέψετε τα PSD αρχεία σας σε Pdf και πολλές άλλες μορφές" "https://products.aspose.app/psd/conversion" 
+"Παραδείγματα για Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Μετατροπή του PSD σε PDF από Aspose.PSD έχει δύο τύπους - pixel-τέλεια μετατροπή και μετατροπή με δυνατότητα επιλογής κειμένου. Για την τέλεια μετατροπή pixel-πρέπει να χρησιμοποιήσετε <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">Η ιδιότητα ReadOnlyMode</a>, ελέγξτε την αναφορά API εάν το Aspose.PSD θα χρησιμοποιηθεί ως εφαρμογή υψηλού κώδικα. Εάν χρειάζεστε τη δυνατότητα επιλογής κειμένου, χρησιμοποιήστε τον παραπάνω κωδικό.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

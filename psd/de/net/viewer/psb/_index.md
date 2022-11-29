@@ -87,7 +87,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="Kostenlose App zum Ansehen von PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sie müssen keinen Code schreiben oder kompilieren" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach die PSB-Datei hoch und klicken Sie auf die Schaltfläche\" Ansicht\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach die PSB-Datei hoch und klicken Sie auf die Schaltfläche Ansicht" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Laden Sie die PSB-Datei von dem Link herunter, falls erforderlich" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}

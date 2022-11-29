@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-„Ukázky kódu konverze PSD do PDF v Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Bezplatná webová aplikace pro převod souborů PSD do formátu Pdf a mnoha dalších formátů" "https://products.aspose.app/psd/conversion" "
-„Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Ukázky kódu konverze PSD do PDF v Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Bezplatná webová aplikace pro převod souborů PSD do formátu Pdf a mnoha dalších formátů" "https://products.aspose.app/psd/conversion" 
+"Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Konverze PSD na PDF pomocí Aspose.PSD má dva typy - pixel-perfektní konverzi a konverzi se schopností vybrat text. Pro dokonalou konverzi pixelů musíte použít <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">Vlastnost ReadOnlyMode</a>, zkontrolujte referenci API, pokud bude Aspose.PSD použit jako aplikace s vysokým kódem. Pokud potřebujete možnost vybrat text, použijte výše uvedený kód.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Δείγματα κώδικα για προβολή PSB ως PNG"  "https://docs.aspose.com/psd/net/" "
-«Μετατροπή PSB σε άλλες μορφές"  "/psd/convert" "
-«Χαμηλού κώδικα PSB Editor με μεγαλύτερο μέγεθος χώρου εργασίας" "https://products.aspose.app/psd/editor/psb" "
-«Παραδείγματα εργασίας με αρχεία PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"Δείγματα κώδικα για προβολή PSB ως PNG"  "https://docs.aspose.com/psd/net/" 
+"Μετατροπή PSB σε άλλες μορφές"  "/psd/convert" 
+"Χαμηλού κώδικα PSB Editor με μεγαλύτερο μέγεθος χώρου εργασίας" "https://products.aspose.app/psd/editor/psb" 
+"Παραδείγματα εργασίας με αρχεία PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>Το PSB Editor επεξεργάζεται αρχεία στο διακομιστή. Για να επεξεργαστείτε αρχεία PSB Aspose.PSD Editor πρώτα προκειμένου να ανεβάσετε το αρχείο PSB και στη συνέχεια να σειριοποιήσετε και να παρέχει UI για να επεξεργαστείτε το αρχείο PSB που έχετε ανεβάσει. Το τελικό αποτέλεσμα της επεξεργασίας PSB μπορεί να μεταφορτωθεί σε διαφορετικές μορφές. Όταν επεξεργάζεστε αρχεία PSB έχετε τη λειτουργία όπως ενημέρωση κειμένου, ζωγραφική με το πινέλο, αναδιάταξη και αλλαγή ορατότητας των επιπέδων. Η επεξεργασία μπορεί να γίνει από οποιαδήποτε συσκευή και λειτουργικό σύστημα χρησιμοποιώντας μόνο το πρόγραμμα περιήγησης. Επεξεργαστείτε το αρχείο PSB όπου θέλετε ή χρησιμοποιήστε <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">API υψηλού κώδικα και φτιάξτε το δικό σας πρόγραμμα επεξεργασίας PSB</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

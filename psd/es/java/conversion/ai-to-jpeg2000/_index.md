@@ -91,7 +91,7 @@ Para renderizar la AI a JPEG2000, utilizaremos <a href="/psd/{{< lang-code >}}ja
 {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo de conversión de AI a JPEG2000" sectionDescription="[Convert AI to JPEG2000](https://products.aspose.app/psd/conversion/ai-to-jpeg2000) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar la API de Aspose»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código»." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente cargue su archivo AI, se convertirá instantáneamente a JPEG2000"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente cargue su archivo AI, se convertirá instantáneamente a JPEG2000." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Recibirás el enlace de descarga»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

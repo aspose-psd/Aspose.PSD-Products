@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Δείγματα κώδικα για τη συμπίεση των αρχείων PSD μπορούν να βρεθούν στο επίσημο αποθετήριο Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Εφαρμογή Web για συμπίεση PSD και PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Δείγματα κώδικα για τη συμπίεση των αρχείων PSD μπορούν να βρεθούν στο επίσημο αποθετήριο Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Εφαρμογή Web για συμπίεση PSD και PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB αρχεία μπορεί να είναι μέχρι 2gb, ώστε να μπορείτε να πάρετε την υπόθεση, όταν αυτή η εφαρμογή είναι δεν μπορείτε να ανεβάσετε το αρχείο PSB για να μειώσει το μέγεθός του. Σε αυτές τις περιπτώσεις είναι καλύτερο να το χρησιμοποιήσετε <a href="/psd">on-premise λύση μορφής psd ως Aspose.PSD</a> και γράψτε τον κώδικα συμπίεσης από τον εαυτό σας. Τα παραδείγματα κώδικα ζεστό για συμπίεση μορφή PSB μπορούν να βρεθούν σε αυτό το άρθρο, απλά αλλάξτε τις καρτέλες στο ενσωματωμένο PSB File Redue App</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

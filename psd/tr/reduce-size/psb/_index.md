@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB dosyaları 2gb'ye kadar olabilir, böylece bu uygulama boyutunu azaltmak için PSB dosyasını yükleyemediğinde durumu alabilirsiniz. Bu durumlarda kullanmak daha iyidir <a href="/psd">Aspose.PSD olarak şirket içi psd biçimi çözümü</a> ve kendiniz kompres kodu yazın. PSB formatını sıkıştırmak için sıcak kod örnekleri bu makalede bulunabilir, sadece yerleşik PSB Dosya Azaltma Uygulamasındaki sekmeleri değiştirin</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

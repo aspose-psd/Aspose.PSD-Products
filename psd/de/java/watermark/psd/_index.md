@@ -101,7 +101,7 @@ url: psd/
         {{< blocks/products/pf/agp/demobox sectionTitle="PSD mit Wasserzeichen per Online-App" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sie müssen keinen Code schreiben" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre PSD-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche\" Hinzufügen\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre PSD-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche Hinzufügen" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Holen Sie sich sofort den Download-Link für die resultierende Datei" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

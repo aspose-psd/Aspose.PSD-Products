@@ -18,7 +18,7 @@ url: psd-to-psb/
  Rozhraní API, které je bohaté na funkce, výkonné a snadno použitelné rozhraní API pro manipulaci s dokumenty a konverze pro platformu C#. Otevřeno
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  správce balíčků, hledat
-
+ **Co je Aspose.PSD** 
  a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
@@ -79,7 +79,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro převod PSD na PSB" sectionDescription="Check our live demos for [PSD to PSB conversion](https://products.aspose.app/psd/conversion/psd-to-psb) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko\" Convert\“." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko Convert." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získáte odkaz ke stažení výsledného souboru PSB." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

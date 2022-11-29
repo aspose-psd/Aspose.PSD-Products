@@ -135,9 +135,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“PSD 파일 압축을 위한 코드 샘플은 공식 Github 리포지토리에서 찾을 수 있습니다."  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“PSD 및 PSB를 압축하는 웹 애플리케이션" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"PSD 파일 압축을 위한 코드 샘플은 공식 Github 리포지토리에서 찾을 수 있습니다."  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"PSD 및 PSB를 압축하는 웹 애플리케이션" "https://products.aspose.app/psd/compress" >}}
 <p>Aspose.PSD 압축 기능은 하이 코드 API를 사용합니다.PSD 압축 솔루션은 자바와 .Net에서 사용할 수 있습니다.웹 서비스의 백엔드에서 압축 또는 기타 작업에 Aspose.PSD 를 사용할 수 있습니다.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

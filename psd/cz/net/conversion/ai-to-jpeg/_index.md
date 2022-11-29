@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro převod AI na JPEG" sectionDescription="Check our live demos for [AI to JPEG conversion](https://products.aspose.app/psd/conversion/ai-to-jpeg) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor AI a stisknout tlačítko\" Convert\“." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor AI a stisknout tlačítko Convert." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získáte odkaz ke stažení výsledného souboru JPEG." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
@@ -92,7 +92,7 @@ Soubor s příponou.ai je soubor Adobe Illustrator Artwork, který obsahuje vekt
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg" readMoreLink="https://docs.fileformat.com/image/jpeg/" >}}
-JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu. Formát obrazového souboru JPEG byl standardizován skupinou Joint Photographic Experts Group a odtud název JPEG. Formát byl zvolen pro ukládání a přenos fotografických obrázků na webu. Téměř všechny operační systémy nyní mají prohlížeče, které podporují vizualizaci obrázků JPEG, které jsou často uloženy také s příponou JPG. Dokonce i webové prohlížeče podporují vizualizaci obrázků JPEG.<br/><br/>JPG sdružuje kurátory, sběratele a tvůrce prostřednictvím protokolu zaměřeného na kurátorství NFT. Uživatelé mohou vytvářet své vlastní výstavy libovolných NFT založených na Ethereu a vytvářet tak síť kulturních vztahů.
+JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu. Formát obrazového souboru JPEG byl standardizován skupinou Joint Photographic Experts Group a odtud název JPEG. Formát byl zvolen pro ukládání a přenos fotografických obrázků na webu. Téměř všechny operační systémy nyní mají prohlížeče, které podporují vizualizaci obrázků JPEG, které jsou často uloženy také s příponou JPG. Dokonce i webové prohlížeče podporují vizualizaci obrázků JPEG.<br /><br />JPG sdružuje kurátory, sběratele a tvůrce prostřednictvím protokolu zaměřeného na kurátorství NFT. Uživatelé mohou vytvářet své vlastní výstavy libovolných NFT založených na Ethereu a vytvářet tak síť kulturních vztahů.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 

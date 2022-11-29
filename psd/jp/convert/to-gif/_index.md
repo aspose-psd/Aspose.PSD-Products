@@ -18,10 +18,10 @@ url: to-gif/
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
     }` 
-"gif" "
-「Aspose.PSD を使用してサンプルをPSDからGIFに変換できます"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSDファイルをオンラインでGIFに変換する" "https://products.aspose.app/psd/conversion/psd-to-gif" "
-「要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
+"gif" 
+"Aspose.PSD を使用してサンプルをPSDからGIFに変換できます"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSDファイルをオンラインでGIFに変換する" "https://products.aspose.app/psd/conversion/psd-to-gif" 
+"要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
 <p>Aspose.PSD のパワーを使って PSD を GIF に変換します。組み込みのPSDからGIFへの変換は、ソリューションのシンプルなウィジェットです。PSDドキュメントをアップロードしたら、「GIFに変換」を押して結果を待ちます。PSDからGIFへの変換結果は、レイヤーなしでエクスポートされます。ほとんどの場合、最終的なサイズは小さくなります。しかし、品質も見逃される可能性があります。GIF画像パレットの最大サイズが原因です。PSDファイルは「トゥルーカラー」をサポートしていますが、GIFは256色しかサポートしていません。 </p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

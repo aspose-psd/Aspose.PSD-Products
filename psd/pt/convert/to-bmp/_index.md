@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-“Converta um exemplo de uma lata PSD para BMP usando o Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Converta seu arquivo PSD para BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-“Exemplos em Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Converta um exemplo de uma lata PSD para BMP usando o Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Converta seu arquivo PSD para BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"Exemplos em Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>A conversão de PSD para BMP pode ser feita rapidamente pelo Aspose.PSD. Se você quiser usar outro formato de saída moderno, verifique o <a href="/psd/convert">Converter PSD em raster</a> aplicativo. Este aplicativo sem código <a href="/psd/convert/to-bmp">converte PSD em BMP</a>. O formato Bmp pode ser aberto com qualquer software que você tenha no PC ou Mac. Se você quiser usar o formato BMP compactado após a conversão do PSB, é melhor usar <a href="/psd">Ferramentas de conversão de alto código do Aspose.PSD</a>. Se precisar apenas compactar o arquivo PSD, a conversão para o BMP não é a melhor escolha porque o BMP é um formato grande em comum</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

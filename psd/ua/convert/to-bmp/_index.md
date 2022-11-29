@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-«Перетворити приклад з PSD в BMP можна за допомогою Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Перетворіть ваш PSD файл у BMP онлайн" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-«Приклади на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Перетворити приклад з PSD в BMP можна за допомогою Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Перетворіть ваш PSD файл у BMP онлайн" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"Приклади на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>Перетворення PSD в BMP може бути швидко зроблено за допомогою Aspose.PSD. Якщо ви хочете використовувати інший сучасний формат виведення, будь ласка, перевірте <a href="/psd/convert">Перетворення PSD на растр</a> додаток. Цей додаток без коду <a href="/psd/convert/to-bmp">перетворює PSD в BMP</a>. Формат Bmp може бути відкритий за допомогою будь-якого програмного забезпечення, яке ви маєте на ПК або Mac. Якщо ви хочете використовувати стиснений формат BMP після перетворення з PSB, вам краще використовувати <a href="/psd">Інструменти перетворення високого коду з Aspose.PSD</a>. Якщо якщо просто потрібно стиснути PSD файл, то перетворення в BMP не найкращий вибір, тому що BMP є великим форматом в загальному</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

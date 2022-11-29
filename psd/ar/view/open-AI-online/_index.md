@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-استخراج الملفات دون تثبيتها." "https://products.aspose.com/psd/view/" "
-«أمثلة على فتح ملفات AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-«تطبيق منخفض الكود لفتح الذكاء الاصطناعي عبر الإنترنت" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"استخراج الملفات دون تثبيتها." "https://products.aspose.com/psd/view/" 
+"أمثلة على فتح ملفات AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"تطبيق منخفض الكود لفتح الذكاء الاصطناعي عبر الإنترنت" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>افتح ملف AI باستخدام Aspose.PSD أو منتجات Aspose الأخرى. قم بعرض معاينة ملف AI عبر الإنترنت.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

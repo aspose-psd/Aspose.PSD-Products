@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-“使用 Aspose.PSD 高代码 API 将示例从 PSD 转换为 JPG"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“用于将 PSD 文件转换为 JPEG 的应用程序" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-“要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"使用 Aspose.PSD 高代码 API 将示例从 PSD 转换为 JPG"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"用于将 PSD 文件转换为 JPEG 的应用程序" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>将 PSD 转换为 Jpeg 的主要参数是质量。您可以使用 Aspose.PSD High Code API 将质量从 0 设置为 100。转换质量 100 是最大值，在这种情况下，转换为 Jpeg PSD 文件会有最少的伪影和质量损失。0 是转换后 JPG 图像的最低质量。转换后的文件会很小，但是图像可能很糟糕。如果您完全知道转换结果将用于什么目的，请选择此选项。如果你不想降低图像质量和其他信息，最好使用专门的 <a href="/psd/reduce-size">PSB 压缩</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

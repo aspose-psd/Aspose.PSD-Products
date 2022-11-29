@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>File PSB bisa sampai 2gb, sehingga Anda bisa mendapatkan kasus ketika aplikasi ini tidak dapat mengunggah file PSB untuk mengurangi ukurannya. Dalam kasus ini lebih baik menggunakan <a href="/psd">solusi format psd on-premise sebagai Aspose.PSD</a> dan menulis kode kompres sendiri. Contoh kode panas untuk mengompres format PSB dapat ditemukan di artikel ini, cukup alihkan tab di Aplikasi Pengurangan File PSB bawaan</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-「Aspose.PSD を使用してサンプルを PSD から BMP に変換できます"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSDファイルをオンラインでBMPに変換する" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-「要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Aspose.PSD を使用してサンプルを PSD から BMP に変換できます"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSDファイルをオンラインでBMPに変換する" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>PSD から BMP への変換は、Aspose.PSD を使用してすばやく行うことができます。他の最新の出力形式を使用する場合は、 <a href="/psd/convert">PSD をラスターに変換</a> アプリ。このノーコードアプリ <a href="/psd/convert/to-bmp">PSD を BMP に変換します</a>。BMP形式は、PCまたはMacにある任意のソフトウェアで開くことができます。PSBからの変換後に圧縮されたBMP形式を使用する場合は、 <a href="/psd">Aspose.PSD のハイコード変換ツール</a>。BMPは一般的に大きなフォーマットであるため、PSDファイルを圧縮するだけの場合は、BMPに変換するのが最善の選択ではありません。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

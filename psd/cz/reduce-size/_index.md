@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-„Ukázky kódu pro kompresi PSD souborů lze nalézt v oficiálním úložišti Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-„Webová aplikace pro kompresi PSD a PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Ukázky kódu pro kompresi PSD souborů lze nalézt v oficiálním úložišti Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Webová aplikace pro kompresi PSD a PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Pokud potřebujete zmenšit velikost souboru PSB namísto PSD, můžete použít drobné úpravy této aplikace. Zkontrolujte prosím“<a href="/psd/reduce-size/psb">Zmenšit velikost PSB</a>„aplikace.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

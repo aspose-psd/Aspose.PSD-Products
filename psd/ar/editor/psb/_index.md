@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«نماذج التعليمات البرمجية لعرض PSB كـ PNG"  "https://docs.aspose.com/psd/net/" "
-«تحويل PSB إلى تنسيقات أخرى"  "/psd/convert" "
-«محرر PSB منخفض الكود مع مساحة عمل أكبر" "https://products.aspose.app/psd/editor/psb" "
-«أمثلة على العمل مع ملفات PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"نماذج التعليمات البرمجية لعرض PSB كـ PNG"  "https://docs.aspose.com/psd/net/" 
+"تحويل PSB إلى تنسيقات أخرى"  "/psd/convert" 
+"محرر PSB منخفض الكود مع مساحة عمل أكبر" "https://products.aspose.app/psd/editor/psb" 
+"أمثلة على العمل مع ملفات PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>يقوم محرر PSB بمعالجة الملفات على الخادم. لتحرير ملفات PSB، اطلب محرر Aspose.PSD أولاً تحميل ملف PSB ثم قم بتسلسله وتوفير واجهة مستخدم لتحرير ملف PSB الذي تم تحميله. يمكن تنزيل النتيجة النهائية لتحرير PSB بتنسيقات مختلفة. عندما تقوم بتحرير ملفات PSB، تكون لديك العملية مثل تحديث النص والرسم بالفرشاة وإعادة الترتيب وتغيير رؤية الطبقات. يمكن إجراء التعديل من أي جهاز ونظام تشغيل باستخدام متصفح فقط. قم بتحرير ملف PSB حيث تريد أو تستخدمه <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">واجهة برمجة تطبيقات عالية الكود وقم بإنشاء محرر PSB الخاص بك</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Esempi di codice per visualizzare PSB come PNG"  "https://docs.aspose.com/psd/net/" "
-«Conversione di PSB in altri formati"  "/psd/convert" "
-«Editor PSB low-code con uno spazio di lavoro di dimensioni maggiori" "https://products.aspose.app/psd/editor/psb" "
-«Esempi di utilizzo dei file PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"Esempi di codice per visualizzare PSB come PNG"  "https://docs.aspose.com/psd/net/" 
+"Conversione di PSB in altri formati"  "/psd/convert" 
+"Editor PSB low-code con uno spazio di lavoro di dimensioni maggiori" "https://products.aspose.app/psd/editor/psb" 
+"Esempi di utilizzo dei file PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB Editor elabora i file sul server. Per modificare i file PSB, Aspose.PSD Editor ordina innanzitutto di caricare il file PSB, quindi serializzarlo e fornire l'interfaccia utente per modificare il file PSB caricato. Il risultato finale di PSB Editing può essere scaricato in diversi formati. Quando modifichi i file PSB, esegui operazioni come l'aggiornamento del testo, la pittura con il pennello, il riordino e la modifica della visibilità dei livelli. La modifica può essere effettuata da qualsiasi dispositivo e sistema operativo utilizzando solo il browser. Modifica il file PSB dove vuoi o utilizzalo <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">API high-code e crea il tuo editor PSB</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

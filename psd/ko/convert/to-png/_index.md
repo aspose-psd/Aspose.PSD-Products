@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“Aspose.PSD 를 사용하여 PSD에서 PNG로 예제를 변환할 수 있습니다."  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD 파일을 PNG 및 기타 여러 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" "
-“요점 예시" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"Aspose.PSD 를 사용하여 PSD에서 PNG로 예제를 변환할 수 있습니다."  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD 파일을 PNG 및 기타 여러 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" 
+"요점 예시" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Aspose.PSD에 의한 PSD의 PNG로의 변환은 픽셀적으로 완벽하다. <a href="/psd/reduce-size">PSD 파일 크기 줄이기.</a>.이 경우에는 사용하는 것이 좋습니다 <a href="/psd">Aspose.PSD 하이코드 API</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

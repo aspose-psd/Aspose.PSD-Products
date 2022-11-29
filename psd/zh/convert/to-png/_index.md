@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“可以使用 Aspose.PSD 将示例从 PSD 转换为 PNG"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“免费的网络应用程序，可将您的PSD文件转换为PNG和许多其他格式" "https://products.aspose.app/psd/conversion" "
-“要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"可以使用 Aspose.PSD 将示例从 PSD 转换为 PNG"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"免费的网络应用程序，可将您的PSD文件转换为PNG和许多其他格式" "https://products.aspose.app/psd/conversion" 
+"要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Aspose.PSD 将 PSD 转换为 PNG 非常完美。但是在转换 16 位和 32 位图像时可能会有一些转换差异。主要原因是不同的。当您转换为每通道仅支持 8 位颜色的 PNG 时，会丢失其他信息。另外，对于 8 位 PSD 到 PNG 的转换，使用预览，在某些情况下，原始文件无法预览，因为它已被删除 <a href="/psd/reduce-size">减小 PSD 文件的大小。</a>。在这种情况下最好使用 <a href="/psd">Aspose.PSD High Code API</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

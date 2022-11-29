@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“在没有 Illustrator 的情况下查看 AI 文件" "https://products.aspose.com/psd/view/" "
-“使用高代码 API 查看 AI 文件的 GIST 示例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“Aspose 低代码应用程序可在线查看 AI" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"在没有 Illustrator 的情况下查看 AI 文件" "https://products.aspose.com/psd/view/" 
+"使用高代码 API 查看 AI 文件的 GIST 示例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Aspose 低代码应用程序可在线查看 AI" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>使用 Aspose.PSD 查看 AI 文件。简单快捷的 AI 查看器。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

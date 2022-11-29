@@ -18,8 +18,7 @@ url: psb/
  API que es una API rica en funciones, potente y fácil de usar para la plataforma C# que se puede usar con cualquier visor. Abierto
  [Nuget](https://www.nuget.org/packages/aspose.psd) 
  administrador de paquetes, busca
- **Aspose.PSD**
-
+ **Aspose.PSD** 
  e instalar. También puede usar el siguiente comando desde la consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola de Package Manager" offSpacer="true" %}}

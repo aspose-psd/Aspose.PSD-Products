@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Esempi di codice per la compressione dei file PSD sono disponibili nel repository ufficiale di Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Applicazione Web per comprimere PSD e PSB" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"Esempi di codice per la compressione dei file PSD sono disponibili nel repository ufficiale di Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Applicazione Web per comprimere PSD e PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Le funzionalità di compressione di Aspose.PSD utilizzano l'API high-code. La soluzione Compress PSD è disponibile in Java e .Net. È possibile utilizzare Aspose.PSD per la compressione o altre attività sul back-end del servizio Web.</p>
 <ul>
 <li><a href="psb">Compressa PSB</a></li>

@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-Суфікс, який слід використовувати для файлів без суфікса у назві" "https://products.aspose.com/psd/view/" "
-«GIST Приклади відкриття файлів AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-«Додаток з низьким кодом для відкриття AI в Інтернеті" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Суфікс, який слід використовувати для файлів без суфікса у назві" "https://products.aspose.com/psd/view/" 
+"GIST Приклади відкриття файлів AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Додаток з низьким кодом для відкриття AI в Інтернеті" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Відкрийте файл AI за допомогою Aspose.PSD або інших продуктів Aspose. Візуалізуйте попередній перегляд файлу AI в Інтернеті.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

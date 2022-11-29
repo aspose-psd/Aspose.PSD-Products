@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“AI dosyalarını Illustrator olmadan aç" "https://products.aspose.com/psd/view/" "
-“GIST AI dosyalarını açma örnekleri" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“AI çevrimiçi açmak için düşük kodlu uygulama" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"AI dosyalarını Illustrator olmadan aç" "https://products.aspose.com/psd/view/" 
+"GIST AI dosyalarını açma örnekleri" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"AI çevrimiçi açmak için düşük kodlu uygulama" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>AI dosyasını Aspose.PSD veya diğer Aspose Ürünleri ile açın. AI Dosyası önizlemesini çevrimiçi olarak işleyin.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

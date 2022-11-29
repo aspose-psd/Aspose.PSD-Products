@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Зразки коду для стиснення PSD файлів можна знайти в офіційному сховищі Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Веб-додаток для стиснення PSD і PSB" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"Зразки коду для стиснення PSD файлів можна знайти в офіційному сховищі Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Веб-додаток для стиснення PSD і PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Функції стиснення Aspose.PSD використовують високий код API. Стиснути PSD рішення доступно в Java і Net. Ви можете використовувати Aspose.PSD для стиснення або інших завдань на Back-end вашого веб-сервісу.</p>
 <ul>
 <li><a href="psb">Стиснення PSB</a></li>

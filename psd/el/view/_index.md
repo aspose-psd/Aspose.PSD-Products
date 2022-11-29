@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-«Οδηγός για το άνοιγμα αρχείων PSD χωρίς Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-«Δείγματα κώδικα για προβολή PSD ως PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-«Εφαρμογή χαμηλού κώδικα για να ανοίξετε εικόνες PSD, PSB και AI" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Οδηγός για το άνοιγμα αρχείων PSD χωρίς Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"Δείγματα κώδικα για προβολή PSD ως PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"Εφαρμογή χαμηλού κώδικα για να ανοίξετε εικόνες PSD, PSB και AI" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD δυνατότητες θεατή είναι έτοιμο για σύννεφο και μπορεί να χρησιμοποιηθεί σε Windows, Linux και Mac Servers. Η λύση on-premise είναι διαθέσιμη για <a href="https://products.aspose.com/psd/java/">Java</a> και την πιο πρόσφατη έκδοση του <a href="https://products.aspose.com/psd/net/">.Net</a> καθώς και NET πλαίσιο 2.0 +</p>
 
 <h3 class="headingpdleft">PSD Viewers για διαφορετικές μορφές</h3>

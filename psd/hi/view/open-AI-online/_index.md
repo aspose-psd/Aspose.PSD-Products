@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“इलस्ट्रेटर के बिना AI फ़ाइलें खोलें" "https://products.aspose.com/psd/view/" "
-“GIST AI फ़ाइलें खोलने के उदाहरण" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“AI ऑनलाइन खोलने के लिए लो-कोड ऐप" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"इलस्ट्रेटर के बिना AI फ़ाइलें खोलें" "https://products.aspose.com/psd/view/" 
+"GIST AI फ़ाइलें खोलने के उदाहरण" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"AI ऑनलाइन खोलने के लिए लो-कोड ऐप" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Aspose.PSD या अन्य Aspose उत्पादों के साथ AI फ़ाइल खोलें। AI फ़ाइल पूर्वावलोकन ऑनलाइन प्रस्तुत करें।</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

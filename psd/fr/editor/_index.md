@@ -51,9 +51,9 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Exemples de code pour afficher le PSD au format PNG"  "https://docs.aspose.com/psd/net/" "
-«Éditeur PSD Low-Code avec un espace de travail plus grand" "https://products.aspose.app/psd/editor/" >}}
+	}` 
+"Exemples de code pour afficher le PSD au format PNG"  "https://docs.aspose.com/psd/net/" 
+"Éditeur PSD Low-Code avec un espace de travail plus grand" "https://products.aspose.app/psd/editor/" >}}
 <p>L’éditeur PSD utilise le traitement côté serveur des fichiers <a href="/psd/{{< lang-code >}}java">PSD Java</a> et la dernière version de <a href="/psd/{{< lang-code >}}net">PSD.Net</a> ainsi que .Net Framework 2.0 +</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

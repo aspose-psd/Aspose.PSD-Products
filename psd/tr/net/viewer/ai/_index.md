@@ -85,7 +85,7 @@ Aspose.PSD bir Photoshop biçimi işleme API'sidir. Adobe Photoshop ve Illustrat
         {{< blocks/products/pf/agp/demobox sectionTitle="Yapay Zekayı Görüntülemek İçin Ücretsiz Uygulama" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmeye veya ayarlamaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Kod yazmaya veya derlemeye gerek yok" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece AI dosyasını yükleyin ve\" Görünüm\” düğmesine basın" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece AI dosyasını yükleyin ve Görünüm düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Gerekirse AI dosyasını linkten indirin" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}

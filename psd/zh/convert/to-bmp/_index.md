@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-“使用 Aspose.PSD 可以将示例从 PSD 转换为 BMP"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“在线将您的 PSD 文件转换为 BMP" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-“要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"使用 Aspose.PSD 可以将示例从 PSD 转换为 BMP"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"在线将您的 PSD 文件转换为 BMP" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>Aspose.PSD 可以快速将 PSD 转换为 BMP。如果你想使用其他现代输出格式，请查看 <a href="/psd/convert">将 PSD 转换为栅格</a> 应用程序。这个无代码的应用程序 <a href="/psd/convert/to-bmp">将 PSD 转换为 BMP</a>。Bmp 格式可以用你在 PC 或 Mac 上的任何软件打开。如果你想在从 PSB 转换后使用压缩的 BMP 格式，你最好使用 <a href="/psd">来自 Aspose.PSD 的高代码转换工具</a>。如果只需要压缩 PSD 文件，那么转换成 BMP 并不是最好的选择，因为 BMP 通常是大格式</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

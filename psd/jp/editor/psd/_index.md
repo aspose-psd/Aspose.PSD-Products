@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-「PSB を PNG として表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/" "
-「PSBの他の形式への変換"  "/psd/convert" "
-「ローコード PSD エディター" "https://products.aspose.app/psd/editor/psd" "
-「ビルトイン PSD エディタ" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"PSB を PNG として表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/" 
+"PSBの他の形式への変換"  "/psd/convert" 
+"ローコード PSD エディター" "https://products.aspose.app/psd/editor/psd" 
+"ビルトイン PSD エディタ" "https://products.aspose.com/psd/editor" >}}
 <p>PSD ファイルを編集する必要がある場合は、Aspose PSD エディターを使用してください。これは、Adobe Photoshopを購入しなくても、ブラウザでPSD編集機能を提供するシンプルなウェブアプリです。Aspose.PSD エディターは Adobe API を一切使用せず、PSD フォーマット仕様を使用して PSD フォーマット標準に基づくファイル更新機能を提供します。PSD ファイルのテキストレイヤーとグラフィックレイヤーを更新します。また、PSDエディターはサポートしています <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD スマートオブジェクト</a>。任意のデバイスから PSD ファイルを開いて更新する</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

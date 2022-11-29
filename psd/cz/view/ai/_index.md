@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-„Zobrazit soubory AI bez aplikace Illustrator" "https://products.aspose.com/psd/view/" "
-„GIST Příklady prohlížení souborů AI pomocí rozhraní API s vysokým kódem" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-„Aplikace Aspose s nízkým kódem pro zobrazení AI online" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Zobrazit soubory AI bez aplikace Illustrator" "https://products.aspose.com/psd/view/" 
+"GIST Příklady prohlížení souborů AI pomocí rozhraní API s vysokým kódem" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Aplikace Aspose s nízkým kódem pro zobrazení AI online" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Zobrazte soubor AI pomocí Aspose.PSD. Snadný a rychlý prohlížeč AI.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

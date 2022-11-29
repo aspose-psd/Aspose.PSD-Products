@@ -19,10 +19,10 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“فوٹوشاپ کے بغیر پی ایس ڈی فائلوں کو کیسے کھولنے کے لئے سبق" "https://products.aspose.com/psd/net/viewer/" "
-“Gusts پر پی ایس ڈی فائلوں کو کھولنے کی مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "
-“پی ایس ڈی آن لائن کھولنے کے لئے کم کوڈ اپلی کیشن" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"فوٹوشاپ کے بغیر پی ایس ڈی فائلوں کو کیسے کھولنے کے لئے سبق" "https://products.aspose.com/psd/net/viewer/" 
+"Gusts پر پی ایس ڈی فائلوں کو کھولنے کی مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
+"پی ایس ڈی آن لائن کھولنے کے لئے کم کوڈ اپلی کیشن" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD دیکھیں کسی بھی پی ایس ڈی فائل کو کھولتا ہے اور آپ کو PNG کے طور پر ڈاؤن لوڈ کرنے کی صلاحیت فراہم کرتا ہے. پی ایس ڈی فائلوں کے افتتاحی کے بعد اس فائل کے پکسل کامل پیش نظارہ استعمال کیا جائے گا. 8 بٹس، 16 بٹس اور 32 بٹس فی رنگ کے ساتھ پی ایس ڈی فائل کھول دیا جا سکتا ہے. آپ کو کھلا پی ایس ڈی فائل آن لائن میں ترمیم کرنے کی ضرورت ہے تو استعمال کریں <a href="https://products.aspose.app/psd/editor">پی ایس ڈی ایڈیٹر</a>. یہ اپلی کیشن صرف ہے پی ایس ڈی آن لائن کھولتا ہے</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

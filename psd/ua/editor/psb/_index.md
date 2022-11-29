@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Зразки коду для перегляду PSB у форматі PNG"  "https://docs.aspose.com/psd/net/" "
-«Перетворення PSB в інші формати"  "/psd/convert" "
-«Low-code PSB Editor з більшим розміром робочого простору" "https://products.aspose.app/psd/editor/psb" "
-«Приклади роботи з PSB файлами" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"Зразки коду для перегляду PSB у форматі PNG"  "https://docs.aspose.com/psd/net/" 
+"Перетворення PSB в інші формати"  "/psd/convert" 
+"Low-code PSB Editor з більшим розміром робочого простору" "https://products.aspose.app/psd/editor/psb" 
+"Приклади роботи з PSB файлами" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>Редактор PSB обробляє файли на сервері. Для редагування файлів PSB Aspose.PSD редактор спочатку замовте завантажити PSB файл, а потім серіалізувати його і надати користувальницький інтерфейс для редагування завантаженого файлу PSB. Кінцевий результат PSB Editing можна завантажити в різних форматах. Під час редагування файлів PSB у вас є така операція, як оновлення тексту, малювання пензлем, зміна порядку та зміна видимості шарів. Редагувати можна з будь-якого пристрою і ОС, використовуючи тільки браузер. Редагуйте файл PSB там, де ви хочете або використовуєте <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">API високого коду та створити свій власний редактор PSB</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

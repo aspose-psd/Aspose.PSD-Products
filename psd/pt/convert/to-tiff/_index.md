@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-“Converta exemplo de PSD em Tiff com a API High-Code"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Aplicativo web para converter seus arquivos PSD em Tiff" "https://products.aspose.app/psd/conversion" "
-“Exemplos em Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"Converta exemplo de PSD em Tiff com a API High-Code"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Aplicativo web para converter seus arquivos PSD em Tiff" "https://products.aspose.app/psd/conversion" 
+"Exemplos em Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>O resultado da conversão de PSD em Tiff pode ser grande em relação ao espaço no disco rígido. Mas você obtém o arquivo compactado sem perdas com os metadados adicionais. Nem todos os metadados são convertidos corretamente de PSD para Tiff, se você precisar extrair metadados de camadas PSD, tente <a href="https://products.aspose.app/psd/metadata">Extractor de metadados PSD</a>. Se você quiser usar todo o poder da API PSD de alto código, tente <a href="/psd">Aspose.PSD</a> para .Net ou Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

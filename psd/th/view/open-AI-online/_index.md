@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“เปิดไฟล์ AI โดยไม่ใช้ Illustrator" "https://products.aspose.com/psd/view/" "
-“ตัวอย่างของ GIST ของการเปิดไฟล์ AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“แอพ Low-code เพื่อเปิด AI ออนไลน์" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"เปิดไฟล์ AI โดยไม่ใช้ Illustrator" "https://products.aspose.com/psd/view/" 
+"ตัวอย่างของ GIST ของการเปิดไฟล์ AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"แอพ Low-code เพื่อเปิด AI ออนไลน์" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>เปิดไฟล์ AI กับ Aspose.PSD หรือผลิตภัณฑ์อื่น ๆ Asposeแสดงตัวอย่างไฟล์ AI แบบออนไลน์</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

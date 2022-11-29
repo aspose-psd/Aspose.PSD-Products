@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“ตัวอย่างรหัสสำหรับการดู PSB เป็น PNG"  "https://docs.aspose.com/psd/net/" "
-“การแปลง PSB เป็นรูปแบบอื่น ๆ"  "/psd/convert" "
-“ตัวแก้ไข PSB ที่มีรหัสต่ำที่มีพื้นที่ทำงานที่ใหญ่กว่า" "https://products.aspose.app/psd/editor/psb" "
-“ตัวอย่างการทำงานกับไฟล์ PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"ตัวอย่างรหัสสำหรับการดู PSB เป็น PNG"  "https://docs.aspose.com/psd/net/" 
+"การแปลง PSB เป็นรูปแบบอื่น ๆ"  "/psd/convert" 
+"ตัวแก้ไข PSB ที่มีรหัสต่ำที่มีพื้นที่ทำงานที่ใหญ่กว่า" "https://products.aspose.app/psd/editor/psb" 
+"ตัวอย่างการทำงานกับไฟล์ PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB Editor กระบวนการไฟล์บนเซิร์ฟเวอร์การแก้ไขไฟล์ PSB Aspose.PSD บรรณาธิการแรกเพื่ออัปโหลดไฟล์ PSB แล้วเป็นอันดับและให้ UI เพื่อแก้ไขไฟล์ PSB ที่อัปโหลดผลสุดท้ายของการแก้ไข PSB สามารถดาวน์โหลดได้ในรูปแบบต่างๆเมื่อคุณแก้ไขไฟล์ PSB คุณมีการดำเนินการเช่นการปรับปรุงข้อความ, ภาพวาดด้วยแปรง, การเรียงลำดับและการเปลี่ยนแปลงการมองเห็นของชั้น.แก้ไขสามารถทำจากอุปกรณ์ใด ๆ และ OS โดยใช้เบราว์เซอร์เพียงแก้ไขไฟล์ PSB ที่คุณต้องการหรือใช้ <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">API รหัสสูงและสร้างตัวแก้ไข PSB ของคุณเอง</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

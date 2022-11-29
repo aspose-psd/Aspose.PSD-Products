@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-«Άνοιγμα αρχείων AI χωρίς το Illustrator" "https://products.aspose.com/psd/view/" "
-«GIST Παραδείγματα ανοίγματος αρχείων AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-«Εφαρμογή χαμηλού κώδικα για να ανοίξετε AI online" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Άνοιγμα αρχείων AI χωρίς το Illustrator" "https://products.aspose.com/psd/view/" 
+"GIST Παραδείγματα ανοίγματος αρχείων AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Εφαρμογή χαμηλού κώδικα για να ανοίξετε AI online" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Ανοίξτε το αρχείο AI με Aspose.PSD ή άλλα προϊόντα Aspose. Κάντε online την προεπισκόπηση αρχείων AI.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

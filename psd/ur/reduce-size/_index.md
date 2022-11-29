@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress/psd" >}}
 <p>اگر آپ پی ایس ڈی کے بجائے پی ایس بی فائل کے سائز کو کم کرنے کی ضرورت ہے تو، آپ اس اپلی کیشن کے معمولی ترمیم کا استعمال کرسکتے ہیں. براہ کرم چیک کریں”<a href="/psd/reduce-size/psb">پی ایس بی کا سائز کم کریں</a>“ایپلیکیشن.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

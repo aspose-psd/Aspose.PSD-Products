@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSB को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/" "
-“PSB को अन्य प्रारूपों में परिवर्तित करना"  "/psd/convert" "
-“लो-कोड PSD एडिटर" "https://products.aspose.app/psd/editor/psd" "
-“अंतर्निहित PSD संपादक" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"PSB को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/" 
+"PSB को अन्य प्रारूपों में परिवर्तित करना"  "/psd/convert" 
+"लो-कोड PSD एडिटर" "https://products.aspose.app/psd/editor/psd" 
+"अंतर्निहित PSD संपादक" "https://products.aspose.com/psd/editor" >}}
 <p>यदि आपको PSD फ़ाइलों को संपादित करने की आवश्यकता है, तो Aspose PSD संपादक का उपयोग करें। यह एक सरल वेब ऐप है जो ब्राउज़र में और Adobe Photoshop की खरीद के बिना PSD संपादन कार्यक्षमता प्रदान करता है। Aspose.PSD संपादक किसी भी Adobe API का उपयोग नहीं करता है, और PSD प्रारूप मानकों के अनुसार फ़ाइल अपडेट कार्यक्षमता प्रदान करने के लिए PSD प्रारूप विनिर्देश का उपयोग करता है। PSD फ़ाइलों में पाठ और ग्राफिक परतों को अपडेट करें। इसके अलावा, PSD संपादक समर्थन करता है <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD स्मार्ट ऑब्जेक्ट्स</a>। किसी भी डिवाइस से PSD फ़ाइलें खोलें और अपडेट करें</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

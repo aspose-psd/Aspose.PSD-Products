@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-”Kodexempel för att visa PSB som PNG"  "https://docs.aspose.com/psd/net/" "
-”Konvertera PSB till andra format"  "/psd/convert" "
-”Låg kod PSD Editor" "https://products.aspose.app/psd/editor/psd" "
-”Inbyggd PSD Editor" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"Kodexempel för att visa PSB som PNG"  "https://docs.aspose.com/psd/net/" 
+"Konvertera PSB till andra format"  "/psd/convert" 
+"Låg kod PSD Editor" "https://products.aspose.app/psd/editor/psd" 
+"Inbyggd PSD Editor" "https://products.aspose.com/psd/editor" >}}
 <p>Använd Aspose PSD Editor om du behöver redigera PSD-filer. Detta är en enkel webbapp ger PSD redigeringsfunktioner i webbläsaren och utan att köpa av Adobe Photoshop. Aspose.PSD Editor använder inte något Adobe API, och använder PSD-format specifikation för att tillhandahålla filuppdateringsfunktioner enligt PSD Format Standards. Uppdatera text och grafiska lager i PSD-filer. Dessutom stöder PSD Editor <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">Smarta PSD-objekt</a>. Öppna och uppdatera PSD-filer från vilken enhet som helst</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

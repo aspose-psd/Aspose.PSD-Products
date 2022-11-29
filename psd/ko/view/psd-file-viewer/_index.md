@@ -18,10 +18,10 @@ url: psd-file-viewer/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-“보기 위해 PSD 파일을 다른 형식으로 내보내기" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" "
-“GIST 자바에서 하이 코드 API를 사용하여 다른 형식의 PSD 파일을 보는 예제" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" "
-“PSD 파일을 온라인으로 볼 수 있는 Aspose 로우 코드 앱" "https://products.aspose.app/psd/viewer/psd" >}}
+    }` 
+"보기 위해 PSD 파일을 다른 형식으로 내보내기" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST 자바에서 하이 코드 API를 사용하여 다른 형식의 PSD 파일을 보는 예제" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"PSD 파일을 온라인으로 볼 수 있는 Aspose 로우 코드 앱" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>내장 노코드 PSD 뷰어로 PSD 파일을 볼 수 있습니다.빠르고 정확한 PSD 파일 뷰어.PSD 파일을 업로드하기만 하면 됩니다.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

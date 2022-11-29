@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“پی ایس ڈی سے PNG کو مثال کے طور پر تبدیل کریں Aspose.PSD استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“آپ کے پی ایس ڈی فائلوں کو PNG اور بہت سے دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" "
-“گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"پی ایس ڈی سے PNG کو مثال کے طور پر تبدیل کریں Aspose.PSD استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"آپ کے پی ایس ڈی فائلوں کو PNG اور بہت سے دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" 
+"گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Aspose.PSD کی طرف سے PNG کرنے کے لئے پی ایس ڈی کے تبادلوں پکسل-کامل ہے. لیکن 16 بٹ اور 32 بٹ تصاویر کو تبدیل کرتے وقت کچھ تبادلوں کے اختلافات ہوسکتے ہیں. اہم وجوہات مختلف ہیں. جب آپ PNG میں تبدیل کرتے ہیں جو صرف 8 بٹ فی چینل رنگوں کی حمایت کرتا ہے تو آپ اضافی معلومات کھو دیتے ہیں. اس کے علاوہ، پی ایس ڈی کے پی ایس ڈی کے 8 بٹ تبادلوں کے لئے پیش نظارہ استعمال کیا جاتا ہے، بعض صورتوں میں اصل فائل پیش نظارہ نہیں کیا گیا ہے کیونکہ اس کے لئے ہٹا دیا گیا تھا <a href="/psd/reduce-size">پی ایس ڈی فائل کے سائز کو کم کرنے.</a>. اس صورت میں استعمال کرنے کے لئے بہتر ہے <a href="/psd">Aspose.PSD ہائی کوڈ API</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“压缩 PSD 文件的代码示例可以在官方 Github 存储库中找到"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“用于压缩 PSD 和 PSB 的 Web 应用程序" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"压缩 PSD 文件的代码示例可以在官方 Github 存储库中找到"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"用于压缩 PSD 和 PSB 的 Web 应用程序" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB 文件最大可达 2GB，因此当此应用程序无法上传 PSB 文件以减小其大小时，您可能会遇到这种情况。在这种情况下，最好使用 <a href="/psd">本地 psd 格式解决方案如 Aspose.PSD</a> 然后自己写压缩代码。本文中可以找到热压缩 PSB 格式的代码示例，只需在内置 PSB File Reduce App 中切换选项卡即可</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

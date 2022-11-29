@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-«Afficher des fichiers AI sans Illustrator" "https://products.aspose.com/psd/view/" "
-«Exemples GIST de visualisation de fichiers AI à l'aide d'une API à code élevé" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-«Aspose d'une application Low-code pour visualiser l'IA en ligne" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Afficher des fichiers AI sans Illustrator" "https://products.aspose.com/psd/view/" 
+"Exemples GIST de visualisation de fichiers AI à l'aide d'une API à code élevé" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Aspose d'une application Low-code pour visualiser l'IA en ligne" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Afficher le fichier AI avec Aspose.PSD. AI Viewer simple et rapide.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

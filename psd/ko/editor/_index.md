@@ -52,8 +52,8 @@ url: editor/
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
 	}` 
-"PSD를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" "
-“작업 공간이 더 넓은 로우 코드 PSD 편집기" "https://products.aspose.app/psd/editor/" >}}
+"PSD를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" 
+"작업 공간이 더 넓은 로우 코드 PSD 편집기" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD 편집기는 서버 측 파일 처리를 사용합니다.Aspose.PSD 는 PSD 편집 소프트웨어를 만드는 데 사용할 수 있는 몇 안 되는 제품 중 하나입니다.PSD 리소스 읽기와 업데이트된 PSD 파일 엔티티의 렌더링을 모두 지원합니다.이 PSD 편집기는 PSD 텍스트 레이어를 원본 어도비 포토샵 텍스트 엔진에 매우 가깝게 렌더링합니다.또한 이 편집기로 새 PSD 레이어를 만들고 브러시 조작으로 업데이트할 수 있습니다.PSD 업데이트는 모든 장치 및 OS에서 처리할 수 있습니다.PSD 처리 소프트웨어는 일반적으로 EXIF 데이터, 레이어 생성 시간과 같은 PSD 파일 리소스 보기만 지원하지만 Aspose.PSD 는 조정 레이어, 채우기 레이어, 텍스트 레이어, 스마트 오브젝트 등 대부분의 경우 PSD 파일을 편집할 수 있습니다.PSD Editor의 기능이 충분하지 않은 경우 독립형 온 프레미스 솔루션을 확인하십시오. <a href="/psd/{{< lang-code >}}java">PSD 자바</a> 최신 버전입니까? <a href="/psd/{{< lang-code >}}net">PSD .Net</a> 뿐만 아니라 .Net 프레임워크 2.0 +</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

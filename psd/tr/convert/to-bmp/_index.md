@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-“Dönüştürme örneği PSD'den BMP'ye Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD dosyanızı çevrimiçi olarak BMP'ye dönüştürün" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-“Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Dönüştürme örneği PSD'den BMP'ye Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD dosyanızı çevrimiçi olarak BMP'ye dönüştürün" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>PSD'nin BMP'ye dönüştürülmesi Aspose.PSD ile hızlı bir şekilde yapılabilir. Diğer modern çıkış formatını kullanmak istiyorsanız lütfen kontrol edin <a href="/psd/convert">PSD dosyasını raster'e dönüştürün</a> Uygulamanın. Bu kodsuz Uygulama <a href="/psd/convert/to-bmp">PSD'yi BMP'e dönüştürür</a>. Bmp formatı, PC veya Mac'te sahip olduğunuz herhangi bir yazılımla açılabilir. PSB'den dönüşümden sonra sıkıştırılmış BMP formatını kullanmak istiyorsanız, kullanmanız daha iyi <a href="/psd">Aspose.PSD dosyasından yüksek kodlu Dönüştürme araçları</a>. Sadece PSD dosyasını sıkıştırmanız gerekiyorsa, BMP'ye dönüştürmek en iyi seçim değildir, çünkü BMP ortak geniş formattır</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

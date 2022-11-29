@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“Aspose.PSD का उपयोग करके PSD से PNG में उदाहरण परिवर्तित कर सकते हैं"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“अपनी PSD फ़ाइलों को PNG और कई अन्य प्रारूपों में बदलने के लिए नि: शुल्क वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" "
-“गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"Aspose.PSD का उपयोग करके PSD से PNG में उदाहरण परिवर्तित कर सकते हैं"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"अपनी PSD फ़ाइलों को PNG और कई अन्य प्रारूपों में बदलने के लिए नि: शुल्क वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" 
+"गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Aspose.PSD द्वारा PSD का PNG में रूपांतरण पिक्सेल-परफेक्ट है। लेकिन 16 बिट और 32 बिट छवियों को परिवर्तित करते समय कुछ रूपांतरण अंतर हो सकते हैं। मुख्य कारण अलग-अलग हैं। जब आप PNG में कनवर्ट करते हैं जो केवल 8 बिट प्रति चैनल रंगों का समर्थन करता है, तो आप अतिरिक्त जानकारी खो देते हैं। इसके अलावा, पीएनजी में पीएसडी के 8 बिट रूपांतरण के लिए पूर्वावलोकन का उपयोग किया जाता है, कुछ मामलों में मूल फ़ाइल का पूर्वावलोकन नहीं होता है क्योंकि इसे हटा दिया गया था <a href="/psd/reduce-size">PSD फ़ाइल का आकार कम करना।</a>। इस मामले में उपयोग करना बेहतर है <a href="/psd">Aspose.PSD हाई-कोड एपीआई</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

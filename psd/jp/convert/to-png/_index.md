@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-「Aspose.PSD を使ってサンプルを PSD から PNG に変換できます"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSDファイルをPNGやその他の多くの形式に変換する無料のWebアプリケーション" "https://products.aspose.app/psd/conversion" "
-「要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"Aspose.PSD を使ってサンプルを PSD から PNG に変換できます"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSDファイルをPNGやその他の多くの形式に変換する無料のWebアプリケーション" "https://products.aspose.app/psd/conversion" 
+"要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Aspose.PSD による PSD から PNG への変換はピクセルパーフェクトです。ただし、16ビットと32ビットの画像を変換する場合、変換に多少の違いが生じる可能性があります。主な理由は異なります。8 ビット/チャンネルカラーしかサポートしない PNG に変換すると、追加情報が失われます。また、PSDからPNGへの8ビット変換にはプレビューが使用されますが、元のファイルが <a href="/psd/reduce-size">PSD ファイルサイズの削減。</a>。この場合は使用する方が良いです。 <a href="/psd">Aspose.PSD ハイコード API</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

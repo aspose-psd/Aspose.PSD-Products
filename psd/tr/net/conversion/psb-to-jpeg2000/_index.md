@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="PSB'yi JPEG2000'e Dönüştürmek İçin Ücretsiz Uygulama" sectionDescription="Check our live demos for [PSB to JPEG2000 conversion](https://products.aspose.app/psd/conversion/psb-to-jpeg2000) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmanıza gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSB dosyanızı yükleyin ve\" Convert\” düğmesine basın." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSB dosyanızı yükleyin ve Convert düğmesine basın." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan JPEG2000 dosyası için indirme bağlantısını anında alacaksınız." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

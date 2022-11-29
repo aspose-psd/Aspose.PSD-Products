@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“Aspose.PSD में PDF में रूपांतरण PSD के कोड नमूने"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“आपकी PSD फ़ाइलों को पीडीएफ और कई अन्य प्रारूपों में बदलने के लिए मुफ्त वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" "
-“गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Aspose.PSD में PDF में रूपांतरण PSD के कोड नमूने"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"आपकी PSD फ़ाइलों को पीडीएफ और कई अन्य प्रारूपों में बदलने के लिए मुफ्त वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" 
+"गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Aspose.PSD द्वारा PDF में PSD के रूपांतरण के दो प्रकार हैं - पिक्सेल-परफेक्ट रूपांतरण और टेक्स्ट का चयन करने की क्षमता के साथ रूपांतरण। पिक्सेल-परफेक्ट रूपांतरण के लिए आपको उपयोग करने की आवश्यकता है <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">रीडऑनलीमोड प्रॉपर्टी</a>, कृपया API संदर्भ की जांच करें कि Aspose.PSD का उपयोग हाई-कोड ऐप के रूप में किया जाएगा या नहीं। यदि आपको पाठ का चयन करने की क्षमता की आवश्यकता है, तो कृपया ऊपर दिए गए कोड का उपयोग करें।</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

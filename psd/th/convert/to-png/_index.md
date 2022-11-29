@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“แปลงตัวอย่างจาก PSD เพื่อ PNG สามารถใช้ Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“เว็บแอปพลิเคชันฟรีเพื่อแปลงไฟล์ PSD ของคุณเป็น PNG และรูปแบบอื่น ๆ อีกมากมาย" "https://products.aspose.app/psd/conversion" "
-“ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"แปลงตัวอย่างจาก PSD เพื่อ PNG สามารถใช้ Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"เว็บแอปพลิเคชันฟรีเพื่อแปลงไฟล์ PSD ของคุณเป็น PNG และรูปแบบอื่น ๆ อีกมากมาย" "https://products.aspose.app/psd/conversion" 
+"ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>การแปลง PSD เป็น PNG โดย Aspose.PSD เป็นพิกเซลที่สมบูรณ์แบบแต่สามารถมีความแตกต่างในการแปลงบางอย่างเมื่อแปลงภาพ 16 บิตและ 32 บิตเหตุผลหลักแตกต่างกันเมื่อคุณแปลงเป็น PNG ที่สนับสนุนเฉพาะ 8 บิตต่อสีสถานีคุณจะสูญเสียข้อมูลเพิ่มเติมนอกจากนี้สำหรับการแปลง PSD เป็น PNG 8 บิตจะใช้ตัวอย่างในบางกรณีไฟล์ต้นฉบับไม่ได้แสดงตัวอย่างเนื่องจากไฟล์ถูกนำออกสำหรับ <a href="/psd/reduce-size">การลดขนาดไฟล์ PSD</a>.ในกรณีนี้ดีกว่าที่จะใช้ <a href="/psd">Aspose.PSD API รหัสสูง</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

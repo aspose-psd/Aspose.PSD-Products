@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“Aspose.PSD 파일에서 PSD를 PDF로 변환하는 코드 샘플"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD 파일을 PDF 및 기타 여러 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" "
-“요점 예시" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Aspose.PSD 파일에서 PSD를 PDF로 변환하는 코드 샘플"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD 파일을 PDF 및 기타 여러 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" 
+"요점 예시" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Aspose.PSD 에서 PSD를 PDF로 변환하는 데는 픽셀 퍼펙트 변환과 텍스트 선택 기능을 갖춘 변환의 두 가지 유형이 있습니다.완벽한 픽셀 변환을 위해서는 다음을 사용해야 합니다. <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">읽기 전용 모드 속성</a>Aspose.PSD 를 하이 코드 앱으로 사용할 것인지 API 레퍼런스를 확인하십시오.텍스트를 선택할 수 있는 기능이 필요한 경우 위의 코드를 사용하십시오.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

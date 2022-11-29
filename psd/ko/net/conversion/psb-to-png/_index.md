@@ -1,5 +1,5 @@
 ---
-title: C #을 사용하여 PSB를 PNG로 변환
+title: C#을 사용하여 PSB를 PNG로 변환
 description: .NET API를 통해 PSD, PSB 및 AI 파일을 내보낼 수 있습니다.
 family: psd
 platformtag: net
@@ -11,7 +11,7 @@ url: psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C #을 통해 PSB를 PNG로 변환" h2="PSD 및 PSB를 위한 .NET 포토샵 API (PNG 포함) 래스터 이미지로 변환" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 PSB를 PNG로 변환" h2="PSD 및 PSB를 위한 .NET 포토샵 API (PNG 포함) 래스터 이미지로 변환" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

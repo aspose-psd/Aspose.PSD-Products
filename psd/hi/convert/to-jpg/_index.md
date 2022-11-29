@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-“Aspose.PSD हाई-कोड API का उपयोग करके PSD से JPG में उदाहरण परिवर्तित करें"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD फ़ाइलों को JPEG में बदलने के लिए आवेदन" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-“गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Aspose.PSD हाई-कोड API का उपयोग करके PSD से JPG में उदाहरण परिवर्तित करें"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD फ़ाइलों को JPEG में बदलने के लिए आवेदन" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>PSD को Jpeg में बदलने का मुख्य पैरामीटर एक गुणवत्ता है। आप Aspose.PSD हाई-कोड API का उपयोग करके 0 से 100 तक की गुणवत्ता सेट कर सकते हैं। रूपांतरण गुणवत्ता 100 अधिकतम है, इस मामले में Jpeg PSD फ़ाइल में परिवर्तित होने पर न्यूनतम मात्रा में कलाकृतियों और गुणवत्ता में कमी होगी। रूपांतरण के बाद 0 JPG छवि की न्यूनतम गुणवत्ता है। कनवर्ट की गई फ़ाइल छोटी होगी, लेकिन छवि खराब हो सकती है। कृपया इस विकल्प को चुनें यदि आप पूरी तरह से जानते हैं कि रूपांतरण परिणाम का उपयोग किन उद्देश्यों के लिए किया जाएगा। यदि आप छवि की गुणवत्ता और अतिरिक्त जानकारी नहीं खोना चाहते हैं, तो बेहतर होगा कि आप विशेष का उपयोग करें <a href="/psd/reduce-size">PSD संपीड़ित करें</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

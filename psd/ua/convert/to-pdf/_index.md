@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-«Зразки коду перетворення PSD в PDF в Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Безкоштовний веб-додаток для перетворення ваших PSD файлів в Pdf і багато інших форматів" "https://products.aspose.app/psd/conversion" "
-«Приклади на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Зразки коду перетворення PSD в PDF в Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Безкоштовний веб-додаток для перетворення ваших PSD файлів в Pdf і багато інших форматів" "https://products.aspose.app/psd/conversion" 
+"Приклади на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Перетворення PSD в PDF за допомогою Aspose.PSD має два типи - ідеальне перетворення пікселів і перетворення з можливістю вибору тексту. Для перетворення пікселів, ви повинні використовувати <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">Властивість «Тільки для читання»</a>, будь ласка, перевірте посилання на API, якщо Aspose.PSD буде використовуватися як додаток з високим кодом. Якщо вам потрібна можливість вибору тексту, будь ласка, використовуйте код вище.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

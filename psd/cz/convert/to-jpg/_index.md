@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-„Převést příklad z PSD na JPG pomocí rozhraní API s vysokým kódem Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Aplikace pro převod souborů PSD do formátu JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-„Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Převést příklad z PSD na JPG pomocí rozhraní API s vysokým kódem Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Aplikace pro převod souborů PSD do formátu JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>Hlavním parametrem pro konverzi PSD na Jpeg je kvalita. Kvalitu můžete nastavit od 0 do 100 pomocí rozhraní Aspose.PSD High-Code API. Kvalita konverze 100 je maximální, v tomto případě převedena na Jpeg PSD soubor bude mít minimální množství artefaktů a kvalita ztrácí. 0 je minimální kvalita JPG Image po převodu. Převedený soubor bude malý, ale obraz může být hrozný. Zvolte prosím tyto možnosti, pokud absolutně víte, pro jaké účely bude výsledek převodu použit. Pokud nechcete ztratit kvalitu obrazu a další informace, měli byste použít specializované <a href="/psd/reduce-size">PSD Komprese</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

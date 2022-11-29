@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-「PSB を PNG として表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/" "
-「PSBの他の形式への変換"  "/psd/convert" "
-「ワークスペースのサイズが大きいローコードPSBエディタ" "https://products.aspose.app/psd/editor/psb" "
-「PSB ファイルの操作例" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"PSB を PNG として表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/" 
+"PSBの他の形式への変換"  "/psd/convert" 
+"ワークスペースのサイズが大きいローコードPSBエディタ" "https://products.aspose.app/psd/editor/psb" 
+"PSB ファイルの操作例" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB Editor はサーバー上のファイルを処理します。PSB ファイルを編集するには、Aspose.PSD Editor はまず PSB ファイルをアップロードしてからシリアル化し、アップロードした PSB ファイルを編集するための UI を提供します。PSB Editingの最終結果は、さまざまな形式でダウンロードできます。PSBファイルを編集すると、テキストの更新、ブラシによるペイント、レイヤーの表示/非表示の順序変更などの操作ができます。編集は、ブラウザだけでどのデバイスやOSからでも行うことができます。必要な場所または使用する場所でPSBファイルを編集 <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">ハイコードAPIと独自のPSBエディターの作成</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

@@ -18,10 +18,10 @@ url: to-gif/
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
     }` 
-"gif" "
-“Dönüştürme örneği PSD'den GIF'e Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD dosyanızı çevrimiçi olarak GIF'e dönüştürün" "https://products.aspose.app/psd/conversion/psd-to-gif" "
-“Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
+"gif" 
+"Dönüştürme örneği PSD'den GIF'e Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD dosyanızı çevrimiçi olarak GIF'e dönüştürün" "https://products.aspose.app/psd/conversion/psd-to-gif" 
+"Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
 <p>Aspose.PSD gücünü kullanarak GIF PSD dönüştürün. Dahili PSD'den GIF'e dönüştürme, çözümünüz için basit bir widget'tır. PSD belgesinin yüklenmesinden sonra “GIF'e dönüştür” e basın ve sonucu bekleyin. PSD'den GIF'e dönüştürmenin sonucu katmanlar olmadan dışa aktarılacaktır. Çoğu durumda son boyut daha küçük olacaktır. Ancak kalite de gözden kaçabilir. GIF Görüntü Paletinin maksimum boyutu nedeniyle. PSD dosyası “Gerçek Renkler” destekler ancak GIF sadece 256 renk destekler. </p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

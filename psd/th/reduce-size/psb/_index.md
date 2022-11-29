@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“ตัวอย่างรหัสสำหรับการบีบอัดไฟล์ PSD สามารถพบได้ในพื้นที่เก็บข้อมูล Github อย่างเป็นทางการ"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“เว็บแอ็พพลิเคชันเพื่อบีบอัด PSD และ PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"ตัวอย่างรหัสสำหรับการบีบอัดไฟล์ PSD สามารถพบได้ในพื้นที่เก็บข้อมูล Github อย่างเป็นทางการ"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"เว็บแอ็พพลิเคชันเพื่อบีบอัด PSD และ PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>ไฟล์ PSB สามารถมีได้ถึง 2gb, เพื่อให้คุณสามารถได้รับกรณีเมื่อ app นี้ไม่สามารถอัปโหลดไฟล์ PSB เพื่อลดขนาดของมัน.ในกรณีนี้จะดีกว่าที่จะใช้ <a href="/psd">ในสถานที่ตั้งวิธีการแก้ปัญหารูปแบบ PSD เป็น Aspose.PSD</a> และเขียนโค้ดบีบอัดด้วยตัวเองตัวอย่างโค้ดที่ร้อนเพื่อบีบอัดรูปแบบ PSB สามารถพบได้ในบทความนี้เพียงแค่สลับแท็บใน PSB File Reduce App ในตัว</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

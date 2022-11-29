@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“在没有 Illustrator 的情况下打开 AI 文件" "https://products.aspose.com/psd/view/" "
-“打开 AI 文件的 GIST 示例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“低代码应用程序可在线打开人工智能" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"在没有 Illustrator 的情况下打开 AI 文件" "https://products.aspose.com/psd/view/" 
+"打开 AI 文件的 GIST 示例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"低代码应用程序可在线打开人工智能" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>使用 Aspose.PSD 或其他 Aspose 产品打开 AI 文件。在线渲染 AI 文件预览。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-”Konvertera exempel från PSD till PNG kan använda Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-”Gratis webbapplikation för att konvertera dina PSD-filer till PNG och många andra format" "https://products.aspose.app/psd/conversion" "
-”Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"Konvertera exempel från PSD till PNG kan använda Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Gratis webbapplikation för att konvertera dina PSD-filer till PNG och många andra format" "https://products.aspose.app/psd/conversion" 
+"Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Konvertering av PSD till PNG av Aspose.PSD är pixel-perfekt. Men kan ha vissa konverteringsskillnader när du konverterar 16 bitars och 32 bitars bilder. De främsta orsakerna är olika. När du konverterar till PNG som stöder endast 8 bitar per kanal färger förlorar du ytterligare information. Också, för 8 bitars konvertering av PSD till PNG används förhandsgranskning, i vissa fall originalfilen har inte förhandsgranskning eftersom det togs bort för <a href="/psd/reduce-size">minska PSD storlek.</a>. I det här fallet är bättre att använda <a href="/psd">Aspose.PSD API med hög kod</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

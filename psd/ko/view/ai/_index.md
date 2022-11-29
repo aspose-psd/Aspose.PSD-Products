@@ -45,8 +45,8 @@ url: ai/
 		image.Save(outFileName, options);
 	}` 
 "Illustrator 없이 AI 파일 보기" "https://products.aspose.com/psd/view/" 
-"고코드 API를 이용해 AI 파일을 보는 GIST 예제" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“AI를 온라인으로 볼 수 있는 Aspose 로우코드 앱" "https://products.aspose.app/psd/viewer/ai" >}}
+"고코드 API를 이용해 AI 파일을 보는 GIST 예제" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"AI를 온라인으로 볼 수 있는 Aspose 로우코드 앱" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Aspose.PSD 파일을 사용하여 AI 파일을 볼 수 있습니다.쉽고 빠른 AI 뷰어.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

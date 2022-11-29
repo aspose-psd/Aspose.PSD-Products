@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-„Beispiel mit Aspose.PSD von PSD nach BMP konvertieren"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Konvertieren Sie Ihre PSD-Datei online in BMP" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-„Beispiele für Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Beispiel mit Aspose.PSD von PSD nach BMP konvertieren"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Konvertieren Sie Ihre PSD-Datei online in BMP" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"Beispiele für Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>Die Konvertierung von PSD in BMP kann schnell mit Aspose.PSD durchgeführt werden. Wenn Sie ein anderes modernes Ausgabeformat verwenden möchten, überprüfen Sie bitte das <a href="/psd/convert">PSD in Raster konvertieren</a> App. Diese No-Code-App <a href="/psd/convert/to-bmp">konvertiert PSD in BMP</a>. Das BMP-Format kann mit jeder Software geöffnet werden, die Sie auf dem PC oder Mac haben. Wenn Sie nach der Konvertierung von PSB das komprimierte BMP-Format verwenden möchten, verwenden Sie besser <a href="/psd">High-Code-Konvertierungstools von Aspose.PSD</a>. Wenn Sie nur die PSD-Datei komprimieren müssen, ist die Konvertierung in das BMP nicht die beste Wahl, da BMP häufig ein großes Format ist</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

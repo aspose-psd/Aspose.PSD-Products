@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro převod PSD na JPEG2000" sectionDescription="Check our live demos for [PSD to JPEG2000 conversion](https://products.aspose.app/psd/conversion/psd-to-jpeg2000) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko\" Convert\“." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko Convert." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získáte odkaz ke stažení výsledného souboru JPEG2000." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

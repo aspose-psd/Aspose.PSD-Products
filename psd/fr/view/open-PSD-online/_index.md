@@ -19,10 +19,10 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-«Tutoriel pour ouvrir des fichiers PSD sans Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-«Exemples d'ouverture de fichiers PSD sur Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "
-«Application low-code pour ouvrir un PSD en ligne" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Tutoriel pour ouvrir des fichiers PSD sans Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"Exemples d'ouverture de fichiers PSD sur Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
+"Application low-code pour ouvrir un PSD en ligne" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD View Ouvre n’importe quel fichier PSD et vous permet de le télécharger au format png <a href="https://products.aspose.app/psd/editor">Éditeur PSD</a>. Cette application ouvre uniquement le PSD en ligne</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

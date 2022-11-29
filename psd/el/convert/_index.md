@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-«Δείγματα κώδικα για μετατροπή PSD σε άλλες μορφές στο Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Δωρεάν web εφαρμογή για να μετατρέψετε PSD, PSB και AI εικόνες σας σε Png, Pdf, Jpg, Tiff, Pdf, Gif και άλλες μορφές" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Δείγματα κώδικα για μετατροπή PSD σε άλλες μορφές στο Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Δωρεάν web εφαρμογή για να μετατρέψετε PSD, PSB και AI εικόνες σας σε Png, Pdf, Jpg, Tiff, Pdf, Gif και άλλες μορφές" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Η δυνατότητα μετατροπής Aspose.PSD είναι έτοιμη για cloud και μπορεί να χρησιμοποιηθεί σε διακομιστές Windows, Linux και Mac. PSD Μετατροπή on-premise λύση είναι διαθέσιμη για Java και την τελευταία έκδοση του Net, καθώς και Net Framework 2.0 +</p>
 

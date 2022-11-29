@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress" >}}
 <p>Aspose.PSD سکیڑیں خصوصیات ہائی کوڈ API کا استعمال کرتے ہیں. کمپریس پی ایس ڈی حل جاوا اور. NET میں دستیاب ہے. آپ اپنی ویب سروس کے بیک آخر پر کمپریشن یا دیگر کاموں کے لئے Aspose.PSD استعمال کرسکتے ہیں.</p>
 <ul>
 <li><a href="psb">پی ایس بی سکیڑیں</a></li>

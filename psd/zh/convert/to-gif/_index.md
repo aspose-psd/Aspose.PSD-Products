@@ -18,10 +18,10 @@ url: to-gif/
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
     }` 
-"gif" "
-“可以使用 Aspose.PSD 将示例从 PSD 转换为 GIF"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“在线将您的 PSD 文件转换为 GIF" "https://products.aspose.app/psd/conversion/psd-to-gif" "
-“要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
+"gif" 
+"可以使用 Aspose.PSD 将示例从 PSD 转换为 GIF"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"在线将您的 PSD 文件转换为 GIF" "https://products.aspose.app/psd/conversion/psd-to-gif" 
+"要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
 <p>使用 Aspose.PSD 的力量将 PSD 转换为 GIF。内置的PSD到GIF转换是您的解决方案的简单小工具。上传PSD文档后，只需按 “转换为GIF” 并等待结果。从 PSD 转换为 GIF 的结果将不带图层导出。在大多数情况下，最终大小会更小。但是质量也可能不容错过。由于 GIF 图像调色板的最大大小。PSD 文件支持 “真彩色”，但 GIF 仅支持 256 种颜色。 </p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

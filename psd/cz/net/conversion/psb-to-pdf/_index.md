@@ -18,7 +18,7 @@ url: psb-to-pdf/
  Rozhraní API, které je bohaté na funkce, výkonné a snadno použitelné rozhraní API pro manipulaci s dokumenty a konverze pro platformu C#. Otevřeno
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  správce balíčků, hledat
-
+ **Co je Aspose.PSD** 
  a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}

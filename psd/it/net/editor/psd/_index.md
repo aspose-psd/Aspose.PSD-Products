@@ -119,7 +119,7 @@ Oppure usa la funzionalità iText e configura ogni porzione di testo con il suo 
         {{< blocks/products/pf/agp/demobox sectionTitle="App Visual PSD Online Editor" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non c'è bisogno di scrivere alcun codice" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file PSD, apportare alcune modifiche e premere il pulsante\" Scarica\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file PSD, apportare alcune modifiche e premere il pulsante Scarica" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

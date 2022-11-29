@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-”Konvertera exempel från PSD till JPG med Aspose.PSD high-code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-”Ansökan om att konvertera PSD-filer till JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-”Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Konvertera exempel från PSD till JPG med Aspose.PSD high-code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Ansökan om att konvertera PSD-filer till JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>Huvudparametern för konvertering av PSD till Jpeg är en kvalitet. Du kan ställa in kvalitet från 0 till 100 med Aspose.PSD High-Code API. Konverteringskvalitet 100 är maximalt, i detta fall konverteras till Jpeg PSD-fil kommer att ha minimal mängd artefakter och kvalitet förlorar. 0 är minimal kvalitet på JPG-bild efter konvertering. Konverterad fil kommer att vara liten, men bilden kan vara hemsk. Välj det här alternativet om du absolut vet för vilka ändamål konverteringsresultatet kommer att användas. Om du inte vill förlora bildkvaliteten och ytterligare information, skulle du bättre använda specialiserade <a href="/psd/reduce-size">PSD Komprimera</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

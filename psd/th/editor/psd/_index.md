@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“ตัวอย่างรหัสสำหรับการดู PSB เป็น PNG"  "https://docs.aspose.com/psd/net/" "
-“การแปลง PSB เป็นรูปแบบอื่น ๆ"  "/psd/convert" "
-“ตัวแก้ไข PSD รหัสต่ำ" "https://products.aspose.app/psd/editor/psd" "
-“ตัวแก้ไข PSD ในตัว" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"ตัวอย่างรหัสสำหรับการดู PSB เป็น PNG"  "https://docs.aspose.com/psd/net/" 
+"การแปลง PSB เป็นรูปแบบอื่น ๆ"  "/psd/convert" 
+"ตัวแก้ไข PSD รหัสต่ำ" "https://products.aspose.app/psd/editor/psd" 
+"ตัวแก้ไข PSD ในตัว" "https://products.aspose.com/psd/editor" >}}
 <p>ใช้ Apose PSD Editor หากคุณต้องการแก้ไขไฟล์ PSDนี้เป็น app เว็บที่เรียบง่ายให้ฟังก์ชั่นการแก้ไข PSD ในเบราว์เซอร์และไม่ต้องซื้อของ Adobe Photoshop.ตัวแก้ไข Aspose.PSD ไม่ได้ใช้ Adobe API ใด ๆ และใช้ข้อมูลจำเพาะรูปแบบ PSD เพื่อให้ฟังก์ชันการอัพเดตไฟล์ตามมาตรฐานรูปแบบ PSDปรับปรุงชั้นข้อความและกราฟิกในไฟล์ PSD.นอกจากนี้ PSD Editor ยังรองรับ <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD วัตถุสมาร์ท</a>.เปิดและอัปเดตไฟล์ PSD จากอุปกรณ์ใดก็ได้</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

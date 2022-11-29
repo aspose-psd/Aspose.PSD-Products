@@ -1,8 +1,9 @@
 ---
-title: PSD PSB- ja AI-muodon muunnosratkaisu
+title: PSD PSB & AI muuntaminen ratkaisu
 weight: 7730
 limit: 
-description: Muunna Adobe PhotoShop- ja Illustrator-tiedostojen kuvia ja muita muotoja
+description: Muuntaminen Adobe PhotoShop & Illustrator tiedostoja kuvia ja muita formaatteja
+keywords: ["psd", "psb", "ai", "conversion to png", "conversion to jpg", "conversion to pdf", "convert to gif", "convert to bmp", "convert to tiff"]
 url: conversion/
 ---
 

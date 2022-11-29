@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“Aspose.PSD 中将 PSD 转换为 PDF 的代码示例"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“免费的网络应用程序，可将您的PSD文件转换为Pdf和许多其他格式" "https://products.aspose.app/psd/conversion" "
-“要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Aspose.PSD 中将 PSD 转换为 PDF 的代码示例"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"免费的网络应用程序，可将您的PSD文件转换为Pdf和许多其他格式" "https://products.aspose.app/psd/conversion" 
+"要点示例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Aspose.PSD 将 PSD 转换为 PDF 有两种类型——像素完美转换和能够选择文本的转换。要实现像素完美转换，您需要使用 <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">只读模式属性</a>，如果将 Aspose.PSD 用作高代码应用程序，请查看 API 参考资料。如果您需要选择文本的能力，请使用上面的代码。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

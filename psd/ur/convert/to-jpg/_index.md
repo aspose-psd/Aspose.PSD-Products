@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-“Aspose.PSD ہائی کوڈ API کا استعمال کرتے ہوئے JPG کو پی ایس ڈی سے مثال کے طور پر تبدیل کریں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“پی ایس ڈی فائلوں کو JPEG میں تبدیل کرنے کی درخواست" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-“گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Aspose.PSD ہائی کوڈ API کا استعمال کرتے ہوئے JPG کو پی ایس ڈی سے مثال کے طور پر تبدیل کریں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"پی ایس ڈی فائلوں کو JPEG میں تبدیل کرنے کی درخواست" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>پی ایس ڈی کے JPEG میں تبادلوں کے لئے اہم پیرامیٹر ایک معیار ہے. آپ Aspose.PSD ہائی کوڈ API کا استعمال کرتے ہوئے 0 سے 100 تک معیار مقرر کرسکتے ہیں. تبادلوں کے معیار 100 زیادہ سے زیادہ ہے، اس معاملے میں JPEG پی ایس ڈی فائل میں تبدیل کرنے کے لئے کم سے کم مقدار میں آرٹیفکٹس اور معیار کھو دیتا ہے. 0 تبادلوں کے بعد JPG تصویر کی کم از کم معیار ہے. تبدیل شدہ فائل چھوٹے ہو گی، لیکن تصویر خوفناک ہوسکتی ہے. براہ کرم اس اختیارات کا انتخاب کریں اگر آپ مکمل طور پر جانتے ہیں کہ تبادلوں کا نتیجہ کس مقاصد کے لئے استعمال کیا جائے گا. اگر آپ تصویر کے معیار اور اضافی معلومات کو کھونا نہیں چاہتے ہیں تو، آپ کو خصوصی طور پر استعمال کرنا بہتر ہوگا <a href="/psd/reduce-size">پی ایس ڈی سکیڑیں</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

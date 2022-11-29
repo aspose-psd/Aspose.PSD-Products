@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“Aspose.PSD में अन्य प्रारूपों के लिए PSD रूपांतरण के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“अपने PSD, PSB और AI इमेज को Png, Pdf, Jpg, Tif, Pdf, Gif और अन्य प्रारूपों में बदलने के लिए मुफ्त वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Aspose.PSD में अन्य प्रारूपों के लिए PSD रूपांतरण के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"अपने PSD, PSB और AI इमेज को Png, Pdf, Jpg, Tif, Pdf, Gif और अन्य प्रारूपों में बदलने के लिए मुफ्त वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD रूपांतरण सुविधा क्लाउड-तैयार है और इसका उपयोग Windows, Linux और Mac सर्वर पर किया जा सकता है। PSD कन्वर्ट ऑन-प्रिमाइसेस समाधान जावा और .Net के नवीनतम संस्करण के साथ-साथ .Net Framework 2.0 + के लिए उपलब्ध है</p>
 

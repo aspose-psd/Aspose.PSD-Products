@@ -19,10 +19,10 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“Tutorial cara membuka file PSD tanpa Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-“Contoh membuka file PSD di Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "
-“Aplikasi kode rendah untuk membuka PSD online" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Tutorial cara membuka file PSD tanpa Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"Contoh membuka file PSD di Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
+"Aplikasi kode rendah untuk membuka PSD online" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD View Membuka file PSD apa pun dan memberi Anda kemampuan untuk mengunduhnya sebagai png. Setelah pembukaan file PSD akan digunakan preview pixel-sempurna file ini. Dapat dibuka file PSD dengan 8 bit, 16 bit dan 32 bit per warna. Jika Anda perlu mengedit membuka file PSD online silahkan gunakan <a href="https://products.aspose.app/psd/editor">Editor PSD</a>. Aplikasi ini hanya membuka PSD secara online</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

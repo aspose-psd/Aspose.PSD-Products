@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-“پی ایس ڈی سے مثال کے طور پر ہائی کوڈ API کے ساتھ TIFF میں تبدیل کریں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“آپ کی پی ایس ڈی فائلوں کو ٹف میں تبدیل کرنے کے لئے ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" "
-“گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"پی ایس ڈی سے مثال کے طور پر ہائی کوڈ API کے ساتھ TIFF میں تبدیل کریں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"آپ کی پی ایس ڈی فائلوں کو ٹف میں تبدیل کرنے کے لئے ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" 
+"گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>پی ایس ڈی کو ٹف میں تبدیل کرنے کا نتیجہ ہارڈ ڈسک کی جگہ کے سلسلے میں بڑا ہوسکتا ہے. لیکن آپ اضافی میٹا ڈیٹا کے ساتھ نقصان دہ کمپریسڈ فائل حاصل کرتے ہیں. تمام میٹا ڈیٹا مناسب طریقے سے پی ایس ڈی سے TIFF میں تبدیل نہیں کیا جاتا ہے، اگر آپ پی ایس ڈی تہوں کے میٹا ڈیٹا کو نکالنے کی ضرورت ہے تو، براہ کرم کوشش کریں <a href="https://products.aspose.app/psd/metadata">پی ایس ڈی مابعد نکالنے والا</a>. اگر آپ پی ایس ڈی ہائی کوڈ API کی تمام طاقت استعمال کرنا چاہتے ہیں تو براہ مہربانی کوشش کریں <a href="/psd">Aspose.PSD</a> نیٹ یا جاوا کے لئے</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

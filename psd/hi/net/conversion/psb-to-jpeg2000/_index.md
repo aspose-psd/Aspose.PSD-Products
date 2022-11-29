@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="PSB को JPEG2000 में बदलने के लिए मुफ्त ऐप" sectionDescription="Check our live demos for [PSB to JPEG2000 conversion](https://products.aspose.app/psd/conversion/psb-to-jpeg2000) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="कोई कोड लिखने की ज़रूरत नहीं है।" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस अपनी PSB फ़ाइल अपलोड करें और\" कन्वर्ट\ "बटन दबाएं।" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस अपनी PSB फ़ाइल अपलोड करें और कन्वर्ट बटन दबाएं।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="आपको परिणामी JPEG2000 फ़ाइल के लिए तुरंत डाउनलोड लिंक मिलेगा।" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

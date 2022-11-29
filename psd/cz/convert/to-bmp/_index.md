@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-„Převést příklad z PSD na BMP lze pomocí Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Převést soubor PSD na BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-„Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Převést příklad z PSD na BMP lze pomocí Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Převést soubor PSD na BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>Převod PSD na BMP lze rychle provést pomocí Aspose.PSD. Pokud chcete použít jiný moderní výstupní formát, zkontrolujte prosím <a href="/psd/convert">Převést PSD na rastr</a> aplikace. Tato aplikace bez kódu <a href="/psd/convert/to-bmp">převede PSD na BMP</a>. Formát BMP lze otevřít pomocí libovolného softwaru, který máte na PC nebo Mac. Pokud chcete použít komprimovaný formát BMP po převodu z PSB, je lepší použít <a href="/psd">Nástroje pro převod vysokého kódu z Aspose.PSD</a>. Pokud potřebujete komprimovat soubor PSD, není převod do BMP tou nejlepší volbou, protože BMP je společný velkoformátový</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

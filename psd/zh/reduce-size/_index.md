@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“压缩 PSD 文件的代码示例可以在官方 Github 存储库中找到"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“用于压缩 PSD 和 PSB 的 Web 应用程序" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"压缩 PSD 文件的代码示例可以在官方 Github 存储库中找到"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"用于压缩 PSD 和 PSB 的 Web 应用程序" "https://products.aspose.app/psd/compress/psd" >}}
 <p>如果您需要减小PSB文件而不是PSD的大小，则可以对该应用程序进行少量修改。请查看”<a href="/psd/reduce-size/psb">减小 PSB 的大小</a>“应用程序。</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

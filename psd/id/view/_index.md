@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“Tutorial cara membuka file PSD tanpa Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-“Sampel kode untuk melihat PSD sebagai PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“Aplikasi kode rendah untuk membuka Gambar PSD, PSB dan AI" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Tutorial cara membuka file PSD tanpa Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"Sampel kode untuk melihat PSD sebagai PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"Aplikasi kode rendah untuk membuka Gambar PSD, PSB dan AI" "https://products.aspose.app/psd/viewer" >}}
 <p>Fitur penampil Aspose.PSD siap untuk cloud dan dapat digunakan di Server Windows, Linux, dan Mac. Solusi on-premise tersedia untuk <a href="https://products.aspose.com/psd/java/">Java</a> dan versi terbaru <a href="https://products.aspose.com/psd/net/">.Net</a> serta Net Framework 2.0 +</p>
 
 <h3 class="headingpdleft">PSD Pemirsa untuk format yang berbeda</h3>

@@ -19,10 +19,10 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“Öğretici Photoshop olmadan PSD dosyalarını açmak için nasıl" "https://products.aspose.com/psd/net/viewer/" "
-“Gists'te PSD dosyalarını açma örnekleri" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "
-“PSD'yi çevrimiçi açmak için düşük kodlu uygulama" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Öğretici Photoshop olmadan PSD dosyalarını açmak için nasıl" "https://products.aspose.com/psd/net/viewer/" 
+"Gists'te PSD dosyalarını açma örnekleri" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
+"PSD'yi çevrimiçi açmak için düşük kodlu uygulama" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD Görünümü Herhangi bir PSD dosyasını açar ve png olarak indirmenizi sağlar. PSD dosyalarının açılmasından sonra bu dosyanın piksel mükemmel önizleme kullanılacaktır. 8 bit, 16 bit ve renk başına 32 bit ile PSD dosyası açılabilir. Açılan PSD dosyasını çevrimiçi olarak düzenlemeniz gerekiyorsa, lütfen <a href="https://products.aspose.app/psd/editor">PSD Editör</a>. Bu uygulama sadece PSD'leri çevrimiçi olarak açar</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

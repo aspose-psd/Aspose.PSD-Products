@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“इलस्ट्रेटर के बिना AI फ़ाइलें देखें" "https://products.aspose.com/psd/view/" "
-“GIST हाई-कोड API का उपयोग करके AI फ़ाइलों को देखने के उदाहरण" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“AI ऑनलाइन देखने के लिए लो-कोड ऐप असाइन करें" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"इलस्ट्रेटर के बिना AI फ़ाइलें देखें" "https://products.aspose.com/psd/view/" 
+"GIST हाई-कोड API का उपयोग करके AI फ़ाइलों को देखने के उदाहरण" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"AI ऑनलाइन देखने के लिए लो-कोड ऐप असाइन करें" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Aspose.PSD के साथ AI फ़ाइल देखें। आसान और तेज़ AI व्यूअर।</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

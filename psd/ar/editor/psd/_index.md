@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«نماذج التعليمات البرمجية لعرض PSB كـ PNG"  "https://docs.aspose.com/psd/net/" "
-«تحويل PSB إلى تنسيقات أخرى"  "/psd/convert" "
-«محرر PSD منخفض الكود" "https://products.aspose.app/psd/editor/psd" "
-«محرر PSD مدمج" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"نماذج التعليمات البرمجية لعرض PSB كـ PNG"  "https://docs.aspose.com/psd/net/" 
+"تحويل PSB إلى تنسيقات أخرى"  "/psd/convert" 
+"محرر PSD منخفض الكود" "https://products.aspose.app/psd/editor/psd" 
+"محرر PSD مدمج" "https://products.aspose.com/psd/editor" >}}
 <p>استخدم محرر Aspose PSD إذا كنت بحاجة إلى تحرير ملفات PSD. هذا تطبيق ويب بسيط يوفر وظيفة تحرير PSD في المتصفح وبدون شراء Adobe Photoshop. لا يستخدم محرر Aspose.PSD أي Adobe API، ويستخدم مواصفات تنسيق PSD لتوفير وظيفة تحديث الملف وفقًا لمعايير تنسيق PSD. تحديث طبقات النص والرسومات في ملفات PSD. كما يدعم محرر PSD <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">كائنات PSD الذكية</a>. افتح ملفات PSD وقم بتحديثها من أي جهاز</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

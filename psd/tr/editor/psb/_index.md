@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSB'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/" "
-“PSB'nin diğer formatlara dönüştürülmesi"  "/psd/convert" "
-“Düşük kod PSB Editör ile daha büyük bir çalışma alanı boyutu ile" "https://products.aspose.app/psd/editor/psb" "
-“PSB dosyalarıyla çalışma örnekleri" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"PSB'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/" 
+"PSB'nin diğer formatlara dönüştürülmesi"  "/psd/convert" 
+"Düşük kod PSB Editör ile daha büyük bir çalışma alanı boyutu ile" "https://products.aspose.app/psd/editor/psb" 
+"PSB dosyalarıyla çalışma örnekleri" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>Sunucudaki PSB Editor işlem dosyaları <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">yüksek kodlu API ve kendi PSB düzenleyicinizi yapın</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

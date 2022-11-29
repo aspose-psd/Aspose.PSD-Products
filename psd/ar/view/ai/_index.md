@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-استخراج الملفات دون تثبيتها." "https://products.aspose.com/psd/view/" "
-«أمثلة GIST لعرض ملفات AI باستخدام واجهة برمجة التطبيقات عالية الكود" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-«تطبيق Aspose Low-code لعرض الذكاء الاصطناعي عبر الإنترنت" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"استخراج الملفات دون تثبيتها." "https://products.aspose.com/psd/view/" 
+"أمثلة GIST لعرض ملفات AI باستخدام واجهة برمجة التطبيقات عالية الكود" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"تطبيق Aspose Low-code لعرض الذكاء الاصطناعي عبر الإنترنت" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>عرض ملف AI باستخدام Aspose.PSD. عارض AI سهل وسريع.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

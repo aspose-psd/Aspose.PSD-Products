@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Fitur kompres Aspose.PSD menggunakan API kode tinggi. Kompres PSD Solusi tersedia di Jawa dan .Net. Anda dapat menggunakan Aspose.PSD untuk kompresi atau tugas-tugas lain pada Back-end layanan web Anda.</p>
 <ul>
 <li><a href="psb">Kompres PSB</a></li>

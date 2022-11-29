@@ -87,7 +87,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="PSD'leri Görüntülemek İçin Ücretsiz Uygulama" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmeye veya ayarlamaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Kod yazmaya veya derlemeye gerek yok" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyasını yükleyin ve\" Görünüm\” düğmesine basın" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyasını yükleyin ve Görünüm düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Gerekirse, linkten PSD dosyasını indirin" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

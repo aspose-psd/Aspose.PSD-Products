@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-”Kodprover av konvertering PSD till PDF i Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-”Gratis webbapplikation för att konvertera dina PSD-filer till Pdf och många andra format" "https://products.aspose.app/psd/conversion" "
-”Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Kodprover av konvertering PSD till PDF i Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Gratis webbapplikation för att konvertera dina PSD-filer till Pdf och många andra format" "https://products.aspose.app/psd/conversion" 
+"Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Konvertering av PSD till PDF av Aspose.PSD har två typer - pixel-perfekt konvertering och konvertering med möjlighet att välja text. För den pixel-perfekta omvandlingen måste du använda <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">ReadOnlyMode-egenskap</a>, kontrollera API-referensen om Aspose.PSD kommer att användas som högkodsapp. Om du behöver möjlighet att välja text, använd koden ovan.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

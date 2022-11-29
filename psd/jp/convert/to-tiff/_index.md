@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-「ハイコード API を使用してサンプルを PSD から Tiff に変換する"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-「PSDファイルをTiffに変換するWebアプリケーション" "https://products.aspose.app/psd/conversion" "
-「要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"ハイコード API を使用してサンプルを PSD から Tiff に変換する"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSDファイルをTiffに変換するWebアプリケーション" "https://products.aspose.app/psd/conversion" 
+"要旨の例" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>PSDからTiffへの変換結果は、ハードディスク容量の点で大きくなる可能性があります。ただし、追加のメタデータを含む可逆圧縮ファイルが得られます。すべてのメタデータがPSDからTiffに正しく変換されるわけではありません。PSDレイヤーのメタデータを抽出する必要がある場合は、試してください <a href="https://products.aspose.app/psd/metadata">PSDメタデータエクストラクタ</a>。PSD ハイコード API の全機能を使いたいなら、ぜひお試しください <a href="/psd">Aspose.PSD</a> .Net または Java 用</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

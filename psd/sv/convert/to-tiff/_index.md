@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-”Konvertera exempel från PSD till Tiff med High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-”Webbapplikation för att konvertera dina PSD-filer till Tiff" "https://products.aspose.app/psd/conversion" "
-”Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"Konvertera exempel från PSD till Tiff med High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Webbapplikation för att konvertera dina PSD-filer till Tiff" "https://products.aspose.app/psd/conversion" 
+"Exempel på gister" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>Resultatet av att konvertera PSD till Tiff kan vara stort med avseende på hårddiskutrymme. Men du får den förlustfria komprimerade filen med ytterligare metadata. Inte alla metadata konverteras korrekt från PSD till Tiff, om du behöver extrahera metadata för PSD Layers, försök <a href="https://products.aspose.app/psd/metadata">PSD Metadata extrakt</a>. Om du vill använda all kraft av PSD hög kod API försök <a href="/psd">Är Aspose.PSD</a> för .Net eller Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

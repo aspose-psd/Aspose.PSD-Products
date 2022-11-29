@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-«Esempi di codice per la conversione da PSD ad altri formati in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Applicazione web gratuita per convertire le tue immagini PSD, PSB e AI in Png, Pdf, Jpg, Tif, Pdf, Gif e altri formati" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Esempi di codice per la conversione da PSD ad altri formati in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Applicazione web gratuita per convertire le tue immagini PSD, PSB e AI in Png, Pdf, Jpg, Tif, Pdf, Gif e altri formati" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Le funzionalità di conversione di Aspose.PSD sono pronte per il cloud e possono essere utilizzate su server Windows, Linux e Mac. La soluzione locale PSD Convert è disponibile per Java e l'ultima versione di .Net e .Net Framework 2.0 +</p>
 

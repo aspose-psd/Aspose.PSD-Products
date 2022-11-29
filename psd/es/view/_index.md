@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-«Tutorial de cómo abrir archivos PSD sin Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-«Ejemplos de código para ver PSD como PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-«Aplicación de código bajo para abrir imágenes PSD, PSB e AI" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Tutorial de cómo abrir archivos PSD sin Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"Ejemplos de código para ver PSD como PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"Aplicación de código bajo para abrir imágenes PSD, PSB e AI" "https://products.aspose.app/psd/viewer" >}}
 <p>Las funciones del visor de Aspose.PSD están preparadas para la nube y se pueden utilizar en servidores Windows, Linux y Mac. La solución local está disponible para <a href="https://products.aspose.com/psd/java/">Java</a> y la última versión de <a href="https://products.aspose.com/psd/net/">.Net</a> así como .Net Framework 2.0 +</p>
 
 <h3 class="headingpdleft">Visores PSD para diferentes formatos</h3>

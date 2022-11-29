@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress" >}}
 <p>Aspose.PSD sıkıştırma özellikleri yüksek kod API'sini kullanır. Sıkıştır PSD Çözümü Java ve .Net olarak mevcuttur. Aspose.PSD dosyasını sıkıştırma veya web hizmetinizin arka ucundaki diğer görevler için kullanabilirsiniz.</p>
 <ul>
 <li><a href="psb">PSB Sıkıştır</a></li>

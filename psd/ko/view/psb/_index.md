@@ -18,10 +18,10 @@ url: psb/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-“Gists에서 PSB 파일을 여는 예" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" "
-“포토샵없이 PSB 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" "
-“독립 실행형 서비스로서의 PSB 파일 뷰어" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Gists에서 PSB 파일을 여는 예" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
+"포토샵없이 PSB 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" 
+"독립 실행형 서비스로서의 PSB 파일 뷰어" "https://products.aspose.app/psd/viewer" >}}
 <p>PSB 내장 노코드 PSB 뷰어로 PSB 파일 보기 <a href="https://products.aspose.app/psd/template-editor">PSB 에디터</a>.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

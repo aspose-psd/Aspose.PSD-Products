@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“PSD를 Aspose.PSD 파일에서 다른 형식으로 변환하기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD, PSB 및 AI 이미지를 Png, Pdf, Jpg, Tif, Pdf, Gif 및 기타 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"PSD를 Aspose.PSD 파일에서 다른 형식으로 변환하기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD, PSB 및 AI 이미지를 Png, Pdf, Jpg, Tif, Pdf, Gif 및 기타 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD 변환 기능은 클라우드를 지원하며 윈도우, 리눅스 및 Mac 서버에서 사용할 수 있습니다.PSD Convert 온 프레미스 솔루션은 자바 및 최신 버전의 .Net 및 .Net 프레임 워크 2.0 +에서 사용할 수 있습니다.</p>
 

@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“Sampel kode untuk melihat PSB sebagai PNG"  "https://docs.aspose.com/psd/net/" "
-“Konversi PSB ke format lain"  "/psd/convert" "
-“Editor PSB kode rendah dengan ukuran ruang kerja yang lebih besar" "https://products.aspose.app/psd/editor/psb" "
-“Contoh bekerja dengan file PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"Sampel kode untuk melihat PSB sebagai PNG"  "https://docs.aspose.com/psd/net/" 
+"Konversi PSB ke format lain"  "/psd/convert" 
+"Editor PSB kode rendah dengan ukuran ruang kerja yang lebih besar" "https://products.aspose.app/psd/editor/psb" 
+"Contoh bekerja dengan file PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB Editor memproses file di server. Untuk mengedit file PSB Aspose.PSD Editor pertama memesan untuk meng-upload file PSB dan kemudian membuat serial itu dan menyediakan UI untuk mengedit file PSB upload. Hasil akhir dari PSB Editing dapat diunduh dalam format yang berbeda. Ketika Anda mengedit file PSB Anda memiliki operasi seperti pembaruan teks, lukisan dengan kuas, penataan ulang dan mengubah visibilitas lapisan. Edit dapat dilakukan dari perangkat dan OS apa pun hanya menggunakan browser. Edit file PSB di tempat yang Anda inginkan atau gunakan <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">API kode tinggi dan buat editor PSB Anda sendiri</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}
