@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Esempi di codice per visualizzare PSB come PNG"  "https://docs.aspose.com/psd/net/" "
-«Conversione di PSB in altri formati"  "/psd/convert" "
-«Editor PSD a basso codice" "https://products.aspose.app/psd/editor/psd" "
-«Editor PSD integrato" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"Esempi di codice per visualizzare PSB come PNG"  "https://docs.aspose.com/psd/net/" 
+"Conversione di PSB in altri formati"  "/psd/convert" 
+"Editor PSD a basso codice" "https://products.aspose.app/psd/editor/psd" 
+"Editor PSD integrato" "https://products.aspose.com/psd/editor" >}}
 <p>Usa Aspose PSD Editor se devi modificare i file PSD. Questa è una semplice app web che fornisce funzionalità di modifica PSD nel browser e senza l'acquisto di Adobe Photoshop. Aspose.PSD Editor non utilizza alcuna API Adobe e utilizza le specifiche del formato PSD per fornire funzionalità di aggiornamento dei file in base agli standard di formato PSD. Aggiorna i livelli di testo e grafici nei file PSD. Inoltre, PSD Editor supporta <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">Oggetti intelligenti PSD</a>. Apri e aggiorna i file PSD da qualsiasi dispositivo</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

@@ -18,10 +18,10 @@ url: to-gif/
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
     }` 
-"gif" "
-«Convertire l'esempio da PSD a GIF può usare Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Converti il tuo file PSD in GIF online" "https://products.aspose.app/psd/conversion/psd-to-gif" "
-«Esempi di Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
+"gif" 
+"Convertire l'esempio da PSD a GIF può usare Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Converti il tuo file PSD in GIF online" "https://products.aspose.app/psd/conversion/psd-to-gif" 
+"Esempi di Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
 <p>Converti PSD in GIF usando la potenza di Aspose.PSD. La conversione da PSD a GIF integrata è un semplice widget per la tua soluzione. Dopo il caricamento del documento PSD basta premere «converti in GIF» e attendere il risultato. Il risultato della conversione da PSD a GIF verrà esportato senza livelli. La dimensione finale nella maggior parte dei casi sarà inferiore. Ma anche la qualità può mancare. A causa della dimensione massima della palette di immagini GIF. Il file PSD supporta «True Colors» ma la GIF supporta solo 256 colori. </p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

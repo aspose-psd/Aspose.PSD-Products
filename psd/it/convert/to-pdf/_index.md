@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-«Esempi di codice di conversione da PSD a PDF in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Applicazione web gratuita per convertire i tuoi file PSD in Pdf e molti altri formati" "https://products.aspose.app/psd/conversion" "
-«Esempi di Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Esempi di codice di conversione da PSD a PDF in Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Applicazione web gratuita per convertire i tuoi file PSD in Pdf e molti altri formati" "https://products.aspose.app/psd/conversion" 
+"Esempi di Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>La conversione da PSD a PDF da parte di Aspose.PSD è di due tipi: conversione perfetta per pixel e conversione con capacità di selezionare il testo. Per una conversione perfetta in pixel devi usare <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">Proprietà ReadOnlyMode</a>, controlla il riferimento all'API se Aspose.PSD verrà utilizzato come app high-code. Se hai bisogno della possibilità di selezionare il testo, utilizza il codice qui sopra.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

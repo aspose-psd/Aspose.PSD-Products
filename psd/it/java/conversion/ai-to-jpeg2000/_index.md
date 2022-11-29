@@ -91,7 +91,7 @@ Per rendere l'IA in JPEG2000, useremo <a href="/psd/{{< lang-code >}}java">Aspos
 {{< blocks/products/pf/agp/demobox sectionTitle="Dimostrazioni live di conversione da IA a JPEG2000" sectionDescription="[Convert AI to JPEG2000](https://products.aspose.app/psd/conversion/ai-to-jpeg2000) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare l'API Aspose»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non c'è bisogno di scrivere alcun codice»." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file AI, verrà convertito istantaneamente in JPEG2000"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file AI, verrà convertito istantaneamente in JPEG2000." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Riceverai il link per il download»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

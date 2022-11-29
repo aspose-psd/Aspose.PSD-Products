@@ -51,9 +51,9 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Esempi di codice per visualizzare PSD come PNG"  "https://docs.aspose.com/psd/net/" "
-«Editor PSD low-code con uno spazio di lavoro di dimensioni maggiori" "https://products.aspose.app/psd/editor/" >}}
+	}` 
+"Esempi di codice per visualizzare PSD come PNG"  "https://docs.aspose.com/psd/net/" 
+"Editor PSD low-code con uno spazio di lavoro di dimensioni maggiori" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor utilizza l'elaborazione dei file lato server. Aspose.PSD è uno dei pochi prodotti che possono essere utilizzati per creare software di modifica PSD. Supporta sia la lettura di risorse PSD che il rendering di entità PSD Files aggiornate. Questo editor PSD rende PSD Text Layer molto simile al motore di testo originale di Adobe Photoshop. Puoi anche creare un nuovo livello PSD con questo editor e aggiornarlo con Brush Operations. L'aggiornamento del PSD può essere elaborato da qualsiasi dispositivo e sistema operativo. Il software di elaborazione PSD in genere supporta solo la visualizzazione di risorse di file PSD come i dati EXIF, l'ora della creazione dei livelli, ma Aspose.PSD può modificare i file PSD in molti casi, inclusi livelli di regolazione, livelli di riempimento, livelli di testo, oggetti intelligenti. Se le funzionalità di PSD Editor non sono sufficienti per te, consulta la soluzione autonoma in sede per <a href="/psd/{{< lang-code >}}java">PSD Java</a> e l'ultima versione di <a href="/psd/{{< lang-code >}}net">PSD.Net</a> così come .Net Framework 2.0 +</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

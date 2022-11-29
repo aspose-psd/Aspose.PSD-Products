@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire AI in BMP" sectionDescription="Check our live demos for [AI to BMP conversion](https://products.aspose.app/psd/conversion/ai-to-bmp) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non c'è bisogno di scrivere alcun codice»." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file AI e premere il pulsante\" Converti\»." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file AI e premere il pulsante Converti." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Riceverai immediatamente il link per il download del file BMP risultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
