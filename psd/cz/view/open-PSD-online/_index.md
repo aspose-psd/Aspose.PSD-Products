@@ -19,10 +19,10 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-„Výukový program, jak otevřít PSD soubory bez Photoshopu" "https://products.aspose.com/psd/net/viewer/" "
-„Příklady otevření souborů PSD na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "
-„Aplikace s nízkým kódem pro otevření PSD online" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Výukový program, jak otevřít PSD soubory bez Photoshopu" "https://products.aspose.com/psd/net/viewer/" 
+"Příklady otevření souborů PSD na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
+"Aplikace s nízkým kódem pro otevření PSD online" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD View Otevře libovolný soubor PSD a umožňuje jej stáhnout jako png. Po otevření souborů PSD budou použity pixel-perfektní náhled tohoto souboru. Lze otevřít soubor PSD s 8 bity, 16 bitů a 32 bitů na barvu. Pokud potřebujete upravit otevřený soubor PSD online, použijte <a href="https://products.aspose.app/psd/editor">Editor PSD</a>. Tato aplikace otevírá pouze PSD online</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

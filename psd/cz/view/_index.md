@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-„Výukový program, jak otevřít PSD soubory bez Photoshopu" "https://products.aspose.com/psd/net/viewer/" "
-„Ukázky kódu pro prohlížení PSD jako PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-„Aplikace s nízkým kódem pro otevření obrázků PSD, PSB a AI" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Výukový program, jak otevřít PSD soubory bez Photoshopu" "https://products.aspose.com/psd/net/viewer/" 
+"Ukázky kódu pro prohlížení PSD jako PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"Aplikace s nízkým kódem pro otevření obrázků PSD, PSB a AI" "https://products.aspose.app/psd/viewer" >}}
 <p>Funkce prohlížeče Aspose.PSD jsou připraveny na cloud a lze je použít na serverech Windows, Linux a Mac. On-premise řešení je k dispozici pro <a href="https://products.aspose.com/psd/java/">Java</a> a nejnovější verzi <a href="https://products.aspose.com/psd/net/">.Net</a> stejně jako .NET Framework 2.0 +</p>
 
 <h3 class="headingpdleft">Prohlížeče PSD pro různé formáty</h3>

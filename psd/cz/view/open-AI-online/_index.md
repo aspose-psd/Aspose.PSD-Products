@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-„Otevřít AI soubory bez aplikace Illustrator" "https://products.aspose.com/psd/view/" "
-„GIST Příklady otevření souborů AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-„Aplikace s nízkým kódem pro otevření AI online" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Otevřít AI soubory bez aplikace Illustrator" "https://products.aspose.com/psd/view/" 
+"GIST Příklady otevření souborů AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Aplikace s nízkým kódem pro otevření AI online" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Otevřete soubor AI s Aspose.PSD nebo jinými produkty Aspose. Vykreslte náhled souboru AI online.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

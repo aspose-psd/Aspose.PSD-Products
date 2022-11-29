@@ -18,10 +18,10 @@ url: psd-file-viewer/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-„Export souboru PSD do jiných formátů pro prohlížení" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" "
-„GIST Příklady prohlížení PSD souborů v jiných formátech pomocí high-code API na Javě" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" "
-„Aplikace Aspose s nízkým kódem pro zobrazení souboru PSD online" "https://products.aspose.app/psd/viewer/psd" >}}
+    }` 
+"Export souboru PSD do jiných formátů pro prohlížení" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST Příklady prohlížení PSD souborů v jiných formátech pomocí high-code API na Javě" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"Aplikace Aspose s nízkým kódem pro zobrazení souboru PSD online" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>Zobrazit soubor PSD pomocí vestavěného prohlížeče PSD bez kódu. Rychlý a přesný prohlížeč souborů PSD. Stačí nahrát soubor PSD.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

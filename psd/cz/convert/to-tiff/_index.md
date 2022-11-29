@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-„Převést příklad z PSD na Tiff s vysokým kódem API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Webová aplikace pro převod souborů PSD na Tiff" "https://products.aspose.app/psd/conversion" "
-„Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"Převést příklad z PSD na Tiff s vysokým kódem API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Webová aplikace pro převod souborů PSD na Tiff" "https://products.aspose.app/psd/conversion" 
+"Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>Výsledek převodu PSD na Tiff může být velký, pokud jde o místo na pevném disku. Získáte však bezztrátový komprimovaný soubor s dalšími metadaty. Ne všechna metadata jsou správně převedena z PSD na Tiff, pokud potřebujete extrahovat metadata vrstev PSD, zkuste to prosím <a href="https://products.aspose.app/psd/metadata">Extractor metadat PSD</a>. Pokud chcete využít veškerý výkon PSD high-code API, zkuste to <a href="/psd">Co je Aspose.PSD</a> pro .Net nebo Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

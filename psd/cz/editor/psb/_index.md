@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-„Ukázky kódu pro prohlížení PSB jako PNG"  "https://docs.aspose.com/psd/net/" "
-„Převod PSB do jiných formátů"  "/psd/convert" "
-„Editor PSB s nízkým kódem s větší velikostí pracovního prostoru" "https://products.aspose.app/psd/editor/psb" "
-„Příklady práce se soubory PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"Ukázky kódu pro prohlížení PSB jako PNG"  "https://docs.aspose.com/psd/net/" 
+"Převod PSB do jiných formátů"  "/psd/convert" 
+"Editor PSB s nízkým kódem s větší velikostí pracovního prostoru" "https://products.aspose.app/psd/editor/psb" 
+"Příklady práce se soubory PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB Editor zpracovává soubory na serveru. Chcete-li upravit soubory PSB Aspose.PSD Editor nejprve nahrát PSB soubor a poté serializovat a poskytnout uživatelské rozhraní pro úpravu nahraného souboru PSB. Konečný výsledek editace PSB lze stáhnout v různých formátech. Při úpravách souborů PSB máte operaci, jako je aktualizace textu, malování štětcem, přeskupení a změna viditelnosti vrstev. Upravit lze provést z libovolného zařízení a operačního systému pouze pomocí prohlížeče. Upravte soubor PSB tam, kde chcete nebo použijte <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">high-code API a vytvořit svůj vlastní PSB editor</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

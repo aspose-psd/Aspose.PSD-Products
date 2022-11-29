@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-„Ukázky kódu pro konverzi PSD do jiných formátů v Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Bezplatná webová aplikace pro převod obrázků PSD, PSB a AI na Png, Pdf, Jpg, Tif, Pdf, Gif a další formáty" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Ukázky kódu pro konverzi PSD do jiných formátů v Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Bezplatná webová aplikace pro převod obrázků PSD, PSB a AI na Png, Pdf, Jpg, Tif, Pdf, Gif a další formáty" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Funkce převodu Aspose.PSD jsou připraveny na cloud a lze ji použít na serverech Windows, Linux a Mac. PSD Convert on-premise řešení je k dispozici pro Javu a nejnovější verzi .net, stejně jako .NET Framework 2.0 +</p>
 

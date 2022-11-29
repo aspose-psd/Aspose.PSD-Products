@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-„Ukázky kódu pro kompresi PSD souborů lze nalézt v oficiálním úložišti Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-„Webová aplikace pro kompresi PSD a PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Ukázky kódu pro kompresi PSD souborů lze nalézt v oficiálním úložišti Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Webová aplikace pro kompresi PSD a PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Soubory PSB mohou být až 2 GB, takže můžete získat případ, kdy tato aplikace nemůže nahrát soubor PSB, aby se zmenšila jeho velikost. V tomto případě je lepší použít <a href="/psd">on-premise psd formát řešení jako Aspose.PSD</a> a napište komprimovat kód sami. Příklady kódu horké pro kompresi formátu PSB najdete v tomto článku, stačí přepnout karty ve vestavěné aplikaci PSB File Reduce App</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

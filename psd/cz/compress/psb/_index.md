@@ -135,9 +135,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-„Ukázky kódu pro kompresi PSD souborů lze nalézt v oficiálním úložišti Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-„Webová aplikace pro kompresi PSD a PSB" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"Ukázky kódu pro kompresi PSD souborů lze nalézt v oficiálním úložišti Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Webová aplikace pro kompresi PSD a PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Funkce komprese Aspose.PSD používají rozhraní API s vysokým kódem. Komprese PSD řešení je k dispozici v Javě a .Net. Můžete použít Aspose.PSD pro kompresi nebo jiné úkoly na back-end vaší webové služby.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

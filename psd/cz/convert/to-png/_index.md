@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-„Převést příklad z PSD na PNG lze pomocí Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-„Bezplatná webová aplikace pro převod souborů PSD na PNG a mnoho dalších formátů" "https://products.aspose.app/psd/conversion" "
-„Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"Převést příklad z PSD na PNG lze pomocí Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Bezplatná webová aplikace pro převod souborů PSD na PNG a mnoho dalších formátů" "https://products.aspose.app/psd/conversion" 
+"Příklady na Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Konverze PSD na PNG pomocí Aspose.PSD je pixel-perfect. Při převodu bitových a 32 bitových obrázků však mohou mít určité rozdíly v konverzi. Hlavní důvody jsou různé. Při převodu na PNG, který podporuje pouze 8 bitů na jednotlivé barvy kanálu, ztratíte další informace. Také pro 8 bitový převod PSD na PNG se používá náhled, v některých případech původní soubor nemá náhled, protože byl odstraněn pro <a href="/psd/reduce-size">zmenšení velikosti souboru PSD.</a>. V tomto případě je lepší použít <a href="/psd">Aspose.PSD Vysoký kód API</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

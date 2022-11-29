@@ -18,7 +18,7 @@ url: psd/
  API, které je bohaté na funkce, výkonné a snadno použitelné API pro platformu C#, které lze použít s libovolným prohlížečem. Otevřeno
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  správce balíčků, hledat
-
+ **Co je Aspose.PSD** 
  a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}

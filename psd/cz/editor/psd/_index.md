@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-„Ukázky kódu pro prohlížení PSB jako PNG"  "https://docs.aspose.com/psd/net/" "
-„Převod PSB do jiných formátů"  "/psd/convert" "
-„Editor PSD s nízkým kódem" "https://products.aspose.app/psd/editor/psd" "
-„Vestavěný editor PSD" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"Ukázky kódu pro prohlížení PSB jako PNG"  "https://docs.aspose.com/psd/net/" 
+"Převod PSB do jiných formátů"  "/psd/convert" 
+"Editor PSD s nízkým kódem" "https://products.aspose.app/psd/editor/psd" 
+"Vestavěný editor PSD" "https://products.aspose.com/psd/editor" >}}
 <p>Pokud potřebujete upravit soubory PSD, použijte Aspose PSD Editor. Jedná se o jednoduchou webovou aplikaci, která poskytuje funkce úprav PSD v prohlížeči a bez nákupu Adobe Photoshop. Aspose.PSD Editor nepoužívá žádné rozhraní Adobe API a používá specifikaci formátu PSD k poskytování funkcí aktualizace souborů podle standardů formátu PSD. Aktualizujte textové a grafické vrstvy v souborech PSD. Také PSD Editor podporuje <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">Inteligentní objekty PSD</a>. Otevřete a aktualizujte soubory PSD z libovolného zařízení</p>
 
 {{< /blocks/products/pf/feature-page-section >}}
