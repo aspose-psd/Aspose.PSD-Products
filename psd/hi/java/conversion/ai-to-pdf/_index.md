@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से AI को PDF में बदलें
 description: AI प्रारूप के लिए पीडीएफ फाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर AI को PDF में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: ai-to-pdf/
+url: java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

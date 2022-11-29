@@ -1,7 +1,7 @@
 ---
 title: C#을 통해 AI를 TIFF로 변환
 description: AI를 TIFF C#으로 변환하기 위한 샘플 코드입니다.VB.NET, ASP.Net 또는 기타 .NET 기반 응용 프로그램 내에서 배치 AI 파일을 TIFF로 변환하는 데 사용할 수 있는 API 예제 코드를 사용하십시오.
-url: ai-to-tiff/
+url: net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

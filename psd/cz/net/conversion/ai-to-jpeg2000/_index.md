@@ -1,7 +1,7 @@
 ---
 title: Převést AI na JPEG2000 přes C#
 description: Ukázkový kód pro konverzi AI na JPEG2000 C#. Použijte příklad kódu API pro dávkové soubory AI na konverzi JPEG2000 v rámci VB.NET, ASP.NET nebo jakékoli aplikace založené na .NET.
-url: ai-to-jpeg2000/
+url: net/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

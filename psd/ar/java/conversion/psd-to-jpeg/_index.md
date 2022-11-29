@@ -2,7 +2,7 @@
 title: تحويل PSD إلى JPEG عبر جافا
 weight: 20
 description: نموذج كود تحويل Java لتنسيق PSD إلى ملف JPEG. استخدم رمز المثال هذا لتحويل PSD إلى JPEG داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psd-to-jpeg/
+url: java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

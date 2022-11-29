@@ -1,7 +1,7 @@
 ---
 title: Java フォトショップドキュメント変換
 description: フォトショップのPSD、PSBをJavaライブラリ経由でBMP、JPG、PNG、TIFF、PDFなどの画像に変換します。
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

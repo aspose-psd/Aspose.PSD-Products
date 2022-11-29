@@ -2,7 +2,7 @@
 title: 자바를 통해 PSD를 PNG로 변환
 weight: 80
 description: PSD 형식을 PNG 파일로 변환하는 샘플 Java 변환 코드입니다.이 예제 코드를 사용하여 모든 웹 또는 데스크톱 Java 기반 응용 프로그램 내에서 PSD를 PNG로 변환할 수 있습니다.
-url: psd-to-png/
+url: java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

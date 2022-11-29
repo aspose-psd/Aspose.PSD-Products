@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 어도비 포토샵 PSD 파일을 GIF로 변환
 keywords: [convert psd to gif, psd to gif, conversion to gif, create gif from psd, print psd as gif]
-url: to-gif/
+url: convert/to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

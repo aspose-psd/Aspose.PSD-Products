@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے پی ایس ڈی کو AI میں تبدیل کریں
 description: پی ایس ڈی فائل میں AI فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس ڈی میں اے آئی کو تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: ai-to-psd/
+url: java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

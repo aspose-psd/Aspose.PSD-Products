@@ -2,7 +2,7 @@
 title: PSD-Dokument über Java mit Wasserzeichen versehen
 weight: 60
 description: Java-Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zu einer PSD-Datei in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

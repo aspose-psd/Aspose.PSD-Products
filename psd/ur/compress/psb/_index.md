@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: فائلوں کے سائز کو کم کرنے کے لئے ایڈوب فوٹوشاپ کی تصاویر
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
-url: psb/
+url: compress/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="ایڈوب فوٹوشاپ فائل فارمیٹ حل" h2="ہائی کوڈ APIs اور پی ایس ڈی کے لئے مفت اطلاقات, فائلوں کے سائز کو کم کرنے اور undocumented امکانات کا استعمال کرتے ہوئے سکیڑیں کرنے کی صلاحیت کے ساتھ پی ایس بی" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD پروڈکٹ حل" >}}

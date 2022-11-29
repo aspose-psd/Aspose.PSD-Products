@@ -2,7 +2,7 @@
 title: Convierta PSD a GIF a través de Java
 weight: 330
 description: Ejemplo de código de conversión de Java para formato PSD a archivo GIF. Utilice este código de ejemplo para convertir PSD a GIF en cualquier aplicación web o de escritorio basada en Java.
-url: psd-to-gif/
+url: java/conversion/psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

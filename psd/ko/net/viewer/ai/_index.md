@@ -1,7 +1,7 @@
 ---
 title: .NET을 통해 AI 파일 형식 보기
 description: .NET 프레임워크, .NET 코어, 윈도우 애저, 모노 또는 자마린 플랫폼에서 AI 문서를 로드, 렌더링 및 표시하기 위한 C# 소스 코드입니다.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

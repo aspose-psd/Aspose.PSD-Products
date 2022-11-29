@@ -1,7 +1,7 @@
 ---
 title: Převést AI na GIF přes C#
 description: Ukázkový kód pro konverzi AI na GIF C#. Použijte ukázkový kód API pro dávkové soubory AI na GIF konverzi v rámci VB.NET, ASP.net nebo jakékoli aplikace založené na .NET.
-url: ai-to-gif/
+url: net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

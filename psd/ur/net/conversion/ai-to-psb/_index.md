@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو پی ایس بی کے ذریعہ سی # میں تبدیل کریں
 description: AI کے لئے پی ایس بی سی # تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر پی ایس بی تبادلوں کے لئے بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-psb/
+url: net/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

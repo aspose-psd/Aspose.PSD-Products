@@ -2,7 +2,7 @@
 title: پی ایس بی کو جاوا کے ذریعے JPEG میں تبدیل کریں
 weight: 180
 description: JPEG فائل پر پی ایس بی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس بی کو JPEG میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-jpeg/
+url: java/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

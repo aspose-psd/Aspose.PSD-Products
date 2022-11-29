@@ -1,7 +1,7 @@
 ---
 title: Muunna AI PDF-muotoon C# n kautta
 description: Näyte koodi AI PDF C# muuntaminen. Käytä API-esimerkkikoodia erän AI-tiedostoille PDF-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovelluksessa
-url: ai-to-pdf/
+url: net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

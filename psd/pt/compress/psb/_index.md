@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Comprima imagens do Adobe Photoshop para reduzir o tamanho dos arquivos
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
-url: psb/
+url: compress/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Solução de formato de arquivo Adobe Photoshop" h2="APIs de alto código e aplicativos gratuitos para PSD, PSB com capacidade de reduzir o tamanho dos arquivos e compactar usando possibilidades não documentadas" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Solução de produto Aspose.PSD" >}}

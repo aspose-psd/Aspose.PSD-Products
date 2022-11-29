@@ -1,7 +1,7 @@
 ---
 title: 자바를 통해 AI를 PSD로 변환
 description: AI 형식을 PSD 파일로 변환하는 샘플 Java 변환 코드입니다.이 예제 코드를 사용하여 모든 웹 또는 데스크톱 Java 기반 응용 프로그램 내에서 AI를 PSD로 변환할 수 있습니다.
-url: ai-to-psd/
+url: java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

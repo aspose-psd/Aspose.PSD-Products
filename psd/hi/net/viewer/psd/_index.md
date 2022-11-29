@@ -2,7 +2,7 @@
 title: .NET के माध्यम से PSD फ़ाइल प्रारूप देखें
 weight: 100
 description: .NET Framework, .NET Core पर PSD दस्तावेज़ों को लोड करने, रेंडर करने और प्रदर्शित करने के लिए C# स्रोत कोड।
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

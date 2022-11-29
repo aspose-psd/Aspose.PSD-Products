@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو سی # کے ذریعہ GIF میں تبدیل کریں
 description: GIF C# تبادلوں کے لئے AI کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر GIF تبادلوں کے لئے بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-gif/
+url: net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

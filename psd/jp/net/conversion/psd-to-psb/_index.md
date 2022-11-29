@@ -2,7 +2,7 @@
 title: C# 経由で PSD ファイルを PSB に変換する
 weight: 210
 description: PSD から PSB への C# 変換のサンプルコードです。VB.NET、ASP.NET、または任意の.NET ベースのアプリケーション内で PSD ファイルを PSB にバッチ変換するには、API サンプルコードを使用します。
-url: psd-to-psb/
+url: net/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

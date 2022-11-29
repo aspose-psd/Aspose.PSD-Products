@@ -1,7 +1,7 @@
 ---
 title: C# فوٹوشاپ فائلوں تبادلوں
 description: فوٹوشاپ پی ایس ڈی، پی ایس بی پی ڈی ایف میں تبدیل کریں اور تصاویر بشمول BMP، JPG، PNG، TIFF سمیت. NET لائبریری کے ذریعہ سی # کوڈ کی چند لائنوں کے ساتھ.
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
 title: Převést AI na PSB přes C#
 description: Ukázkový kód pro konverzi AI na PSB C#. Použijte ukázkový kód API pro dávkové soubory AI na konverzi PSB v rámci VB.NET, ASP.Net nebo jakékoli aplikace založené na .NET.
-url: ai-to-psb/
+url: net/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

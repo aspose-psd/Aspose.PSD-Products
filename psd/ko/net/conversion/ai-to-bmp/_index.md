@@ -1,7 +1,7 @@
 ---
 title: C#을 통해 AI를 BMP로 변환하십시오
 description: AI에서 BMP C# 로 변환하기 위한 샘플 코드
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

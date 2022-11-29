@@ -1,7 +1,7 @@
 ---
 title: Konversi AI ke JPEG2000 melalui C#
 description: Contoh kode untuk AI ke JPEG2000 C# konversi. Gunakan API contoh kode untuk batch file AI untuk konversi JPEG2000 dalam VB.NET, ASP.Net atau aplikasi berbasis .NET.
-url: psb-to-jpeg2000/
+url: net/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

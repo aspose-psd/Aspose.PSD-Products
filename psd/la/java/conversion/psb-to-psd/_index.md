@@ -2,7 +2,7 @@
 title: Converte PSB ad PSD per Java
 weight: 160
 description: Sample Java conversionis signum pro PSB forma ad PSD lima. Hoc exemplo utere codice ad PSB ad PSD convertendi intra cuiuslibet Telae vel Desktop Java in applicatione subnixa.
-url: psb-to-psd/
+url: java/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

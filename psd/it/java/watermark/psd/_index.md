@@ -2,7 +2,7 @@
 title: Documento Watermark PSD tramite Java
 weight: 60
 description: Codice di esempio Java per aggiungere o rimuovere la filigrana dal file PSD su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

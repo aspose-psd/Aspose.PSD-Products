@@ -2,7 +2,7 @@
 title: Převést AI na JPEG pomocí Java
 weight: 20
 description: Ukázkový kód převodu Java pro formát PSD do souboru JPEG. Tento příklad kódu použijte k převodu PSD na JPEG v libovolné webové nebo desktopové aplikaci Java založené.
-url: psd-to-jpeg/
+url: java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

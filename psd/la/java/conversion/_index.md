@@ -1,7 +1,7 @@
 ---
 title: Java Documenta Conversio Photoshop
 description: Converte Photoshop PSD, PSB ad Imagines BMP, JPG, PNG, TIFF et PDF per bibliothecam Javam.
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

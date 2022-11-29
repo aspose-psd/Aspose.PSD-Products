@@ -1,7 +1,7 @@
 ---
 title: Převést AI na PDF přes C#
 description: Ukázkový kód pro konverzi AI na PDF C#. Použijte ukázkový kód API pro dávkové soubory AI na konverzi PDF v rámci VB.NET, ASP.NET nebo jakékoli aplikace založené na .NET.
-url: ai-to-pdf/
+url: net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

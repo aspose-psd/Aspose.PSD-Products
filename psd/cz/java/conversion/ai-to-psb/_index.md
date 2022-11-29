@@ -1,7 +1,7 @@
 ---
 title: Převést AI na PSB přes Java
 description: Ukázkový konverzní kód Java pro formát AI do souboru PDF. Tento příklad kódu použijte k převodu AI do PDF v libovolné webové nebo desktopové aplikaci Java založené.
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

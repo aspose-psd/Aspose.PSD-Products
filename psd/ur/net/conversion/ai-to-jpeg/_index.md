@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو جے پی ای پی میں سی # کے ذریعے تبدیل کریں
 description: AI سے JPEG C# تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر JPEG تبادلوں کے لئے بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-jpeg/
+url: net/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

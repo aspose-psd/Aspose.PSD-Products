@@ -2,7 +2,7 @@
 title: Konverti PSD al PDF per C#
 weight: 200
 description: Ekzempla kodo por konvertiĝo de PSD al PDF C#. Uzu API-ekzemplan kodon por bataj PSD-dosieroj al PDF-konverto ene de VB.NET, Asp.NET aŭ ajna aplikaĵo bazita en .NET.
-url: psd-to-pdf/
+url: net/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: عرض تنسيقات ملفات PSB عبر.NET
 weight: 320
 description: كود مصدر C# لتحميل مستندات PSB وعرضها وعرضها على .NET Framework و.NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Converta AI em JPEG2000 via Java
 description: Exemplo de código de conversão Java para o formato AI em arquivo JPEG2000. Use esse código de exemplo para converter AI em JPEG2000 em qualquer aplicativo baseado em Java para Web ou desktop.
-url: ai-to-jpeg2000/
+url: java/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

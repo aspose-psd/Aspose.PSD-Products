@@ -2,7 +2,7 @@
 title: وضع علامة مائية على مستند PSD عبر Java
 weight: 60
 description: نموذج كود Java لإضافة أو إزالة العلامة المائية إلى ملف PSD على بيئة Java Runtime لتطبيق JSP/JSF وتطبيقات سطح المكتب.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

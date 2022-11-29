@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή εγγράφων Java Photoshop
 description: Μετατρέψτε το Photoshop PSD, PSB σε εικόνες όπως BMP, JPG, PNG, TIFF και PDF μέσω της βιβλιοθήκης Java.
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

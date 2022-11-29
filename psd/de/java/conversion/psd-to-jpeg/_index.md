@@ -2,7 +2,7 @@
 title: PSD über Java zu JPEG konvertieren
 weight: 20
 description: Beispiel für einen Java-Konvertierungscode für das PSD-Format in eine JPEG-Datei. Verwenden Sie diesen Beispielcode, um PSD in einer beliebigen Web- oder Desktop-Java-basierten Anwendung in JPEG zu konvertieren.
-url: psd-to-jpeg/
+url: java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

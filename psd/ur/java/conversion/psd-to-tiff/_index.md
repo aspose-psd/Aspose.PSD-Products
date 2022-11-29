@@ -2,7 +2,7 @@
 title: پی ایس ڈی کو جاوا کے ذریعے TIFF میں تبدیل
 weight: 170
 description: پی ایس ڈی فارمیٹ کے لئے TIFF فائل میں نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس ڈی کو TIFF میں تبدیل کرنے کیلئے اس مثال کا کوڈ استعمال کریں.
-url: psd-to-tiff/
+url: java/conversion/psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

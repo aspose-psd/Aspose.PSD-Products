@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: آن لائن ایڈیٹر کے ساتھ پی ایس ڈی فائل کھولیں اور ترمیم کریں
 keywords: [edit psd, psd editor, photoshop file editor, update text in psd, update psd, open psd, update text in psd]
-url: psd/
+url: editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

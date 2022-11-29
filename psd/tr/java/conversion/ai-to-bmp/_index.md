@@ -1,7 +1,7 @@
 ---
 title: Java ile AI'yı BMP'ye dönüştürün
 description: AI formatında BMP dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada yapay zekayı BMP'ye dönüştürmek için bu örnek kodu kullanın.
-url: ai-to-bmp/
+url: java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

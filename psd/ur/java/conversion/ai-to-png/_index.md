@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے PNG کو AI میں تبدیل کریں
 description: PNG فائل میں AI فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر AI کو PNG میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: ai-to-png/
+url: java/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

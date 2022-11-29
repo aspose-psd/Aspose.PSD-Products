@@ -2,7 +2,7 @@
 title: Java 経由で PSB ファイルを PNG に変換する
 weight: 110
 description: PSB 形式から PNG ファイルへの Java 変換コードのサンプル。このサンプルコードを使用して、Web ベースまたはデスクトップ Java ベースのアプリケーション内で PSB を PNG に変換します。
-url: psb-to-png/
+url: java/conversion/psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

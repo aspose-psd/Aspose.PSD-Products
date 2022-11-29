@@ -2,7 +2,7 @@
 title: 通过 Java 为 PSD 文档添加水印
 weight: 60
 description: 用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行环境上向 PSD 文件添加或删除水印的 Java 示例代码。
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: เอกสาร PSD ลายน้ำผ่าน NET
 weight: 130
 description: รหัสที่มา C# เพื่อเพิ่มหรือลบลายน้ำไปยังไฟล์ PSD บน NET Framework, .NET หลัก
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

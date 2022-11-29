@@ -1,7 +1,7 @@
 ---
 title: Převést AI na TIFF přes Javu
 description: Ukázkový konverzní kód Java pro formát AI do souboru TIFF. Pomocí tohoto příkladu kódu můžete převést AI na TIFF v libovolné webové nebo desktopové aplikaci Java.
-url: ai-to-tiff/
+url: java/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

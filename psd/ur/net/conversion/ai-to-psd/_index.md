@@ -1,7 +1,7 @@
 ---
 title: AI کو پی ایس ڈی میں سی # کے ذریعہ تبدیل کریں
 description: AI کے لئے پی ایس ڈی سی # تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر پی ایس ڈی تبادلوں کے لئے بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-psd/
+url: net/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

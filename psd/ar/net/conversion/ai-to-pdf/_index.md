@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى PDF عبر C#
 description: نموذج كود لتحويل AI إلى PDF C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل PDF داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
-url: ai-to-pdf/
+url: net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

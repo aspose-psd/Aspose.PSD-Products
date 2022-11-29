@@ -2,7 +2,7 @@
 title: Ajouter un filigrane à un document PSD via .NET
 weight: 130
 description: Code source C# pour ajouter ou supprimer un filigrane dans un fichier PSD sur .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

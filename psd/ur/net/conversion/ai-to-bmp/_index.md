@@ -1,7 +1,7 @@
 ---
 title: AI کو BMP کے ذریعے سی # میں تبدیل کریں
 description: AI کے لئے BMP C# تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر BMP تبادلوں کے لئے بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: 通过.NET 为 PSD 文档添加水
 weight: 130
 description: 用于在 .NET Framework、.NET Core 上向 PSD 文件添加或删除水印的 C# 源代码。
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

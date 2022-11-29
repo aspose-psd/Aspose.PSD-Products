@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से AI को PNG में बदलें
 description: AI प्रारूप के लिए PNG फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर AI को PNG में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: ai-to-png/
+url: java/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

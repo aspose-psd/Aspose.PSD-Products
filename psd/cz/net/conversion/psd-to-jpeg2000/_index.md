@@ -1,7 +1,7 @@
 ---
 title: Převést PSD na JPEG2000 přes C#
 description: Ukázkový kód pro konverzi PSD na JPEG2000 C#. Použijte ukázkový kód API pro dávkové soubory PSD na konverzi JPEG2000 v rámci VB.NET, ASP.NET nebo jakékoli aplikace založené na .NET.
-url: psd-to-jpeg2000/
+url: net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

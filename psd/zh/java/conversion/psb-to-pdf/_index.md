@@ -2,7 +2,7 @@
 title: 通过 Java 将 PSB 转换为 PDF
 weight: 190
 description: 将 PSB 格式转换为 PDF 文件的 Java 示例代码。使用此示例代码在任何基于 Web 或桌面 Java 的应用程序中将 PSB 转换为 PDF。
-url: psb-to-pdf/
+url: java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

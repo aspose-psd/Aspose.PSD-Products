@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى TIFF عبر جافا
 description: نموذج التعليمات البرمجية لتحويل AI إلى TIFF C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل TIFF داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
-url: ai-to-tiff/
+url: net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

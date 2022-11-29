@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u JPEG putem Jave
 description: Uzorak Java konverzijski kod za AI format u JPEG datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u JPEG unutar bilo koje aplikacije temeljene na webu ili radnoj površini
-url: ai-to-jpeg/
+url: java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: تحويل PSB إلى GIF عبر جافا
 weight: 170
 description: نموذج كود تحويل جافا لتنسيق PSB إلى ملف TIFF. استخدم رمز المثال هذا لتحويل PSB إلى TIFF داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psd-to-tiff/
+url: java/conversion/psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

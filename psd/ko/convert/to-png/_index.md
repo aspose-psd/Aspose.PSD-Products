@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 어도비 포토샵 PSD 파일을 PNG로 변환
 keywords: [convert psd to png, psd to png, conversion to png, create png from psd, print psd as png]
-url: to-png/
+url: convert/to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

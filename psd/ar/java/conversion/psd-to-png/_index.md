@@ -2,7 +2,7 @@
 title: تحويل PSD إلى PNG عبر جافا
 weight: 80
 description: نموذج كود تحويل Java لتنسيق PSD إلى ملف PNG. استخدم رمز المثال هذا لتحويل PSD إلى PNG داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psd-to-png/
+url: java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

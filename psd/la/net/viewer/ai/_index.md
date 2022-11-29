@@ -1,7 +1,7 @@
 ---
 title: Visum AI Tabellae per .NET
 description: C# source code onerare, reddere et ostendere documenta AI in .NET Framework, .NET Core, Fenestra Azure, Mono vel Platforms Xamarin.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

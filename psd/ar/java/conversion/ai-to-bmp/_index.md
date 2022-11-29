@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى BMP عبر جافا
 description: نموذج كود تحويل Java لتنسيق AI إلى ملف BMP. استخدم رمز المثال هذا لتحويل AI إلى BMP داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: ai-to-bmp/
+url: java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

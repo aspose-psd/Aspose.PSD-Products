@@ -1,7 +1,7 @@
 ---
 title: Muunna AI PSB ksi Javan kautta
 description: Näyte Java-muunnoskoodi AI-muodossa PSB-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI PSB ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

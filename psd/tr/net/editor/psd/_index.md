@@ -1,7 +1,7 @@
 ---
 title: .NET üzerinden PSD belgesini düzenleyin
 description: C# kaynak kodu.NET Framework, .NET Core PSD dosyasını düzenlemek için.
-url: psd/
+url: net/editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: ดูรูปแบบไฟล์ AI ผ่านทาง .NET
 description: รหัสที่มา C# โหลดการแสดงผลและแสดงเอกสาร AI บน NET Framework, .NET หลัก, Windows Azure โมโนหรือแพลตฟอร์ม Xamarin
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

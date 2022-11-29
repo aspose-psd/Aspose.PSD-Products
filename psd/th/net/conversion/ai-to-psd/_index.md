@@ -1,7 +1,7 @@
 ---
 title: แปลง AI เป็น PSD ผ่าน C#
 description: ตัวอย่างรหัสสำหรับการแปลง AI เป็น PSD C#ใช้รหัสตัวอย่าง API สำหรับไฟล์แบทช์ AI เพื่อการแปลง PSD ภายใน VB.NET, ASP.Net หรือโปรแกรมประยุกต์ใด ๆ ตาม NET
-url: ai-to-psd/
+url: net/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

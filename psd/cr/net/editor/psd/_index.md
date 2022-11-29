@@ -1,7 +1,7 @@
 ---
 title: Uređivanje PSD dokumenta putem .NET
 description: C# izvorni kod za uređivanje PSD datoteke na .NET Framework, .NET Core.
-url: psd/
+url: net/editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

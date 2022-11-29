@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى PDF عبر جافا
 description: نموذج كود تحويل Java لتنسيق AI إلى ملف PDF. استخدم رمز المثال هذا لتحويل AI إلى PDF داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: ai-to-pdf/
+url: java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

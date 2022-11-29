@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Aspose.PSD की शक्ति के साथ PSB खोलें
 keywords: [open psb, open psb online, open PSB file, open photoshop file, preview psb]
-url: psb/
+url: view/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

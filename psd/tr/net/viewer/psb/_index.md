@@ -2,7 +2,7 @@
 title: PSB Dosya Formatlarını .NET üzerinden görüntüleyin
 weight: 320
 description: .NET Framework, .NET Core üzerinde PSB belgelerini yüklemek, işlemek ve görüntülemek için C# kaynak kodu.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

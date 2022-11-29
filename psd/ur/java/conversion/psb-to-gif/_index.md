@@ -2,7 +2,7 @@
 title: پی ایس بی کو جاوا کے ذریعہ GIF میں تبدیل کریں
 weight: 220
 description: GIF فائل پر پی ایس بی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس بی کو GIF میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-gif/
+url: java/conversion/psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

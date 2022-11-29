@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 压缩 Adobe Photoshop 图像以减小文件大小
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
-url: psb/
+url: compress/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Adobe Photoshop 文件格式解决方案" h2="High Code API 和适用于 PSD、PSB 的免费应用程序，能够缩小文件大小并使用未记录的可能性进行压缩" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD 产品解决方案" >}}

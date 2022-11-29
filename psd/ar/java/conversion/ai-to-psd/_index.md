@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى PSD عبر جافا
 description: نموذج كود تحويل Java لتنسيق AI إلى ملف PSD. استخدم رمز المثال هذا لتحويل AI إلى PSD داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: ai-to-psd/
+url: java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

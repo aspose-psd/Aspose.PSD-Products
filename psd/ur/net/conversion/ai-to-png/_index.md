@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو سی # کے ذریعہ PNG میں تبدیل کریں
 description: AI سے PNG C# تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر PNG تبادلوں میں بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-png/
+url: net/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

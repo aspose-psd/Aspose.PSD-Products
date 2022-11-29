@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: ตัวแสดงแฟ้ม PSD
 keywords: [psd file viewer, psd viewer, view psd, view psd file]
-url: psd-file-viewer/
+url: view/psd-file-viewer/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

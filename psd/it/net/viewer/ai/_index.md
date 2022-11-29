@@ -1,7 +1,7 @@
 ---
 title: Visualizza i formati di file AI tramite .NET
 description: Codice sorgente C# per caricare, visualizzare e visualizzare documenti AI su piattaforme .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

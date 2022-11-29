@@ -2,7 +2,7 @@
 title: Перетворення PSB в PDF через Java
 weight: 190
 description: Приклад коду перетворення Java для формату AI у файл GIF. Використовуйте цей приклад коду для перетворення AI в GIF у будь-якому веб-або настільному Java на основі програми.
-url: psb-to-pdf/
+url: java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

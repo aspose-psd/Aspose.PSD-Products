@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو جاوا کے ذریعے TIFF میں تبدیل کریں
 description: TIFF فائل میں AI فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر AI کو TIFF میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: ai-to-tiff/
+url: java/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Konvertu AI al PSB per Java
 description: Ekzempla Ĝava konverta kodo por AI-formato al PSB-dosiero. Uzu ĉi tiun ekzemplan kodon por konverti AI al PSB ene de iu ajn retejo aŭ labortabla Java aplikaĵo.
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

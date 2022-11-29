@@ -1,7 +1,7 @@
 ---
 title: 자바를 통해 PSB를 JPEG2000 로 변환
 description: PSB 형식을 JPEG2000 파일로 변환하는 샘플 자바 변환 코드입니다.이 예제 코드를 사용하여 모든 웹 또는 데스크톱 Java 기반 응용 프로그램 내에서 PSB를 JPEG2000 로 변환하십시오.
-url: psb-to-jpeg2000/
+url: java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

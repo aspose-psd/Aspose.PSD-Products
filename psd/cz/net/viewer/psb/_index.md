@@ -2,7 +2,7 @@
 title: Zobrazení formátů souborů PSB přes .NET
 weight: 320
 description: Zdrojový kód jazyka C# pro načítání, vykreslení a zobrazení dokumentů PSB na rozhraní.NET Framework, .NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

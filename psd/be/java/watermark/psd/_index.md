@@ -2,7 +2,7 @@
 title: PSD-дакумент вадзянога знака праз Java
 weight: 60
 description: Прыклад кода Java для дадання або выдалення вадзянога знака ў PSD-файл у асяроддзі выканання Java для прыкладанняў JSP/JSF і настольных прыкладанняў.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: Rigardu PSB Dosierformatojn per .NET
 weight: 320
 description: C# fontkodo por ŝargi, bildigi kaj montri PSB-dokumentojn sur .NET Framework, .NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

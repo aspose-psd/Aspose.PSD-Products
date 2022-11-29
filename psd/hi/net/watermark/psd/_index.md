@@ -2,7 +2,7 @@
 title: .NET के माध्यम से PSD दस्तावेज़ को वॉटरमार्क करें
 weight: 130
 description: .NET Framework, .NET Core पर PSD फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए C# स्रोत कोड।
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

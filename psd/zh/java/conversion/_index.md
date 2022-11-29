@@ -1,7 +1,7 @@
 ---
 title: Java Photoshop 文档
 description: 通过 Java 库将 Photoshop PSD、PSB 转换为包括 BMP、JPG、PNG、TIFF 和 PDF 在内的图像。
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

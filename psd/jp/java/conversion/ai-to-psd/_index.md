@@ -1,7 +1,7 @@
 ---
 title: Java 経由で AI を PSD に変換する
 description: AI フォーマットから PSD ファイルへの Java 変換コードのサンプル。このサンプルコードを使用して、任意の Web またはデスクトップ Java ベースのアプリケーション内で AI を PSD に変換します。
-url: ai-to-psd/
+url: java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

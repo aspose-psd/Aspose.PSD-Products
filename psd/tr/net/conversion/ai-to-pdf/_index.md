@@ -1,7 +1,7 @@
 ---
 title: AI'yi C# ile PDF'ye dönüştürün
 description: AI'den PDF'ye C# dönüştürme için örnek kod. Toplu AI dosyalarını VB.NET, ASP.NET veya herhangi bir .NET tabanlı uygulama içinde PDF'ye dönüştürme için API örnek kodunu kullanın.
-url: ai-to-pdf/
+url: net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSB को TIFF में बदलें
 weight: 40
 description: PSB प्रारूप के लिए TIFF फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर PSB को TIFF में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: psb-to-tiff/
+url: java/conversion/psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

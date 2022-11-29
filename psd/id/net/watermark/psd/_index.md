@@ -2,7 +2,7 @@
 title: Watermark dokumen PSD melalui .NET
 weight: 130
 description: C# kode sumber untuk menambah atau menghapus watermark ke file PSD pada .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: تحويل مستندات جافا فوتوشوب
 description: تحويل Photoshop PSD و PSB إلى صور بما في ذلك BMP و JPG و PNG و TIFF و PDF عبر مكتبة Java.
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

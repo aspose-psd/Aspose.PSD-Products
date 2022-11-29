@@ -2,7 +2,7 @@
 title: Java 経由で PSD ドキュメントにウォーターマークを付ける
 weight: 60
 description: JSP/JSF アプリケーションおよびデスクトップアプリケーションの Java ランタイム環境で PSD ファイルにウォーターマークを追加または削除するための Java サンプルコード。
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u GIF putem Jave
 description: Uzorak Java konverzijski kod za AI format u GIF datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u GIF unutar bilo koje aplikacije temeljene na web ili radnoj površini Java
-url: ai-to-gif/
+url: java/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

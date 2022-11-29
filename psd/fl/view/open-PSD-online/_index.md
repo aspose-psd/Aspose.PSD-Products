@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Avaa PSD-tiedosto verkossa käyttämällä Aspose.PSD
 keywords: [open psd, open psb online, open PSD file, open photoshop file, preview psd]
-url: open-PSD-online/
+url: view/open-PSD-online/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے JPEG میں پی ایس ڈی تبدیل کریں
 weight: 20
 description: JPEG فائل میں پی ایس ڈی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس ڈی کو JPEG میں تبدیل کرنے کے لئے یہ مثال کوڈ استعمال کریں.
-url: psd-to-jpeg/
+url: java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

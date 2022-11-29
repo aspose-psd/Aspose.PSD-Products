@@ -2,7 +2,7 @@
 title: پی ایس ڈی پی ڈی کو جاوا کے ذریعے تبدیل کریں
 weight: 360
 description: پی ڈی ایف فائل میں پی ایس ڈی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. پی ایس ڈی ایف کو کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر تبدیل کرنے کے لئے اس مثال کے کوڈ کا استعمال کریں.
-url: psd-to-pdf/
+url: java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

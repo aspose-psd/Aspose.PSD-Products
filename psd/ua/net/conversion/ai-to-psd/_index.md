@@ -1,7 +1,7 @@
 ---
 title: Перетворення AI в GIF через C#
 description: Приклад коду для перетворення AI в PSD C#. Використовуйте приклад коду API для пакетних файлів AI в перетворення PSD в межах VB.NET, ASP.Net або будь-якого додатка на основі .NET.
-url: ai-to-psd/
+url: net/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

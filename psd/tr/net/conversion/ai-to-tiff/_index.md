@@ -1,7 +1,7 @@
 ---
 title: AI'yı C# ile TIFF'e dönüştürün
 description: AI'den TIFF'e C# dönüşümü için örnek kod. Toplu AI dosyalarını VB.NET, ASP.net veya herhangi bir .NET tabanlı uygulama içinde TIFF dönüşümüne dönüştürmek için API örnek kodunu kullanın.
-url: ai-to-tiff/
+url: net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

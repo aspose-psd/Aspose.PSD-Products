@@ -2,7 +2,7 @@
 title: Documento Watermark PSD tramite .NET
 weight: 130
 description: Codice sorgente C# per aggiungere o rimuovere la filigrana al file PSD su .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

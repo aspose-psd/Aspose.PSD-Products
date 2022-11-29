@@ -2,7 +2,7 @@
 title: .NET üzerinden PSD Dosya Formatlarını görüntüleyin
 weight: 100
 description: .NET Framework, .NET Core PSD belgelerini yüklemek, işlemek ve görüntülemek için C# kaynak kodu.
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

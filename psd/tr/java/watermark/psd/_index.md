@@ -2,7 +2,7 @@
 title: Java üzerinden filigran PSD belgesi
 weight: 60
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'ta PSD dosyasına filigran eklemek veya kaldırmak için Java örnek kodu.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Muunna AI GIF ksi Java
 description: Näyte Java-muunnoskoodi AI-muodossa GIF-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI GIF-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
-url: ai-to-gif/
+url: java/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

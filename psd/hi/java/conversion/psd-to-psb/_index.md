@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSD को PSB में बदलें
 weight: 280
 description: PSD प्रारूप के लिए PSB फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर PSD को PSB में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: psd-to-psb/
+url: java/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

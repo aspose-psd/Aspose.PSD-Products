@@ -2,7 +2,7 @@
 title: Dokument PSD vodoznaku přes Javu
 weight: 60
 description: Ukázkový kód Java pro přidání nebo odebrání vodoznaku do souboru PSD v prostředí Java Runtime Environment pro aplikace JSP/JSF a desktopové aplikace.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

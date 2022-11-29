@@ -2,7 +2,7 @@
 title: Añade una marca de agua a un documento PSD a través de .NET
 weight: 130
 description: Código fuente de C# para agregar o eliminar una marca de agua al archivo PSD en .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

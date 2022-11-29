@@ -1,7 +1,7 @@
 ---
 title: Convertir AI en PNG via Java
 description: Exemple de code de conversion Java pour le format AI en fichier PSB. Utilisez cet exemple de code pour convertir AI en PSB dans n'importe quelle application Web ou de bureau basée sur Java.
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

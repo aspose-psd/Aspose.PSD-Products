@@ -1,7 +1,7 @@
 ---
 title: Převod dokumentů Java Photoshop
 description: Převést Photoshop PSD, PSB na obrázky včetně BMP, JPG, PNG, TIFF a PDF prostřednictvím knihovny Java.
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

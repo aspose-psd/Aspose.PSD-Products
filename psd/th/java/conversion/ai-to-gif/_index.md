@@ -1,7 +1,7 @@
 ---
 title: แปลง AI เพื่อ GIF ผ่าน Java
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ AI เป็นไฟล์ GIFใช้รหัสตัวอย่างนี้เพื่อแปลง AI เพื่อ GIF ภายในเว็บหรือสก์ท็อปโปรแกรม Java ตาม
-url: ai-to-gif/
+url: java/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

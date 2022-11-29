@@ -2,7 +2,7 @@
 title: Převést AI na PDF přes Java
 weight: 80
 description: Ukázkový konverzní kód Java pro formát PSD do souboru PNG. Tento příklad kódu použijte k převodu PSD na PNG v libovolné webové nebo desktopové aplikaci Java založené.
-url: psd-to-png/
+url: java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

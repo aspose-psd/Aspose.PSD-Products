@@ -1,7 +1,7 @@
 ---
 title: Pretvorite PSB u JPEG2000 putem Java
 description: Uzorak Java konverzijski kod za PSB format u JPEG2000 datoteku. Upotrijebite ovaj primjer koda za pretvaranje PSB u JPEG2000 unutar bilo koje aplikacije temeljene na web ili radnoj površini Java.
-url: psb-to-jpeg2000/
+url: java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

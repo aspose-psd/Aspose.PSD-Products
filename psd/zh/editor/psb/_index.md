@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 使用在线编辑器打开和编辑 PSB 文件
 keywords: [edit psb, psb editor, photoshop file editor, update text in psb, update psb, open psb, update text in psb]
-url: psb/
+url: editor/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

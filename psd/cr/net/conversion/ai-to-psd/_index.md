@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u PSD putem C#
 description: Uzorak koda za pretvorbu AI u PSD C#. Upotrijebite API primjer koda za batch AI datoteke u PSD pretvorbu unutar VB.NET, ASP.Net ili bilo koje .NET aplikacije.
-url: ai-to-psd/
+url: net/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Převést AI na BMP přes Java
 description: Ukázkový konverzní kód Java pro formát AI do souboru BMP. Pomocí tohoto příkladu kódu můžete převést AI na BMP v libovolné webové nebo desktopové aplikaci Java.
-url: ai-to-bmp/
+url: java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

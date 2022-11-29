@@ -1,7 +1,7 @@
 ---
 title: Перетворення AI в PDF через Java
 description: Приклад коду перетворення Java для формату AI у файл PNG. Використовуйте цей приклад коду, щоб перетворити AI в PNG в будь-якому веб-або Desktop Java на основі програми.
-url: ai-to-png/
+url: java/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

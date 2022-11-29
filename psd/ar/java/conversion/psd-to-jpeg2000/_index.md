@@ -1,7 +1,7 @@
 ---
 title: تحويل PSD إلى JPEG2000 عبر جافا
 description: نموذج كود تحويل جافا لتنسيق PSD إلى ملف JPEG2000. استخدم رمز المثال هذا لتحويل PSD إلى JPEG2000 داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psd-to-jpeg2000/
+url: java/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے بی ایم پی کو اے آئی میں تبدیل کریں
 description: بی ایم پی فائل میں AI فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر AI کو BMP میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: ai-to-bmp/
+url: java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

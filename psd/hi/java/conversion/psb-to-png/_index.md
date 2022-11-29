@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSB को PNG में बदलें
 weight: 110
 description: PSB प्रारूप के लिए PNG फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर PSB को PNG में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: psb-to-png/
+url: java/conversion/psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

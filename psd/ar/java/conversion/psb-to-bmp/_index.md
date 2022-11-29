@@ -2,7 +2,7 @@
 title: تحويل PSB إلى BMP عبر جافا
 weight: 300
 description: نموذج كود تحويل جافا لتنسيق PSB إلى ملف BMP. استخدم رمز المثال هذا لتحويل PSB إلى BMP داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psb-to-bmp/
+url: java/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

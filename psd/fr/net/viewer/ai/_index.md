@@ -1,7 +1,7 @@
 ---
 title: Afficher les formats de fichiers AI via .NET
 description: Code source C# pour charger, afficher et afficher des documents d'IA sur les plateformes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

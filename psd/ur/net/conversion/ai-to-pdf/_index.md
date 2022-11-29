@@ -1,7 +1,7 @@
 ---
 title: AI کو پی ڈی ایف کے ذریعہ سی # میں تبدیل کریں
 description: AI کے لئے پی ڈی ایف سی # تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی. NET کی بنیاد پر درخواست کے اندر پی ڈی ایف تبادلوں میں بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-pdf/
+url: net/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से AI को PSD में बदलें
 description: एआई प्रारूप के लिए PSD फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर AI को PSD में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: ai-to-psd/
+url: java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
