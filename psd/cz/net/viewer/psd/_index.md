@@ -87,7 +87,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát nebo kompilovat kód" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko\" Zobrazit\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko Zobrazit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Stáhněte soubor PSD z odkazu, pokud je požadováno" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
