@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“포토샵 없이 PSD 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" 
-"PSD를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“PSD, PSB 및 AI 이미지를 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"포토샵 없이 PSD 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" 
+"PSD를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"PSD, PSB 및 AI 이미지를 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD 뷰어 기능은 클라우드를 지원하며 윈도우, 리눅스 및 Mac 서버에서 사용할 수 있습니다.다음과 같은 경우 온 프레미스 솔루션을 사용할 수 있습니다. <a href="https://products.aspose.com/psd/java/">Java</a> 최신 버전입니까? <a href="https://products.aspose.com/psd/net/">.Net</a> 뿐만 아니라 .Net 프레임워크 2.0 +</p>
 
 <h3 class="headingpdleft">다양한 형식의 PSD 뷰어</h3>

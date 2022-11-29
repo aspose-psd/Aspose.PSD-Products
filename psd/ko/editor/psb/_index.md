@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSB를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" "
-“PSB를 다른 형식으로 변환"  "/psd/convert" "
-“더 큰 작업 공간을 갖춘 로우 코드 PSB 에디터" "https://products.aspose.app/psd/editor/psb" "
-“PSB 파일 작업 예제" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"PSB를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" 
+"PSB를 다른 형식으로 변환"  "/psd/convert" 
+"더 큰 작업 공간을 갖춘 로우 코드 PSB 에디터" "https://products.aspose.app/psd/editor/psb" 
+"PSB 파일 작업 예제" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB 에디터는 서버의 파일을 처리합니다.PSB 파일을 편집하려면 Aspose.PSD 에디터에서 먼저 PSB 파일을 업로드한 다음 직렬화하고 업로드된 PSB 파일을 편집할 수 있는 UI를 제공합니다.PSB 편집의 최종 결과는 다른 형식으로 다운로드할 수 있습니다.PSB 파일을 편집하면 텍스트 업데이트, 브러시로 페인팅, 레이어 재정렬 및 가시성 변경과 같은 작업이 가능합니다.브라우저만 사용하여 모든 장치 및 OS에서 편집할 수 있습니다.원하는 곳에서 PSB 파일을 편집하거나 사용할 수 있습니다. <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">하이코드 API 및 나만의 PSB 에디터 만들기</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

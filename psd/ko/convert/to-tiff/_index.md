@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-“하이 코드 API를 사용하여 예제를 PSD에서 Tiff로 변환"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD 파일을 Tiff로 변환하는 웹 애플리케이션" "https://products.aspose.app/psd/conversion" "
-“요점 예시" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"하이 코드 API를 사용하여 예제를 PSD에서 Tiff로 변환"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD 파일을 Tiff로 변환하는 웹 애플리케이션" "https://products.aspose.app/psd/conversion" 
+"요점 예시" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>PSD를 Tiff로 변환하면 하드 디스크 공간이 클 수 있습니다.하지만 추가 메타데이터가 포함된 무손실 압축 파일을 얻을 수 있습니다.모든 메타데이터가 PSD에서 Tiff로 제대로 변환되지는 않습니다. PSD 레이어의 메타데이터를 추출해야 하는 경우 시도해 보십시오. <a href="https://products.aspose.app/psd/metadata">PSD 메타데이터 추출기</a>.PSD 하이 코드 API의 모든 기능을 사용하려면 시도해보세요 <a href="/psd">Aspose.PSD</a> .Net 또는 자바용</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

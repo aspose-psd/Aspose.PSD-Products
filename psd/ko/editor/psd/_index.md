@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSB를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" "
-“PSB를 다른 형식으로 변환"  "/psd/convert" "
-“로우 코드 PSD 에디터" "https://products.aspose.app/psd/editor/psd" "
-“내장 PSD 편집기" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"PSB를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" 
+"PSB를 다른 형식으로 변환"  "/psd/convert" 
+"로우 코드 PSD 에디터" "https://products.aspose.app/psd/editor/psd" 
+"내장 PSD 편집기" "https://products.aspose.com/psd/editor" >}}
 <p>PSD 파일을 편집해야 하는 경우 Aspose PSD 편집기를 사용하십시오.이 앱은 Adobe Photoshop을 구입하지 않고도 브라우저에서 PSD 편집 기능을 제공하는 간단한 웹 앱입니다.Aspose.PSD 에디터는 어도비 API를 사용하지 않으며 PSD 형식 사양을 사용하여 PSD 형식 표준에 따라 파일 업데이트 기능을 제공합니다.PSD 파일의 텍스트 및 그래픽 레이어를 업데이트합니다.또한 PSD 에디터는 지원합니다. <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD 스마트 오브젝트</a>.모든 장치에서 PSD 파일 열기 및 업데이트</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

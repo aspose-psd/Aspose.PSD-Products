@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“일러스트레이터 없이 AI 파일 열기" "https://products.aspose.com/psd/view/" "
-“GIST AI 파일을 여는 예제" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“AI를 온라인으로 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"일러스트레이터 없이 AI 파일 열기" "https://products.aspose.com/psd/view/" 
+"GIST AI 파일을 여는 예제" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"AI를 온라인으로 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Aspose.PSD 또는 기타 애스포즈 제품을 사용하여 AI 파일을 엽니다.AI 파일 미리보기를 온라인으로 렌더링합니다.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
