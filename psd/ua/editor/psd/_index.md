@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Зразки коду для перегляду PSB у форматі PNG"  "https://docs.aspose.com/psd/net/" "
-«Перетворення PSB в інші формати"  "/psd/convert" "
-«Редактор PSD з низьким кодом" "https://products.aspose.app/psd/editor/psd" "
-«Вбудований PSD редактор" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"Зразки коду для перегляду PSB у форматі PNG"  "https://docs.aspose.com/psd/net/" 
+"Перетворення PSB в інші формати"  "/psd/convert" 
+"Редактор PSD з низьким кодом" "https://products.aspose.app/psd/editor/psd" 
+"Вбудований PSD редактор" "https://products.aspose.com/psd/editor" >}}
 <p>Використовуйте Aspose PSD редактор, якщо вам потрібно редагувати PSD файли. Це простий веб-додаток забезпечує функціональність редагування PSD в браузері і без покупки Adobe Photoshop. Редактор Aspose.PSD не використовує жодного API Adobe, а також використовує специфікації формату PSD, щоб забезпечити функціональність оновлення файлів відповідно до стандартів формату PSD. Оновлення текстових і графічних шарів в PSD файлів. Крім того, PSD редактор підтримує <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD смарт-об'єкти</a>. Відкривайте та оновлюйте PSD файли з будь-якого пристрою</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

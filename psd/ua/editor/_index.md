@@ -51,9 +51,9 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Зразки коду для перегляду PSD як PNG"  "https://docs.aspose.com/psd/net/" "
-«Low-Code PSD редактор з великим розміром робочого простору" "https://products.aspose.app/psd/editor/" >}}
+	}` 
+"Зразки коду для перегляду PSD як PNG"  "https://docs.aspose.com/psd/net/" 
+"Low-Code PSD редактор з великим розміром робочого простору" "https://products.aspose.app/psd/editor/" >}}
 <p>Редактор PSD використовує обробку файлів на стороні сервера <a href="/psd/{{< lang-code >}}java">PSD Java</a> та найновішу версію <a href="/psd/{{< lang-code >}}net">PSD. Net</a> а також Net Рамкової 2.0 +</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

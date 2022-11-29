@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-«Перетворення прикладу з PSD в Tiff з High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«Веб-додаток для перетворення файлів PSD в Tiff" "https://products.aspose.app/psd/conversion" "
-«Приклади на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"Перетворення прикладу з PSD в Tiff з High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Веб-додаток для перетворення файлів PSD в Tiff" "https://products.aspose.app/psd/conversion" 
+"Приклади на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>Результат перетворення PSD в Tiff може бути великим щодо місця на жорсткому диску. Але ви отримуєте стислий файл без втрат з додатковими метаданими. Не всі метадані належним чином перетворені з PSD в Tiff, якщо вам потрібно витягти метадані PSD шарів, будь ласка, спробуйте <a href="https://products.aspose.app/psd/metadata">PSD екстракт метаданих</a>. Якщо ви хочете використовувати всю потужність PSD з високим кодом API, будь ласка, спробуйте <a href="/psd">Перетворюйте файли Microsoft Visio у формати PDF, HTML, зображення та інші</a> для Net або Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

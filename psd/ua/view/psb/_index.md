@@ -18,10 +18,10 @@ url: psb/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-«Приклади відкриття PSB файлів на Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" "
-«Підручник, як відкрити файли PSB без Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-«Переглядач файлів PSB як самостійна служба" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Приклади відкриття PSB файлів на Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
+"Підручник, як відкрити файли PSB без Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"Переглядач файлів PSB як самостійна служба" "https://products.aspose.app/psd/viewer" >}}
 <p>Перегляд PSB файл за допомогою вбудованого PSB без коду перегляду PSB. Відкрити PSB File можна за допомогою поточної програми. Якщо вам потрібні додаткові функції редагування, будь ласка, перевірте <a href="https://products.aspose.app/psd/template-editor">Редактор PSB</a>.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
