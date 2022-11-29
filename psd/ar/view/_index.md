@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-«برنامج تعليمي حول كيفية فتح ملفات PSD بدون Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-«نماذج التعليمات البرمجية لعرض PSD كـ PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-«تطبيق منخفض الكود لفتح صور PSD و PSB و AI" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"برنامج تعليمي حول كيفية فتح ملفات PSD بدون Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"نماذج التعليمات البرمجية لعرض PSD كـ PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"تطبيق منخفض الكود لفتح صور PSD و PSB و AI" "https://products.aspose.app/psd/viewer" >}}
 <p>ميزات عارض Aspose.PSD جاهزة للسحابة ويمكن استخدامها على خوادم Windows و Linux و Mac. الحل المحلي متاح لـ <a href="https://products.aspose.com/psd/java/">Java</a> وأحدث إصدار من <a href="https://products.aspose.com/psd/net/">.Net</a> بالإضافة إلى إطار عمل .Net 2.0 +</p>
 
 <h3 class="headingpdleft">مشاهدو PSD لتنسيقات مختلفة</h3>

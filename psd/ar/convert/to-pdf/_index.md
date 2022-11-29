@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-«نماذج التعليمات البرمجية لتحويل PSD إلى PDF في Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«تطبيق ويب مجاني لتحويل ملفات PSD إلى Pdf والعديد من التنسيقات الأخرى" "https://products.aspose.app/psd/conversion" "
-«أمثلة على Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"نماذج التعليمات البرمجية لتحويل PSD إلى PDF في Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"تطبيق ويب مجاني لتحويل ملفات PSD إلى Pdf والعديد من التنسيقات الأخرى" "https://products.aspose.app/psd/conversion" 
+"أمثلة على Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>يحتوي تحويل PSD إلى PDF بواسطة Aspose.PSD على نوعين - التحويل المثالي للبكسل والتحويل مع القدرة على تحديد النص. لتحويل البكسل المثالي الذي تحتاج إلى استخدامه <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">خاصية وضع القراءة فقط</a>، يرجى التحقق من مرجع API إذا كان سيتم استخدام Aspose.PSD كتطبيق عالي الكود. إذا كنت بحاجة إلى القدرة على تحديد النص، يرجى استخدام الرمز أعلاه.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

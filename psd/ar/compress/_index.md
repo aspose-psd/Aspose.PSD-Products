@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress" >}}
 <p>تستخدم ميزات ضغط Aspose.PSD واجهة برمجة التطبيقات عالية الكود. يتوفر حل ضغط PSD في Java و.Net. يمكنك استخدام Aspose.PSD للضغط أو المهام الأخرى على الواجهة الخلفية لخدمة الويب الخاصة بك.</p>
 <ul>
 <li><a href="psb">ضاغط بي إس بي</a></li>

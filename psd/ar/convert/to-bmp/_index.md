@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-«يمكن تحويل المثال من PSD إلى BMP باستخدام Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«تحويل ملف PSD الخاص بك إلى BMP عبر الإنترنت" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-«أمثلة على Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"يمكن تحويل المثال من PSD إلى BMP باستخدام Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"تحويل ملف PSD الخاص بك إلى BMP عبر الإنترنت" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"أمثلة على Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>يمكن تحويل PSD إلى BMP بسرعة بواسطة Aspose.PSD. إذا كنت ترغب في استخدام تنسيقات الإخراج الحديثة الأخرى، يرجى التحقق من <a href="/psd/convert">تحويل PSD إلى بيانات نقطية</a> عمليات الشراء داخل التطبيق <a href="/psd/convert/to-bmp">يحول PSD إلى BMP</a>. يمكن فتح تنسيق Bmp مع أي برنامج لديك على الكمبيوتر الشخصي أو Mac. إذا كنت تريد استخدام تنسيق BMP المضغوط بعد التحويل من PSB، فمن الأفضل استخدامه <a href="/psd">أدوات تحويل عالية الكود من Aspose.PSD</a>. إذا كنت بحاجة فقط إلى ضغط ملف PSD، فإن التحويل إلى BMP ليس هو الخيار الأفضل لأن BMP هو تنسيق كبير بشكل مشترك</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

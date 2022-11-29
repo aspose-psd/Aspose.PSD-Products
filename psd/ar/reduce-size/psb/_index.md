@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>يمكن أن تصل ملفات PSB إلى 2 غيغابايت، لذا يمكنك الحصول على الحالة عندما يتعذر على هذا التطبيق تحميل ملف PSB لتقليل حجمه. في هذه الحالات، من الأفضل استخدامها <a href="/psd">حل تنسيق psd محلي مثل Aspose.PSD</a> واكتب كود الضغط بنفسك. يمكن العثور على أمثلة التعليمات البرمجية الساخنة لضغط تنسيق PSB في هذه المقالة، ما عليك سوى تبديل علامات التبويب في تطبيق PSB File Reduce المدمج</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-«نماذج التعليمات البرمجية لتحويل PSD إلى تنسيقات أخرى في Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-«تطبيق ويب مجاني لتحويل صور PSD و PSB و AI إلى تنسيقات Png و Pdf و Jpg و Tif و Pdf و Gif وغيرها من التنسيقات" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"نماذج التعليمات البرمجية لتحويل PSD إلى تنسيقات أخرى في Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"تطبيق ويب مجاني لتحويل صور PSD و PSB و AI إلى تنسيقات Png و Pdf و Jpg و Tif و Pdf و Gif وغيرها من التنسيقات" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>ميزة تحويل Aspose.PSD جاهزة للسحابة ويمكن استخدامها على خوادم Windows و Linux و Mac. يتوفر حل PSD Convert المحلي لجافا وأحدث إصدار من.Net بالإضافة إلى .Net Framework 2.0 +</p>
 

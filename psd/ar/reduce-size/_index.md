@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>إذا كنت بحاجة إلى تقليل حجم ملف PSB بدلاً من PSD، يمكنك استخدام تعديل بسيط لهذا التطبيق. يرجى التحقق من»<a href="/psd/reduce-size/psb">تقليل حجم PSB</a>«تطبيق.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

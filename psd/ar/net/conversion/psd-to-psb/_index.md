@@ -18,7 +18,7 @@ url: psd-to-psb/
  API وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات وتحويلها لمنصة C#. افتح
  [نوجيت](https://www.nuget.org/packages/aspose.psd) 
  مدير الحزم، ابحث عن
-
+ **Aspose.PSD** 
  وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
