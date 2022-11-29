@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“Converter exemplo de PSD em lata PNG usando Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Aplicativo web gratuito para converter seus arquivos PSD para PNG e muitos outros formatos" "https://products.aspose.app/psd/conversion" "
-“Exemplos em Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"Converter exemplo de PSD em lata PNG usando Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Aplicativo web gratuito para converter seus arquivos PSD para PNG e muitos outros formatos" "https://products.aspose.app/psd/conversion" 
+"Exemplos em Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>A conversão de PSD para PNG pelo Aspose.PSD é perfeita em pixels. Mas pode ter algumas diferenças de conversão ao converter imagens de 16 e 32 bits. Os principais motivos são diferentes. Ao converter para PNG que suporta apenas cores de 8 bits por canal, você perde as informações adicionais. Além disso, para a conversão de 8 bits de PSD em PNG é usada a visualização prévia; em alguns casos, o arquivo original não tem visualização porque foi removido para o <a href="/psd/reduce-size">reduzindo o tamanho do arquivo PSD.</a>. Neste caso, é melhor usar <a href="/psd">API de alto código do Aspose.PSD</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
