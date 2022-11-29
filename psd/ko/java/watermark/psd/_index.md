@@ -101,7 +101,7 @@ url: psd/
         {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통한 워터마크 PSD" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="코드를 작성할 필요가 없습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="PSD 파일을 업로드하고 워터마크를 설정한 다음\" 추가\” 버튼을 누르세요." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="PSD 파일을 업로드하고 워터마크를 설정한 다음 '추가' 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일의 다운로드 링크를 즉시 받으십시오." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

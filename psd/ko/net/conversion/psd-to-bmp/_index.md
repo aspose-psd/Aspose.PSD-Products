@@ -1,5 +1,5 @@
 ---
-title: C #을 사용하여 PSD를 BMP로 변환하십시오
+title: C#을 사용하여 PSD를 BMP로 변환하십시오
 description: .NET API를 통해 PSD, PSB 및 AI 파일을 내보낼 수 있습니다.
 family: psd
 platformtag: net
@@ -11,7 +11,7 @@ url: psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C #을 통해 PSD를 BMP로 변환" h2="PSD 및 PSB를 위한 .NET 포토샵 API BMP를 포함한 래스터 이미지로 변환" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 PSD를 BMP로 변환" h2="PSD 및 PSB를 위한 .NET 포토샵 API BMP를 포함한 래스터 이미지로 변환" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
