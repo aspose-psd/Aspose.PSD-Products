@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“在 Aspose.PSD 中将 PSD 转换为其他格式的代码示例"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“免费网络应用程序可将你的 PSD、PSB 和 AI 图像转换为 Png、Pdf、Jpg、Tif、Pdf、Gif 和其他格式" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"在 Aspose.PSD 中将 PSD 转换为其他格式的代码示例"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"免费网络应用程序可将你的 PSD、PSB 和 AI 图像转换为 Png、Pdf、Jpg、Tif、Pdf、Gif 和其他格式" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD 转换功能已准备就绪，可以在 Windows、Linux 和 Mac 服务器上使用。PSD Convert 本地解决方案适用于 Java 和最新版本的 .Net 以及 .Net Framework 2.0 +</p>
 

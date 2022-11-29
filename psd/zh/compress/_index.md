@@ -135,9 +135,9 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“压缩 PSD 文件的代码示例可以在官方 Github 存储库中找到"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“用于压缩 PSD 和 PSB 的 Web 应用程序" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"压缩 PSD 文件的代码示例可以在官方 Github 存储库中找到"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"用于压缩 PSD 和 PSB 的 Web 应用程序" "https://products.aspose.app/psd/compress" >}}
 <p>Aspose.PSD 压缩功能使用高代码 API。压缩 PSD 解决方案有 Java 和 .NET 版本。您可以使用 Aspose.PSD 在 Web 服务的后端执行压缩或其他任务。</p>
 <ul>
 <li><a href="psb">PSB 压缩</a></li>

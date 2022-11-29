@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“将 PSB 视为 PNG 的代码示例"  "https://docs.aspose.com/psd/net/" "
-“将 PSB 转换为其他格式"  "/psd/convert" "
-“具有更大工作空间的低代码 PSB 编辑器" "https://products.aspose.app/psd/editor/psb" "
-“处理 PSB 文件的示例" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"将 PSB 视为 PNG 的代码示例"  "https://docs.aspose.com/psd/net/" 
+"将 PSB 转换为其他格式"  "/psd/convert" 
+"具有更大工作空间的低代码 PSB 编辑器" "https://products.aspose.app/psd/editor/psb" 
+"处理 PSB 文件的示例" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB 编辑器处理服务器上的文件。要编辑 PSB 文件 Aspose.PSD Editor 首先下令上传 PSB 文件，然后对其进行序列化并提供用户界面来编辑上传的 PSB 文件。PSB 编辑的最终结果可以以不同的格式下载。当你编辑 PSB 文件时，你可以进行文本更新、用画笔绘画、重新排序和更改图层的可见性等操作。只需使用浏览器即可在任何设备和操作系统上进行编辑。在需要或使用的位置编辑 PSB 文件 <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">高代码 API 然后自己做 PSB 编辑器</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

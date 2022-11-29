@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“教程如何在没有 Photoshop 的情况下打开 PSD 文件" "https://products.aspose.com/psd/net/viewer/" "
-“以 PNG 形式查看 PSD 的代码示例"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“用于打开 PSD、PSB 和 AI 图像的低代码应用程序" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"教程如何在没有 Photoshop 的情况下打开 PSD 文件" "https://products.aspose.com/psd/net/viewer/" 
+"以 PNG 形式查看 PSD 的代码示例"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"用于打开 PSD、PSB 和 AI 图像的低代码应用程序" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD 查看器功能支持云端，可以在 Windows、Linux 和 Mac 服务器上使用。本地解决方案可用于 <a href="https://products.aspose.com/psd/java/">Java</a> 以及最新版本的 <a href="https://products.aspose.com/psd/net/">.Net</a> 还有 .net Framework 2.0 +</p>
 
 <h3 class="headingpdleft">不同格式的 PSD 查看器</h3>

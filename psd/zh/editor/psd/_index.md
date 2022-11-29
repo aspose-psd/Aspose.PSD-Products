@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“将 PSB 视为 PNG 的代码示例"  "https://docs.aspose.com/psd/net/" "
-“将 PSB 转换为其他格式"  "/psd/convert" "
-“低代码 PSD 编辑器" "https://products.aspose.app/psd/editor/psd" "
-“内置 PSD 编辑器" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"将 PSB 视为 PNG 的代码示例"  "https://docs.aspose.com/psd/net/" 
+"将 PSB 转换为其他格式"  "/psd/convert" 
+"低代码 PSD 编辑器" "https://products.aspose.app/psd/editor/psd" 
+"内置 PSD 编辑器" "https://products.aspose.com/psd/editor" >}}
 <p>如果你需要编辑 PSD 文件，请使用 Aspose PSD 编辑器。这是一款简单的网络应用程序，在浏览器中提供PSD编辑功能，无需购买Adobe Photoshop。Aspose.PSD 编辑器不使用任何 Adobe API，而是使用 PSD 格式规范根据 PSD 格式标准提供文件更新功能。更新 PSD 文件中的文本和图形图层。此外，PSD 编辑器支持 <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD 智能对象</a>。从任何设备打开和更新 PSD 文件</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

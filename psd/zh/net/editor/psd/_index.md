@@ -17,7 +17,7 @@ url: psd/
  API 是适用于 C# 平台的功能丰富、强大且易于使用的文档操作 API。打开
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  包管理器，搜索
-
+ **Aspose.PSD** 
  并安装。您也可以使用包管理器控制台中的以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
