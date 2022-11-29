@@ -1,7 +1,7 @@
 ---
-title: Muunna PSD BMP: ksi Java: n kautta
+title: Muunna PSD BMP ksi Java n kautta
 weight: 260
-description: Näyte Java muuntaminen koodi PSD muodossa BMP tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD BMP: ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
+description: Näyte Java muuntaminen koodi PSD muodossa BMP tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD BMP ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: psd-to-bmp/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Näytä PSD-tiedostomuodot .NET: n kautta
+title: Näytä PSD-tiedostomuodot .NET n kautta
 weight: 100
 description: C# lähdekoodi ladata, tehdä ja näyttää PSD asiakirjoja .NET Framework, .NET Core.
 url: psd/

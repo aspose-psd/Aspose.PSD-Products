@@ -1,5 +1,5 @@
 ---
-title: Muunna AI JPEG: ksi Java
+title: Muunna AI JPEG ksi Java
 description: Näyte Java-muunnoskoodi AI-muodossa JPEG-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI JPEG-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
 url: ai-to-jpeg/
 ---

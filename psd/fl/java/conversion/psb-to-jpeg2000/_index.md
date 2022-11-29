@@ -1,6 +1,6 @@
 ---
-title: Muunna PSB JPEG2000: ksi Java-ohjelman kautta
-description: Näyte Java muuntaminen koodi PSB muodossa JPEG2000 tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB:n JPEG2000:ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
+title: Muunna PSB JPEG2000 ksi Java-ohjelman kautta
+description: Näyte Java muuntaminen koodi PSB muodossa JPEG2000 tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSBn JPEG2000ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: psb-to-jpeg2000/
 ---
 

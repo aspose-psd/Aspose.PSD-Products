@@ -1,6 +1,6 @@
 ---
-title: Muunna PSD JP2: ksi C#: lla
-description: Vie PSD, PSB & AI-tiedosto .NET API: n kautta
+title: Muunna PSD JP2 ksi C# lla
+description: Vie PSD, PSB & AI-tiedosto .NET API n kautta
 family: psd
 platformtag: net
 feature: conversion
