@@ -75,7 +75,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za pretvaranje PSB-a u PSD" sectionDescription="Check our live demos for [PSB to PSD conversion](https://products.aspose.app/psd/conversion/psb-to-psd) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem bilo kojeg koda." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSB datoteku i pritisnite gumb\" Pretvori\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSB datoteku i pritisnite gumb Pretvori." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Odmah ćete dobiti vezu za preuzimanje za rezultirajuću PSD datoteku." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
