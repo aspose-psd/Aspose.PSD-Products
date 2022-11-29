@@ -18,7 +18,7 @@ url: psb-to-pdf/
  API koji je bogat značajkama, moćan i jednostavan za korištenje dokumentima manipulacije i pretvorbe API za C# platformu. Otvori
  [NuGet](https://www.nuget.org/packages/aspose.psd) 
  upravitelj paketa, traži
-
+ **Aspose.PSD** 
  i instalirati. Također možete upotrijebiti sljedeću naredbu iz konzole Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Naredba konzole upravitelja paketa" offSpacer="true" %}}
