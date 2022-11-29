@@ -1,7 +1,7 @@
 ---
 title: Muunna AI PNG kautta C#
 description: Näyte koodi AI PNG C# muuntaminen. Käytä API-esimerkkikoodia erän AI-tiedostoille PNG-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovellu
-url: ai-to-png/
+url: net/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

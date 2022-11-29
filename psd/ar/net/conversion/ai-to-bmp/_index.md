@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى BMP عبر C#
 description: نموذج كود لتحويل AI إلى BMP C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل BMP داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

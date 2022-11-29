@@ -1,7 +1,7 @@
 ---
 title: C# Photoshop datoteke pretvorbe
 description: Pretvoriti Photoshop PSD, PSB u PDF i slike, uključujući BMP, JPG, PNG, TIFF s nekoliko redaka C# koda putem .NET knjižnice.
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

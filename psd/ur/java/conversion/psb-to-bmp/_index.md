@@ -2,7 +2,7 @@
 title: پی ایس بی کو جاوا کے ذریعے BMP میں تبدیل کریں
 weight: 300
 description: بی ایم پی فائل میں پی ایس بی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس بی بی کو BMP میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-bmp/
+url: java/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

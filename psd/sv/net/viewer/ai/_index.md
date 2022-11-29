@@ -1,7 +1,7 @@
 ---
 title: Visa AI-filformat via .NET
 description: C# källkod för att ladda, återge och visa AI-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

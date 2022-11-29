@@ -1,7 +1,7 @@
 ---
 title: Převést AI na BMP přes C#
 description: Ukázkový kód pro konverzi AI na BMP C#. Použijte příklad kódu API pro dávkové soubory AI ke konverzi BMP v rámci VB.NET, ASP.net nebo jakékoli aplikace založené na .NET.
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Modifier un document PSD via .NET
 description: Code source C# pour modifier le fichier PSD sur .NET Framework, .NET Core.
-url: psd/
+url: net/editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: .NET کے ذریعہ واٹر مارک پی ایس ڈی دستاویز
 weight: 130
 description: .NET فریم ورک، .NET کور پر پی ایس ڈی فائل میں واٹر مارک شامل کرنے یا ہٹانے کے لئے C# ماخذ کوڈ.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

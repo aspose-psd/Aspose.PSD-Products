@@ -1,7 +1,7 @@
 ---
 title: Java ile AI'yı JPEG'e dönüştürün
 description: AI formatında JPEG dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada yapay zekayı JPEG'e dönüştürmek için bu örnek kodu kullanın.
-url: ai-to-jpeg/
+url: java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

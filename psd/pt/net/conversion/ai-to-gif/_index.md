@@ -1,7 +1,7 @@
 ---
 title: Converta AI em GIF via C#
 description: Código de amostra para conversão de AI em GIF C#. Use o código de exemplo de API para conversão de arquivos AI em lote para GIF em VB.NET, ASP.NET ou qualquer aplicativo baseado em .NET.
-url: ai-to-gif/
+url: net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

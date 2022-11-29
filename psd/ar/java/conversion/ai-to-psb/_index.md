@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى PSB عبر جافا
 description: نموذج كود تحويل Java لتنسيق AI إلى ملف PSB. استخدم رمز المثال هذا لتحويل AI إلى PSB داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

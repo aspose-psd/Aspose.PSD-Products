@@ -1,7 +1,7 @@
 ---
 title: Converte AI ad PSD per C#
 description: Sample code pro AI ad PSD C# conversionem. Exemplo API utere codice pro fasciculo AI limato ad PSD conversionem intra VB.NET, Asp.NET vel aliqua applicatione NET fundata.
-url: ai-to-psd/
+url: net/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

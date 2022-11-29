@@ -1,7 +1,7 @@
 ---
 title: Java ile AI'yı PNG'ye dönüştürün
 description: AI formatında PNG dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada AI'yı PNG'ye dönüştürmek için bu örnek kodu kullanın.
-url: ai-to-png/
+url: java/conversion/ai-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

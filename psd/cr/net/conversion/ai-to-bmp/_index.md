@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u BMP putem C#
 description: Uzorak koda za pretvorbu AI u BMP C#. Upotrijebite API primjer koda za batch AI datoteke u BMP pretvorbu unutar VB.NET, ASP.Net ili bilo koje .NET aplikacije.
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى PSD عبر C#
 description: نموذج التعليمات البرمجية لتحويل AI إلى PSD C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل PSD داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
-url: ai-to-psd/
+url: net/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

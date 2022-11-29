@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u BMP putem Jave
 description: Uzorak Java konverzijski kod za AI format u BMP datoteku. Koristite ovaj primjer koda za pretvaranje AI u BMP unutar bilo koje aplikacije temeljene na webu ili Desktop Java.
-url: ai-to-bmp/
+url: java/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

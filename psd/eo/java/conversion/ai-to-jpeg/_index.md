@@ -1,7 +1,7 @@
 ---
 title: Konvertu AI al JPEG per Java
 description: Ekzempla Ĝava konverta kodo por AI-formato al JPEG-dosiero. Uzu ĉi tiun ekzemplan kodon por konverti AI al JPEG ene de iu ajn retejo aŭ labortabla Java aplikaĵo.
-url: ai-to-jpeg/
+url: java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

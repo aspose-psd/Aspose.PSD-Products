@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى JPEG2000 عبر جافا
 description: نموذج كود تحويل جافا لتنسيق PSB إلى ملف JPEG2000. استخدم رمز المثال هذا لتحويل PSB إلى JPEG2000 داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psb-to-jpeg2000/
+url: java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

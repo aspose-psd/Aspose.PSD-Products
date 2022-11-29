@@ -2,7 +2,7 @@
 title: जावा के माध्यम से वॉटरमार्क PSD दस्तावेज़
 weight: 60
 description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए जावा रनटाइम एनवायरनमेंट पर PSD फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए जावा नमूना कोड।
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

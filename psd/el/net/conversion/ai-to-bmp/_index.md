@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή AI σε BMP μέσω C#
 description: Δείγμα κώδικα για AI έως BMP C ⁇  μετατροπή.  Χρησιμοποιήστε API κωδικό παραδείγματος για την παρτίδα AI αρχεία σε BMP μετατροπή εντός B.ET, Asp.ET ή οποιαδήποτε εφαρμογή με βάση το .ET.
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Adobe PhotoShop PSD-Dateien in PNG konvertieren
 keywords: [convert psd to png, psd to png, conversion to png, create png from psd, print psd as png]
-url: to-png/
+url: convert/to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

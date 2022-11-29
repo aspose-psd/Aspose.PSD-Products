@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 将 Adobe PhotoShop PSD 文件转换为 G
 keywords: [convert psd to gif, psd to gif, conversion to gif, create gif from psd, print psd as gif]
-url: to-gif/
+url: convert/to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

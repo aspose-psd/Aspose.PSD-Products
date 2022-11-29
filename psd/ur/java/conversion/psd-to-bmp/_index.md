@@ -2,7 +2,7 @@
 title: پی ایس ڈی کو جاوا کے ذریعے BMP میں تبدیل کریں
 weight: 260
 description: BMP فائل میں پی ایس ڈی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس ڈی کو BMP میں تبدیل کرنے کے لئے اس مثال کے کوڈ کا استعمال کریں.
-url: psd-to-bmp/
+url: java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

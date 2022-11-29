@@ -2,7 +2,7 @@
 title: Ver formatos de archivo PSB a través de .NET
 weight: 320
 description: Código fuente de C# para cargar, renderizar y mostrar documentos PSB en .NET Framework, .NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

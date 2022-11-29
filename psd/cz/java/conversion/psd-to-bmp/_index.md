@@ -2,7 +2,7 @@
 title: Převést PSD na BMP přes Java
 weight: 260
 description: Ukázkový kód převodu Java pro formát PSD do souboru BMP. Tento příklad kódu použijte k převodu PSD na BMP v libovolné webové nebo desktopové aplikaci založené na jazyce Java.
-url: psd-to-bmp/
+url: java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

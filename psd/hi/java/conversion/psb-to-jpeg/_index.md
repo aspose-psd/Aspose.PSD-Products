@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSB को JPEG में बदलें
 weight: 180
 description: PSB प्रारूप के लिए JPEG फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर PSB को JPEG में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: psb-to-jpeg/
+url: java/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

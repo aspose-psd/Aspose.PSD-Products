@@ -2,7 +2,7 @@
 title: Converte PSD ad PNG per Java
 weight: 80
 description: Sample Java conversionis pro PSD forma ad PNG lima. Hoc exemplo utere codice ad PNG convertendi PSD ad PNG intra quamlibet Telam vel Desktop Java in applicatione subnixa.
-url: psd-to-png/
+url: java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

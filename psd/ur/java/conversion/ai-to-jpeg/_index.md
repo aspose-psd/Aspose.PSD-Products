@@ -1,7 +1,7 @@
 ---
 title: جاوا کے ذریعے JPEG کو AI میں تبدیل کریں
 description: JPEG فائل میں AI فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر AI کو JPEG میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: ai-to-jpeg/
+url: java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

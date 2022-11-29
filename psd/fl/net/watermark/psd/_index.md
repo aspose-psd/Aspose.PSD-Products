@@ -2,7 +2,7 @@
 title: Vesileima PSD -asiakirja .NET
 weight: 130
 description: C# lähdekoodi lisätä tai poistaa vesileima PSD-tiedostoon .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

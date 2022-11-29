@@ -2,7 +2,7 @@
 title: Exibir formatos de arquivo PSD via .NET
 weight: 100
 description: Código-fonte C# para carregar, renderizar e exibir documentos PSD no .NET Framework, .NET Core.
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

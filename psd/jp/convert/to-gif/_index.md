@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: アドビフォトショップ PSD ファイルを GIF に変換
 keywords: [convert psd to gif, psd to gif, conversion to gif, create gif from psd, print psd as gif]
-url: to-gif/
+url: convert/to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

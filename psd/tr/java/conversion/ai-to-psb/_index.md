@@ -1,7 +1,7 @@
 ---
 title: Java ile AI'yı PSB'ye dönüştürün
 description: AI formatında PSB dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada yapay zekayı PSB'ye dönüştürmek için bu örnek kodu kullanın.
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

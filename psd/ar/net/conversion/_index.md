@@ -1,7 +1,7 @@
 ---
 title: تحويل ملفات فوتوشوب C#
 description: تحويل Photoshop PSD و PSB إلى PDF والصور بما في ذلك BMP و JPG و PNG و TIFF مع خطوط قليلة من رمز C# عبر مكتبة .NET.
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

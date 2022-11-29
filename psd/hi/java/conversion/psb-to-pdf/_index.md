@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSB को PDF में बदलें
 weight: 190
 description: PDF फ़ाइल के लिए PSB प्रारूप के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर PSB को PDF में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: psb-to-pdf/
+url: java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

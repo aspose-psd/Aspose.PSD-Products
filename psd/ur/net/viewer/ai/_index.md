@@ -1,7 +1,7 @@
 ---
 title: .NET کے ذریعہ AI فائل فارمیٹس دیکھیں
 description: نیٹ فریم ورک، .NET کور، ونڈوز ایزور، مونو یا Xamarin پلیٹ فارمز پر AI دستاویزات لوڈ، رینڈر اور ڈسپلے کرنے کے لئے C# ماخذ کوڈ.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

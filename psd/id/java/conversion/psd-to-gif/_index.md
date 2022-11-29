@@ -2,7 +2,7 @@
 title: Konversi PSB ke BMP melalui Java
 weight: 330
 description: Contoh kode konversi Java untuk format PSD ke file GIF. Gunakan kode contoh ini untuk mengkonversi PSD ke GIF dalam aplikasi berbasis Web atau Desktop Java.
-url: psd-to-gif/
+url: java/conversion/psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

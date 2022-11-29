@@ -2,7 +2,7 @@
 title: Converte PSB ad PDF per Java
 weight: 190
 description: Sample Java conversionis signum pro PSB forma ad fasciculum PDF. Hoc exemplo utere codice ad PSB ad PDF convertendi intra quamlibet Web vel Desktop Java sub applicatione subnixa.
-url: psb-to-pdf/
+url: java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

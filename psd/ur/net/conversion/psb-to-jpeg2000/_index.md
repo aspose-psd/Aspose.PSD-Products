@@ -1,7 +1,7 @@
 ---
 title: پی ایس بی کو جے پی جی 2000 میں سی # کے ذریعہ تبدیل کریں
 description: پی ایس بی کے لئے JPEG2000 C# تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر JPEG2000 تبادلوں میں بیچ پی ایس بی فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: psb-to-jpeg2000/
+url: net/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

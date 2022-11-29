@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى PSB عبر C#
 description: نموذج التعليمات البرمجية لتحويل AI إلى PSB C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل PSB داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
-url: ai-to-psb/
+url: net/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

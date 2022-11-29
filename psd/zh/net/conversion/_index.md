@@ -1,7 +1,7 @@
 ---
 title: C# PhotosHOP 文件转换
 description: 通过.NET 库将 Photoshop PSD、PSB 转换为 PDF 和图片，包括几行 C# 代码，包括 BMP、JPG、PNG、TIFF。
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

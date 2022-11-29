@@ -2,7 +2,7 @@
 title: Visa PSB-filformat via .NET
 weight: 320
 description: C# källkod för att ladda, rendera och visa PSB-dokument på .NET Framework, .NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

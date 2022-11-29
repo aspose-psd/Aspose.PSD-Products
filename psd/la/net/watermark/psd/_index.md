@@ -2,7 +2,7 @@
 title: Perfice PSD documentum per .NET
 weight: 130
 description: C# source code addere vel removere vestigium ad PSD lima in .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

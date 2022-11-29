@@ -2,7 +2,7 @@
 title: Tanda air dokumen PSD melalui Java
 weight: 60
 description: Java contoh kode untuk menambah atau menghapus watermark ke file PSD pada Java Runtime Environment untuk JSP/JSF Aplikasi dan Desktop Aplikasi.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

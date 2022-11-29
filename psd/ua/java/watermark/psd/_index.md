@@ -2,7 +2,7 @@
 title: Водяний знак PSD документ через Java
 weight: 60
 description: Зразок коду Java для додавання або видалення водяного знака до файлу PSD у середовищі виконання Java для програм JSP/JSF та настільних програм.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

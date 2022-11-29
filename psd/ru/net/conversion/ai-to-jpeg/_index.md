@@ -1,7 +1,7 @@
 ---
 title: Конвертируйте AI в JPEG с помощью C#
 description: Пример кода для преобразования AI в GIF C#. Используйте пример кода API для пакетного преобразования файлов AI в GIF в VB.NET, ASP.Net или любом приложении на основе .NET.
-url: ai-to-jpeg/
+url: net/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

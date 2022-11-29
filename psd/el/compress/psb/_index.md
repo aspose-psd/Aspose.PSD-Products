@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Συμπίεση εικόνων Adobe Photoshop για μείωση του μεγέθους των αρχείων
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
-url: psb/
+url: compress/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Λύση μορφής αρχείου Adobe Photoshop" h2="High Code API και δωρεάν εφαρμογές για PSD, PSB με δυνατότητα μείωσης του μεγέθους των αρχείων και συμπίεση με χρήση μη τεκμηριωμένων δυνατοτήτων" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Λύση προϊόντος Aspose.PSD" >}}

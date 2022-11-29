@@ -1,7 +1,7 @@
 ---
 title: Konvertera PSB till JPEG2000 via C#
 description: Exempelkod för PSB till JPEG2000 C# konvertering. Använd API-exempelkod för batch PSB-filer till JPEG2000 konvertering inom VB.NET, ASP.NET eller någon .NET-baserad applikation.
-url: psb-to-jpeg2000/
+url: net/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

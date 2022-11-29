@@ -2,7 +2,7 @@
 title: پی ایس ڈی کو پی ایس بی کے ذریعہ سی # میں تبدیل کریں
 weight: 210
 description: پی ایس بی سی # تبادلوں کے لئے پی ایس ڈی کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر پی ایس بی تبادلوں کے لئے بیچ پی ایس ڈی فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: psd-to-psb/
+url: net/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

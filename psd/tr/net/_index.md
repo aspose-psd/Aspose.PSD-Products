@@ -132,7 +132,7 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=“.NET PSD İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“.NET PSD İşleme />
   <header>
    Aspose.PSD nedir
   </header>
@@ -183,7 +183,7 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=“PSD Manipülasyon API'leri” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“PSD Manipülasyon />
   <header>
    Aspose.PSD nedir
   </header>

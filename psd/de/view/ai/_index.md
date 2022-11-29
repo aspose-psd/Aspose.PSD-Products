@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Sehen Sie sich die AI-Datei online mit der integrierten Aspose-App an
 keywords: [view ai, view illustrator file, view AI file online, view adobe illustrator, ai file preview, ai format view]
-url: ai/
+url: view/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

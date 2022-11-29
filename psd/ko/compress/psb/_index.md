@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 어도비 포토샵 이미지를 압축하여 파일 크기를 줄입니다.
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
-url: psb/
+url: compress/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="어도비 포토샵 파일 포맷 솔루션" h2="문서화되지 않은 가능성을 사용하여 파일 크기를 줄이고 압축할 수 있는 PSD, PSB용 하이 코드 API 및 무료 앱" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD 제품 솔루션" >}}

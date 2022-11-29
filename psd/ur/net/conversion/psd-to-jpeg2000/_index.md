@@ -1,7 +1,7 @@
 ---
 title: پی ایس ڈی کو جے پی جی 2000 میں سی # کے ذریعہ تبدیل کریں
 description: پی ایس ڈی کے لئے JPEG2000 C# تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی. NET کی بنیاد پر درخواست کے اندر JPEG2000 تبادلوں میں بیچ پی ایس ڈی فائلوں کے لئے API مثال کے کوڈ کا استعمال کریں.
-url: psd-to-jpeg2000/
+url: net/conversion/psd-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

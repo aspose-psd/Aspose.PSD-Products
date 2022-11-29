@@ -2,7 +2,7 @@
 title: แปลง PSD เป็น BMP ผ่าน Java
 weight: 260
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ PSD เป็นไฟล์ BMPใช้โค้ดตัวอย่างนี้เพื่อแปลง PSD เป็น BMP ภายในเว็บหรือเดสก์ท็อปโปรแกรม Java ตาม
-url: psd-to-bmp/
+url: java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Konvertu AI al PDF per Java
 description: Ekzempla Ĝava konverta kodo por AI-formato al PDF-dosiero. Uzu ĉi tiun ekzemplan kodon por konverti AI al PDF en iu ajn retejo aŭ labortabla Java aplikaĵo.
-url: ai-to-pdf/
+url: java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

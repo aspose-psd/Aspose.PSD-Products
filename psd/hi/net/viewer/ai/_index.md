@@ -1,7 +1,7 @@
 ---
 title: .NET के माध्यम से AI फ़ाइल प्रारूप देखें
 description: .NET Framework, .NET Core, Windows Azure, मोनो या Xamarin प्लेटफ़ॉर्म पर AI दस्तावेज़ों को लोड करने, रेंडर करने और प्रदर्शित करने के लिए C# स्रोत कोड।
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: . NET کے ذریعہ پی ایس بی فائل فارمیٹس دیکھیں
 weight: 320
 description: نیٹ فریم ورک، .NET کور پر پی ایس بی دستاویزات لوڈ، رینڈر اور ڈسپلے کرنے کے لئے C# ماخذ کوڈ.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

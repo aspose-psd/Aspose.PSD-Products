@@ -2,7 +2,7 @@
 title: Konversi PSB ke BMP melalui Java
 weight: 260
 description: Contoh kode konversi Java untuk format PSD ke file BMP. Gunakan kode contoh ini untuk mengkonversi PSD ke BMP dalam aplikasi berbasis Web atau Desktop Java.
-url: psd-to-bmp/
+url: java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

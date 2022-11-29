@@ -2,7 +2,7 @@
 title: پی ایس بی کو جاوا کے ذریعے PNG میں تبدیل کریں
 weight: 110
 description: PNG فائل پر پی ایس بی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس بی کو PNG میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-png/
+url: java/conversion/psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

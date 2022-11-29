@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u TIFF putem Jave
 description: Uzorak Java konverzijski kod za AI format u TIFF datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u TIFF unutar bilo koje aplikacije temeljene na web ili radnoj površini Java
-url: ai-to-tiff/
+url: java/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

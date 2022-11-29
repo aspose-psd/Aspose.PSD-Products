@@ -2,7 +2,7 @@
 title: Lihat Format File PSD melalui .NET
 weight: 100
 description: C# kode sumber untuk memuat, membuat dan menampilkan dokumen PSD pada .NET Framework, .NET Core.
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

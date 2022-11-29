@@ -2,7 +2,7 @@
 title: Converti PSD in TIFF tramite Java
 weight: 170
 description: Esempio di codice di conversione Java per il formato PSD in file TIFF. Usa questo codice di esempio per convertire PSD in TIFF all'interno di qualsiasi applicazione Web o desktop basata su Java.
-url: psd-to-tiff/
+url: java/conversion/psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

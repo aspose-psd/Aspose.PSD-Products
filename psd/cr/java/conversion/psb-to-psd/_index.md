@@ -2,7 +2,7 @@
 title: Pretvorite PSB u PSD putem Jave
 weight: 160
 description: Uzorak Java konverzijski kod za PSB format u PSD datoteku. Upotrijebite ovaj primjer koda za pretvaranje PSB u PSD unutar bilo koje aplikacije temeljene na web ili radnoj površini Java.
-url: psb-to-psd/
+url: java/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

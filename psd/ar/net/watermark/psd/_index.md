@@ -2,7 +2,7 @@
 title: وضع علامة مائية على مستند PSD عبر .NET
 weight: 130
 description: كود مصدر C# لإضافة أو إزالة العلامة المائية إلى ملف PSD على .NET Framework، .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

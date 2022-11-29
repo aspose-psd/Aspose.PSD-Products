@@ -1,7 +1,7 @@
 ---
 title: Muunna AI BMP ksi C# n kautta
 description: Näytekoodi AI lle BMP C# -muunnokseen. Käytä API-esimerkkikoodia erän AI-tiedostoille BMP-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovelluksessa
-url: ai-to-bmp/
+url: net/conversion/ai-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

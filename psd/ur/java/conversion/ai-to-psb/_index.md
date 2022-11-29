@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو پی ایس بی کے ذریعے جاوا میں تبدیل کریں
 description: پی ایس بی فائل پر AI فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر AI کو پی ایس بی میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: ai-to-psb/
+url: java/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

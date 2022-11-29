@@ -1,7 +1,7 @@
 ---
 title: 通过.NET 编辑 PSD 文档
 description: 在 .NET Framework、.NET Core 上编辑 PSD 文件的 C# 源代码。
-url: psd/
+url: net/editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

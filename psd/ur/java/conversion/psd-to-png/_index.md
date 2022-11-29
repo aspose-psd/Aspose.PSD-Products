@@ -2,7 +2,7 @@
 title: پی ایس ڈی کو جاوا کے ذریعے PNG میں تبدیل کریں
 weight: 80
 description: PNG فائل میں پی ایس ڈی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس ڈی کو PNG میں تبدیل کرنے کے لئے اس مثال کے کوڈ کا استعمال کریں.
-url: psd-to-png/
+url: java/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

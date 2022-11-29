@@ -2,7 +2,7 @@
 title: پی ایس بی کو جاوا کے ذریعے پی ایس ڈی میں تبدیل کریں
 weight: 160
 description: پی ایس ڈی فائل پر پی ایس بی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. پی ایس بی کو کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس ڈی میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-psd/
+url: java/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

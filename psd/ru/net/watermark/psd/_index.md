@@ -2,7 +2,7 @@
 title: PSD-документ с водяным знаком через .NET
 weight: 130
 description: Исходный код C# для добавления или удаления водяного знака в PSD-файле на платформе.NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

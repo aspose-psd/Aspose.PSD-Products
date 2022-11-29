@@ -2,7 +2,7 @@
 title: Υδατογράφημα εγγράφου PSD μέσω .NET
 weight: 130
 description: C# πηγαίο κώδικα για να προσθέσετε ή να καταργήσετε το υδατογράφημα στο αρχείο PSD στο NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

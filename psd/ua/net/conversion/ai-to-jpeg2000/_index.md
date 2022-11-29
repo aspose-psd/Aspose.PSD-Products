@@ -1,7 +1,7 @@
 ---
 title: Перетворення AI в JPEG через Java
 description: Приклад коду для перетворення AI в JPEG2000 C#. Використовуйте приклад коду API для пакетних файлів AI в перетворення JPEG2000 у VB.NET, ASP.Net або будь-якому додатку на основі NET.
-url: ai-to-jpeg2000/
+url: net/conversion/ai-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

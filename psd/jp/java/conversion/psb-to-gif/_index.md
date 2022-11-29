@@ -2,7 +2,7 @@
 title: Java 経由で PSB ファイルを GIF に変換する
 weight: 220
 description: PSB 形式から GIF ファイルへの Java 変換コードの例。このサンプルコードを使用して、Web ベースまたはデスクトップ Java ベースのアプリケーション内で PSB を GIF に変換します。
-url: psb-to-gif/
+url: java/conversion/psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

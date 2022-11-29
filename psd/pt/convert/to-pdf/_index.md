@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Converta arquivos do Adobe PhotoShop em PDF
 keywords: [convert psd to pdf, psd to pdf, conversion to pdf, create pdf from psd, print psd as pdf]
-url: to-pdf/
+url: convert/to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

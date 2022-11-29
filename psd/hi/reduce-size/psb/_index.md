@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: PSD फ़ाइलों का आकार कम करें
 keywords: [reduce psb size, make psb smaller, reduce psb, remove unnecessary psb data, compress psb file, compress psb]
-url: psb/
+url: reduce-size/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}

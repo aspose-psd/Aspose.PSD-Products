@@ -1,7 +1,7 @@
 ---
 title: تحويل AI إلى TIFF عبر جافا
 description: نموذج كود تحويل Java لتنسيق AI إلى ملف TIFF. استخدم رمز المثال هذا لتحويل AI إلى TIFF داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: ai-to-tiff/
+url: java/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: C# Photoshop File Konversi
 description: Mengkonversi Photoshop PSD, PSB ke PDF dan Gambar termasuk BMP, JPG, PNG, TIFF dengan beberapa baris kode C# melalui pustaka .NET.
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

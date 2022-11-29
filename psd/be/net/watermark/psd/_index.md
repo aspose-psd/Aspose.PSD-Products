@@ -2,7 +2,7 @@
 title: PSD-дакумент вадзянога знака праз .NET
 weight: 130
 description: Зыходны код C# для дадання або выдалення вадзянога знака ў файл PSD на .NET Framework, .NET Core.
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

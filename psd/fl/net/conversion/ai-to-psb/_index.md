@@ -1,7 +1,7 @@
 ---
 title: Muunna AI PSB ksi C# n kautta
 description: Näyte koodi AI PSB C# muuntaminen. Käytä API-esimerkkikoodia erän AI-tiedostoille PSB-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovelluksessa.
-url: ai-to-psb/
+url: net/conversion/ai-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

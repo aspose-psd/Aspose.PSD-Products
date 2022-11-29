@@ -2,7 +2,7 @@
 title: پی ایس ڈی کو پی ڈی ایف میں سی # کے ذریعہ تبدیل کریں
 weight: 200
 description: پی ڈی ایف سی ایکس ایکس این ایم ایکس تبادلوں کے لئے پی ایس ڈی VB.NET، ASP.net یا کسی بھی. NET کی بنیاد پر درخواست کے اندر پی ڈی ایف تبادلوں کے لئے بیچ پی ایس ڈی فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: psd-to-pdf/
+url: net/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Muunna AI PSD ksi Javan kautta
 description: Näyte Java muuntaminen koodi AI-muodossa PSD tiedosto. Tämän esimerkkikoodin avulla voit muuntaa AI PSD ksi missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
-url: ai-to-psd/
+url: java/conversion/ai-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

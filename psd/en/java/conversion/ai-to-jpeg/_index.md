@@ -1,7 +1,7 @@
 ---
 title: Convert AI to JPEG via Java
 description: Sample Java conversion code for AI format to JPEG file. Use this example code to convert AI to JPEG within any Web or Desktop Java based application.
-url: ai-to-jpeg/
+url: java/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

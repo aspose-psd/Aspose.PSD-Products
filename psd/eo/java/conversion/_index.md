@@ -1,7 +1,7 @@
 ---
 title: Konvertiĝo de Dokumentoj de Java Photoshop
 description: Konvertu Photoshop PSD, PSB al Bildoj inkluzive de BMP, JPG, PNG, TIFF kaj PDF per Java biblioteko.
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

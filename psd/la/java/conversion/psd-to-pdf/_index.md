@@ -2,7 +2,7 @@
 title: Converte PSD ad PDF per Java
 weight: 360
 description: Sample Java conversionis signum pro PSD forma ad documentum PDF. Hoc exemplo utere codice ad PSD convertendi ad PDF intra cuiuslibet Telae vel Desktop Java sub applicatione.
-url: psd-to-pdf/
+url: java/conversion/psd-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: .NET کے ذریعے پی ایس ڈی فائل فارمیٹس دیکھیں
 weight: 100
 description: پی ایس ڈی دستاویزات لوڈ کرنے، رینڈر کرنے اور پی ایس ڈی دستاویزات کو ظاہر کرنے کے لئے C# ماخذ کوڈ، .NET کور.
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

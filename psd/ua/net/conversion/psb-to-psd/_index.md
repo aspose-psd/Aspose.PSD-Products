@@ -2,7 +2,7 @@
 title: Перетворення PSB в PSD через C#
 weight: 240
 description: Приклад коду для перетворення AI в PDF C#. Використовуйте приклад коду API для пакетного перетворення файлів AI в PDF у межах VB.NET, ASP.NET або будь-якого додатка на основі NET.
-url: psb-to-psd/
+url: net/conversion/psb-to-psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

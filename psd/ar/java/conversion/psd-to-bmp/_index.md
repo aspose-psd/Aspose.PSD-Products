@@ -2,7 +2,7 @@
 title: تحويل PSD إلى BMP عبر جافا
 weight: 260
 description: نموذج كود تحويل Java لتنسيق PSD إلى ملف BMP. استخدم رمز المثال هذا لتحويل PSD إلى BMP داخل أي تطبيق يستند إلى Java على الويب أو سطح المكتب.
-url: psd-to-bmp/
+url: java/conversion/psd-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

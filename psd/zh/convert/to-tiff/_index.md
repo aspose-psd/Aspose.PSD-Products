@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 将PSD文件转换为Tiff的服务
 keywords: [convert psd to tiff, psd to tiff, conversion to tiff, create tiff from psd, print psd as tiff]
-url: to-tiff/
+url: convert/to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

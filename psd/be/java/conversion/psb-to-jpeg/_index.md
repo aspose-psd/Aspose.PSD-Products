@@ -2,7 +2,7 @@
 title: Канвертаваць PSB у JPEG праз Java
 weight: 180
 description: Прыклад кода пераўтварэння Java для фармату PSB у файл JPEG. Выкарыстоўвайце гэты прыклад кода для пераўтварэння PSB у JPEG у любым вэб- або настольным Java-прыкладанні.
-url: psb-to-jpeg/
+url: java/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

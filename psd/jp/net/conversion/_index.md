@@ -1,7 +1,7 @@
 ---
 title: C# フォトショップファイル変換
 description: フォトショップのPSD、PSBを.NETライブラリ経由で数行のC＃コードでPDFやBMP、JPG、PNG、TIFFなどの画像に変換できます。
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

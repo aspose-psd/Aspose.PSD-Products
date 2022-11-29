@@ -1,7 +1,7 @@
 ---
 title: اے آئی کو سی # کے ذریعہ TIFF میں تبدیل کریں
 description: AI کے لئے TIFF C# تبادلوں کے لئے نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی .NET کی بنیاد پر درخواست کے اندر TIFF تبادلوں میں بیچ AI فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: ai-to-tiff/
+url: net/conversion/ai-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

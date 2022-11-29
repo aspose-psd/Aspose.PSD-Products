@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: فتح ملف الذكاء الاصطناعي عبر الإنترنت
 keywords: [open ai, open illustrator file, open AI file online, open adobe illustrator, preview of ai file, ai format open]
-url: open-AI-online/
+url: view/open-AI-online/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

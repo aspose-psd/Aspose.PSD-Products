@@ -2,7 +2,7 @@
 title: جاوا کے ذریعے پی ایس بی کو TIFF میں تبدیل کریں
 weight: 40
 description: پی ایس بی فارمیٹ کے لئے TIFF فائل میں نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر پی ایس بی کو TIFF میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-tiff/
+url: java/conversion/psb-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

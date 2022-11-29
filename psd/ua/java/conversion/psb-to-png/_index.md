@@ -2,7 +2,7 @@
 title: Перетворення AI в BMP через Java
 weight: 110
 description: Приклад коду перетворення Java для формату PSB у файл PNG. Використовуйте цей приклад коду для перетворення PSB в PNG у будь-якому веб-або настільному Java на основі програми.
-url: psb-to-png/
+url: java/conversion/psb-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

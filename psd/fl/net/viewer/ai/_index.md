@@ -1,7 +1,7 @@
 ---
 title: Tarkastele AI-tiedostomuotoja .NET
 description: C# lähdekoodi AI-asiakirjojen lataamiseen, renderöimiseen ja näyttämiseen .NET Framework-, .NET Core-, Windows Azure-, Mono- tai Xamarin-alustoilla.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Pretvorite Adobe PhotoShop PSD datoteke u GIF
 keywords: [convert psd to gif, psd to gif, conversion to gif, create gif from psd, print psd as gif]
-url: to-gif/
+url: convert/to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

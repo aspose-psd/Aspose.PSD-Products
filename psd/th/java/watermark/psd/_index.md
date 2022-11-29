@@ -2,7 +2,7 @@
 title: เอกสาร PSD ลายน้ำผ่าน Java
 weight: 60
 description: รหัสตัวอย่าง Java เพื่อเพิ่มหรือลบลายน้ำไปยังไฟล์ PSD บน Java Runtime Environment สำหรับ JSP/JSF แอพลิเคชันและการประยุกต์ใช้สก์ท็อป
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

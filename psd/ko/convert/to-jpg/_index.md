@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: 어도비 포토샵 파일을 JPG로 변환
 keywords: [convert psd to jpg, psd to jpg, conversion to jpg, create jpg from psd, print psd as jpg]
-url: to-jpg/
+url: convert/to-jpg/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

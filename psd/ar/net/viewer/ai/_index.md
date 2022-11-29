@@ -1,7 +1,7 @@
 ---
 title: عرض تنسيقات ملفات AI عبر .NET
 description: كود مصدر C# لتحميل مستندات الذكاء الاصطناعي وعرضها وعرضها على منصات .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

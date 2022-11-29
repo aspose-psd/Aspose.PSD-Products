@@ -2,7 +2,7 @@
 title: واٹر مارک پی ایس ڈی دستاویز جاوا
 weight: 60
 description: جاوا نمونہ کوڈ JSP/جے ایس ایف درخواست اور ڈیسک ٹاپ ایپلی کیشنز کے لئے جاوا رن ٹائم ماحول پر پی ایس ڈی فائل میں واٹر مارک شامل کرنے یا ہٹانے کے لئے.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: پی ایس بی کو جاوا کے ذریعے JPEG2000 میں تبدیل کریں
 description: JPEG2000 فائل پر پی ایس بی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر PSB کو JPEG2000 میں تبدیل کرنے کے لئے اس مثال کوڈ کا استعمال کریں.
-url: psb-to-jpeg2000/
+url: java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

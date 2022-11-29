@@ -1,7 +1,7 @@
 ---
 title: جاوا فوٹوشاپ دستاویزات تبدیلی
 description: فوٹوشاپ پی ایس ڈی، پی ایس بی کو تصاویر بشمول BMP، JPG، PNG، TIFF اور پی ڈی ایف سمیت جاوا لائبریری کے ذریعے تبدیل کریں.
-url: conversion/
+url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

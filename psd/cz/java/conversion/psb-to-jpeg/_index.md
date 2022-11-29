@@ -2,7 +2,7 @@
 title: Převést AI na JPEG pomocí Java
 weight: 180
 description: Ukázkový kód převodu Java pro formát PSB do souboru JPEG. Tento příklad kódu použijte k převodu PSB na JPEG v libovolné webové nebo desktopové aplikaci Java založené.
-url: psb-to-jpeg/
+url: java/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

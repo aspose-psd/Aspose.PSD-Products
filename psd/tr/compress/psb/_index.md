@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Dosya boyutlarını azaltmak için Adobe Photoshop görüntülerini sıkıştırın
 keywords: [compress psd, compress psb, zip psd, reduce psd size, make psd smaller, remove unnecessary psd data, remove odd psd layers]
-url: psb/
+url: compress/psb/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Adobe Photoshop Dosya Biçimi Çözümü" h2="Yüksek Kod API'leri ve PSD için ücretsiz uygulamalar, PSB dosyaların boyutunu azaltmak ve belgesiz olanakları kullanarak sıkıştırmak için yeteneği ile" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Ürün Çözümü" >}}

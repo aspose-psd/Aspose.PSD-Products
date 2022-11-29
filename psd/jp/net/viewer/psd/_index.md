@@ -2,7 +2,7 @@
 title: .NET 経由で PSD ファイルフォーマットを表示
 weight: 100
 description: .NET Framework、.NET Core に PSD ドキュメントをロード、レンダリング、表示するための C# ソースコードです。
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

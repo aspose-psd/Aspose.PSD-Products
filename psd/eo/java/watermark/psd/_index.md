@@ -2,7 +2,7 @@
 title: Akvomarko PSD-dokumento per Java
 weight: 60
 description: Java ekzempla kodo por aldoni aŭ forigi akvomarkon al PSD-dosiero en Java Runtime Environment por JSP/JSF-Apliko kaj Labortabla Apliko.
-url: psd/
+url: java/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

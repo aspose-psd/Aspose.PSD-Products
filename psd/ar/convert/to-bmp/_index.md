@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: تحويل ملفات أدوب فوتوشوب PSD إلى BMP
 keywords: [convert psd to bmp, psd to bmp, conversion to bmp, create bmp from psd, print psd as bmp]
-url: to-bmp/
+url: convert/to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

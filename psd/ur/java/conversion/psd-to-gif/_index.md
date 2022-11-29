@@ -2,7 +2,7 @@
 title: پی ایس ڈی کو جاوا کے ذریعے GIF میں تبدیل کریں
 weight: 330
 description: GIF فائل میں پی ایس ڈی فارمیٹ کے لئے نمونہ جاوا تبادلوں کوڈ. پی ایس ڈی کو کسی بھی ویب یا ڈیسک ٹاپ جاوا کی بنیاد پر درخواست کے اندر GIF میں تبدیل کرنے کے لئے اس مثال کے کوڈ کا استعمال کریں.
-url: psd-to-gif/
+url: java/conversion/psd-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Lihat Format File AI melalui .NET
 description: C# kode sumber untuk memuat, membuat dan menampilkan dokumen AI pada .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platform.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

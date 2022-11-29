@@ -1,7 +1,7 @@
 ---
 title: C# फ़ोटोशॉप फ़ाइल रूपांतरण
 description: .NET लाइब्रेरी के माध्यम से C# कोड की कुछ पंक्तियों के साथ Photoshop PSD, PSB को PDF और BMP, JPG, PNG, TIFF सहित छवियों में बदलें।
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

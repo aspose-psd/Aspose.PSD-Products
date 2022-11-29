@@ -2,7 +2,7 @@
 title: Lihat Format File PSB melalui .NET
 weight: 320
 description: C# kode sumber untuk memuat, membuat dan menampilkan dokumen PSB pada .NET Framework, .NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

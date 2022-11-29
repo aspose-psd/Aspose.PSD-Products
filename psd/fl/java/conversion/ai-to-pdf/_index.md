@@ -1,7 +1,7 @@
 ---
 title: Muunna AI PDF-muotoon Java-muodossa
 description: Näyte Java-muunnoskoodi AI-muodossa PDF-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI PDF-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa.
-url: ai-to-pdf/
+url: java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

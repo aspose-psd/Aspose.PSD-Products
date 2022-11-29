@@ -1,7 +1,7 @@
 ---
 title: Pretvorite AI u PDF putem Jave
 description: Uzorak Java konverzijski kod za AI format u PDF datoteku. Upotrijebite ovaj primjer koda za pretvaranje AI u PDF unutar bilo koje aplikacije temeljene na web ili radnoj površini Java
-url: ai-to-pdf/
+url: java/conversion/ai-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

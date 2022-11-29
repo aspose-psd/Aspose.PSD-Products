@@ -2,7 +2,7 @@
 title: 通过.NET 查看 PSB 文件格式
 weight: 320
 description: 用于在 .NET Framework、.NET Core 上加载、呈现和显示 PSB 文档的 C# 源代码。
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

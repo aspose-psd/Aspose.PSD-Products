@@ -2,7 +2,7 @@
 title: Muunna PSD JPEG-muotoon Java-ohjelman kautta
 weight: 20
 description: Näyte Java muuntaminen koodi PSD muodossa JPEG-tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD JPEG-muotoon missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
-url: psd-to-jpeg/
+url: java/conversion/psd-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Перетворення AI в GIF через Java
 description: Приклад коду перетворення Java для формату AI у файл GIF. Використовуйте цей приклад коду для перетворення AI в GIF у будь-якому веб-або настільному Java на основі програми.
-url: ai-to-gif/
+url: java/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

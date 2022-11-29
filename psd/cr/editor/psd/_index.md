@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Otvorite i uredite PSD datoteku s mrežnim uređivačem
 keywords: [edit psd, psd editor, photoshop file editor, update text in psd, update psd, open psd, update text in psd]
-url: psd/
+url: editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,7 +2,7 @@
 title: Muunna PSD PSB ksi Java n kautta
 weight: 280
 description: Näyte Java muuntaminen koodi PSD muodossa PSB tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD PSB ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
-url: psd-to-psb/
+url: java/conversion/psd-to-psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -2,7 +2,7 @@
 title: जावा के माध्यम से PSB को BMP में बदलें
 weight: 300
 description: PSB प्रारूप के लिए BMP फ़ाइल के लिए नमूना जावा रूपांतरण कोड। किसी भी वेब या डेस्कटॉप जावा आधारित एप्लिकेशन के भीतर PSB को BMP में बदलने के लिए इस उदाहरण कोड का उपयोग करें।
-url: psb-to-bmp/
+url: java/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

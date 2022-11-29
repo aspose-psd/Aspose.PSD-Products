@@ -1,7 +1,7 @@
 ---
 title: .NET کے ذریعے پی ایس ڈی دستاویز میں ترمیم کریں
 description: سی # ماخذ کوڈ. NET فریم ورک، .NET کور پر پی ایس ڈی فائل میں ترمیم کرنے کے لئے.
-url: psd/
+url: net/editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Konvertiere AI über C# in JPEG
 description: Beispielcode für die Konvertierung von AI in JPEG C#. Verwenden Sie API-Beispielcode für die Batch-Konvertierung von AI-Dateien in JPEG in VB.NET, ASP.Net oder einer beliebigen .NET-basierten Anwendung.
-url: ai-to-jpeg/
+url: net/conversion/ai-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

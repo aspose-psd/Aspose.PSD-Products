@@ -1,7 +1,7 @@
 ---
 title: Zobrazení formátů souborů AI přes .NET
 description: Zdrojový kód jazyka C# pro načítání, vykreslování a zobrazení dokumentů AI na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin Platforms.
-url: ai/
+url: net/viewer/ai/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Mengedit dokumen PSD melalui .NET
 description: C# kode sumber untuk mengedit file PSD pada .NET Framework, .NET Core.
-url: psd/
+url: net/editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

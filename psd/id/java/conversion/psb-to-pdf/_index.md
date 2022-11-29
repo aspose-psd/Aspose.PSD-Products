@@ -2,7 +2,7 @@
 title: Konversi PSB ke PDF melalui Java
 weight: 190
 description: Contoh kode konversi Java untuk format PSB ke file PDF. Gunakan kode contoh ini untuk mengonversi PSB ke PDF dalam aplikasi berbasis Web atau Desktop Java.
-url: psb-to-pdf/
+url: java/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

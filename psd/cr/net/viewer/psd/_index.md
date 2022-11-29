@@ -2,7 +2,7 @@
 title: Pogledajte PSD formate datoteka putem .NET
 weight: 100
 description: C# izvorni kod za učitavanje, renderiranje i prikaz PSD dokumenata na .NET Framework, .NET Core.
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

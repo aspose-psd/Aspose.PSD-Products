@@ -1,7 +1,7 @@
 ---
 title: C# 포토샵 파일 변환
 description: .NET 라이브러리를 통해 몇 줄의 C# 코드로 포토샵 PSD, PSB를 PDF와 BMP, JPG, PNG, TIFF를 포함한 이미지로 변환할 수 있습니다.
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

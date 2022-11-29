@@ -1,7 +1,7 @@
 ---
 title: Java ile AI'yı GIF'e dönüştürün
 description: AI formatında GIF dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada AI'yı GIF'e dönüştürmek için bu örnek kodu kullanın.
-url: ai-to-gif/
+url: java/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

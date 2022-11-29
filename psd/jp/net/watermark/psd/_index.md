@@ -2,7 +2,7 @@
 title: .NET 経由で PSD ドキュメントにウォーターマークを付ける
 weight: 130
 description: .NET Framework、.NET Core 上の PSD ファイルにウォーターマークを追加または削除するための C# ソースコード。
-url: psd/
+url: net/watermark/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

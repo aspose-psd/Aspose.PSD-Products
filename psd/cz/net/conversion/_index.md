@@ -1,7 +1,7 @@
 ---
 title: Převod souborů aplikace C# Photoshop
 description: Převést Photoshop PSD, PSB do PDF a obrázků včetně BMP, JPG, PNG, TIFF s několika řádky kódu C# přes knihovnu .NET.
-url: conversion/
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

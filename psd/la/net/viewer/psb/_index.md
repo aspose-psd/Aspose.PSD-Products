@@ -2,7 +2,7 @@
 title: Visum PSB Tabellae per .NET
 weight: 320
 description: C# source code onerare, reddere et exhibere documenta PSB in NET Framework, .NET Core.
-url: psb/
+url: net/viewer/psb/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

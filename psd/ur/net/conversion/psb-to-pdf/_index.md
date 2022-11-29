@@ -2,7 +2,7 @@
 title: پی ایس بی کو پی ڈی ایف میں سی # کے ذریعہ تبدیل کریں
 weight: 340
 description: پی ایس بی کے لئے پی ایس بی سے پی ڈی ایف سی # تبادلوں کا نمونہ کوڈ. VB.NET، ASP.net یا کسی بھی. NET کی بنیاد پر درخواست کے اندر پی ڈی ایف تبادلوں کے لئے بیچ پی ایس بی فائلوں کے لئے API مثال کوڈ کا استعمال کریں.
-url: psb-to-pdf/
+url: net/conversion/psb-to-pdf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

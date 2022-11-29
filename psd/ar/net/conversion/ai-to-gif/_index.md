@@ -1,7 +1,7 @@
 ---
 title: تحويل الذكاء الاصطناعي إلى BMP عبر C#
 description: نموذج التعليمات البرمجية لتحويل AI إلى GIF C#. استخدم رمز مثال API لملفات AI المجمعة لتحويل GIF داخل VB.NET أو ASP.Net أو أي تطبيق يستند إلى .NET.
-url: ai-to-gif/
+url: net/conversion/ai-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

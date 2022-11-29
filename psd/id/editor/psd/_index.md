@@ -4,7 +4,7 @@ weight: 7730
 limit: 
 description: Buka dan Edit file PSD dengan editor online
 keywords: [edit psd, psd editor, photoshop file editor, update text in psd, update psd, open psd, update text in psd]
-url: psd/
+url: editor/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

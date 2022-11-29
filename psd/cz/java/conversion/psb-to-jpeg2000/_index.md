@@ -1,7 +1,7 @@
 ---
 title: Převést PSB na JPEG2000 přes Java
 description: Ukázkový kód převodu Java pro formát PSB do souboru JPEG2000. Tento příklad kódu použijte k převodu PSB na JPEG2000 v libovolné webové nebo desktopové aplikaci Java založené.
-url: psb-to-jpeg2000/
+url: java/conversion/psb-to-jpeg2000/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

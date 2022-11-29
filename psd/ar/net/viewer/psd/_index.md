@@ -2,7 +2,7 @@
 title: عرض تنسيقات ملفات PSD عبر .NET
 weight: 100
 description: كود مصدر C# لتحميل مستندات PSD وعرضها وعرضها على .NET Framework و.NET Core.
-url: psd/
+url: net/viewer/psd/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
