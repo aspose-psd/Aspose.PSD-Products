@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“फ़ोटोशॉप के बिना PSD फ़ाइलें कैसे खोलें ट्यूटोरियल" "https://products.aspose.com/psd/net/viewer/" "
-“PSD को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“PSD, PSB और AI इमेज खोलने के लिए लो-कोड ऐप" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"फ़ोटोशॉप के बिना PSD फ़ाइलें कैसे खोलें ट्यूटोरियल" "https://products.aspose.com/psd/net/viewer/" 
+"PSD को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"PSD, PSB और AI इमेज खोलने के लिए लो-कोड ऐप" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD व्यूअर फीचर्स क्लाउड-रेडी हैं और इन्हें विंडोज, लिनक्स और मैक सर्वर पर इस्तेमाल किया जा सकता है। ऑन-प्रिमाइसेस समाधान किसके लिए उपलब्ध है <a href="https://products.aspose.com/psd/java/">Java</a> और का नवीनतम संस्करण <a href="https://products.aspose.com/psd/net/">.Net</a> साथ ही .Net फ्रेमवर्क 2.0 +</p>
 
 <h3 class="headingpdleft">विभिन्न प्रारूपों के लिए PSD व्यूअर</h3>

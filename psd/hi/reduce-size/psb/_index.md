@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“PSD फ़ाइलों के संपीड़न के लिए कोड नमूने आधिकारिक Github रिपॉजिटरी में पाए जा सकते हैं"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“PSD और PSB को संपीड़ित करने के लिए वेब एप्लिकेशन" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"PSD फ़ाइलों के संपीड़न के लिए कोड नमूने आधिकारिक Github रिपॉजिटरी में पाए जा सकते हैं"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"PSD और PSB को संपीड़ित करने के लिए वेब एप्लिकेशन" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB फाइलें 2gb तक हो सकती हैं, इसलिए आप केस तब प्राप्त कर सकते हैं जब यह ऐप अपने आकार को कम करने के लिए PSB फ़ाइल अपलोड नहीं कर सकता है। इस मामले में इसका उपयोग करना बेहतर है <a href="/psd">Aspose.PSD के रूप में ऑन-प्रिमाइसेस psd प्रारूप समाधान</a> और अपने आप से संपीड़न कोड लिखें। एसबी प्रारूप को संपीड़ित करने के लिए गर्म कोड उदाहरण इस लेख में पाए जा सकते हैं, बस बिल्ट-इन एसबी फ़ाइल कम ऐप में टैब स्विच करें</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

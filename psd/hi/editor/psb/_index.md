@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSB को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/" "
-“PSB को अन्य प्रारूपों में परिवर्तित करना"  "/psd/convert" "
-“वर्कस्पेस के बड़े आकार के साथ लो-कोड पीएसबी एडिटर" "https://products.aspose.app/psd/editor/psb" "
-“PSB फ़ाइलों के साथ काम करने के उदाहरण" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"PSB को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/" 
+"PSB को अन्य प्रारूपों में परिवर्तित करना"  "/psd/convert" 
+"वर्कस्पेस के बड़े आकार के साथ लो-कोड पीएसबी एडिटर" "https://products.aspose.app/psd/editor/psb" 
+"PSB फ़ाइलों के साथ काम करने के उदाहरण" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB संपादक सर्वर पर फ़ाइलों को संसाधित करता है। PSB फ़ाइलों को संपादित करने के लिए Aspose.PSD Editor सबसे पहले PSB फ़ाइल अपलोड करने का आदेश देता है और फिर इसे क्रमबद्ध करता है और अपलोड की गई PSB फ़ाइल को संपादित करने के लिए UI प्रदान करता है। PSB संपादन का अंतिम परिणाम विभिन्न स्वरूपों में डाउनलोड किया जा सकता है। जब आप PSB फ़ाइलों को संपादित करते हैं तो आपके पास टेक्स्ट अपडेट, ब्रश के साथ पेंटिंग, पुन: व्यवस्थित करने और परतों की दृश्यता बदलने जैसे ऑपरेशन होते हैं। सिर्फ ब्राउज़र का उपयोग करके किसी भी डिवाइस और ओएस से संपादन किया जा सकता है। PSB फ़ाइल को संपादित करें जहाँ आप चाहते हैं या उपयोग करते हैं <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">हाई-कोड API और अपना खुद का PSB एडिटर बनाएं</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

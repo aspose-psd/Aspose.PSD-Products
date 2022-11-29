@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-“हाई-कोड एपीआई के साथ PSD से Tiff में उदाहरण बदलें"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“अपनी PSD फ़ाइलों को Tiff में बदलने के लिए वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" "
-“गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"हाई-कोड एपीआई के साथ PSD से Tiff में उदाहरण बदलें"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"अपनी PSD फ़ाइलों को Tiff में बदलने के लिए वेब एप्लिकेशन" "https://products.aspose.app/psd/conversion" 
+"गिस्ट पर उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>हार्ड डिस्क स्पेस के संबंध में PSD को Tiff में बदलने का परिणाम बड़ा हो सकता है। लेकिन आपको अतिरिक्त मेटाडेटा के साथ दोषरहित संपीड़ित फ़ाइल मिलती है। सभी मेटाडेटा को PSD से Tiff में ठीक से परिवर्तित नहीं किया गया है, यदि आपको PSD लेयर्स का मेटाडेटा निकालने की आवश्यकता है, तो कृपया कोशिश करें <a href="https://products.aspose.app/psd/metadata">PSD मेटाडेटा एक्सट्रैक्टर</a>। यदि आप PSD हाई-कोड API की सभी शक्तियों का उपयोग करना चाहते हैं, तो कृपया कोशिश करें <a href="/psd">Aspose.PSD</a> .Net या जावा के लिए</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
