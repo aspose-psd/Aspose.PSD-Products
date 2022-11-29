@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Δείγματα κώδικα για τη συμπίεση των αρχείων PSD μπορούν να βρεθούν στο επίσημο αποθετήριο Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Εφαρμογή Web για συμπίεση PSD και PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Δείγματα κώδικα για τη συμπίεση των αρχείων PSD μπορούν να βρεθούν στο επίσημο αποθετήριο Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Εφαρμογή Web για συμπίεση PSD και PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Αν χρειαστεί να μειώσετε το μέγεθος του αρχείου PSB αντί για PSD, μπορείτε να χρησιμοποιήσετε μικρές τροποποιήσεις αυτής της εφαρμογής. Παρακαλώ ελέγξτε την ενότητα»<a href="/psd/reduce-size/psb">Μειώστε το μέγεθος του PSB</a>«εφαρμογή.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

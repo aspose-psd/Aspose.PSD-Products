@@ -135,9 +135,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-«Δείγματα κώδικα για τη συμπίεση των αρχείων PSD μπορούν να βρεθούν στο επίσημο αποθετήριο Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-«Εφαρμογή Web για συμπίεση PSD και PSB" "https://products.aspose.app/psd/compress" >}}
+        }` 
+"Δείγματα κώδικα για τη συμπίεση των αρχείων PSD μπορούν να βρεθούν στο επίσημο αποθετήριο Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Εφαρμογή Web για συμπίεση PSD και PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Οι δυνατότητες συμπίεσης Aspose.PSD χρησιμοποιούν το API υψηλού κώδικα. Η λύση Συμπίεση PSD είναι διαθέσιμη σε Java και Net. Μπορείτε να χρησιμοποιήσετε το Aspose.PSD για συμπίεση ή άλλες εργασίες στο παρασκηνίου της υπηρεσίας web.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

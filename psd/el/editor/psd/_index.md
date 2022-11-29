@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-«Δείγματα κώδικα για προβολή PSB ως PNG"  "https://docs.aspose.com/psd/net/" "
-«Μετατροπή PSB σε άλλες μορφές"  "/psd/convert" "
-«Επεξεργαστής PSD χαμηλού κώδικα" "https://products.aspose.app/psd/editor/psd" "
-«Ενσωματωμένος επεξεργαστής PSD" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"Δείγματα κώδικα για προβολή PSB ως PNG"  "https://docs.aspose.com/psd/net/" 
+"Μετατροπή PSB σε άλλες μορφές"  "/psd/convert" 
+"Επεξεργαστής PSD χαμηλού κώδικα" "https://products.aspose.app/psd/editor/psd" 
+"Ενσωματωμένος επεξεργαστής PSD" "https://products.aspose.com/psd/editor" >}}
 <p>Χρησιμοποιήστε το Aspose PSD Editor αν θέλετε να επεξεργαστείτε αρχεία PSD. Αυτό είναι ένα απλό web app παρέχει PSD λειτουργία επεξεργασίας στο πρόγραμμα περιήγησης και χωρίς την αγορά του Adobe Photoshop. Aspose.PSD Editor δεν χρησιμοποιούν οποιοδήποτε Adobe API, και χρησιμοποιεί προδιαγραφές μορφής PSD για να παρέχει τη λειτουργικότητα ενημέρωσης αρχείων σύμφωνα με τα πρότυπα PSD Format. Ενημέρωση επιπέδων κειμένου και γραφικών στα αρχεία PSD. Επίσης, το PSD Editor υποστηρίζει <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">Έξυπνα αντικείμενα PSD</a>. Άνοιγμα και ενημέρωση αρχείων PSD από οποιαδήποτε συσκευή</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

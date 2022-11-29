@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-«Προβολή αρχείων AI χωρίς το Illustrator" "https://products.aspose.com/psd/view/" "
-«GIST Παραδείγματα προβολής αρχείων AI με χρήση API υψηλού κώδικα" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-«Εφαρμογή χαμηλού κώδικα για προβολή AI σε απευθείας σύνδεση" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Προβολή αρχείων AI χωρίς το Illustrator" "https://products.aspose.com/psd/view/" 
+"GIST Παραδείγματα προβολής αρχείων AI με χρήση API υψηλού κώδικα" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Εφαρμογή χαμηλού κώδικα για προβολή AI σε απευθείας σύνδεση" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Προβολή αρχείου AI με Aspose.PSD. Εύκολο και γρήγορο πρόγραμμα προβολής AI.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
