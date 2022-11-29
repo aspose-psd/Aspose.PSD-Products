@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-“Yüksek Kod API ile PSD'den Tiff'e örnek dönüştürün"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Web uygulaması Tiff PSD dosyaları dönüştürmek için" "https://products.aspose.app/psd/conversion" "
-“Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"Yüksek Kod API ile PSD'den Tiff'e örnek dönüştürün"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Web uygulaması Tiff PSD dosyaları dönüştürmek için" "https://products.aspose.app/psd/conversion" 
+"Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>PSD'yi Tiff'e dönüştürmenin sonucu sabit disk alanı açısından büyük olabilir. Ancak ek meta verilerle kayıpsız sıkıştırılmış dosyayı alırsınız. PSD Katmanlarının meta verilerini çıkarmanız gerekiyorsa, tüm meta veriler PSD'den Tiff'e doğru şekilde dönüştürülmez, lütfen deneyin <a href="https://products.aspose.app/psd/metadata">PSD Meta Veri Ekstraktörü</a>. PSD yüksek kod API tüm gücünü kullanmak istiyorsanız lütfen deneyin <a href="/psd">Aspose.PSD nedir</a> .Net veya Java için</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

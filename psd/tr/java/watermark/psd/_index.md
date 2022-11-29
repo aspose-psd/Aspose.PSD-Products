@@ -101,7 +101,7 @@ url: psd/
         {{< blocks/products/pf/agp/demobox sectionTitle="Online App aracılığıyla Filigran PSD" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmeye veya ayarlamaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmanıza gerek yok" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin, filigranınızı ayarlayın ve\" Add\ "düğmesine basın" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin, filigranınızı ayarlayın ve Add düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosya için indirme bağlantısını anında alın" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}

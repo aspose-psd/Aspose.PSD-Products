@@ -18,10 +18,10 @@ url: psd-file-viewer/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-“İhracat görüntüleme için diğer biçimlere PSD Dosya" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" "
-“GIST Java'da yüksek kod API kullanarak diğer formatlarda PSD dosyalarını görüntüleme örnekleri" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" "
-“PSD Dosyasını çevrimiçi görüntülemek için Düşük kodlu uygulamayı atayın" "https://products.aspose.app/psd/viewer/psd" >}}
+    }` 
+"İhracat görüntüleme için diğer biçimlere PSD Dosya" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST Java'da yüksek kod API kullanarak diğer formatlarda PSD dosyalarını görüntüleme örnekleri" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"PSD Dosyasını çevrimiçi görüntülemek için Düşük kodlu uygulamayı atayın" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>Dahili No-Code PSD Viewer ile PSD dosyasını görüntüleyin. PSD Dosyaları hızlı ve doğru görüntüleyici. Sadece PSD dosyasını yükleyin.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

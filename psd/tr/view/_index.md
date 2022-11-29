@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“Öğretici Photoshop olmadan PSD dosyalarını açmak için nasıl" "https://products.aspose.com/psd/net/viewer/" "
-“PSD'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“Düşük kod uygulaması PSD, PSB ve AI Görüntüleri açmak için" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Öğretici Photoshop olmadan PSD dosyalarını açmak için nasıl" "https://products.aspose.com/psd/net/viewer/" 
+"PSD'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"Düşük kod uygulaması PSD, PSB ve AI Görüntüleri açmak için" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD görüntüleyici özellikleri buluta hazırdır ve Windows, Linux ve Mac Sunucularında kullanılabilir. Şirket içi çözüm şu şekilde mevcuttur: <a href="https://products.aspose.com/psd/java/">Java</a> ve en son sürümü <a href="https://products.aspose.com/psd/net/">.Net</a> yanı sıra .Net Framework 2.0 +</p>
 
 <h3 class="headingpdleft">Farklı formatlar için PSD Görüntüleyiciler</h3>

@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“Aspose.PSD PDF'ye dönüştürme PSD kod örnekleri"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Ücretsiz web uygulaması PSD dosyaları dönüştürmek için Pdf ve diğer birçok biçimleri" "https://products.aspose.app/psd/conversion" "
-“Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Aspose.PSD PDF'ye dönüştürme PSD kod örnekleri"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Ücretsiz web uygulaması PSD dosyaları dönüştürmek için Pdf ve diğer birçok biçimleri" "https://products.aspose.app/psd/conversion" 
+"Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>PSD'nin Aspose.PSD tarafından PDF'ye dönüştürülmesi iki türü vardır - piksel mükemmel dönüşüm ve metin seçme yeteneği ile dönüşüm. Mükemmel piksel dönüşümü için kullanmanız gerekir <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">ReadonlyMode özelliği</a>, Aspose.PSD yüksek kod uygulaması olarak kullanılacaksa lütfen API referansını kontrol edin. Metin seçme yeteneğine ihtiyacınız varsa, lütfen yukarıdaki kodu kullanın.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

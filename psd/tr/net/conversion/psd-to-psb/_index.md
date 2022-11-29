@@ -79,7 +79,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="PSD'yi PSB'ye Dönüştürmek İçin Ücretsiz Uygulama" sectionDescription="Check our live demos for [PSD to PSB conversion](https://products.aspose.app/psd/conversion/psd-to-psb) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmanıza gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin ve\" Convert\ "düğmesine basın." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin ve Convert düğmesine basın." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan PSB dosyası için indirme bağlantısını anında alacaksınız." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSD yerine PSB dosyasının boyutunu küçültmeniz gerekiyorsa, bu uygulamanın küçük değişikliklerini kullanabilirsiniz. Lütfen kontrol edin”<a href="/psd/reduce-size/psb">PSB boyutunu azaltın</a>“uygulama.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

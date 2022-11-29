@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-“Aspose.PSD yüksek kod API'sini kullanarak örneği PSD'den JPG'ye dönüştürün"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Uygulama JPEG PSD dosyalarını dönüştürmek için" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-“Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Aspose.PSD yüksek kod API'sini kullanarak örneği PSD'den JPG'ye dönüştürün"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Uygulama JPEG PSD dosyalarını dönüştürmek için" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>PSD'nin Jpeg'e dönüştürülmesi için ana parametre bir Kalitedir. Aspose.PSD Yüksek Kod API'sini kullanarak kaliteyi 0'dan 100'e ayarlayabilirsiniz. Dönüşüm kalitesi 100 bir maksimumdur, bu durumda Jpeg PSD dosyasına dönüştürülür, minimum miktarda eser ve kalite kaybeder. 0, dönüşümden sonra JPG Görüntüsünün minimum kalitesidir. Dönüştürülen dosya küçük olacak, ancak görüntü korkunç olabilir. Dönüşüm sonucunun hangi amaçlarla kullanılacağını kesinlikle biliyorsanız lütfen bu seçenekleri seçin. Görüntü kalitesini ve ek bilgileri kaybetmek istemiyorsanız, uzman kullanmanız daha iyi olur <a href="/psd/reduce-size">PSD Sıkıştır</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

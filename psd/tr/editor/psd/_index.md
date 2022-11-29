@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSB'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/" "
-“PSB'nin diğer formatlara dönüştürülmesi"  "/psd/convert" "
-“Düşük kod PSD Editör" "https://products.aspose.app/psd/editor/psd" "
-“Dahili PSD Editör" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"PSB'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/" 
+"PSB'nin diğer formatlara dönüştürülmesi"  "/psd/convert" 
+"Düşük kod PSD Editör" "https://products.aspose.app/psd/editor/psd" 
+"Dahili PSD Editör" "https://products.aspose.com/psd/editor" >}}
 <p>PSD dosyalarını düzenlemeniz gerekiyorsa Aspose PSD Editor kullanın. Bu basit bir web uygulaması tarayıcıda ve Adobe Photoshop satın almadan PSD düzenleme işlevselliği sağlar. Aspose.PSD Editor herhangi bir Adobe API kullanmayın ve PSD Format Standartlarına göre dosya güncelleme işlevselliği sağlamak için PSD biçim özelliklerini kullanır. PSD Dosyaları metin ve grafik katmanları güncelleyin. Ayrıca, PSD Editor destekler <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD akıllı nesneler</a>. Herhangi bir cihazdan PSD dosyalarını açın ve güncelleyin</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“Kod örnekleri dönüştürme PSD diğer biçimlere Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“PSD, PSB ve AI Görüntülerinizi Png, Pdf, Jpg, Tif, Pdf, Gif ve diğer formatlara dönüştürmek için ücretsiz web uygulaması" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Kod örnekleri dönüştürme PSD diğer biçimlere Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"PSD, PSB ve AI Görüntülerinizi Png, Pdf, Jpg, Tif, Pdf, Gif ve diğer formatlara dönüştürmek için ücretsiz web uygulaması" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD dönüştürme özelliği buluta hazırdır ve Windows, Linux ve Mac Sunucularında kullanılabilir. PSD Convert şirket içi çözüm Java ve .Net en son sürümü yanı sıra .Net Framework 2.0 için kullanılabilir +</p>
 

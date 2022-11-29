@@ -51,9 +51,9 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“PSD'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/" "
-“Düşük kod PSD Editör ile çalışma alanı daha büyük bir boyutu ile" "https://products.aspose.app/psd/editor/" >}}
+	}` 
+"PSD'yi PNG olarak görüntülemek için kod örnekleri"  "https://docs.aspose.com/psd/net/" 
+"Düşük kod PSD Editör ile çalışma alanı daha büyük bir boyutu ile" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor, dosyaların sunucu tarafında işlenmesini kullanır. Aspose.PSD PSD Düzenleme Yazılımı oluşturmak için kullanılabilecek birkaç üründen biridir. Bu PSD kaynaklarının okuma yanı sıra güncellenmiş PSD Dosyaları varlıkların render hem destekler. Bu PSD Editör özgün Adobe Photoshop Metin Motoru çok yakın PSD Metin Katmanı oluşturur. Ayrıca bu düzenleyiciyle yeni PSD Katmanı oluşturabilir ve Fırça İşlemleri ile güncelleyebilirsiniz. PSD'nin güncellenmesi herhangi bir cihazdan ve işletim sisteminden işlenebilir. PSD işleme yazılımı genellikle EXIF verileri, Katman Oluşturma zamanı gibi PSD Dosya Kaynaklarının yalnızca görüntülenmesini destekler, ancak Aspose.PSD Ayarlama Katmanları, Dolgu Katmanları, Metin Katmanları, Akıllı Nesne gibi birçok durumda PSD Dosyalarını düzenleyebilir. PSD Editörün özellikleri sizin için yeterli değilse, lütfen tek başına şirket içi çözümü kontrol edin <a href="/psd/{{< lang-code >}}java">PSD Java</a> ve en son sürümü <a href="/psd/{{< lang-code >}}net">PSD .Net</a> yanı sıra .Net Framework 2.0 +</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

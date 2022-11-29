@@ -18,10 +18,10 @@ url: to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-	"png" "
-“PSD'den PNG'ye dönüştürme örneği Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Ücretsiz web uygulaması PSD dosyaları dönüştürmek PNG ve diğer birçok biçimleri" "https://products.aspose.app/psd/conversion" "
-“Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
+	"png" 
+"PSD'den PNG'ye dönüştürme örneği Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Ücretsiz web uygulaması PSD dosyaları dönüştürmek PNG ve diğer birçok biçimleri" "https://products.aspose.app/psd/conversion" 
+"Gistlere Örnekler" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>PSD'nin PNG'ye Aspose.PSD ile dönüştürülmesi piksel mükemmeldir. Ancak 16 bit ve 32 bit görüntüleri dönüştürürken bazı dönüşüm farklılıkları olabilir. Ana nedenler farklıdır. Kanal renkleri başına yalnızca 8 bit destekleyen PNG'ye dönüştürdüğünüzde ek bilgileri kaybedersiniz. Ayrıca, PNG PSD 8 bit dönüşüm için önizleme kullanılır, bazı durumlarda orijinal dosya için kaldırıldı çünkü önizleme değil önizleme <a href="/psd/reduce-size">PSD dosya boyutunu küçültme.</a>. Bu durumda kullanmak daha iyidir <a href="/psd">Aspose.PSD Yüksek Kod API'sı</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
