@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-”Kodprover för komprimering av PSD-filer kan hittas i officiella Github-förvaret"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-”Webbapplikation för att komprimera PSD och PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Kodprover för komprimering av PSD-filer kan hittas i officiella Github-förvaret"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Webbapplikation för att komprimera PSD och PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB-filer kan vara upp till 2 GB, så du kan få fallet när den här appen inte kan ladda upp PSB-fil för att minska storleken. I det här fallet är det bättre att använda <a href="/psd">på plats psd format lösning som Aspose.PSD</a> och skriv komprimera kod själv. Kodexemplen heta för att komprimera PSB-format finns i den här artikeln, byt bara flikarna i inbyggd PSB-fil Minska App</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

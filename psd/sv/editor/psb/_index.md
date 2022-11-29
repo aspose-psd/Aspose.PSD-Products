@@ -48,11 +48,11 @@ url: psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-”Kodexempel för att visa PSB som PNG"  "https://docs.aspose.com/psd/net/" "
-”Konvertera PSB till andra format"  "/psd/convert" "
-”Låg kod PSB Editor med en större storlek på arbetsytan" "https://products.aspose.app/psd/editor/psb" "
-”Exempel på att arbeta med PSB-filer" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+"Kodexempel för att visa PSB som PNG"  "https://docs.aspose.com/psd/net/" 
+"Konvertera PSB till andra format"  "/psd/convert" 
+"Låg kod PSB Editor med en större storlek på arbetsytan" "https://products.aspose.app/psd/editor/psb" 
+"Exempel på att arbeta med PSB-filer" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>PSB Editor bearbeta filer på servern. För att redigera PSB-filer Aspose.PSD Editor först för att ladda upp PSB-fil och sedan serialisera den och ge UI för att redigera uppladdade PSB-fil. Slutresultatet av PSB Editing kan laddas ner i olika format. När du redigerar PSB-filer har du åtgärden som textuppdatering, målar med penseln, ordnar om och ändrar lagers synlighet. Redigera kan göras från alla enheter och operativsystem med bara webbläsare. Redigera PSB-fil där du vill eller använder <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">high-code API och skapa din egen PSB editor</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}
