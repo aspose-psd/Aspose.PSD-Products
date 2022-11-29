@@ -133,9 +133,9 @@ url: psb/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress/psd" >}}
 <p>پی ایس بی فائلیں 2GB تک ہوسکتی ہیں، لہذا آپ اس کیس کو حاصل کرسکتے ہیں جب یہ ایپ اس کے سائز کو کم کرنے کے لئے پی ایس بی فائل اپ لوڈ نہیں کرسکتا ہے. اس صورت میں یہ استعمال کرنا بہتر ہے <a href="/psd">Aspose.PSD کے طور پر پی ایس ڈی فارمیٹ حل پر پریمیسس</a> اور اپنے آپ کو سکیڑیں کوڈ لکھیں. پی ایس بی فارمیٹ کو سکیڑیں کرنے کے لئے کوڈ کی مثالیں اس آرٹیکل میں پایا جا سکتا ہے، صرف بلٹ میں پی ایس بی فائل کو کم کرنے میں ٹیبز کو سوئچ کریں</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

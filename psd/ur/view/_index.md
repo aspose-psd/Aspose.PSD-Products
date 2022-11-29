@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“فوٹوشاپ کے بغیر پی ایس ڈی فائلوں کو کیسے کھولنے کے لئے سبق" "https://products.aspose.com/psd/net/viewer/" "
-“پی ایس ڈی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“پی ایس ڈی، پی ایس بی اور اے آئی تصاویر کھولنے کے لئے کم کوڈ ایپ" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"فوٹوشاپ کے بغیر پی ایس ڈی فائلوں کو کیسے کھولنے کے لئے سبق" "https://products.aspose.com/psd/net/viewer/" 
+"پی ایس ڈی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"پی ایس ڈی، پی ایس بی اور اے آئی تصاویر کھولنے کے لئے کم کوڈ ایپ" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD ناظرین کی خصوصیات کلاؤڈ تیار ہیں اور ونڈوز، لینکس اور میک سرورز پر استعمال کی جا سکتی ہیں۔ ادارہ جاتی حل <a href="https://products.aspose.com/psd/java/">Java</a> اور تازہ ترین ورژن <a href="https://products.aspose.com/psd/net/">.Net</a> اس کے ساتھ ساتھ نیٹ فریم ورک 2.0 +</p>
 
 <h3 class="headingpdleft">مختلف فارمیٹس کے لئے پی ایس ڈی ناظرین</h3>

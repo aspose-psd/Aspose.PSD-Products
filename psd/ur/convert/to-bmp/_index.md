@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-“مثال کے طور پر پی ایس ڈی سے BMP میں تبدیل کریں Aspose.PSD کا استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“اپنے پی ایس ڈی فائل کو BMP آن لائن میں تبدیل کریں" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-“گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"مثال کے طور پر پی ایس ڈی سے BMP میں تبدیل کریں Aspose.PSD کا استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"اپنے پی ایس ڈی فائل کو BMP آن لائن میں تبدیل کریں" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>BMP میں پی ایس ڈی کے تبادلوں کو فوری طور پر Aspose.PSD کی طرف سے بنایا جا سکتا ہے. اگر آپ دیگر جدید آؤٹ پٹ فارمیٹ استعمال کرنا چاہتے ہیں تو براہ کرم چیک کریں <a href="/psd/convert">ریسٹر کرنے کے لئے پی ایس ڈی میں تبدیل کریں</a> ایپ. یہ کوئی کوڈ ایپ <a href="/psd/convert/to-bmp">پی ایس ڈی کو بی ایم پی میں بدلتا ہے</a>. Bmp فارمیٹ آپ کے پاس پی سی یا میک پر کسی بھی سافٹ ویئر کے ساتھ کھلا جا سکتا ہے. اگر آپ پی ایس بی سے تبادلوں کے بعد کمپریسڈ BMP فارمیٹ استعمال کرنا چاہتے ہیں تو، آپ بہتر استعمال کرتے ہیں <a href="/psd">Aspose.PSD سے ہائی کوڈ تبادلوں کے اوزار</a>. اگر صرف پی ایس ڈی فائل کو سکیڑنا کرنے کی ضرورت ہے تو، BMP میں تبدیل کرنے سے بہتر انتخاب نہیں ہے کیونکہ BMP عام طور پر بڑی شکل ہے</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

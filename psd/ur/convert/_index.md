@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“Aspose.PSD میں دیگر فارمیٹس پر تبادلوں پی ایس ڈی کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“آپ کے پی ایس ڈی، پی ایس بی اور اے آئی تصاویر کو پی ڈی، پی ڈی ایف، جے پی جی، ٹی آئی ایف، پی ڈی ایف، جیف اور دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Aspose.PSD میں دیگر فارمیٹس پر تبادلوں پی ایس ڈی کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"آپ کے پی ایس ڈی، پی ایس بی اور اے آئی تصاویر کو پی ڈی، پی ڈی ایف، جے پی جی، ٹی آئی ایف، پی ڈی ایف، جیف اور دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Aspose.PSD تبادلوں کی خصوصیت کلاؤڈ کے لئے تیار ہے اور ونڈوز، لینکس اور میک سرورز پر استعمال کیا جا سکتا ہے. پی ایس ڈی تبدیل آن پریمیسس حل جاوا اور نیٹ کے تازہ ترین ورژن کے ساتھ ساتھ .net Framework 2.0 + کے لئے دستیاب ہے</p>
 

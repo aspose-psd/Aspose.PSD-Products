@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“Illustrator کے بغیر کھلی AI فائلوں" "https://products.aspose.com/psd/view/" "
-“AI فائلوں کو کھولنے کے GIST مثالیں" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“AI آن لائن کھولنے کے لئے کم کوڈ ایپ" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Illustrator کے بغیر کھلی AI فائلوں" "https://products.aspose.com/psd/view/" 
+"AI فائلوں کو کھولنے کے GIST مثالیں" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"AI آن لائن کھولنے کے لئے کم کوڈ ایپ" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Aspose.PSD یا دیگر اسپوز مصنوعات کے ساتھ AI فائل کھولیں. AI فائل پیش نظارہ آن لائن فراہم کریں.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

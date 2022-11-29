@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“Aspose.PSD میں پی ڈی ایف میں تبادلوں پی ایس ڈی کے کوڈ نمونے"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“اپنے پی ایس ڈی فائلوں کو پی ڈی ایف اور بہت سے دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" "
-“گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Aspose.PSD میں پی ڈی ایف میں تبادلوں پی ایس ڈی کے کوڈ نمونے"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"اپنے پی ایس ڈی فائلوں کو پی ڈی ایف اور بہت سے دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" 
+"گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Aspose.PSD کی طرف سے پی ڈی ایف میں پی ایس ڈی کے تبادلوں میں دو اقسام ہیں - پکسل کامل تبادلوں اور متن کو منتخب کرنے کی صلاحیت کے ساتھ تبادلوں. پکسل-کامل تبادلوں کے لئے آپ کو استعمال کرنے کی ضرورت ہے <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">صرف موڈ جائیداد پڑھیں</a>، براہ کرم API حوالہ چیک کریں اگر Aspose.PSD ہائی کوڈ اپلی کیشن کے طور پر استعمال کیا جائے گا. اگر آپ کو متن منتخب کرنے کی صلاحیت کی ضرورت ہے تو، براہ کرم مندرجہ بالا کوڈ استعمال کریں.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

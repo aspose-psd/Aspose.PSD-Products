@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“پی ایس بی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/" "
-“پی ایس بی کو دیگر فارمیٹس میں تبدیل کرنا"  "/psd/convert" "
-“کم کوڈ پی ایس ڈی ایڈیٹر" "https://products.aspose.app/psd/editor/psd" "
-“بلٹ میں پی ایس ڈی ایڈیٹر" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"پی ایس بی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/" 
+"پی ایس بی کو دیگر فارمیٹس میں تبدیل کرنا"  "/psd/convert" 
+"کم کوڈ پی ایس ڈی ایڈیٹر" "https://products.aspose.app/psd/editor/psd" 
+"بلٹ میں پی ایس ڈی ایڈیٹر" "https://products.aspose.com/psd/editor" >}}
 <p>اگر آپ پی ایس ڈی فائلوں میں ترمیم کرنے کی ضرورت ہے تو Asose پی ایس ڈی ایڈیٹر کا استعمال کریں. یہ ایک سادہ ویب اپلی کیشن براؤزر میں اور ایڈوب فوٹوشاپ کی خریداری کے بغیر پی ایس ڈی میں ترمیم کی فعالیت فراہم کرتا ہے. Aspose.PSD ایڈیٹر کسی بھی ایڈوب API کا استعمال نہیں کرتا، اور پی ایس ڈی فارمیٹ معیار کے مطابق فائل اپ ڈیٹ کی فعالیت فراہم کرنے کے لئے پی ایس ڈی فارمیٹ کی تفصیلات کا استعمال کرتا ہے. پی ایس ڈی فائلوں میں متن اور گرافک تہوں کو اپ ڈیٹ کریں. اس کے علاوہ، پی ایس ڈی ایڈیٹر کی حمایت <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">پی ایس ڈی سمارٹ اشیاء</a>. کسی بھی آلہ سے پی ایس ڈی فائلوں کو کھولیں اور اپ ڈیٹ کریں</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

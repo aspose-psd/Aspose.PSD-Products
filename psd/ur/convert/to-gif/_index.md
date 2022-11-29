@@ -18,10 +18,10 @@ url: to-gif/
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
     }` 
-"gif" "
-“پی ایس ڈی سے GIF کو مثال کے طور پر تبدیل کریں Aspose.PSD استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“اپنے پی ایس ڈی فائل کو GIF آن لائن میں تبدیل کریں" "https://products.aspose.app/psd/conversion/psd-to-gif" "
-“گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
+"gif" 
+"پی ایس ڈی سے GIF کو مثال کے طور پر تبدیل کریں Aspose.PSD استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"اپنے پی ایس ڈی فائل کو GIF آن لائن میں تبدیل کریں" "https://products.aspose.app/psd/conversion/psd-to-gif" 
+"گسٹس پر مثالیں" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-gif-cs" >}}
 <p>Aspose.PSD کی طاقت کا استعمال کرتے ہوئے پی ایس ڈی کو GIF میں تبدیل کریں. بلٹ میں پی ایس ڈی GIF تبادلوں میں آپ کے حل کے لئے ایک سادہ ویجیٹ ہے. پی ایس ڈی دستاویز کو اپ لوڈ کرنے کے بعد صرف “GIF میں تبدیل کریں” دبائیں اور نتیجہ کا انتظار کریں. GIF میں پی ایس ڈی سے تبدیل کرنے کا نتیجہ تہوں کے بغیر برآمد کیا جائے گا. زیادہ تر مقدمات میں حتمی سائز چھوٹا ہو جائے گا. لیکن معیار بھی یاد کیا جا سکتا ہے. GIF تصویر پیلیٹ کے زیادہ سے زیادہ سائز کی وجہ سے. پی ایس ڈی فائل “حقیقی رنگ” کی حمایت کرتا ہے لیکن GIF صرف 256 رنگوں کی حمایت کرتا ہے. </p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
