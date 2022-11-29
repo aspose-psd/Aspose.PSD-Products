@@ -18,10 +18,10 @@ url: psb/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
-    }` "
-„Beispiele für das Öffnen von PSB-Dateien auf Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" "
-„Tutorial zum Öffnen von PSB-Dateien ohne Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-„PSB-Dateibetrachter als eigenständiger Dienst" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"Beispiele für das Öffnen von PSB-Dateien auf Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
+"Tutorial zum Öffnen von PSB-Dateien ohne Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"PSB-Dateibetrachter als eigenständiger Dienst" "https://products.aspose.app/psd/viewer" >}}
 <p>Zeigen Sie die PSB-Datei mit dem in PSB integrierten No-Code-PSB-Viewer an. Sie können die PSB-Datei mit der aktuellen Anwendung öffnen. Wenn Sie zusätzliche Bearbeitungsfunktionen benötigen, überprüfen Sie bitte die <a href="https://products.aspose.app/psd/template-editor">PSB-Redakteur</a>.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
