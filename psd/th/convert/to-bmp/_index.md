@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-“แปลงตัวอย่างจาก PSD เป็น BMP สามารถใช้ Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“แปลงไฟล์ PSD ของคุณเป็น BMP ออนไลน์" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-“ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"แปลงตัวอย่างจาก PSD เป็น BMP สามารถใช้ Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"แปลงไฟล์ PSD ของคุณเป็น BMP ออนไลน์" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>การแปลง PSD เป็น BMP สามารถทำได้อย่างรวดเร็วโดย Aspose.PSDถ้าหากท่านต้องการใช้รูปแบบเอาท์พุทสมัยใหม่อื่น ๆ กรุณาตรวจเช็คดูที่ <a href="/psd/convert">แปลง PSD เป็นแรสเตอร์</a> แอปแอปนี้ไม่มีรหัส <a href="/psd/convert/to-bmp">แปลง PSD เป็น BMP</a>.รูปแบบ bmp สามารถเปิดได้ด้วยซอฟต์แวร์ใด ๆ ที่คุณมีในเครื่องพีซีหรือ Macถ้าคุณต้องการใช้รูปแบบ BMP ที่บีบอัดหลังจากการแปลงจาก PSB คุณควรใช้ <a href="/psd">เครื่องมือแปลงรหัสสูงจาก Aspose.PSD</a>.หากเพียงแค่ต้องการบีบอัดไฟล์ PSD การแปลงเป็น BMP ไม่ใช่ทางเลือกที่ดีที่สุดเพราะ BMP เป็นรูปแบบขนาดใหญ่ทั่วไป</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

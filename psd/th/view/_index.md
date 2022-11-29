@@ -19,10 +19,10 @@ url: view/
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
-    }` "
-“สอนวิธีเปิดไฟล์ PSD โดยไม่ใช้ Photoshop" "https://products.aspose.com/psd/net/viewer/" "
-“ตัวอย่างรหัสสำหรับการดู PSD เป็น PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" "
-“แอพ Low-code เพื่อเปิด PSD, PSB และ AI Images" "https://products.aspose.app/psd/viewer" >}}
+    }` 
+"สอนวิธีเปิดไฟล์ PSD โดยไม่ใช้ Photoshop" "https://products.aspose.com/psd/net/viewer/" 
+"ตัวอย่างรหัสสำหรับการดู PSD เป็น PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 
+"แอพ Low-code เพื่อเปิด PSD, PSB และ AI Images" "https://products.aspose.app/psd/viewer" >}}
 <p>คุณลักษณะของผู้ชม Aspose.PSD เป็นระบบคลาวด์พร้อมและสามารถนำมาใช้บน Windows, Linux และ Mac เซิร์ฟเวอร์โซลูชันในสถานที่ตั้งพร้อมใช้งานสำหรับ <a href="https://products.aspose.com/psd/java/">Java</a> และเวอร์ชันล่าสุดของ <a href="https://products.aspose.com/psd/net/">.Net</a> เช่นเดียวกับกรอบ .Net 2.0 +</p>
 
 <h3 class="headingpdleft">ผู้ชม PSD สำหรับรูปแบบที่แตกต่างกัน</h3>

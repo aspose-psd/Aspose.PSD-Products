@@ -75,7 +75,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อแปลง PSB เป็น PDF" sectionDescription="Check our live demos for [PSB to PDF conversion](https://products.aspose.app/psd/conversion/psb-to-pdf) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนโค้ดใด ๆ." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ PSB ของคุณและกดปุ่ม\" แปลง\" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ PSB ของคุณและกดปุ่ม 'แปลง" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="คุณจะได้รับลิงก์ดาวน์โหลดสำหรับไฟล์ PDF ที่เป็นผลลัพธ์ทันที" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

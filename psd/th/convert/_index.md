@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“ตัวอย่างรหัสสำหรับการแปลง PSD เป็นรูปแบบอื่น ๆ ใน Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“เว็บแอปพลิเคชันฟรีเพื่อแปลงไฟล์ PSD, PSB และ AI ของคุณเป็น Png, Pdf, Jpg, Tif, Pdf, Gif และรูปแบบอื่น ๆ" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"ตัวอย่างรหัสสำหรับการแปลง PSD เป็นรูปแบบอื่น ๆ ใน Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"เว็บแอปพลิเคชันฟรีเพื่อแปลงไฟล์ PSD, PSB และ AI ของคุณเป็น Png, Pdf, Jpg, Tif, Pdf, Gif และรูปแบบอื่น ๆ" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>คุณลักษณะการแปลง Aspose.PSD มีเมฆพร้อมและสามารถนำมาใช้บน Windows, Linux และ Mac เซิร์ฟเวอร์PSD แปลงโซลูชั่นในสถานที่ตั้งสามารถใช้ได้สำหรับ Java และรุ่นล่าสุดของ .Net เช่นเดียวกับ .Net Framework 2.0 +</p>
 

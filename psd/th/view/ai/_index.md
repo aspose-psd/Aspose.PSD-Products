@@ -43,10 +43,10 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“ดูไฟล์ AI ที่ไม่มี Illustrator" "https://products.aspose.com/psd/view/" "
-“ตัวอย่างการดูไฟล์ AI โดยใช้ API ที่มีรหัสสูง" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“กำหนดแอพ Low-Code เพื่อดู AI ออนไลน์" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"ดูไฟล์ AI ที่ไม่มี Illustrator" "https://products.aspose.com/psd/view/" 
+"ตัวอย่างการดูไฟล์ AI โดยใช้ API ที่มีรหัสสูง" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"กำหนดแอพ Low-Code เพื่อดู AI ออนไลน์" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>ดูไฟล์ AI กับ Aspose.PSDAI Viewer ที่ง่ายและรวดเร็ว</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -18,10 +18,10 @@ url: to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
-	"tiff" "
-“แปลงตัวอย่างจาก PSD เป็น TIFF ด้วยรหัสสูง API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“เว็บแอปพลิเคชันเพื่อแปลงไฟล์ PSD ของคุณเป็น TIFF" "https://products.aspose.app/psd/conversion" "
-“ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
+	"tiff" 
+"แปลงตัวอย่างจาก PSD เป็น TIFF ด้วยรหัสสูง API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"เว็บแอปพลิเคชันเพื่อแปลงไฟล์ PSD ของคุณเป็น TIFF" "https://products.aspose.app/psd/conversion" 
+"ตัวอย่างข้อมูลส่วนประกอบ" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>ผลของการแปลง PSD เป็น Tiff อาจมีขนาดใหญ่ในส่วนของเนื้อที่ฮาร์ดดิสก์แต่คุณจะได้รับไฟล์ที่บีบอัด lossless ด้วยเมตาดาต้าเพิ่มเติมข้อมูลเมตาทั้งหมดไม่ได้ถูกแปลงจาก PSD เป็น TIFF อย่างถูกต้อง หากคุณต้องการแยกข้อมูลเมตาของเลเยอร์ PSD โปรดลอง <a href="https://products.aspose.app/psd/metadata">PSD ข้อมูลเมตาดึงข้อมูล</a>.ถ้าคุณต้องการใช้พลังงานทั้งหมดของ PSD รหัสสูง API โปรดลอง <a href="/psd">Aspose.PSD</a> สำหรับ .Net หรือ Java</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

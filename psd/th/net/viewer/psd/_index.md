@@ -87,7 +87,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนหรือรวบรวมโค้ด" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD แล้วกดปุ่ม\" ดู\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD แล้วกดปุ่ม ดู" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ดาวน์โหลดไฟล์ PSD จากลิงก์ถ้าจำเป็น" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
