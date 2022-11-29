@@ -18,10 +18,10 @@ url: to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
-	"bmp" "
-“Mengkonversi contoh dari PSD ke BMP dapat menggunakan Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Konversikan file PSD Anda ke BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" "
-“Contoh tentang Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
+	"bmp" 
+"Mengkonversi contoh dari PSD ke BMP dapat menggunakan Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Konversikan file PSD Anda ke BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" 
+"Contoh tentang Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-bmp-cs" >}}
 <p>Konversi PSD ke BMP dapat dengan cepat dibuat oleh Aspose.PSD. Jika Anda ingin menggunakan format output modern lainnya silahkan cek <a href="/psd/convert">Konversi PSD ke raster</a> aplikasi. Aplikasi tanpa kode ini <a href="/psd/convert/to-bmp">mengkonversi PSD ke BMP</a>. Format Bmp dapat dibuka dengan perangkat lunak apa pun yang Anda miliki di PC atau Mac. Jika Anda ingin menggunakan format BMP terkompresi setelah konversi dari PSB, Anda lebih baik menggunakan <a href="/psd">Alat Konversi kode tinggi dari Aspose.PSD</a>. Jika jika hanya perlu mengompres file PSD, daripada mengkonversi ke BMP bukanlah pilihan terbaik karena BMP adalah format besar yang sama</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

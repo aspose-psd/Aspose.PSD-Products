@@ -21,9 +21,9 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
-"" "
-“Sampel kode untuk konversi PSD ke format lain di Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Aplikasi web gratis untuk mengonversi Gambar PSD, PSB dan AI Anda ke Png, Pdf, Jpg, Tif, Pdf, Gif, dan format lainnya" "https://products.aspose.app/psd/conversion" >}}
+"" 
+"Sampel kode untuk konversi PSD ke format lain di Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Aplikasi web gratis untuk mengonversi Gambar PSD, PSB dan AI Anda ke Png, Pdf, Jpg, Tif, Pdf, Gif, dan format lainnya" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Fitur konversi Aspose.PSD adalah cloud-ready dan dapat digunakan pada Windows, Linux dan Mac Server. PSD Convert on-premise solusi tersedia untuk Java dan versi terbaru dari Net serta Net Framework 2.0 +</p>
 

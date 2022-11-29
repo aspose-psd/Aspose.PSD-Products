@@ -48,11 +48,11 @@ url: psd/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "
-“Sampel kode untuk melihat PSB sebagai PNG"  "https://docs.aspose.com/psd/net/" "
-“Konversi PSB ke format lain"  "/psd/convert" "
-“Low-kode PSD Editor" "https://products.aspose.app/psd/editor/psd" "
-“Editor PSD bawaan" "https://products.aspose.com/psd/editor" >}}
+	}` 
+"Sampel kode untuk melihat PSB sebagai PNG"  "https://docs.aspose.com/psd/net/" 
+"Konversi PSB ke format lain"  "/psd/convert" 
+"Low-kode PSD Editor" "https://products.aspose.app/psd/editor/psd" 
+"Editor PSD bawaan" "https://products.aspose.com/psd/editor" >}}
 <p>Gunakan Aspose PSD Editor jika Anda perlu mengedit file PSD. Ini adalah aplikasi web sederhana menyediakan fungsi editing PSD di browser dan tanpa membeli Adobe Photoshop. Aspose.PSD Editor tidak menggunakan Adobe API, dan menggunakan spesifikasi format PSD untuk menyediakan fungsi pembaruan file sesuai dengan Standar Format PSD. Perbarui teks dan lapisan grafis di PSD Files. Juga, PSD Editor mendukung <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/">PSD benda pintar</a>. Membuka dan memperbarui file PSD dari perangkat apapun</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

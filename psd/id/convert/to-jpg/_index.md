@@ -18,10 +18,10 @@ url: to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
-		"jpg" "
-“Konversi contoh dari PSD ke JPG menggunakan API kode tinggi Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Aplikasi untuk mengkonversi file PSD ke JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" "
-“Contoh tentang Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
+		"jpg" 
+"Konversi contoh dari PSD ke JPG menggunakan API kode tinggi Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Aplikasi untuk mengkonversi file PSD ke JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" 
+"Contoh tentang Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-jpeg-cs" >}}
 <p>Parameter utama untuk konversi PSD ke Jpeg adalah Kualitas. Anda dapat mengatur kualitas dari 0 hingga 100 menggunakan Aspose.PSD High-Code API. Kualitas konversi 100 adalah maksimum, dalam hal ini dikonversi ke file Jpeg PSD akan memiliki jumlah minimal artefak dan kehilangan kualitas. 0 adalah kualitas minimal JPG Gambar setelah konversi. File yang dikonversi akan kecil, tetapi gambarnya bisa mengerikan. Silakan pilih opsi ini jika Anda benar-benar tahu untuk tujuan apa hasil konversi akan digunakan. Jika Anda tidak ingin kehilangan kualitas gambar dan informasi tambahan, Anda sebaiknya menggunakan khusus <a href="/psd/reduce-size">Kompres PSD</a></p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

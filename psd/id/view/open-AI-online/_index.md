@@ -43,10 +43,10 @@ url: open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "
-“Buka file AI tanpa Illustrator" "https://products.aspose.com/psd/view/" "
-“GIST Contoh membuka file AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "
-“Aplikasi kode rendah untuk membuka AI online" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+"Buka file AI tanpa Illustrator" "https://products.aspose.com/psd/view/" 
+"GIST Contoh membuka file AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
+"Aplikasi kode rendah untuk membuka AI online" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Buka file AI dengan Aspose.PSD atau Produk Aspose lainnya. Render pratinjau File AI secara online.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

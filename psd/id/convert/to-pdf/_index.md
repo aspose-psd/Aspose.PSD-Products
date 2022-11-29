@@ -18,10 +18,10 @@ url: to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
-	"pdf" "
-“Sampel kode konversi PSD ke PDF di Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "
-“Aplikasi web gratis untuk mengonversi file PSD Anda ke Pdf dan banyak format lainnya" "https://products.aspose.app/psd/conversion" "
-“Contoh tentang Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
+	"pdf" 
+"Sampel kode konversi PSD ke PDF di Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
+"Aplikasi web gratis untuk mengonversi file PSD Anda ke Pdf dan banyak format lainnya" "https://products.aspose.app/psd/conversion" 
+"Contoh tentang Gist" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Konversi PSD ke PDF oleh Aspose.PSD memiliki dua jenis - konversi pixel-sempurna dan konversi dengan kemampuan untuk memilih teks. Untuk konversi pixel-perfect yang perlu Anda gunakan <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">Properti ReadOnlyMode</a>, silakan periksa referensi API jika Aspose.PSD akan digunakan sebagai aplikasi kode tinggi. Jika Anda membutuhkan kemampuan untuk memilih teks, silakan gunakan kode di atas.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

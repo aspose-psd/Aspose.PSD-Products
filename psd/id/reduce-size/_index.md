@@ -135,9 +135,9 @@ url: reduce-size/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` "
-“Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" "
-“Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress/psd" >}}
+        }` 
+"Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
+"Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Jika Anda perlu mengurangi ukuran file PSB alih-alih PSD, Anda dapat menggunakan modifikasi kecil dari aplikasi ini. Silakan periksa”<a href="/psd/reduce-size/psb">Kurangi ukuran PSB</a>“aplikasi.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
