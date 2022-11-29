@@ -85,7 +85,7 @@ Aspose.PSD は Photoshop のフォーマット操作 API です。Adobe Photosho
         {{< blocks/products/pf/agp/demobox sectionTitle="AIを見るための無料アプリ" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="何もダウンロードもセットアップも不要" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを書いたりコンパイルしたりする必要はありません" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="AI ファイルをアップロードして\" View\ "ボタンを押すだけ" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="AI ファイルをアップロードして View ボタンを押すだけ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="必要に応じて、リンクから AI ファイルをダウンロードしてください" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
