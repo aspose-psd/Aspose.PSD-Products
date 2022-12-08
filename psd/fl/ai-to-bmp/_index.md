@@ -1,6 +1,6 @@
 ---
-title: Muunna AI BMP: ksi C#: n kautta
-description: Näytekoodi AI: lle BMP C# -muunnokseen. Käytä API-esimerkkikoodia erän AI-tiedostoille BMP-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovelluksessa
+title: Muunna AI BMP ksi C# n kautta
+description: Näytekoodi AI lle BMP C# -muunnokseen. Käytä API-esimerkkikoodia erän AI-tiedostoille BMP-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovelluksessa
 url: ai-to-bmp/
 ---
 
