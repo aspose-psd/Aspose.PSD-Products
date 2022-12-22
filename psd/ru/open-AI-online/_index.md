@@ -44,7 +44,7 @@ url: open-AI-online/
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
 	}` "Открывайте AI-файлы без Illustrator" "https://products.aspose.com/psd/view/" "GIST Примеры открытия файлов AI" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "Приложение с низким уровнем кода для открытия искусственного интеллекта в Интернете" "https://products.aspose.app/psd/viewer/ai" >}}
-<p>Откройте файл AI с помощью Aspose.PSD или других продуктов Aspose. Предварительный рендеринг файла AI в режиме онлайн.</p>
+<p>Откройте файл AI с помощью Aspose.PSD или других продуктов Aspose. Предварительный рендеринг файла AI в режиме онлайн. Открытие векторного рисунку без установки специальных приложений</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 
