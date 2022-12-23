@@ -13,7 +13,7 @@ url: ai/
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/feature-page-section h2="View AI file online" >}}
-<p>If you haven't any software to open AI file just use the online viewer tool. This app can help you to view AI file of any version. But the final result will the rendered preview. AI File is hard to view in the basic applications because AI is a vector format. Only vector viewer can open AI. AI Format is created by Adobe, it's a proprietary format. It has ".ai" extension. Most of the AI Viewer are the paid products, but if you don't need to edit Illustrator files you don't need any paid software for it. Just use View AI files Online with this app.</p>
+<p>If you haven't any software to open AI file just use the online viewer tool. This app can help you to view AI file of any version. But the final result will the rendered preview. AI File is hard to view in the basic applications because AI is a vector format. Only vector viewer can open AI. AI Format is created by Adobe, it's a proprietary format. It has ".ai" extension. Most of the AI Viewer are the paid products, but if you don't need to edit Illustrator files you don't need any paid software for it. Just use View AI files Online with this app. Try this updated version of AI Viewer</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
