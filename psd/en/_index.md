@@ -44,6 +44,14 @@ Simple widget to reduce size of file of any format. For the PSD compressing is b
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="View" symbol="V" productLink="view/" >}}
 Simple widget to view PSD, PSB and AI Files
 {{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="PSD Editor" symbol="PE" productLink="editor/" >}}
+Built-in JS PSD editor.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Circle Crop" symbol="CC" productLink="crop/circle/" >}}
+Simple widget to crop circle image.
+{{< /blocks/products/pf/product >}}
 																			   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD No Code Apps Include" >}}
 
