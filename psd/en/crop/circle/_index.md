@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Free Online App to Crop Circle Image with parameters</h3>
 <p>Crop any images, avatars, photos to circle. Round crop using cropping by mask. Discover quick and high-quality circle cropping solution of Aspose.PSD. You need to select circle region using UI of crop app. Specify center of crop and radius, or Top Left and Bottom Right points of region. You can move crop area using mouse or keyboard. When the correct circle to crop will be selected then press "Crop" button. You can also select the output format of round cropped image.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/`
+{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
