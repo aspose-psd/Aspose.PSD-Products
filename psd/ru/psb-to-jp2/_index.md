@@ -17,7 +17,7 @@ url: psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Высококачественная визуализация PSB в формате JP2" %}}
 1. Загрузите PSB с [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
-1. Создайте экземпляр графики из изображения. [Опции JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) учебный класс
+1. Создайте экземпляр [Опции JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) учебный класс
 1. Позвонить [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте имя выходного файла и объект Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

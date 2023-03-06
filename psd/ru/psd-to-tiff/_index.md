@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="Высококачественная визуализация PSD в формате TIFF" %}}
 1. Загрузите PSD с помощью [Изображение. Загрузить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
-1. Создайте экземпляр графики из изображения. [Опции TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) учебный класс
+1. Создайте экземпляр [Опции TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) учебный класс
 1. Позвонить [Изображение. Сохранить](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте имя выходного файла и объект TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

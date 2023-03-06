@@ -164,7 +164,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.PSD для Java [поддерживаемые форматы файлов] (https://docs.aspose.com/psd/java/supported-file-formats/) перечислены ниже»." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.PSD для Java [поддерживаемые форматы файлов](https://docs.aspose.com/psd/java/supported-file-formats/) перечислены ниже»." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

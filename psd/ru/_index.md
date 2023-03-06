@@ -44,7 +44,12 @@ API Java для управления файлами Photoshop и Illustrator. С
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Просмотр" symbol="V" productLink="view/" >}}
 Простой виджет для просмотра PSD, PSB и AI файлов
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Кроп кругом" symbol="CC" productLink="crop/circle/" >}}
+Простой виджет для обрезки изображения кругом.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Приложения без кода" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Конвертер" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}
