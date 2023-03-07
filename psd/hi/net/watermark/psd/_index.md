@@ -89,11 +89,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन ऐप के माध्यम से वॉटरमार्क PSD" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन ऐप के माध्यम से वॉटरमार्क PSD" sectionDescription="हमारे यहां जाकर PSD दस्तावेज़ों में वॉटरमार्क जोड़ें [लाइव डेमोस वेबसाइट](https://products.aspose.app/psd/watermark)। लाइव डेमो के निम्नलिखित लाभ हैं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="कोई भी कोड लिखने की ज़रूरत नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस अपनी PSD फ़ाइल अपलोड करें, अपना वॉटरमार्क सेट करें और\" जोड़ें\” बटन दबाएं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="परिणामी फ़ाइल के लिए तुरंत डाउनलोड लिंक प्राप्त करें" >}}
+		{{< /blocks/products/pf/agp/demobox >}}			
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, ग्राफिक्स डिजाइनिंग और विकास के लिए उपयोग किए जाने वाले Adobe Photoshop के मूल फ़ाइल स्वरूप का प्रतिनिधित्व करता है। PSD फ़ाइलों में छवि परतें, समायोजन परतें, लेयर मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट तत्व शामिल हो सकते हैं। फ़ोटोशॉप फ़ाइलों में.PSD के रूप में डिफ़ॉल्ट एक्सटेंशन होता है और इसकी अधिकतम ऊंचाई और चौड़ाई 30,000 पिक्सेल होती है, और दो गीगाबाइट की लंबाई सीमा होती है।

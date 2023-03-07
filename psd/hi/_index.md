@@ -44,7 +44,12 @@ iFrame एम्बेडिंग पर आधारित बहुउद्�
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="देखें" symbol="V" productLink="view/" >}}
 PSD, PSB और AI फ़ाइलें देखने के लिए सरल विजेट
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="सर्किल क्रॉप" symbol="CC" productLink="crop/circle/" >}}
+वृत्त छवि को क्रॉप करने के लिए सरल विजेट।
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD में कोई कोड ऐप्स शामिल नहीं हैं" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="रूपांतरण" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

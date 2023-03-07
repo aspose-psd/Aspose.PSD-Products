@@ -17,7 +17,7 @@ url: net/conversion/psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="PNG के रूप में PSD की उच्च गुणवत्ता वाली रेंडरिंग" %}}
 1। PSD को इसके साथ लोड करें [छवि. लोड](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) तरीका
- [PNG के विकल्प](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) वर्ग
+1। का एक उदाहरण बनाएं [PNG के विकल्प](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) वर्ग
 1। कॉल करें [छवि. सेव करें](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) तरीका
 1। PNGOptions का आउटपुट फ़ाइल नाम और ऑब्जेक्ट पास करें
 {{% /blocks/products/pf/agp/feature-section-col %}}

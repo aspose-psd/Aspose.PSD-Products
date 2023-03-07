@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="PSB देखने के लिए निशुल्क ऐप" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="PSB देखने के लिए निशुल्क ऐप" sectionDescription="हमारे लाइव डेमो की जांच करें [PSB देखें](https://products.aspose.app/psd/viewer/psb) निम्नलिखित लाभों के साथ।" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="कोड लिखने या संकलित करने की कोई ज़रूरत नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस PSB फ़ाइल अपलोड करें और\" देखें\” बटन दबाएं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="यदि आवश्यक हो, तो लिंक से PSB फ़ाइल डाउनलोड करें" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop फ़ाइलों को दो स्वरूपों में सहेजता है। 30,000 x 30,000 पिक्सेल आकार वाली फ़ाइलों को PSD एक्सटेंशन के साथ सहेजा जाता है और 300,000 गुणा 300,000 पिक्सेल तक की PSD से बड़ी फ़ाइलों को PSB एक्सटेंशन के साथ सहेजा जाता है जिसे “फ़ोटोशॉप बिग” के रूप में जाना जाता है। विशेष रूप से, PSB फाइलें 4 EB (4.2 बिलियन GB से अधिक) जितनी बड़ी हो सकती हैं, जिनकी ऊंचाई और चौड़ाई 300,000 पिक्सेल तक होती है। दूसरी ओर, PSD अधिकतम 2 जीबी तक और 30,000 पिक्सेल के छवि आयाम के हो सकते हैं। PSB को फोटोशॉप के लिए बड़े प्रारूप आकार के रूप में भी जाना जाता है और यह सभी फोटोशॉप सुविधाओं जैसे लेयर्स, इफेक्ट्स और फिल्टर का समर्थन करता है।
