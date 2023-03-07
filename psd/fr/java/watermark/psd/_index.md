@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="À propos de l'API Aspose.PSD pour Java" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrane PSD via une application en ligne" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrane PSD via une application en ligne" sectionDescription="Ajoutez un filigrane aux documents PSD en consultant notre [Site Web de démos en direct](https://products.aspose.app/psd/watermark). La démo en direct présente les avantages suivants :" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Pas besoin d'écrire de code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement votre fichier PSD, définissez votre filigrane et cliquez sur le bouton \" Ajouter \»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier obtenu" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, représente le format de fichier natif d'Adobe Photoshop utilisé pour la conception et le développement graphiques. Les fichiers PSD peuvent inclure des couches d'image, des couches de réglage, des masques de couches, des annotations, des informations sur les fichiers, des mots-clés et d'autres éléments spécifiques à Photoshop. Les fichiers Photoshop ont l'extension par défaut .PSD et ont une hauteur et une largeur maximales de 30 000 pixels et une limite de longueur de deux gigaoctets.

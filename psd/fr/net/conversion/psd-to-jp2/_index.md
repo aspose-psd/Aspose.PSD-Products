@@ -17,7 +17,7 @@ url: net/conversion/psd-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendu de haute qualité du PSD au format JP2" %}}
 1. Chargez le PSD avec [Image. Charger](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) méthode
- [Options pour JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) classe
+1. Créez une instance de [Options pour JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) classe
 1. Appelez [Image. Enregistrer](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) méthode
 1. Transmettre le nom de fichier de sortie et l'objet de Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

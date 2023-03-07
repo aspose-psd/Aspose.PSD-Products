@@ -17,7 +17,7 @@ url: net/conversion/psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendu de haute qualité du PSD sous forme de GIF" %}}
 1. Chargez le PSD avec [Image. Charger](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) méthode
- [Options GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) classe
+1. Créez une instance de [Options GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) classe
 1. Appelez [Image. Enregistrer](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) méthode
 1. Transmettre le nom de fichier de sortie et l'objet de GifOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
