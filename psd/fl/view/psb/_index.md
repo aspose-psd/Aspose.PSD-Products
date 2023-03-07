@@ -2,7 +2,7 @@
 title: Avaa PSB verkossa
 weight: 7730
 limit: 
-description: Avaa PSB Aspose.PSD: n voimalla
+description: Avaa PSB Aspose.PSD n voimalla
 keywords: [open psb, open psb online, open PSB file, open photoshop file, preview psb]
 url: view/psb/
 ---

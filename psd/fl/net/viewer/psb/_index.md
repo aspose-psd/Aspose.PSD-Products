@@ -1,5 +1,5 @@
 ---
-title: Näytä PSB-tiedostomuodot .NET: n kautta
+title: Näytä PSB-tiedostomuodot .NET n kautta
 weight: 320
 description: C# lähdekoodi ladata, renderöi ja näyttää PSB asiakirjoja .NET Framework, .NET Core.
 url: net/viewer/psb/

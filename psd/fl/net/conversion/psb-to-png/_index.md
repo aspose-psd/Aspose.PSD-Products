@@ -1,6 +1,6 @@
 ---
-title: Muunna PSB PNG: ksi C#: lla
-description: Vie PSD, PSB & AI-tiedosto .NET API: n kautta
+title: Muunna PSB PNG ksi C# lla
+description: Vie PSD, PSB & AI-tiedosto .NET API n kautta
 family: psd
 platformtag: net
 feature: conversion

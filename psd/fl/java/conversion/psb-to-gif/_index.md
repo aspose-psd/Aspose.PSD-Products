@@ -1,5 +1,5 @@
 ---
-title: Muunna PSB GIF: ksi Javan kautta
+title: Muunna PSB GIF ksi Javan kautta
 weight: 220
 description: Näyte Java-muunnoskoodi PSB-muotoon GIF-tiedostoon. Tämän esimerkkikoodin avulla voit muuntaa PSB GIF-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-gif/

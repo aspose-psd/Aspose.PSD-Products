@@ -1,7 +1,7 @@
 ---
 title: Muunna PSB JPEG-muotoon Java-ohjelman kautta
 weight: 180
-description: Näyte Java-muunnoskoodi PSB-muodossa JPEG-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa PSB:n JPEG-muotoon missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
+description: Näyte Java-muunnoskoodi PSB-muodossa JPEG-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa PSBn JPEG-muotoon missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-jpeg/
 ---
 
