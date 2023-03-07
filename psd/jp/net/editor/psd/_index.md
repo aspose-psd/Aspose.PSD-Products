@@ -116,12 +116,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="ビジュアル PSD オンラインエディターアプリ" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="ビジュアル PSD オンラインエディターアプリ" sectionDescription="PSDファイルを編集するには、当社にアクセスしてください [ライブデモ Web サイト](https://products.aspose.app/psd/editor/)。ライブデモには以下のメリットがあります。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="何もダウンロードもセットアップも不要" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを書く必要はない" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="PSDファイルをアップロードし、変更を加えて「ダウンロード」ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果ファイルのダウンロードリンクをすぐに取得できる" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD（Photoshop Document）は、グラフィックのデザインと開発に使用されるAdobe Photoshopのネイティブファイル形式です。PSDファイルには、画像レイヤー、調整レイヤー、レイヤーマスク、注釈、ファイル情報、キーワード、その他のPhotoshop固有の要素が含まれる場合があります。Photoshop ファイルのデフォルトの拡張子は.PSD で、最大高さと幅は 30,000 ピクセルで、長さの上限は 2 ギガバイトです。
 

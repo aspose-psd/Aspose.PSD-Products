@@ -22,7 +22,7 @@ url: psb/
 "GistsでPSBファイルを開く例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "PhotoshopなしでPSBファイルを開く方法のチュートリアル" "https://products.aspose.com/psd/net/viewer/" 
 "スタンドアロンサービスとしてのPSBファイルビューア" "https://products.aspose.app/psd/viewer" >}}
-<p>PSB内蔵ノーコードPSBビューアでPSBファイルを表示します。PSB File は現在のアプリケーションで開くことができます。追加の編集機能が必要な場合は、 <a href="https://products.aspose.app/psd/template-editor">PSB エディター</a>.</p>
+<p>PSB内蔵ノーコードPSBビューアでPSBファイルを表示します。PSB File は現在のアプリケーションで開くことができます。追加の編集機能が必要な場合は、 <a href="https://products.aspose.app/psd/template-editor">PSB エディター</a>。大きなファイルを使用する必要がある場合は PSB ファイルを試してください</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

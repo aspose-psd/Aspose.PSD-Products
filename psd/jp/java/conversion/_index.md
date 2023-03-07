@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Java によるアドビ® フォトショップ® ファイル変換" h2="フォトショップのPSD、PSBをJPG、PNG、BMP、TIFFイメージおよびPDFに変換して、クロスプラットフォームのJavaアプリケーションを構築してください。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop® のPSD形式は、名刺、ロゴデザイン、チラシのモックアップ、ウェブサイトのデザインなどをデザインするためのデザイナーのフォーマットです。デザイナーは、Adobe Photoshopを使用してPSDレイヤーをJPG、PNG、GIF、TIFFなどの単一の画像にエクスポートするのが一般的なケースです。フォトショップのPSDを任意のJavaソリューション内でラスターイメージやPDFに変換する場合、**Java PSD API**を使用すると簡単に変換できます。どのPSD変換自動化アプリケーションでも、以下のサンプルコードはラスター画像やPDF変換に簡単に統合できます。 **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Adobe® Photoshop® のPSD形式は、名刺、ロゴデザイン、チラシのモックアップ、ウェブサイトデザインなどをデザインするためのデザイナーのフォーマットです。デザイナーがAdobe Photoshop経由でPSDレイヤーをJPG、PNG、GIF、TIFFなどの単一の画像にエクスポートするのが一般的です。任意の Java ソリューション内でフォトショップの PSD をラスターイメージや PDF に変換するには、 **Java PSD API** 簡単にできます。どのPSD変換自動化アプリケーションでも、以下のサンプルコードをラスター画像とPDF変換に簡単に統合できます。
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
