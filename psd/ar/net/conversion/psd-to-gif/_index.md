@@ -17,7 +17,7 @@ url: net/conversion/psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="عرض عالي الجودة لـ PSD كملف GIF" %}}
 1. قم بتحميل PSD مع [صورة. تحميل](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طريقة
- [خيارات GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) صنف
+1. قم بإنشاء مثيل لـ [خيارات GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) صنف
 1. مكالمة [احفظ الصورة](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طريقة
 1. قم بتمرير اسم ملف الإخراج وكائن GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

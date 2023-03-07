@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="عرض عالي الجودة لـ PSD كـ TIFF" %}}
 1. قم بتحميل PSD مع [صورة. تحميل](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طريقة
-1. قم بإنشاء مثيل للرسومات من الصورة. [خيارات TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) صنف
+1. قم بإنشاء مثيل لـ [خيارات TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) صنف
 1. مكالمة [احفظ الصورة](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طريقة
 1. قم بتمرير اسم ملف الإخراج وكائن TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

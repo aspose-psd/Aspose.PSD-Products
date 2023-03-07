@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="تحويل ملفات أدوبي فوتوشوب® عبر جافا" h2="قم بتحويل صور فوتوشوب PSD و PSB إلى JPG و PNG و BMP و TIFF و PDF لإنشاء تطبيقات جافا متعددة المنصات." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-صيغة PSD من Adobe® Photoshop® هي صيغة للمصممين لتصميم بطاقات العمل وتصميمات الشعارات ونماذج النشرات وتصميمات مواقع الويب وأكثر من ذلك بكثير. من الشائع أن يقوم المصممون بتصدير طبقات PSD إلى صورة واحدة بما في ذلك JPG و PNG و GIF و TIFF وما إلى ذلك عبر Adobe Photoshop. لتحويل Photoshop PSD إلى صور نقطية وPDF ضمن أي حل من حلول Java، يمكن لـ **Java PSD API** القيام بذلك بسهولة. بالنسبة لأي تطبيق لأتمتة تحويل PSD، يمكن دمج رموز الأمثلة أدناه بسهولة للصور النقطية وتحويل PDF.
+شكل PSD من Adobe® Photoshop® هو شكل من أشكال المصممين لتصميم بطاقات العمل وتصميمات الشعارات ونماذج النشرات وتصميمات مواقع الويب وأكثر من ذلك بكثير. من الشائع أن يقوم المصممون بتصدير طبقات PSD إلى صورة واحدة بما في ذلك JPG و PNG و GIF و TIFF وما إلى ذلك عبر Adobe Photoshop. لتحويل Photoshop PSD إلى صور نقطية و PDF داخل أي حل Java، **واجهة برمجة تطبيقات جافا PSD** يمكن أن تفعل ذلك بسهولة. بالنسبة لأي تطبيق لأتمتة تحويل PSD، يمكن دمج رموز الأمثلة أدناه بسهولة للصور النقطية وتحويل PDF.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

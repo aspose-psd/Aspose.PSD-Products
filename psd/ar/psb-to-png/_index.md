@@ -17,7 +17,7 @@ url: psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="عرض عالي الجودة لـ PSB كـ PNG" %}}
 1. قم بتحميل PSB مع [صورة. تحميل](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طريقة
-1. قم بإنشاء مثيل للرسومات من الصورة. [خيارات PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) صنف
+1. قم بإنشاء مثيل لـ [خيارات PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) صنف
 1. مكالمة [احفظ الصورة](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طريقة
 1. قم بتمرير اسم ملف الإخراج وكائن PNGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
