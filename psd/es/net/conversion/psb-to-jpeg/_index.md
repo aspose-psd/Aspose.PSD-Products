@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="Representación de alta calidad de PSB como JPEG" %}}
 1. Cargue el PSB con [Imagen. Cargar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) método
- [Opciones JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) clase
+1. Crea una instancia de [Opciones JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) clase
 1. Llamada [Imagen. Guardar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) método
 1. Pase el nombre de archivo de salida y el objeto de JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

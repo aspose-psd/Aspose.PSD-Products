@@ -116,12 +116,12 @@ O utilice la funcionalidad de iText y configure cada parte del texto con su prop
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación de edición en línea de Visual PSD" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación de edición en línea de Visual PSD" sectionDescription="Edite los archivos PSD visitando nuestro [Sitio web Live Demos](https://products.aspose.app/psd/editor/). La demostración en vivo tiene las siguientes ventajas" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente sube tu archivo PSD, haz algunos cambios y pulsa el botón\" Descargar\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtener instantáneamente el enlace de descarga para el archivo resultante" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, representa el formato de archivo nativo de Adobe Photoshop utilizado para el diseño y desarrollo de gráficos. Los archivos PSD pueden incluir capas de imágenes, capas de ajuste, máscaras de capa, anotaciones, información de archivos, palabras clave y otros elementos específicos de Photoshop. Los archivos de Photoshop tienen la extensión predeterminada .PSD y tienen una altura y un ancho máximos de 30 000 píxeles y un límite de longitud de dos gigabytes.
 

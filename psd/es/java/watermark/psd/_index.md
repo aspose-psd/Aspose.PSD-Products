@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="Acerca de Aspose.PSD para la API de Java" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Marca de agua PSD a través de la aplicación en línea" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Marca de agua PSD a través de la aplicación en línea" sectionDescription="Añada una marca de agua a los documentos PSD visitando nuestro [Sitio web Live Demos](https://products.aspose.app/psd/watermark). La demostración en vivo tiene las siguientes ventajas" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente sube tu archivo PSD, establece tu marca de agua y pulsa el botón\" Agregar\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtener instantáneamente el enlace de descarga para el archivo resultante" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, representa el formato de archivo nativo de Adobe Photoshop utilizado para el diseño y desarrollo de gráficos. Los archivos PSD pueden incluir capas de imágenes, capas de ajuste, máscaras de capa, anotaciones, información de archivos, palabras clave y otros elementos específicos de Photoshop. Los archivos de Photoshop tienen la extensión predeterminada .PSD y tienen una altura y un ancho máximos de 30 000 píxeles y un límite de longitud de dos gigabytes.
