@@ -121,6 +121,7 @@ Aŭ uzu la IText-funkcion kaj agordu ĉiun tekstan parton kun sia propra specifa
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Ne necesas skribi ajnan kodon" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Nur alŝutu vian PSD-dosieron, faru kelkajn ŝanĝojn kaj premu \"Download\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tuj ricevu la elŝutan ligilon por la rezulta dosiero" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, reprezentas la indiĝenan dosierformaton de Adobe Photoshop uzata por grafika dezajnado kaj disvolviĝo. PSD-dosieroj povas inkluzivi bildavolojn, alĝustigajn tavolojn, tavolmaskojn, komentadojn, dosierojn, ŝlosilvortojn kaj aliajn Photoshop-specifajn elementojn. Photoshop-dosieroj havas defaŭltan etendon kiel .PSD kaj havas maksimuman altecon kaj larĝon de 30,000 pikseloj, kaj longolimon de du gigabajtoj.
