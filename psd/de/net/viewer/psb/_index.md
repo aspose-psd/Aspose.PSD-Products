@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Kostenlose App zum Ansehen von PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Kostenlose App zum Ansehen von PSB" sectionDescription="Schauen Sie sich unsere Live-Demos an [PSB ansehen](https://products.aspose.app/psd/viewer/psb) mit folgenden Vorteilen." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sie müssen keinen Code schreiben oder kompilieren" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach die PSB-Datei hoch und klicken Sie auf die Schaltfläche Ansicht" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach die PSB-Datei hoch und klicken Sie auf die Schaltfläche\" Ansicht\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Laden Sie die PSB-Datei von dem Link herunter, falls erforderlich" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop speichert Dateien in zwei Formaten. Dateien mit einer Größe von 30.000 mal 30.000 Pixeln werden mit der Erweiterung PSD gespeichert, und Dateien, die größer als PSD sind, bis zu 300.000 mal 300.000 Pixel werden mit der PSB-Erweiterung gespeichert, die als „Photoshop Big“ bekannt ist. Insbesondere können PSB-Dateien bis zu 4 EB (über 4,2 Milliarden GB) mit Bildern mit einer Höhe und Breite von bis zu 300.000 Pixeln groß sein. PSDs hingegen können maximal 2 GB groß sein und Bildabmessungen von 30.000 Pixeln haben. PSB ist auch als Großformatgröße für Photoshop bekannt und unterstützt alle Photoshop-Funktionen wie Ebenen, Effekte und Filter.

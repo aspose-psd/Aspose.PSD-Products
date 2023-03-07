@@ -17,7 +17,7 @@ url: net/conversion/psd-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Qualitativ hochwertiges Rendern von PSD als BMP" %}}
 1. Laden Sie die PSD mit [Bild. Laden](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) Methode
- [BMP-Optionen](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) Klasse
+1. Erstellen Sie eine Instanz von [BMP-Optionen](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) Klasse
 1. Ruf [Bild. Speichern](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) Methode
 1. Übergeben Sie den Ausgabedateinamen und das Objekt von BMPOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

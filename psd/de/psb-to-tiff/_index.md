@@ -17,7 +17,7 @@ url: psb-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="Hochwertige Wiedergabe von PSB als TIFF" %}}
 1. Laden Sie das PSB mit [Bild. Laden](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) Methode
-1. Erstellen Sie eine Instanz von Graphics aus dem Bild. [TIFF-Optionen](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) Klasse
+1. Erstellen Sie eine Instanz von [TIFF-Optionen](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) Klasse
 1. Ruf [Bild. Speichern](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) Methode
 1. Übergeben Sie den Ausgabedateinamen und das Objekt von TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
