@@ -44,7 +44,12 @@ Widget sederhana untuk mengurangi ukuran file dalam format apa pun. Untuk PSD me
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Lihat" symbol="V" productLink="view/" >}}
 Widget sederhana untuk melihat PSD, PSB dan AI Files
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Lingkaran Crop" symbol="CC" productLink="crop/circle/" >}}
+Widget sederhana untuk memotong gambar lingkaran.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Tidak Termasuk Aplikasi Kode" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Konversi" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

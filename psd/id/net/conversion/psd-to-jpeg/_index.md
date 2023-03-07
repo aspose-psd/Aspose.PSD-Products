@@ -17,7 +17,7 @@ url: net/conversion/psd-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kualitas Tinggi Rendering PSD sebagai JPEG" %}}
 1. Muat PSB dengan [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metode
- [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) kelas
+1. Buat sebuah instance dari [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) kelas
 1. Panggilan [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metode
 1. Lulus nama file keluaran dan objek JPEGoptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

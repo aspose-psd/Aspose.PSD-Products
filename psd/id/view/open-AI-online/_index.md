@@ -12,7 +12,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Open AI file online" >}}
+{{< blocks/products/pf/feature-page-section h2="Buka file AI online" >}}
 <p>Ketika Anda tidak memerlukan fungsionalitas pengeditan saat Anda membuka format AI online, Penampil AI ini adalah solusi yang baik untuk berbagai tujuan. Anda dapat membuka file AI secara online setelah mengunggah ke server web. Format AI adalah format vektor, sehingga rasterisasi akan dilanjutkan dalam ukuran gambar yang ditentukan. Untuk fungsi tambahan, Anda dapat menggunakan <a href="/psd/net">.Net</a> atau <a href="/psd/java">Java</a> API kode tinggi untuk membuka file AI dalam dimensi yang Anda butuhkan</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// For the new AI format please use the following code:

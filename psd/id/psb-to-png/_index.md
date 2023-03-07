@@ -17,7 +17,7 @@ url: psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendering PSB Berkualitas Tinggi sebagai PNG" %}}
 1. Muat PSB dengan [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metode
-1. Buat instance Graphics dari gambar. [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) kelas
+1. Buat sebuah instance dari [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) kelas
 1. Panggilan [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metode
 1. Lulus nama file keluaran dan objek PDFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
