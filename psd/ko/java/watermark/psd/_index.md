@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="자바 API용 Aspose.PSD 소개" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통한 워터마크 PSD" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통한 워터마크 PSD" sectionDescription="저희를 방문하여 PSD 문서에 워터마크를 추가하세요 [라이브 데모 웹사이트](https://products.aspose.app/psd/watermark).라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="코드를 작성할 필요가 없습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="PSD 파일을 업로드하고 워터마크를 설정한 다음 '추가' 버튼을 누르세요." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="PSD 파일을 업로드하고 워터마크를 설정한 다음\" 추가\” 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일의 다운로드 링크를 즉시 받으십시오." >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, 포토샵 문서는 그래픽 디자인 및 개발에 사용되는 어도비 포토샵의 기본 파일 형식을 나타냅니다.PSD 파일에는 이미지 레이어, 조정 레이어, 레이어 마스크, 주석, 파일 정보, 키워드 및 기타 Photoshop 관련 요소가 포함될 수 있습니다.Photoshop 파일의 기본 확장자는.PSD이며 최대 높이 및 너비는 30,000픽셀이고 길이 제한은 2GB입니다.

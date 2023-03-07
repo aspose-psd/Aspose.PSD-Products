@@ -164,7 +164,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="자바용 Aspose.PSD [지원되는 파일 형식] (https://docs.aspose.com/psd/java/supported-file-formats/) 은 다음과 같습니다." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="자바용 Aspose.PSD [지원되는 파일 형식](https://docs.aspose.com/psd/java/supported-file-formats/)  아래에 나열되어 있습니다." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
