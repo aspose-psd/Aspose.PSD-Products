@@ -1,5 +1,5 @@
 ---
-title: Muunna PSD PDF ksi
+title: Muunna PSD PDF: ksi
 weight: 7730
 limit: 
 description: Muunna Adobe PhotoShop -tiedostot PDF-muotoon

@@ -116,12 +116,12 @@ Tai käytä iText-toimintoa ja määritä jokainen tekstiosa omalla tyylillään
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Visual PSD Online Editor App" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Visual PSD Online Editor App" sectionDescription="Muokkaa PSD-tiedostoja käymällä [Live Demos -sivusto](https://products.aspose.app/psd/editor/). Live-demo on seuraavat edut" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Ei tarvitse ladata tai asentaa mitään" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Ei tarvitse kirjoittaa mitään koodia" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Vain ladata PSD tiedosto, tehdä joitakin muutoksia ja paina\" Download\” -painiketta" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Hanki heti tuloksena olevan tiedoston latauslinkki" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, edustaa Adobe Photoshopin alkuperäistä tiedostomuotoa, jota käytetään grafiikan suunnitteluun ja kehittämiseen. PSD-tiedostot voivat sisältää kuvakerroksia, säätökerroksia, kerrosmaskeja, huomautuksia, tiedostotietoja, avainsanoja ja muita Photoshop-kohtaisia elementtejä. Photoshop-tiedostojen oletustunniste on .PSD, ja niiden enimmäiskorkeus ja -leveys on 30 000 pikseliä ja pituusrajoitus kaksi gigatavua.
 

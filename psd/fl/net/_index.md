@@ -201,7 +201,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Tuetut tiedostomuodot" description="Aspose.PSD for .NET tukee suosituimpia [Photoshop & rasterikuva] (https://docs.aspose.com/psd/net/supported-file-formats/) tiedostomuotoja." >}}
+{{< blocks/products/pf/carousel-item h3="Tuetut tiedostomuodot" description="Aspose.PSD for .NET tukee suosituimpia [Photoshop & rasterikuva](https://docs.aspose.com/psd/net/supported-file-formats/)  tiedostomuotoja." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

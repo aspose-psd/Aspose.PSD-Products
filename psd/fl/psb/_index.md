@@ -2,7 +2,7 @@
 title: Avaa PSB verkossa
 weight: 7730
 limit: 
-description: Avaa PSB Aspose.PSD n voimalla
+description: Avaa PSB Aspose.PSD: n voimalla
 keywords: [open psb, open psb online, open PSB file, open photoshop file, preview psb]
 url: psb/
 ---
@@ -22,7 +22,7 @@ url: psb/
 "Esimerkkejä PSB-tiedostojen avaamisesta Gists-tiedostoissa" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "Opetusohjelma PSB-tiedostojen avaamiseksi ilman Photoshopia" "https://products.aspose.com/psd/net/viewer/" 
 "PSB-tiedostojen katseluohjelma itsenäisenä palveluna" "https://products.aspose.app/psd/viewer" >}}
-<p>Tarkastele PSB-tiedostoa PSB: n sisäänrakennetulla ei-koodilla PSB Viewer. Voit avata PSB File nykyisen sovelluksen. Jos tarvitset lisämuokkausominaisuuksia, tarkista <a href="https://products.aspose.app/psd/template-editor">PSB-editori</a>.</p>
+<p>Tarkastele PSB-tiedostoa PSB: n sisäänrakennetulla ei-koodilla PSB Viewer. Voit avata PSB File nykyisen sovelluksen. Jos tarvitset lisämuokkausominaisuuksia, tarkista <a href="https://products.aspose.app/psd/template-editor">PSB-editori</a>. Kokeile PSB-tiedostoja, jos haluat käyttää suuria tiedostoja</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

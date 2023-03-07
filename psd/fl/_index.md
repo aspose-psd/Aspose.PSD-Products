@@ -44,7 +44,12 @@ Yksinkertainen widget pienentää tiedoston missä tahansa muodossa. Sillä PSD 
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Näytä" symbol="V" productLink="view/" >}}
 Yksinkertainen widget tarkastella PSD, PSB ja AI tiedostot
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Circle Crop" symbol="CC" productLink="crop/circle/" >}}
+Yksinkertainen widget rajata ympyrä kuva.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Ei koodia sovellukset sisältävät" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Muuntaminen" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

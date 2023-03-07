@@ -89,11 +89,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Vesileima PSD online-sovelluksen kautta" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Vesileima PSD online-sovelluksen kautta" sectionDescription="Lisää vesileima PSD-asiakirjoihin käymällä [Live Demos -sivusto](https://products.aspose.app/psd/watermark). Live-demo on seuraavat edut" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Ei tarvitse ladata tai asentaa mitään" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Ei tarvitse kirjoittaa mitään koodia" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Lataa vain PSD-tiedosto, aseta vesileima ja paina\" Lisää\” -painiketta " >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Hanki heti tuloksena olevan tiedoston latauslinkki" >}}
+		{{< /blocks/products/pf/agp/demobox >}}			
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, edustaa Adobe Photoshopin alkuperäistä tiedostomuotoa, jota käytetään grafiikan suunnitteluun ja kehittämiseen. PSD-tiedostot voivat sisältää kuvakerroksia, säätökerroksia, kerrosmaskeja, huomautuksia, tiedostotietoja, avainsanoja ja muita Photoshop-kohtaisia elementtejä. Photoshop-tiedostojen oletustunniste on .PSD, ja niiden enimmäiskorkeus ja -leveys on 30 000 pikseliä ja pituusrajoitus kaksi gigatavua.

@@ -1,6 +1,6 @@
 ---
-title: Muunna PSD TIFF ksi C# lla
-description: Vie PSD, PSB & AI-tiedosto .NET API n kautta
+title: Muunna PSD TIFF: ksi C#: lla
+description: Vie PSD, PSB & AI-tiedosto .NET API: n kautta
 family: psd
 platformtag: net
 feature: conversion
@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality Renderöinti PSD TIFF" %}}
 1. Lataa PSB [Kuvan.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) menetelmä
-1. Luo kuvasta Grafiikka-ilmentymä. [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) luokka
+1. Luo esiintymä [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) luokka
 1. Soita [Kuva.Tallenna](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) menetelmä
 1. Pass lähtö tiedostonimi ja kohde TIFFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
