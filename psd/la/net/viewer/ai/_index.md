@@ -56,12 +56,11 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title=" C# codicem ad visum AI" offSpacer="" %}}
 
-`cs
+```cs
 
+PM> Install-Package Aspose.PSD
 
-
-
-``
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -89,9 +88,10 @@ Aspose.PSD Photoshop forma manipulationis API est. Potest generare, mutare et co
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download AI fasciculus ex nexu, si requiratur" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
-Fasciculus cum .ai extensione est Adobe Illustrator Artwork fasciculus qui vector graphics in una pagina continet. utitur demonstrat vias ad creandum notitias imaginum ostendendas, ita tutum facit a qualitate imaginis amittendi si augeatur. AI forma documenti basis est forma formae fasciculi PGF quae AI imagini similis. AI forma maiorem usum in logon et instrumentis impressis invenit, eiusque versiones initiales similes imagini EPS censebantur. Files AI aperiri possunt cum Adobe Illustratore, Adobe Acrobat DC, PaintShop Pro, et CorelDraw instrumenta Graphica.
+Fasciculus cum .ai extensione est Adobe Illustrator Artwork fasciculus qui vector graphics in una pagina continet. utitur demonstrat vias ad creandum notitias imaginum ostendendas, ita tutum facit a qualitate imaginis amittendi si augeatur. AI forma documenti basis est forma formae fasciculi PGF quae AI imagini similis. AI forma maiorem usum in logon et instrumentis impressis invenit, eiusque versiones initiales similes imagini EPS censebantur. Files AI aperiri possunt cum Adobe Illustratore, Adobe Acrobat DC, PaintShop Pro, et CorelDraw instrumenta Graphica.        
 
         {{< /blocks/products/pf/agp/about-file-text >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 

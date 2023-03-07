@@ -23,11 +23,11 @@ url: net/watermark/psd/
 
 {{% blocks/products/pf/agp/code-block title=" Mandatum" offSpacer="true" %}}
 
-`cs
+```cs
 
 PM> Install-Package Aspose.PSD
 
-``
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -99,6 +99,8 @@ PM> Install-Package Aspose.PSD
 PSD, Documentum Photoshop, Adobe Photoshop patrium documenti formam repraesentat ad graphice designando et evolutionem adhibendo. Paginae PSD possunt includere imagines imaginum, stratis, commensurationis, stratis, larvis stratis, annotationes, informationes fasciculi, keywords et alia elementa photographica specialia. Documenta photographica extensionem default sicut .PSD habent et maximam altitudinem et latitudinem 30,000 imaginum habet et longitudinis duorum gigabytarum limitem.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
+		
+		{{< /blocks/products/pf/agp/demobox >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 

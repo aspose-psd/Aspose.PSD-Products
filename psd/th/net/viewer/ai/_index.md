@@ -85,7 +85,7 @@ Aspose.PSD เป็น API การจัดการรูปแบบ Photos
         {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู AI" sectionDescription="ตรวจสอบการสาธิตสดของเราได้ที่ [ดู AI](https://products.aspose.app/psd/viewer/ai) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนหรือรวบรวมโค้ด" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ AI แล้วกดปุ่ม\" ดู\" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ AI แล้วกดปุ่ม \"ดู\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ดาวน์โหลดไฟล์ AI จากลิงก์ถ้าจำเป็น" >}}
 			{{< /blocks/products/pf/agp/demobox >}}
 

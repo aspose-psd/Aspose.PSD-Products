@@ -23,11 +23,11 @@ url: net/viewer/psb/
 
 {{% blocks/products/pf/agp/code-block title=" Package Manager Console Command" offSpacer="true" %}}
 
-`cs
+```cs
 
 PM> Install-Package Aspose.PSD
 
-``
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -61,9 +61,11 @@ PM> Install-Package Aspose.PSD
 
 {{% blocks/products/pf/agp/code-block title="C# codice ad visum PSB" offSpacer="" %}}
 
-`cs
+```cs
 
-``
+PM> Install-Package Aspose.PSD
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -94,14 +96,13 @@ PM> Install-Package Aspose.PSD
 Adobe forum servat lima in duabus formats. Tabulae 30,000 per 30,000 elementa in magnitudine habentes, salvantur cum extensione PSD et imaginum majorum quam PSD usque ad 300,000 per 300.000 pixella, salvantur cum extensione PSB notae "Photoshop Big". Specialius, fasciculi PSB tam magnae esse possunt quam 4 EB (super 4.2 miliardis GB) cum imaginibus quae altitudinem et latitudinem usque ad 300.000 elementa habent. PSDs, contra, potest esse maxime usque ad 2 GB et imaginum dimensiones 30,000 elementorum. PSB etiam nota est magna forma magnitudinis ad forum officinae et omnes lineas photographicas sustinet sicut stratis, effectibus et eliquaribus.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title=" Visum Formatorum Alii suffulti" subTitle=" Usura C#, etiam multas alias formas fasciculi comprehendentes inspicere potest." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="/" name="" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Visum Formatorum Alii suffulti" subTitle="Usura C#, etiam multas alias formas fasciculi comprehendentes inspicere potest." >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
