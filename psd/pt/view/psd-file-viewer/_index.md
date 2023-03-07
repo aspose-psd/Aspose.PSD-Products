@@ -11,7 +11,7 @@ url: view/psd-file-viewer/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="PSD File Viewer" >}}
+{{< blocks/products/pf/feature-page-section h2="Visualizador de arquivos PSD" >}}
 <p>O visualizador PSD é um aplicativo simples para visualizar online qualquer arquivo PSD. Se você não tem o Adobe Photoshop, pode usar isso <a href="/psd/view/psd-file-viewer">Visualizador PSD</a> ou <a href="https://products.aspose.app/psd/editor">Aspose PSD Editor</a>. Ao contrário de outros visualizadores que você precisa instalar na máquina local, este visualizador de arquivos PSD é gratuito e funciona online. Devido às atualizações constantes do Aspose.PSD que alimenta o PSD Viewer, você poderá abrir as últimas versões dos arquivos PSD com a visualização perfeita em pixels. Observe que este aplicativo não usa o Adobe Photoshop, você pode reproduzir todas as funcionalidades deste visualizador com o C# ou Java, basta verificar <a href="https://products.aspose.com/psd">Aspose.PSD</a></p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))

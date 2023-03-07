@@ -44,7 +44,12 @@ Widget simples para reduzir o tamanho do arquivo de qualquer formato. Para a com
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Visualizar" symbol="V" productLink="view/" >}}
 Widget simples para visualizar arquivos PSD, PSB e AI
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Circle Crop" symbol="CC" productLink="crop/circle/" >}}
+Widget simples para cortar a imagem do círculo.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD não inclui aplicativos de código" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Conversão" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

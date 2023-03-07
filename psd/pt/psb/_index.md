@@ -22,7 +22,7 @@ url: psb/
 "Exemplos de abertura de arquivos PSB no Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "Tutorial de como abrir arquivos PSB sem o Photoshop" "https://products.aspose.com/psd/net/viewer/" 
 "Visualizador de arquivos PSB como serviço autônomo" "https://products.aspose.app/psd/viewer" >}}
-<p>Visualize o arquivo PSB com o visualizador PSB sem código embutido no PSB. Você pode abrir o arquivo PSB com o aplicativo atual. Se você precisar de recursos adicionais de edição, verifique o <a href="https://products.aspose.app/psd/template-editor">Editor PSB</a>.</p>
+<p>Visualize o arquivo PSB com o visualizador PSB sem código embutido no PSB. Você pode abrir o arquivo PSB com o aplicativo atual. Se você precisar de recursos adicionais de edição, verifique o <a href="https://products.aspose.app/psd/template-editor">Editor PSB</a>. Experimente arquivos PSB se precisar usar arquivos grandes</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 
