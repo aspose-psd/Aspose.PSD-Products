@@ -85,7 +85,7 @@ Aspose.PSD je Photoshop format manipulacije API. One mogu generirati, mijenjati 
         {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za prikaz AI" sectionDescription="Provjerite naše live demo [Pogledaj AI](https://products.aspose.app/psd/viewer/ai) sa sljedećim pogodnostima." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem ili kompajliranjem koda" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite AI datoteku i pritisnite gumb\" View\""" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite AI datoteku i pritisnite gumb\"View\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Preuzmite AI datoteku s veze, ako je potrebno" >}}
 			{{< /blocks/products/pf/agp/demobox >}}
 

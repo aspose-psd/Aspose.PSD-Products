@@ -87,7 +87,7 @@ Aspose.PSD - гэта API для маніпулявання фарматам Pho
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Няма неабходнасці пісаць або кампіляваць код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Проста загрузіце файл AI і націсніце \"View\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Спампуйце файл AI па спасылцы, калі патрабуецца" >}}
-
+		{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Файл з пашырэннем .ai — гэта файл Adobe Illustrator Artwork, які змяшчае вектарную графіку на адной старонцы. ён выкарыстоўвае кропкі для стварэння шляхоў для адлюстравання даных выявы, што робіць яго бяспечным ад страты якасці выявы, калі яно будзе павялічана. Фармат файла AI з'яўляецца асновай для фармату файла PGF, які падобны на файлы AI. Фармат AI знаходзіць сваё асноўнае выкарыстанне для лагатыпаў і друкаваных СМІ, і яго першапачатковыя версіі лічыліся падобнымі да файлаў EPS. Файлы AI можна адкрыць з дапамогай інструментаў Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro і CorelDraw Graphics.
 
