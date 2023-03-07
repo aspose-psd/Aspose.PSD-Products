@@ -201,7 +201,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Підтримувані формати файлів" description="Aspose.PSD для.NET підтримує найпопулярніші формати файлів [Photoshop та растрові зображення] (https://docs.aspose.com/psd/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Підтримувані формати файлів" description="Aspose.PSD для .NET підтримує найбільш популярні [Фотошоп і растровий малюнок](https://docs.aspose.com/psd/net/supported-file-formats/)  формати файлів." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

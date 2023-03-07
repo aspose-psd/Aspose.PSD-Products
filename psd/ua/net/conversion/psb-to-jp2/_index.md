@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Високоякісний рендеринг PSB як BMP" %}}
 1. Завантажте PSB за допомогою [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
- [Параметри JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) клас
+1. Створіть екземпляр [Параметри JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) клас
 1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте назву вихідного файлу та об'єкт Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

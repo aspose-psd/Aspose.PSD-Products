@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Безкоштовний додаток для перегляду PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Безкоштовний додаток для перегляду PSB" sectionDescription="Перевірте наші живі демо [Переглянути ПСБ](https://products.aspose.app/psd/viewer/psb) з наступними перевагами»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно нічого завантажувати або налаштовувати" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не потрібно писати або компілювати код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто завантажте файл PSB і натисніть кнопку\" Перегляд\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Завантажити PSB файл за посиланням, якщо потрібно" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop зберігає файли у двох форматах. Файли, що мають 30 000 до 30 000 пікселів, зберігаються з розширенням PSD, а файли, більші, ніж PSD до 300 000 на 300 000 пікселів, зберігаються з розширенням PSB, відома як "Photoshop Big". Більш конкретно, файли PSB можуть бути такими ж великими, як 4 EB (понад 4,2 млрд. Гб) з зображеннями, які мають висоту та ширину до 300 000 пікселів. З іншого боку, PSD, з іншого боку, можуть бути максимум до 2 Гб та розмірами зображення 30 000 пікселів. PSB також відомий як великий розмір формату для Photoshop та підтримує всі функції Photoshop, такі як шари, ефекти та фільтри

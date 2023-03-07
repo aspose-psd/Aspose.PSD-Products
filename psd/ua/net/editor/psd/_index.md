@@ -116,12 +116,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Візуальний PSD Інтернет редактор додаток" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Візуальний PSD Інтернет редактор додаток" sectionDescription="Редагувати PSD файли, відвідавши наш [Жива Демос сайт](https://products.aspose.app/psd/editor/). Демо має наступні переваги" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно нічого завантажувати або налаштовувати" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не потрібно писати код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто завантажте PSD файл, внесіть деякі зміни і натисніть кнопку «Завантажити\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Миттєво отримайте посилання для завантаження результуючого файлу" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, представляє власний файл Adobe Photoshop, який використовується для розробки та розробки графіки. Файли PSD можуть включати шари зображень, налаштування шарів, маски шарів, анотації, інформацію про файл, ключові слова та інші елементи, специфічні Photoshop. Файли Photoshop мають розширення за замовчуванням як .PSD і має максимальну висоту і ширину 30 000 пікселів, а ліміт довжини двох гігабайт
 

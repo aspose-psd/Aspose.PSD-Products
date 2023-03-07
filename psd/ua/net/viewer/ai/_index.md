@@ -82,11 +82,12 @@ Aspose.PSD є Photoshop формат маніпулювання API. Можна 
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Безкоштовний додаток для перегляду AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Безкоштовний додаток для перегляду AI" sectionDescription="Перевірте наші живі демо [Переглянути штучний інтелект](https://products.aspose.app/psd/viewer/ai) з наступними перевагами»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно нічого завантажувати або налаштовувати" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не потрібно писати або компілювати код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто завантажте файл AI і натисніть кнопку\" Перегляд\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Завантажити AI файл за посиланням, якщо потрібно" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Файл з розширенням.ai - це файл Adobe Illustrator Artwork, який містить векторну графіку на одній сторінці. він використовує точки для створення шляхів для відображення даних зображення, що робить його безпечним від втрати якості зображення, якщо воно збільшено. Формат файлів AI заснований на форматі файлу PGF, який схожий на файли AI. Формат AI знаходить своє основне використання для логотипів та друкованих засобів масової інформації, а його початкові версії вважалися подібними до файлів EPS. Файли AI можна відкривати за допомогою інструментів Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro та графічних інструментів CorelDraw.

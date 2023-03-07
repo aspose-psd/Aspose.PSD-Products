@@ -17,7 +17,7 @@ url: psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Висока якість візуалізації PSD як PNG" %}}
 1. Завантажте PSD з [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
-1. Створіть екземпляр графіки з зображення. [Параметри PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) клас
+1. Створіть екземпляр [Параметри PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) клас
 1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте назву файла виводу та об'єкт pngOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

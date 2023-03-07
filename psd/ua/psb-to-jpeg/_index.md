@@ -17,7 +17,7 @@ url: psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="Високоякісний рендеринг PSB як JPEG" %}}
 1. Завантажте PSB за допомогою [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
-1. Створіть екземпляр графіки з зображення. [Параметри JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) клас
+1. Створіть екземпляр [Параметри JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) клас
 1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте назву вихідного файлу та об'єкт JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
