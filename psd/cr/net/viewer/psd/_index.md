@@ -87,7 +87,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za pregled PSD-a" sectionDescription="Provjerite naše live demo [Pogledaj PSD](https://products.aspose.app/psd/viewer/psd) sa sljedećim pogodnostima." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem ili kompajliranjem koda" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSD datoteku i pritisnite gumb\" View\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSD datoteku i pritisnite gumb\"View\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Preuzmite PSD datoteku s veze, ako je potrebno" >}}
 		{{< /blocks/products/pf/agp/demobox >}}
 
