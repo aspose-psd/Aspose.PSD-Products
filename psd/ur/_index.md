@@ -44,7 +44,12 @@ IFrame سرایت پر مبنی کثیر المقاصد تبادلوں کی در
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="دیکھیں" symbol="V" productLink="view/" >}}
 پی ایس ڈی، پی ایس بی اور AI فائلوں کو دیکھنے کے لئے سادہ ویجیٹ
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="دائرے کی فصل" symbol="CC" productLink="crop/circle/" >}}
+دائرے کی تصویر فصل کرنے کے لئے سادہ ویجیٹ.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD کوئی کوڈ اطلاقات شامل نہیں ہیں" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title=" تبدیلی " imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

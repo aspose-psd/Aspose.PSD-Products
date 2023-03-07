@@ -17,7 +17,7 @@ url: psd-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="جے پی ڈی کے طور پر پی ایس ڈی کے اعلی معیار کی انجام" %}}
 1. پی ایس ڈی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
-1. تصویر سے گرافکس کی ایک مثال بنائیں. [جے پیجی 2000 کے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) جماعت
+1. کی ایک مثال بنائیں [جے پیجی 2000 کے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. Jpeg2000Options کے آؤٹ پٹ فائل کا نام اور اعتراض پاس کریں
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -116,12 +116,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="بصری پی ایس ڈی آن لائن ایڈیٹر اپلی کیشن" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="بصری پی ایس ڈی آن لائن ایڈیٹر اپلی کیشن" sectionDescription="کا دورہ کر کے پی ایس ڈی فائلوں میں ترمیم کریں ہمارے [لائیو ڈیمو ویب سائٹ](https://products.aspose.app/psd/editor/). لائیو ڈیمو مندرجہ ذیل فوائد ہیں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="کچھ بھی ڈاؤن لوڈ کرنے یا سیٹ اپ کرنے کی ضرورت نہیں ہے" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="کوئی کوڈ لکھنے کی ضرورت نہیں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="بس اپنی پی ایس ڈی فائل اپ لوڈ کریں، کچھ تبدیلیاں کریں اور ماریں\" ڈاؤن لوڈ کریں\” بٹن" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="فوری طور پر نتیجے میں فائل کے لئے ڈاؤن لوڈ لنک حاصل کریں" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 پی ایس ڈی، فوٹوشاپ دستاویز، ایڈوب فوٹوشاپ کی مقامی فائل کی شکل کی نمائندگی کرتا ہے جو گرافکس ڈیزائننگ اور ترقی کے پی ایس ڈی فائلوں میں تصویر کی تہوں، ایڈجسٹمنٹ تہوں، پرت ماسک، تشریحات، فائل کی معلومات، مطلوبہ الفاظ اور دیگر فوٹوشاپ مخصوص عناصر شامل ہوسکتے ہیں. فوٹوشاپ فائلوں میں پی ایس ڈی کے طور پر ڈیفالٹ توسیع ہے اور 30,000 پکسلز کی زیادہ سے زیادہ اونچائی اور چوڑائی ہے، اور دو گیگا بائٹس کی لمبائی کی حد ہے.
 

@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="جے پی 2 کے طور پر پی ایس بی کے اعلی معیار کی رینڈریننگ" %}}
 1. پی ایس بی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
- [جے پیجی 2000 کے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) جماعت
+1. کی ایک مثال بنائیں [جے پیجی 2000 کے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. Jpeg2000Options کے آؤٹ پٹ فائل کا نام اور اعتراض پاس کریں
 {{% /blocks/products/pf/agp/feature-section-col %}}

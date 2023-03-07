@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="پی ایس بی دیکھنے کے لئے مفت اپلی کیشن" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="پی ایس بی دیکھنے کے لئے مفت اپلی کیشن" sectionDescription="ہمارے لائیو ڈیمو چیک کریں [پی ایس بی دیکھیں](https://products.aspose.app/psd/viewer/psb) مندرجہ ذیل فوائد کے ساتھ." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="کچھ بھی ڈاؤن لوڈ کرنے یا سیٹ اپ کرنے کی ضرورت نہیں ہے" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="کوڈ لکھنے یا مرتب کرنے کی کوئی ضرورت نہیں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="بس پی ایس بی فائل اپ لوڈ کریں اور\" دیکھیں\” بٹن کو ماریں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="لنک سے پی ایس بی فائل ڈاؤن لوڈ کریں، اگر ضرورت ہو" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 ایڈوب فوٹوشاپ فائلوں کو دو فارمیٹس میں بچاتا ہے. سائز میں 30،000 پکسلز کی طرف سے فائلوں کو پی ایس ڈی کی توسیع کے ساتھ محفوظ کیا جاتا ہے اور پی ایس ڈی سے 300,000 تک 300,000 پکسلز تک فائلوں کو “فوٹوشاپ بگ” کے طور پر جانا جاتا ہے پی ایس بی توسیع کے ساتھ محفوظ کیا جاتا ہے. مزید خاص طور پر، پی ایس بی فائلیں 4 ای بی (4.2 بلین GB سے زائد) کے طور پر بڑی ہوسکتی ہیں جن میں تصاویر کے ساتھ 300,000 پکسلز تک اونچائی اور چوڑائی ہے. دوسری طرف PSDs، زیادہ سے زیادہ 2 GB اور 30،000 پکسلز کی تصویر طول و عرض تک ہوسکتا ہے. پی ایس بی کو فوٹوشاپ کے لئے بڑے فارمیٹ سائز کے طور پر بھی جانا جاتا ہے اور تہوں، اثرات اور فلٹرز جیسے تمام فوٹوشاپ خصوصیات کی حمایت کرتا ہے.

@@ -22,7 +22,7 @@ url: psb/
 "Gusts پر پی ایس بی فائلوں کو کھولنے کی مثالیں" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "فوٹوشاپ کے بغیر پی ایس بی فائلوں کو کیسے کھولنے کے لئے ٹیوٹوریل" "https://products.aspose.com/psd/net/viewer/" 
 "پی ایس بی فائلیں ناظرین اسٹینڈ سروس کے طور پر" "https://products.aspose.app/psd/viewer" >}}
-<p>PSB بلٹ میں کوئی کوڈ PSB ناظر کے ساتھ پی ایس بی فائل دیکھیں. آپ موجودہ درخواست کے ساتھ پی ایس بی فائل کھول سکتے ہیں. اگر آپ کو اضافی ترمیم کی خصوصیات کی ضرورت ہے تو براہ کرم چیک کریں <a href="https://products.aspose.app/psd/template-editor">پی ایس بی ایڈیٹر</a>.</p>
+<p>PSB بلٹ میں کوئی کوڈ PSB ناظر کے ساتھ پی ایس بی فائل دیکھیں. آپ موجودہ درخواست کے ساتھ پی ایس بی فائل کھول سکتے ہیں. اگر آپ کو اضافی ترمیم کی خصوصیات کی ضرورت ہے تو براہ کرم چیک کریں <a href="https://products.aspose.app/psd/template-editor">پی ایس بی ایڈیٹر</a>. اگر بڑی فائلوں کو استعمال کرنے کی ضرورت ہو تو پی ایس بی فائلوں کو آزمائیں</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

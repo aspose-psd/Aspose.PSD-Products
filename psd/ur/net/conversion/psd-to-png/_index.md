@@ -17,7 +17,7 @@ url: net/conversion/psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="PNG کے طور پر پی ایس ڈی کے اعلی معیار کی انجام" %}}
 1. پی ایس ڈی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
- [پی این جی آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) جماعت
+1. کی ایک مثال بنائیں [پی این جی آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. پاس آؤٹ پٹ فائل کا نام اور pngOptions کا اعتراض
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -17,7 +17,7 @@ url: psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="پی ایس بی کی PNG کے طور پر اعلی معیار کی رینڈرینگ" %}}
 1. پی ایس بی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
-1. تصویر سے گرافکس کی ایک مثال بنائیں. [پی این جی آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) جماعت
+1. کی ایک مثال بنائیں [پی این جی آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. پاس آؤٹ پٹ فائل کا نام اور pngOptions کا اعتراض
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -36,7 +36,7 @@ PM> Install-Package Aspose.PSD
 
 {{% /blocks/products/pf/agp/text %}}
 
-[XXX]
+{{code_steps}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,11 +82,12 @@ Aspose.PSD فوٹوشاپ فارمیٹ ہیرا پھیری API ہے. ایک ای
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="AI دیکھنے کے لئے مفت اپلی کیشن" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="AI دیکھنے کے لئے مفت اپلی کیشن" sectionDescription="ہمارے لائیو ڈیمو چیک کریں [اے آئی دیکھیں](https://products.aspose.app/psd/viewer/ai) مندرجہ ذیل فوائد کے ساتھ." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="کچھ بھی ڈاؤن لوڈ کرنے یا سیٹ اپ کرنے کی ضرورت نہیں ہے" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="کوڈ لکھنے یا مرتب کرنے کی کوئی ضرورت نہیں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="صرف AI فائل اپ لوڈ کریں اور\" دیکھیں\” بٹن کو ماریں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="اگر ضرورت ہو تو، لنک سے AI فائل ڈاؤن لوڈ کریں" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 .ai توسیع کے ساتھ ایک فائل ایک ایڈوب Illustrator آرٹ ورک فائل ہے جس میں ایک صفحے میں ویکٹر گرافکس شامل ہے. یہ تصویر کے اعداد و شمار کی نمائش کے لئے راستے بنانے کے لئے پوائنٹس کا استعمال کرتا ہے، اس طرح اگر یہ بڑا ہو تو تصویر کے معیار کو کھونے سے محفوظ بنا دیتا ہے. AI فائل کی شکل PGF فائل فارمیٹ پر مبنی ہے جو AI فائلوں کی طرح ہیں. AI فارمیٹ علامات اور پرنٹ میڈیا کے لئے اس کا بڑا استعمال تلاش کرتا ہے، اور اس کے ابتدائی ورژن EPS فائلوں کی طرح سمجھا جاتا تھا. AI فائلوں کو ایڈوب Illustrator، ایڈوب ایکروبیٹ ڈی سی، پینٹ شاپ پرو، اور کورل ڈرا گرافکس کے اوزار کے ساتھ کھول دیا جا سکتا ہے.

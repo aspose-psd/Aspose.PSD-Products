@@ -17,7 +17,7 @@ url: psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="بی ایم پی کے طور پر پی ایس بی کے اعلی معیار کی انجام" %}}
 1. پی ایس بی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
-1. تصویر سے گرافکس کی ایک مثال بنائیں. [بی ایم آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) جماعت
+1. کی ایک مثال بنائیں [بی ایم آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. BMoptions کے آؤٹ پٹ فائل کا نام اور اعتراض پاس
 {{% /blocks/products/pf/agp/feature-section-col %}}
