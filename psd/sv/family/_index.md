@@ -1,5 +1,5 @@
 ---
-title: .NET och Java Photoshop API er | Tolka PSD- och PSB-filer
+title: .NET och Java Photoshop API: er | Tolka PSD- och PSB-filer
 weight: 10
 description: Bibliotek för att läsa skriva och exportera PSD- och PSB-filer på flera plattformar. Extrahera och manipulera lager utan att Photoshop har installerats.
 url: family/

@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.PSD för Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Vattenstämpel PSD via Online App" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Vattenstämpel PSD via Online App" sectionDescription="Lägg till vattenstämpel till PSD-dokument genom att besöka vår [Live Demos: Hemsida](https://products.aspose.app/psd/watermark). Live demo har följande fördelar" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Inget behov av att ladda ner eller ställa in något" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Inget behov av att skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp din PSD-fil, ställ in din vattenstämpel och tryck\" Lägg till ”knapp" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Få omedelbart nedladdningslänken för den resulterande filen" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, representerar Adobe Photoshop ursprungliga filformat som används för grafik design och utveckling. PSD-filer kan innehålla bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika element. Photoshop-filer har standardtillägg som.PSD och har en maximal höjd och bredd på 30 000 pixlar och en längdgräns på två gigabyte.

@@ -17,7 +17,7 @@ url: net/conversion/psd-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Hög kvalitet Rendering av PSD som BMP" %}}
 1. Ladda PSD med [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metod
- [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) klass
+1. Skapa en instans av [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) klass
 1. Ring [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metod
 1. Skicka utdatafilnamn och objekt för BMPoptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

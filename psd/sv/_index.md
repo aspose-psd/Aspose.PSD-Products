@@ -1,7 +1,7 @@
 ---
 title: Skapa, redigera eller konvertera PSD & SB-filer till PDF & bildformat
 weight: 310
-description: On Premise API er och gratisappar för att redigera Adobe® Photoshop®-filer. Möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar, rotera, skala, Vänd, Beskär, Dithering, Raster Conversion.
+description: On Premise API:er och gratisappar för att redigera Adobe® Photoshop®-filer. Möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar, rotera, skala, Vänd, Beskär, Dithering, Raster Conversion.
 url: /
 ---
 
@@ -44,7 +44,12 @@ Enkel widget för att minska storleken på filen i alla format. För PSD komprim
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Visa" symbol="V" productLink="view/" >}}
 Enkel widget för att visa PSD-, PSB- och AI-filer
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Cirkel gröda" symbol="CC" productLink="crop/circle/" >}}
+Enkel widget för att beskära cirkeln bild.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Ingen kod Apps Inkludera" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Konvertering" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

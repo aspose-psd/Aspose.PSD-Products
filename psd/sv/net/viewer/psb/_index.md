@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att visa PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att visa PSB" sectionDescription="Kolla våra live-demos till [Visa PSB](https://products.aspose.app/psd/viewer/psb) med följande fördelar." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Inget behov av att ladda ner eller ställa in något" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Inget behov av att skriva eller kompilera kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp PSB-filen och tryck på\" Visa\” knapp" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ladda ner PSB-filen från länken, om det behövs" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop sparar filer i två format. Filer med 30.000 x 30.000 pixlar i storlek sparas med PSD förlängning och filer större än PSD upp till 300.000 med 300.000 pixlar sparas med PSB förlängning kallas ”Photoshop Big”. Mer specifikt kan PSB-filer vara så stora som 4 EB (över 4,2 miljarder GB) med bilder som har en höjd och bredd på upp till 300 000 pixlar. PSD, å andra sidan, kan vara högst upp till 2 GB och bilddimensioner på 30 000 pixlar. PSB är också känd som storformatstorlek för Photoshop och stöder alla Photoshop-funktioner som lager, effekter och filter.
