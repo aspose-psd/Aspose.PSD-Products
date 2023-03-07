@@ -116,12 +116,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Εφαρμογή επεξεργασίας Visual PSD Online" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Εφαρμογή επεξεργασίας Visual PSD Online" sectionDescription="Επεξεργαστείτε τα αρχεία PSD επισκεπτόμενοι το [Ιστότοπος ζωντανών επιδείξεων](https://products.aspose.app/psd/editor/). Το live demo έχει τα ακόλουθα πλεονεκτήματα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Δεν χρειάζεται να γράψετε κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλά ανεβάστε το αρχείο PSD σας, κάντε κάποιες αλλαγές και πατήστε το κουμπί\" Λήψη\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Αμέσως πάρτε το σύνδεσμο λήψης για το προκύπτον αρχείο" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 Το PSD, Photoshop Document, αντιπροσωπεύει την εγγενή μορφή αρχείου του Adobe Photoshop που χρησιμοποιείται για τη σχεδίαση και την ανάπτυξη γραφικών. Τα αρχεία PSD μπορεί να περιλαμβάνουν επίπεδα εικόνας, επίπεδα ρύθμισης, μάσκες επιπέδων, σχολιασμούς, πληροφορίες αρχείου, λέξεις-κλειδιά και άλλα στοιχεία ειδικά για το Photoshop. Τα αρχεία Photoshop έχουν προεπιλεγμένη επέκταση ως .PSD και έχει μέγιστο ύψος και πλάτος 30.000 pixel και όριο μήκους δύο gigabyte.
 

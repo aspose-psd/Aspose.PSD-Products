@@ -17,7 +17,7 @@ url: psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Υψηλής Ποιότητας Απόδοση του PSD ως PNG" %}}
 1. Φόρτωση του PSD με [Εικόνα.Φόρτωση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) μέθοδος
-1. Δημιουργήστε μια παρουσία των γραφικών από την εικόνα. [PnGOPTIC](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) τάξη
+1. Δημιουργήστε μια παρουσία του [PnGOPTIC](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) τάξη
 1. Καλέστε [Εικόνα.Αποθήκευση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) μέθοδος
 1. Περάστε το όνομα αρχείου εξόδου και το αντικείμενο του PnGoptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

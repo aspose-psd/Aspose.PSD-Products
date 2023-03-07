@@ -82,11 +82,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για να δείτε AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για να δείτε AI" sectionDescription="Ελέγξτε τα live demos μας για [Προβολή AI](https://products.aspose.app/psd/viewer/ai) με τις ακόλουθες παροχές." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Δεν χρειάζεται να γράψετε ή να μεταγλωττίσετε κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλά ανεβάστε το αρχείο AI και πατήστε το κουμπί\" Προβολή\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Κατεβάστε το αρχείο AI από το σύνδεσμο, εάν απαιτείται" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Ένα αρχείο με επέκταση.ai είναι ένα αρχείο Adobe Illustrator Artwork που περιέχει διανυσματικά γραφικά σε μία σελίδα. Χρησιμοποιεί σημεία για τη δημιουργία διαδρομών για την εμφάνιση των δεδομένων εικόνας, καθιστώντας το ασφαλές από την απώλεια ποιότητας εικόνας σε περίπτωση μεγέθυνσης. AI μορφή αρχείου είναι βάση don τη μορφή αρχείου PGF που είναι παρόμοια με τα αρχεία AI. AI μορφή βρίσκει σημαντική χρήση της για τα λογότυπα και τα έντυπα μέσα ενημέρωσης, και αρχικές εκδόσεις του θεωρήθηκαν παρόμοια με εκείνη των αρχείων EPS. Τα αρχεία AI μπορούν να ανοιχτούν με το Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro και εργαλεία γραφικών CorelDRAW.
