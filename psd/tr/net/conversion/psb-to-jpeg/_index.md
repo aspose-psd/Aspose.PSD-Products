@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSB'nin JPEG olarak Yüksek Kaliteli Oluşturulması" %}}
 1. PSB'yi [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) sınıf
+1. Bir örneği oluşturun [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. Çıktı dosya adını ve JPEGOptions nesnesini geçirin
 {{% /blocks/products/pf/agp/feature-section-col %}}

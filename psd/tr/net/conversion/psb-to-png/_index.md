@@ -17,7 +17,7 @@ url: net/conversion/psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSB'nin PNG Olarak Yüksek Kalitede Oluşturulması" %}}
 1. PSB'yi [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) sınıf
+1. Bir örneği oluşturun [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. PngOptions çıktı dosya adını ve nesnesini iletin
 {{% /blocks/products/pf/agp/feature-section-col %}}

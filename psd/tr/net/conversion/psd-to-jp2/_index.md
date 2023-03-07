@@ -17,7 +17,7 @@ url: net/conversion/psd-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="JP2 olarak PSD Yüksek Kalite Render" %}}
 1. PSD ile yükleyin [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [Jpeg2000Seçenekler](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) sınıf
+1. Bir örneği oluşturun [Jpeg2000Seçenekler](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. Jpeg2000Options'ın çıktı dosya adını ve nesnesini geçirin
 {{% /blocks/products/pf/agp/feature-section-col %}}

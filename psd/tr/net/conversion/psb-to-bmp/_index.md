@@ -17,7 +17,7 @@ url: net/conversion/psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSB'nin BMP Olarak Yüksek Kalitede Oluşturulması" %}}
 1. PSB'yi [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) sınıf
+1. Bir örneği oluşturun [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. Çıktı dosya adını ve BMPoptions nesnesini geçirin
 {{% /blocks/products/pf/agp/feature-section-col %}}

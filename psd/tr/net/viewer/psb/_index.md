@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="PSB'yi Görüntülemek İçin Ücretsiz Uygulama" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="PSB'yi Görüntülemek İçin Ücretsiz Uygulama" sectionDescription="Canlı demolarımızı kontrol edin [PSB'yi Görüntüle](https://products.aspose.app/psd/viewer/psb) aşağıdaki avantajlarla." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmeye veya ayarlamaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Kod yazmaya veya derlemeye gerek yok" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSB dosyasını yükleyin ve Görünüm düğmesine basın" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSB dosyasını yükleyin ve\" Görünüm\” düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Gerekirse PSB dosyasını linkten indirin" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe photoshop dosyaları iki formatta kaydeder. Boyutunda 30.000 piksel 30.000 olan dosyalar PSD uzantısı ile kaydedilir ve 300.000 piksel 300.000 kadar PSD daha büyük dosyalar “Photoshop Big” olarak bilinen PSB uzantısı ile kaydedilir. Daha spesifik olarak, PSB dosyaları 300.000 piksele kadar yükseklik ve genişliğe sahip görüntülerle 4 EB (4,2 milyar GB'ın üzerinde) kadar büyük olabilir. Öte yandan, PSD'ler maksimum 2 GB'a kadar ve 30.000 piksel görüntü boyutlarında olabilir. PSB, photoshop için geniş format boyutu olarak da bilinir ve katmanlar, efektler ve filtreler gibi tüm photoshop özelliklerini destekler.

@@ -17,7 +17,7 @@ url: net/conversion/psb-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSB'nin TIFF Olarak Yüksek Kalitede Oluşturulması" %}}
 1. PSB'yi [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) sınıf
+1. Bir örneği oluşturun [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. Çıktı dosya adını ve TiffOptions'ın nesnesini geçirin
 {{% /blocks/products/pf/agp/feature-section-col %}}

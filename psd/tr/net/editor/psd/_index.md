@@ -116,12 +116,12 @@ Veya iText işlevini kullanın ve her metin bölümünü kendi özel stiliyle ya
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Görsel PSD Çevrimiçi Editör Uygulaması" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Görsel PSD Çevrimiçi Editör Uygulaması" sectionDescription="Ziyaret ederek PSD dosyalarını düzenleyin bizim [Live Demos Web Sitesi](https://products.aspose.app/psd/editor/). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmeye veya ayarlamaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmanıza gerek yok" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin, bazı değişiklikler yapın ve İndir düğmesine basın" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin, bazı değişiklikler yapın ve\" İndir\” düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosya için indirme bağlantısını anında alın" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Belgesi, grafik tasarımı ve geliştirme için kullanılan Adobe Photoshop'un yerel dosya biçimini temsil eder. PSD dosyaları görüntü katmanları, ayar katmanları, katman maskeleri, ek açıklamalar, dosya bilgileri, anahtar kelimeler ve diğer Photoshop özgü öğeleri içerebilir. Photoshop dosyaları.PSD olarak varsayılan uzantıya sahiptir ve maksimum yükseklik ve 30.000 piksel genişliğe ve iki gigabaytlık bir uzunluk sınırına sahiptir.
 

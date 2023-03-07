@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSB'nin JP2 olarak Yüksek Kaliteli Oluşturulması" %}}
 1. PSB'yi [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [Jpeg2000Seçenekler](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) sınıf
+1. Bir örneği oluşturun [Jpeg2000Seçenekler](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. Jpeg2000Options'ın çıktı dosya adını ve nesnesini geçirin
 {{% /blocks/products/pf/agp/feature-section-col %}}

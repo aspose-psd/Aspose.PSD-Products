@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Java ile Adobe® Photoshop® Dosya Dönüştürme" h2="Convert Photoshop PSD, PSB JPG, PNG, BMP, TIFF Görüntüler ve PDF çapraz platform Java uygulamaları oluşturmak için." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop® 'un PSD formatı, kartvizit tasarlamak için bir tasarımcı formatıdır, logo tasarımları, el ilanı maketleri, web sitesi tasarımları ve çok daha fazlası. Tasarımcıların PSD katmanlarını Adobe Photoshop aracılığıyla JPG, PNG, GIF, TIFF vb. Dahil olmak üzere tek bir görüntüye aktarmaları yaygın bir durumdur. Photoshop PSD dönüşümü için raster görüntüleri ve PDF'yi herhangi bir Java çözümü içinde, ** Java PSD API** kolaylıkla yapabilir. Herhangi bir PSD dönüşüm otomasyonu uygulaması için, aşağıdaki örnek kodlar raster görüntüler ve PDF dönüştürme için kolayca entegre edilebilir. **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Adobe® Photoshop® 'un PSD formatı, kartvizit tasarlamak için bir tasarımcı formatıdır, logo tasarımları, el ilanı maketleri, web sitesi tasarımları ve çok daha fazlası. Tasarımcıların PSD katmanlarını Adobe Photoshop aracılığıyla JPG, PNG, GIF, TIFF vb. Dahil olmak üzere tek bir görüntüye aktarmaları yaygın bir durumdur. Photoshop PSD dönüşümü için raster görüntüleri ve PDF'yi herhangi bir Java çözümü içinde, **Java PSD API'sı** kolaylıkla yapabilir. Herhangi bir PSD dönüşüm otomasyonu uygulaması için, aşağıdaki örnek kodlar raster görüntüler ve PDF dönüştürme için kolayca entegre edilebilir.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
