@@ -82,11 +82,12 @@ Aspose.PSD je rozhraní API pro manipulaci s formátem Photoshop. Lze generovat,
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení AI" sectionDescription="Podívejte se na naše živé ukázky [Zobrazit AI](https://products.aspose.app/psd/viewer/ai) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát nebo kompilovat kód" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor AI a stisknout tlačítko 'Zobrazit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor AI a stisknout tlačítko\" Zobrazit\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Stáhněte si soubor AI z odkazu, v případě potřeby" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Soubor s příponou.ai je soubor Adobe Illustrator Artwork, který obsahuje vektorovou grafiku na jedné stránce. používá body k vytvoření cest pro zobrazení obrazových dat, čímž je bezpečné před ztrátou kvality obrazu, pokud je zvětšena. Formát AI souboru je základní don formátu PGF souboru, které jsou podobné AI souborů. Formát AI najde své hlavní využití pro loga a tisková média, a jeho počáteční verze byly považovány za podobné jako u souborů EPS. Soubory AI lze otevřít pomocí nástrojů Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro a CorelDRAW Graphics.

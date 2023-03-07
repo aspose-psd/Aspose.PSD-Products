@@ -17,7 +17,7 @@ url: net/conversion/psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Vysoce kvalitní vykreslování PSB jako BMP" %}}
 1. Načíst PSB pomocí [Image.Načíst](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
- [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) třída
+1. Vytvořte instanci [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) třída
 1. Zavolejte [Obrázek.Uložit](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Předat název výstupního souboru a objekt BMpOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="Vysoce kvalitní vykreslování PSD jako TIFF" %}}
 1. Načíst PSD pomocí [Image.Načíst](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
-1. Vytvořte instanci grafiky z obrázku. [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) třída
+1. Vytvořte instanci [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) třída
 1. Zavolejte [Obrázek.Uložit](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Předat název výstupního souboru a objekt TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

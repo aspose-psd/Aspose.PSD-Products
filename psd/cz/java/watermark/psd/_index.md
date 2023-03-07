@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="O Aspose.PSD pro Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Vodoznak PSD prostřednictvím online aplikace" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Vodoznak PSD prostřednictvím online aplikace" sectionDescription="Přidejte vodoznak do dokumentů PSD návštěvou našeho [Web společnosti Live Demos](https://products.aspose.app/psd/watermark). Živé demo má následující výhody" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD, nastavit vodoznak a stisknout\" Přidat\“ tlačítko" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, představuje nativní formát souboru Adobe Photoshop používaný pro návrh a vývoj grafiky. Soubory PSD mohou obsahovat vrstvy obrázků, vrstvy úprav, masky vrstev, poznámky, informace o souborech, klíčová slova a další prvky specifické pro Photoshop. Soubory Photoshopu mají výchozí příponu jako PSD a mají maximální výšku a šířku 30 000 pixelů a délkový limit dvou gigabajtů.
