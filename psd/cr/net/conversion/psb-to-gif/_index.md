@@ -17,7 +17,7 @@ url: net/conversion/psb-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kvalitetno prikazivanje PSB-a kao GIF-a" %}}
 1. Učitajte PSB pomoću [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
- [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) klasa
+1. Stvorite instancu [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Pass izlazni naziv datoteke i objekt GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

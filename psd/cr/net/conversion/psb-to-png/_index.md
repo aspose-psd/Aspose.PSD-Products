@@ -17,7 +17,7 @@ url: net/conversion/psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kvalitetno prikazivanje PSB-a kao PNG" %}}
 1. Učitajte PSB pomoću [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
- [PNGOpcije](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) klasa
+1. Stvorite instancu [PNGOpcije](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Pass izlazni naziv datoteke i objekt PNGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

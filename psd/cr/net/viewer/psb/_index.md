@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za pregled PSB-a" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za pregled PSB-a" sectionDescription="Provjerite naše live demo [Pogledaj PSB](https://products.aspose.app/psd/viewer/psb) sa sljedećim pogodnostima." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem ili kompajliranjem koda" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSB datoteku i pritisnite gumb View" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSB datoteku i pritisnite gumb\" View\""" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Preuzmite PSB datoteku s veze, ako je potrebno" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe photoshop sprema datoteke u dva formata. Datoteke veličine 30.000 do 30.000 piksela spremaju se s PSD ekstenzijom, a datoteke veće od PSD-a do 300.000 x 300.000 piksela spremaju se s PSB ekstenzijom poznatim kao "Photoshop Big". Konkretnije, PSB datoteke mogu biti velike kao 4 EB (preko 4,2 milijarde GB) sa slikama koje imaju visinu i širinu do 300.000 piksela. PSD-ovi, s druge strane, mogu biti maksimalno do 2 GB i dimenzije slike od 30.000 piksela. PSB je također poznat kao veličina velikog formata za photoshop i podržava sve Photoshop značajke kao što su slojevi, efekti i filteri.

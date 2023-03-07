@@ -17,7 +17,7 @@ url: psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kvalitetno prikazivanje PSB-a kao JPEG" %}}
 1. Učitajte PSB pomoću [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
-1. Stvorite instancu grafike sa slike. [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) klasa
+1. Stvorite instancu [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Pass izlazni naziv datoteke i objekt JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

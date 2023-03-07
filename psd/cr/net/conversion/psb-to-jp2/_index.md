@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kvalitetno prikazivanje PSB-a kao JP2" %}}
 1. Učitajte PSB pomoću [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
- [Jpeg2000Opcije](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) klasa
+1. Stvorite instancu [Jpeg2000Opcije](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Prolazite naziv izlazne datoteke i objekt Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

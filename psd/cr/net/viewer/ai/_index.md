@@ -82,11 +82,12 @@ Aspose.PSD je Photoshop format manipulacije API. One mogu generirati, mijenjati 
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za prikaz AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Besplatna aplikacija za prikaz AI" sectionDescription="Provjerite naše live demo [Pogledaj AI](https://products.aspose.app/psd/viewer/ai) sa sljedećim pogodnostima." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem ili kompajliranjem koda" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite AI datoteku i pritisnite gumb View" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite AI datoteku i pritisnite gumb\" View\""" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Preuzmite AI datoteku s veze, ako je potrebno" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Datoteka s nastavkom.ai je datoteka Adobe Illustrator Artwork koja sadrži vektorsku grafiku na jednoj stranici. koristi točke za stvaranje putanja za prikaz slikovnih podataka, čime je sigurna od gubitka kvalitete slike ako je uvećana. AI format datoteke je baza u formatu PGF datoteke koji su slični AI datotekama. AI format pronalazi svoju glavnu upotrebu za logotipe i tiskane medije, a njegove početne verzije smatrale su se sličnim onima u EPS datotekama. AI datoteke mogu se otvoriti pomoću alata Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro i CorelDRAW Graphics.

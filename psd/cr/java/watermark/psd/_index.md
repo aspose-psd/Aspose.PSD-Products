@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="O Aspose.PSD za Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Vodeni žig PSD putem internetske aplikacije" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Vodeni žig PSD putem internetske aplikacije" sectionDescription="Dodajte vodeni žig PSD dokumentima posjetom našem [Web stranica Live Demosa](https://products.aspose.app/psd/watermark). Demo uživo ima sljedeće prednosti" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem bilo kojeg koda" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo prenesite PSD datoteku, postavite vodeni žig i pritisnite\" Dodaj\" gumb" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Odmah dobiti link za preuzimanje za rezultirajuću datoteku" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, predstavlja izvorni format datoteke tvrtke Adobe Photoshop koji se koristi za grafičko dizajniranje i razvoj. PSD datoteke mogu uključivati slojeve slika, slojeve za podešavanje, maske slojeva, napomene, informacije o datotekama, ključne riječi i druge elemente specifične za Photoshop. Photoshop datoteke imaju zadano proširenje kao .PSD i ima maksimalnu visinu i širinu od 30.000 piksela, a ograničenje duljine od dva gigabajta.
