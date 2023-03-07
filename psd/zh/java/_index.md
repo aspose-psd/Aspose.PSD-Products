@@ -164,7 +164,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="下面列出了适用于 Java 的 Aspose.PSD [支持的文件格式] (https://docs.aspose.com/psd/java/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="适用于 Java 的 Aspose.PSD [支持的文件格式](https://docs.aspose.com/psd/java/supported-file-formats/)  如下所列。" >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

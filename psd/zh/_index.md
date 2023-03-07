@@ -44,7 +44,12 @@ url: /
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="查看" symbol="V" productLink="view/" >}}
 用于查看 PSD、PSB 和 AI 文件的简单小工具
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Circle Crop" symbol="CC" productLink="crop/circle/" >}}
+裁剪圆圈图像的简单小部件。
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 不包含代码应用程序" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="转换" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

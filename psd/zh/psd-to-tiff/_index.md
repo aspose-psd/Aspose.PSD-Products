@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSD 的高质量渲染为 TIFF" %}}
 1。用以下方式加载 PSD [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
-1。从图像创建 Graphics 实例。 [TIF 期权](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) 班级
+1。创建的实例 [TIF 期权](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) 班级
 1。打电话 [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。传递 tiffOptions 的输出文件名和对象
 {{% /blocks/products/pf/agp/feature-section-col %}}

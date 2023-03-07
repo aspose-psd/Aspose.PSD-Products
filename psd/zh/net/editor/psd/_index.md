@@ -116,12 +116,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Visual PSD 在线编辑器应用程序" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Visual PSD 在线编辑器应用程序" sectionDescription="通过访问我们的 PSD 文件来编辑 PSD 文件 [直播演示网站](https://products.aspose.app/psd/editor/)。现场演示有以下好处" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写任何代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传你的 PSD 文件，进行一些更改然后点击\ “下载\” 按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取生成的文件的下载链接" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD，Photoshop 文档，代表了 Adobe Photoshop 用于图形设计和开发的本机文件格式。PSD 文件可能包括图像图层、调整图层、图层蒙版、批注、文件信息、关键字和其他 Photoshop 特定元素。Photoshop 文件的默认扩展名为 .PSD，最大高度和宽度为 30,000 像素，长度限制为 2 千兆字节
 

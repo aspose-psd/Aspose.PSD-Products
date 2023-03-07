@@ -22,7 +22,7 @@ url: psb/
 "在 Gists 上打开 PSB 文件的示例" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "教程如何在没有 Photoshop 的情况下打开 PSB 文件" "https://products.aspose.com/psd/net/viewer/" 
 "PSB 文件查看器作为独立服务" "https://products.aspose.app/psd/viewer" >}}
-<p>使用 PSB 内置无码 PSB 查看器查看 PSB 文件。您可以使用当前应用程序打开 PSB 文件。如果您需要其他编辑功能，请查看 <a href="https://products.aspose.app/psd/template-editor">PSD 编辑器</a>.</p>
+<p>使用 PSB 内置无码 PSB 查看器查看 PSB 文件。您可以使用当前应用程序打开 PSB 文件。如果您需要其他编辑功能，请查看 <a href="https://products.aspose.app/psd/template-editor">PSD 编辑器</a>。如果需要使用大文件，请尝试 PSB 文件</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

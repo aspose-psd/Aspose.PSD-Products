@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="查看PSB的免费应用程序" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="查看PSB的免费应用程序" sectionDescription="看看我们的现场演示 [查看 PSB](https://products.aspose.app/psd/viewer/psb) 具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 PSB 文件然后点击\ “查看\” 按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，从链接下载 PSB 文件" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop 以两种格式保存文件。大小为 30,000 x 30,000 像素的文件将使用 PSD 扩展名保存，大于 PSD 的文件将使用被称为 “Photoshop Big” 的 PSB 扩展名保存在 300 000 x 300,000 像素的文件。更具体地说，PSB 文件的大小可达 4 EB（超过 42 亿 GB），其图像的高度和宽度最多可达 300,000 像素。另一方面，月台幕门最大可达 2 GB，图像尺寸为 30,000 像素。PSB 也被称为 Photoshop 的大幅面尺寸，支持所有的 Photoshop 功能，如图层、效果和滤镜
