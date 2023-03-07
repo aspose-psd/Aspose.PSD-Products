@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.PSD สำหรับ Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="วอเตอร์มาร์ค PSD ผ่านแอพออนไลน์" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="วอเตอร์มาร์ค PSD ผ่านแอพออนไลน์" sectionDescription="เพิ่มลายน้ำลงในเอกสาร PSD โดยไปที่ [เว็บไซต์การสาธิตการถ่ายทอดสด](https://products.aspose.app/psd/watermark).การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนโค้ดใด ๆ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD ของคุณ ตั้งลายน้ำของคุณและกดปุ่ม เพิ่ม" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD ของคุณ ตั้งลายน้ำของคุณและกดปุ่ม\" เพิ่ม\”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ทันทีได้รับลิงค์ดาวน์โหลดสำหรับไฟล์ผลลัพธ์" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, แสดงถึงรูปแบบไฟล์พื้นเมืองของ Adobe Photoshop ที่ใช้สำหรับการออกแบบและพัฒนากราฟิกต่างๆไฟล์ PSD อาจรวมถึงเลเยอร์ภาพ เลเยอร์การปรับ หน้ากากเลเยอร์ คำอธิบายประกอบ ข้อมูลไฟล์ คำหลัก และองค์ประกอบเฉพาะอื่นๆ ของ Photoshopไฟล์ Photoshop มีนามสกุลเริ่มต้นเป็น .PSD และมีความสูงและความกว้างสูงสุด 30,000 พิกเซล และมีขีดจำกัดความยาวสองกิกะไบต์

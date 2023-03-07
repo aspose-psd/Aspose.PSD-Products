@@ -44,7 +44,12 @@ Java API เพื่อจัดการกับ Photoshop และไฟล
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="ดู" symbol="V" productLink="view/" >}}
 วิดเจ็ตง่ายๆในการดูไฟล์ PSD, PSB และ AI
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="การครอบตัดวงกลม" symbol="CC" productLink="crop/circle/" >}}
+เครื่องมือที่ง่ายในการตัดภาพวงกลม
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD ไม่มีรหัสปพลิเคชันรวม" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="การแปลง" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

@@ -17,7 +17,7 @@ url: net/conversion/psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="การแสดงผลคุณภาพสูงของ PSB เป็น PNG" %}}
 1.โหลด PSB ด้วย [รูปภาพโหลดภาพ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) วิธี
- [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) แบ่งประเภท
+1.สร้างอินสแตนซ์ของ [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) แบ่งประเภท
 1.โทร [รูปภาพบันทึก](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) วิธี
 1.ผ่านการส่งออกชื่อไฟล์และวัตถุของ PNGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

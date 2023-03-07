@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="การแสดงผลคุณภาพสูงของ PSB เป็น JP2" %}}
 1.โหลด PSB ด้วย [รูปภาพโหลดภาพ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) วิธี
- [Jpeg2000ตัวเลือก](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) แบ่งประเภท
+1.สร้างอินสแตนซ์ของ [Jpeg2000ตัวเลือก](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) แบ่งประเภท
 1.โทร [รูปภาพบันทึก](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) วิธี
 1.ส่งผ่านชื่อไฟล์การส่งออกและวัตถุของ Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

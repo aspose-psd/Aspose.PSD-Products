@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู PSB" sectionDescription="ตรวจสอบการสาธิตสดของเราได้ที่ [ดู PSB](https://products.aspose.app/psd/viewer/psb) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนหรือรวบรวมโค้ด" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ PSB แล้วกดปุ่ม 'ดู" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ PSB แล้วกดปุ่ม\" ดู\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ดาวน์โหลดไฟล์ PSB จากลิงก์ถ้าจำเป็น" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe photoshop บันทึกไฟล์ในสองรูปแบบไฟล์ที่มีขนาด 30,000 x 30,000 พิกเซลจะถูกบันทึกด้วยนามสกุล PSD และไฟล์ที่มีขนาดใหญ่กว่า PSD สูงสุด 300,000 x 300,000 พิกเซล จะถูกบันทึกด้วยนามสกุล PSB ที่เรียกว่า “Photoshop Big”โดยเฉพาะไฟล์ PSB อาจมีขนาดใหญ่ถึง 4 EB (มากกว่า 4.2 พันล้านGB) ด้วยภาพที่มีความสูงและความกว้างสูงสุด 300,000 พิกเซลPSD สามารถมีได้สูงสุดถึง 2 GB และขนาดภาพ 30,000 พิกเซลPSB ยังเป็นที่รู้จักกันเป็นขนาดรูปแบบขนาดใหญ่สำหรับ Photoshop และสนับสนุนคุณลักษณะ Photoshop ทั้งหมดเช่นชั้น, ผลกระทบและตัวกรอง.
