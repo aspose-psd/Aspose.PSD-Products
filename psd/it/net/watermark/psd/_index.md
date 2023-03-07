@@ -89,11 +89,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Watermark PSD tramite app online" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Watermark PSD tramite app online" sectionDescription="Aggiungi filigrana ai documenti PSD visitando il nostro [Sito web Live Demos](https://products.aspose.app/psd/watermark). La demo live offre i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non c'è bisogno di scrivere alcun codice" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file PSD, impostare la filigrana e premere il pulsante Aggiungi" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file PSD, impostare la filigrana e premere il pulsante\" Aggiungi\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
+		{{< /blocks/products/pf/agp/demobox >}}			
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo di grafica. I file PSD possono includere livelli di immagine, livelli di regolazione, maschere di livello, annotazioni, informazioni sui file, parole chiave e altri elementi specifici di Photoshop. I file di Photoshop hanno l'estensione predefinita come .PSD e hanno un'altezza e una larghezza massime di 30.000 pixel e un limite di lunghezza di due gigabyte.

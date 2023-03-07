@@ -13,7 +13,7 @@ url: ai/
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/feature-page-section h2="Visualizza il file AI online" >}}
-<p>Se non hai alcun software per aprire il file AI, usa semplicemente lo strumento di visualizzazione online. Questa app può aiutarti a visualizzare il file AI di qualsiasi versione. Ma il risultato finale sarà l'anteprima renderizzata. Il file AI è difficile da visualizzare nelle applicazioni di base perché l'IA è un formato vettoriale. Solo il visualizzatore vettoriale può aprire l'IA. Il formato AI è stato creato da Adobe, è un formato proprietario. Ha l'estensione «.ai». La maggior parte di AI Viewer sono prodotti a pagamento, ma se non è necessario modificare i file di Illustrator non è necessario alcun software a pagamento. Basta usare Visualizza i file AI online con questa app.</p>
+<p>Se non hai alcun software per aprire il file AI, basta utilizzare lo strumento di visualizzazione online. Questa app può aiutarti a visualizzare i file AI di qualsiasi versione. Ma il risultato finale sarà l'anteprima renderizzata. Il file AI è difficile da visualizzare nelle applicazioni di base perché AI è un formato vettoriale. Solo un visualizzatore vettoriale può aprire l'IA. AI Format è stato creato da Adobe, è un formato proprietario. Ha l'estensione «.ai». La maggior parte di AI Viewer sono prodotti a pagamento, ma se non è necessario modificare i file di Illustrator non è necessario alcun software a pagamento. Basta usare Visualizza file AI online con questa app. Prova questa versione aggiornata di AI Viewer</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)

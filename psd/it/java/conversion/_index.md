@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Conversione di file Adobe® Photoshop® tramite Java" h2="Converti Photoshop PSD, PSB in JPG, PNG, BMP, immagini TIFF e PDF per creare applicazioni Java multipiattaforma»." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Il formato PSD di Adobe® Photoshop® è un formato di designer per la progettazione di biglietti da visita, design di loghi, modelli di volantini, design di siti Web e molto altro. È un caso comune che i designer esportino livelli PSD in una singola immagine, tra cui JPG, PNG, GIF, TIFF ecc. tramite Adobe Photoshop. Per la conversione PSD di Photoshop in immagini raster e PDF all'interno di qualsiasi soluzione Java, **Java PSD API** può farlo con facilità. Per qualsiasi applicazione di automazione delle conversioni PSD, i seguenti codici di esempio possono essere facilmente integrati per immagini raster e conversione PDF. **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Il formato PSD di Adobe® Photoshop® è un formato di designer per la progettazione di biglietti da visita, design di loghi, modelli di volantini, progetti di siti Web e molto altro. È normale che i designer esportino livelli PSD in una singola immagine, tra cui JPG, PNG, GIF, TIFF ecc. tramite Adobe Photoshop. Per la conversione di Photoshop PSD in immagini raster e PDF all'interno di qualsiasi soluzione Java, **API Java PSD** può farlo con facilità. Per qualsiasi applicazione di automazione della conversione PSD, i codici di esempio seguenti possono essere facilmente integrati per immagini raster e conversione PDF.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

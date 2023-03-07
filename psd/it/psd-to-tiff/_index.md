@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendering di alta qualità di PSD come TIFF" %}}
 1. Carica il PSD con [Immagine.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metodo
-1. Crea un'istanza di Graphics dall'immagine. [Opzioni TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) classe
+1. Crea un'istanza di [Opzioni TIFF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) classe
 1. Chiama [Immagine.Salva](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metodo
 1. Passa il nome del file di output e l'oggetto di TiffOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
