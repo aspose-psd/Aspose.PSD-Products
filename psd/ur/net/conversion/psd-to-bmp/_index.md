@@ -17,7 +17,7 @@ url: net/conversion/psd-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="BMP کے طور پر پی ایس ڈی کے اعلی معیار کی انجام" %}}
 1. پی ایس ڈی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
- [بی ایم آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) جماعت
+1. کی ایک مثال بنائیں [بی ایم آپشنز](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. BMoptions کے آؤٹ پٹ فائل کا نام اور اعتراض پاس
 {{% /blocks/products/pf/agp/feature-section-col %}}

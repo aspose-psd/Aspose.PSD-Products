@@ -17,7 +17,7 @@ url: net/conversion/psb-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="پی ایس بی کے اعلی معیار کو GIF کے طور پر انجام" %}}
 1. پی ایس بی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
- [Gifکے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) جماعت
+1. کی ایک مثال بنائیں [Gifکے اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. آؤٹ پٹ فائل کا نام اور GifOptions کا اعتراض پاس کریں
 {{% /blocks/products/pf/agp/feature-section-col %}}

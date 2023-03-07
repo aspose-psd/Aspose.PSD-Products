@@ -82,11 +82,12 @@ Aspose.PSD は Photoshop のフォーマット操作 API です。Adobe Photosho
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="AIを見るための無料アプリ" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="AIを見るための無料アプリ" sectionDescription="ライブデモをチェックして [AI を表示](https://products.aspose.app/psd/viewer/ai) 次のようなメリットがあります。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="何もダウンロードもセットアップも不要" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを書いたりコンパイルしたりする必要はありません" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="AI ファイルをアップロードして View ボタンを押すだけ" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="AI ファイルをアップロードして\" View\ "ボタンを押すだけ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="必要に応じて、リンクから AI ファイルをダウンロードしてください" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 .ai 拡張子の付いたファイルは、1 ページにベクターグラフィックを含む Adobe Illustrator アートワークファイルです。ポイントを使用して画像データを表示するためのパスを作成するため、拡大しても画質が低下することはありません。AI ファイル形式は、AI ファイルと同様の PGF ファイル形式に基づいています。AI形式はロゴや印刷メディアで主に使用されており、初期のバージョンはEPSファイルと同様であると考えられていました。AI ファイルは、アドビイラストレーター、アドビアクロバット DC、PaintShop Pro、および CorelDRAW グラフィックツールで開くことができます。

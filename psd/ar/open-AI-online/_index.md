@@ -12,7 +12,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Open AI file online" >}}
+{{< blocks/products/pf/feature-page-section h2="افتح ملف AI عبر الإنترنت" >}}
 <p>عندما لا تحتاج إلى وظيفة التحرير عند فتح تنسيق AI عبر الإنترنت، فإن AI Viewer هذا يعد حلاً جيدًا للعديد من الأغراض. يمكنك فتح ملف AI عبر الإنترنت بعد التحميل إلى خادم الويب. صيغة AI هي صيغة متجهة، لذلك ستتم متابعة التنقيط بحجم الصورة المحدد. للحصول على الوظائف الإضافية، يمكنك استخدام <a href="/psd/net">.Net</a> أو <a href="/psd/java">Java</a> واجهة برمجة تطبيقات عالية الكود لفتح ملفات AI بالأبعاد التي تحتاجها</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// For the new AI format please use the following code:

@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour voir le PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour voir le PSD" sectionDescription="Consultez nos démos en direct pour [Afficher le PSD](https://products.aspose.app/psd/viewer/psd) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Pas besoin d'écrire ou de compiler du code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement le fichier PSD et cliquez sur le bouton \" Afficher \»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Téléchargez le fichier PSD à partir du lien, si nécessaire" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, représente le format de fichier natif d'Adobe Photoshop utilisé pour la conception et le développement graphiques. Les fichiers PSD peuvent inclure des couches d'image, des couches de réglage, des masques de couches, des annotations, des informations sur les fichiers, des mots-clés et d'autres éléments spécifiques à Photoshop. Les fichiers Photoshop ont l'extension par défaut .PSD et ont une hauteur et une largeur maximales de 30 000 pixels et une limite de longueur de deux gigaoctets.

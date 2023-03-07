@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="PSBを表示する無料アプリ" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="PSBを表示する無料アプリ" sectionDescription="ライブデモをチェックして [PSB を表示](https://products.aspose.app/psd/viewer/psb) 次のようなメリットがあります。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="何もダウンロードもセットアップも不要" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを書いたりコンパイルしたりする必要はありません" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="PSBファイルをアップロードして「表示」ボタンを押すだけ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="必要に応じて、リンクから PSB ファイルをダウンロードしてください" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 アドビフォトショップでは、ファイルを 2 つの形式で保存します。サイズが30,000 x 30,000ピクセルのファイルはPSD拡張子で保存され、PSDを超える最大30万x 300,000ピクセルのファイルは「Photoshop Big」と呼ばれるPSB拡張子で保存されます。具体的には、PSBファイルのサイズは4EB（42億GB以上）で、画像の高さと幅は最大300,000ピクセルです。一方、PSDは最大2 GB、画像サイズは30,000ピクセルです。PSBはPhotoshopのラージフォーマットサイズとも呼ばれ、レイヤー、エフェクト、フィルターなどのPhotoshopのすべての機能をサポートしています。

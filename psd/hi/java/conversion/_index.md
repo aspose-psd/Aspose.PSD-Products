@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Adobe® Photoshop® फ़ाइल रूपांतरण जावा के माध्यम से" h2="क्रॉस-प्लेटफ़ॉर्म जावा एप्लिकेशन बनाने के लिए फ़ोटोशॉप PSD, PSB को JPG, PNG, BMP, TIFF इमेज और PDF में बदलें।" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop® का PSD प्रारूप व्यवसाय कार्ड, लोगो डिज़ाइन, फ़्लायर मॉक-अप, वेबसाइट डिज़ाइन और बहुत कुछ डिज़ाइन करने के लिए डिज़ाइनरों का एक प्रारूप है। डिजाइनरों के लिए Adobe Photoshop के माध्यम से JPG, PNG, GIF, TIFF आदि सहित एकल छवि में PSD परतों को निर्यात करना एक सामान्य मामला है। किसी भी जावा समाधान के भीतर रास्टर छवियों और पीडीएफ में फ़ोटोशॉप PSD रूपांतरण के लिए, **Java PSD API** इसे आसानी से कर सकता है। किसी भी PSD रूपांतरण स्वचालन अनुप्रयोग के लिए, नीचे दिए गए उदाहरण कोड आसानी से रास्टर छवियों और PDF रूपांतरण के लिए एकीकृत किए जा सकते हैं। **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Adobe® Photoshop® का PSD प्रारूप बिजनेस कार्ड, लोगो डिज़ाइन, फ़्लायर मॉक-अप, वेबसाइट डिज़ाइन और बहुत कुछ डिज़ाइन करने के लिए डिज़ाइनर का एक प्रारूप है। डिजाइनरों के लिए Adobe Photoshop के माध्यम से JPG, PNG, GIF, TIFF आदि सहित एकल छवि में PSD परतों को निर्यात करना एक सामान्य मामला है। किसी भी जावा समाधान के भीतर रास्टर छवियों और पीडीएफ में फ़ोटोशॉप PSD रूपांतरण के लिए, **जावा PSD एपीआई** इसे आसानी से कर सकते हैं। किसी भी PSD रूपांतरण स्वचालन अनुप्रयोग के लिए, नीचे दिए गए उदाहरण कोड आसानी से रास्टर छवियों और पीडीएफ रूपांतरण के लिए एकीकृत किए जा सकते हैं।
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

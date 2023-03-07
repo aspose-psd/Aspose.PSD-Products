@@ -82,11 +82,12 @@ Aviopuoliso.PSD on Photoshop-muodon manipulointi API. Yksi voi luoda, muokata ja
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ilmainen sovellus AI: n katseluun" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Ilmainen sovellus AI: n katseluun" sectionDescription="Tarkista live-demoja [Näytä AI](https://products.aspose.app/psd/viewer/ai) seuraavilla eduilla." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Ei tarvitse ladata tai asentaa mitään" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Koodia ei tarvitse kirjoittaa tai koota" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Lataa vain AI-tiedosto ja paina\" Näytä\” -painiketta" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Lataa AI-tiedosto linkistä tarvittaessa" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Tiedosto, jolla on.ai-laajennus on Adobe Illustrator Artwork -tiedosto, joka sisältää vektorigrafiikkaa yhdellä sivulla. se käyttää pisteitä luomaan polkuja kuvatietojen näyttämiseen, mikä tekee siitä turvallisen kuvanlaadun menettämisen, jos sitä suurennetaan. AI-tiedostomuoto on perusta PGF-tiedostomuodossa, joka on samanlainen kuin AI-tiedostot. AI-muoto löytää sen merkittävän käytön logoille ja painotuotteille, ja sen alkuperäiset versiot pidettiin samanlaisina kuin EPS-tiedostoja. AI-tiedostot voidaan avata Adobe Illustrator-, Adobe Acrobat DC-, PaintShop Pro- ja CorelDraw Graphics -työkaluilla.

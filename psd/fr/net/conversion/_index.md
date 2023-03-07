@@ -42,3 +42,4 @@ Pour convertir un PSD en images, le processus est presque identique à celui d'u
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="psd-to-bmp psd-to-png psd-to-jpeg psd-to-tiff psd-to-gif psb-to-gif psb-to-tiff psb-to-jpeg psb-to-png psb-to-bmp" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

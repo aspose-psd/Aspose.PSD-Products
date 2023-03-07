@@ -44,7 +44,12 @@ Basit widget herhangi bir formatta dosya boyutunu azaltmak için. PSD sıkışt�
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Görünüm" symbol="V" productLink="view/" >}}
 Basit Widget PSD, PSB ve AI Dosyaları görüntülemek için
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Daire Kırpma" symbol="CC" productLink="crop/circle/" >}}
+Daire görüntüsünü kırpmak için basit widget.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Kod Yok Uygulamaları Dahil" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Dönüşüm" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

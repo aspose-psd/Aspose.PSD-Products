@@ -82,11 +82,12 @@ Aspose.PSD adalah format Photoshop manipulasi API. Seseorang dapat menghasilkan,
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat AI" sectionDescription="Periksa demo hidup kami untuk [Lihat AI](https://products.aspose.app/psd/viewer/ai) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file AI dan tekan tombol\" Lihat\”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Unduh file AI dari tautan, jika diperlukan" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 File dengan ekstensi.ai adalah file Adobe Illustrator Artwork yang berisi grafik vektor dalam satu halaman. menggunakan poin untuk membuat jalur untuk menampilkan data gambar, sehingga membuatnya aman dari kehilangan kualitas gambar jika diperbesar. Format file AI adalah basis don format file PGF yang mirip dengan file AI. Format AI menemukan penggunaan utamanya untuk logo dan media cetak, dan versi awalnya dianggap mirip dengan file EPS. File AI dapat dibuka dengan alat Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro, dan CorelDRAW Graphics.

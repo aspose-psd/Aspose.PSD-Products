@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู PSD" sectionDescription="ตรวจสอบการสาธิตสดของเราได้ที่ [ดู PSD](https://products.aspose.app/psd/viewer/psd) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนหรือรวบรวมโค้ด" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD แล้วกดปุ่ม ดู" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD แล้วกดปุ่ม\" ดู\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ดาวน์โหลดไฟล์ PSD จากลิงก์ถ้าจำเป็น" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, แสดงถึงรูปแบบไฟล์พื้นเมืองของ Adobe Photoshop ที่ใช้สำหรับการออกแบบและพัฒนากราฟิกต่างๆไฟล์ PSD อาจรวมถึงเลเยอร์ภาพ เลเยอร์การปรับ หน้ากากเลเยอร์ คำอธิบายประกอบ ข้อมูลไฟล์ คำหลัก และองค์ประกอบเฉพาะอื่นๆ ของ Photoshopไฟล์ Photoshop มีนามสกุลเริ่มต้นเป็น .PSD และมีความสูงและความกว้างสูงสุด 30,000 พิกเซล และมีขีดจำกัดความยาวสองกิกะไบต์

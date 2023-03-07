@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="تطبيق مجاني لعرض PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="تطبيق مجاني لعرض PSB" sectionDescription="تحقق من العروض التوضيحية الحية الخاصة بنا إلى [شاهد بلاي ستيشن 4](https://products.aspose.app/psd/viewer/psb) مع الفوائد التالية." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="لا حاجة لكتابة التعليمات البرمجية أو تجميعها" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف PSB والضغط على زر\ «View\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="قم بتنزيل ملف PSB من الرابط، إذا لزم الأمر" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 يحفظ Adobe Photoshop الملفات بتنسيقين. يتم حفظ الملفات التي يبلغ حجمها 30.000 × 30.000 بكسل بامتداد PSD ويتم حفظ الملفات الأكبر من PSD حتى 300000 × 300000 بكسل بامتداد PSB المعروف باسم "Photoshop Big". وبشكل أكثر تحديدًا ، يمكن أن يصل حجم ملفات PSB إلى 4 EB (أكثر من 4.2 مليار جيجابايت) مع صور يصل ارتفاعها وعرضها إلى 300000 بكسل. من ناحية أخرى ، يمكن أن تصل PSDs بحد أقصى 2 جيجا بايت وأبعاد الصورة 30000 بكسل. يُعرف PSB أيضًا بحجم التنسيق الكبير لبرنامج Photoshop ويدعم جميع ميزات Photoshop مثل الطبقات والتأثيرات والمرشحات

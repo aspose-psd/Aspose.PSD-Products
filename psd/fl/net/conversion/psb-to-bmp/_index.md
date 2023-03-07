@@ -17,7 +17,7 @@ url: net/conversion/psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality renderöinti PSB BMP" %}}
 1. Lataa PSB [Kuvan.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) menetelmä
- [BMPOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) luokka
+1. Luo esiintymä [BMPOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) luokka
 1. Soita [Kuva.Tallenna](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) menetelmä
 1. Pass ulostulo tiedostonimi ja kohde BMPOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

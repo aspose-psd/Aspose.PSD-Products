@@ -17,7 +17,7 @@ url: psd-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kualitas Tinggi Rendering PSD sebagai JP2" %}}
 1. Muat PSB dengan [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metode
-1. Buat instance Graphics dari gambar. [Jpeg2000Opsi](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) kelas
+1. Buat sebuah instance dari [Jpeg2000Opsi](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) kelas
 1. Panggilan [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metode
 1. Lulus nama file output dan objek dari Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

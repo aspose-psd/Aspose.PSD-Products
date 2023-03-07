@@ -11,7 +11,7 @@ url: psd-file-viewer/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="PSD File Viewer" >}}
+{{< blocks/products/pf/feature-page-section h2="Переглядач файлів PSD" >}}
 <p>PSD - простий додаток для перегляду онлайн будь-якого файлу PSD. Якщо ви не маєте зайвих фотошопів, ви можете використовувати це <a href="/psd/view/psd-file-viewer">Переглядач PSD</a> або <a href="https://products.aspose.app/psd/editor">Припустимо PSD редактор</a>. На відміну від інших глядачів, які вам потрібно встановити на локальній машині, цей PSD File Viewer безкоштовний і працює в Інтернеті. Через постійні оновлення Aspose.PSD, що повноваження PSD Viewer ви зможете відкрити останні версії PSD файлів з піксельним досконалим попереднім переглядом. Зверніть увагу, що ця програма не використовує Adobe Photoshop, ви можете відтворити всі функціональні можливості цього Viewer за допомогою C# або Java, просто перевірте <a href="https://products.aspose.com/psd">Перетворюйте файли Microsoft Visio у формати PDF, HTML, зображення та інші</a></p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))

@@ -17,7 +17,7 @@ url: net/conversion/psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Високоякісний рендеринг PSB як PNG" %}}
 1. Завантажте PSB за допомогою [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
- [Параметри PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) клас
+1. Створіть екземпляр [Параметри PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) клас
 1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте назву файла виводу та об'єкт pngOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

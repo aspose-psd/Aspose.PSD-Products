@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="Про Aspose.PSD для Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Водяний знак PSD через Інтернет додаток" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Водяний знак PSD через Інтернет додаток" sectionDescription="Додайте водяний знак до PSD документів, відвідавши наш [Жива Демос сайт](https://products.aspose.app/psd/watermark). Демо має наступні переваги" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не потрібно нічого завантажувати або налаштовувати" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Не потрібно писати код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто завантажте файл PSD, встановіть водяний знак і натисніть кнопку\" Додати\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Миттєво отримайте посилання для завантаження результуючого файлу" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, представляє власний файл Adobe Photoshop, який використовується для розробки та розробки графіки. Файли PSD можуть включати шари зображень, налаштування шарів, маски шарів, анотації, інформацію про файл, ключові слова та інші елементи, специфічні Photoshop. Файли Photoshop мають розширення за замовчуванням як .PSD і має максимальну висоту і ширину 30 000 пікселів, а ліміт довжини двох гігабайт

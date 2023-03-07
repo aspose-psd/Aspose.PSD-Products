@@ -116,12 +116,12 @@ Ili upotrijebite iText funkcionalnost i konfigurirajte svaki tekstualni dio s vl
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikacija Visual PSD Online Editor" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikacija Visual PSD Online Editor" sectionDescription="Uredite PSD datoteke posjetom našem [Web stranica Live Demosa](https://products.aspose.app/psd/editor/). Demo uživo ima sljedeće prednosti" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nema potrebe za preuzimanjem ili postavljanjem bilo čega" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nema potrebe za pisanjem bilo kojeg koda" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Samo uploadati PSD datoteku, napraviti neke promjene i pritisnite\" Download\" gumb" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Odmah dobiti link za preuzimanje za rezultirajuću datoteku" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, predstavlja izvorni format datoteke tvrtke Adobe Photoshop koji se koristi za grafičko dizajniranje i razvoj. PSD datoteke mogu uključivati slojeve slika, slojeve za podešavanje, maske slojeva, napomene, informacije o datotekama, ključne riječi i druge elemente specifične za Photoshop. Photoshop datoteke imaju zadano proširenje kao .PSD i ima maksimalnu visinu i širinu od 30.000 piksela, a ograničenje duljine od dva gigabajta.
 

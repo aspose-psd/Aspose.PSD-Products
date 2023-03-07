@@ -82,11 +82,12 @@ Aspose.PSD เป็น API การจัดการรูปแบบ Photos
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อดู AI" sectionDescription="ตรวจสอบการสาธิตสดของเราได้ที่ [ดู AI](https://products.aspose.app/psd/viewer/ai) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนหรือรวบรวมโค้ด" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ AI แล้วกดปุ่ม 'ดู" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ AI แล้วกดปุ่ม\" ดู\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ดาวน์โหลดไฟล์ AI จากลิงก์ถ้าจำเป็น" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 ไฟล์ที่มีนามสกุล.ai เป็นไฟล์ Adobe Illustrator Artwork ที่มีกราฟิกแบบเวกเตอร์ในหน้าเดียว มันใช้จุดเพื่อสร้างเส้นทางสำหรับการแสดงข้อมูลภาพจึงทำให้ปลอดภัยจากการสูญเสียคุณภาพของภาพหากมีการขยายรูปแบบไฟล์ AI เป็นฐานที่ฟอร์แมทไฟล์ PGF ซึ่งคล้ายกับไฟล์ AIรูปแบบ AI พบการใช้งานที่สำคัญสำหรับโลโก้และสื่อสิ่งพิมพ์และรุ่นเริ่มต้นของมันได้รับการพิจารณาคล้ายกับที่ของไฟล์ EPSไฟล์ AI สามารถเปิดได้ด้วยเครื่องมือกราฟิก Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro และ CorelDRAW Graphics

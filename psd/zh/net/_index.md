@@ -201,7 +201,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.PSD for .NET 支持最受欢迎的 [Photoshop 和光栅图像] (https://docs.aspose.com/psd/net/supported-file-formats/) 文件格式。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description=".NET 版 Aspose.PSD 支持最受欢迎的 [Photoshop 和光栅图像](https://docs.aspose.com/psd/net/supported-file-formats/)  文件格式。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

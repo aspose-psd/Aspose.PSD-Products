@@ -1,5 +1,5 @@
 ---
-title: C#을 사용하여 PSB를 JPEG로 변환하십시오
+title: C #을 사용하여 PSB를 JPEG로 변환하십시오
 description: .NET API를 통해 PSD, PSB 및 AI 파일을 내보낼 수 있습니다.
 family: psd
 platformtag: net
@@ -11,13 +11,13 @@ url: psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 PSB를 JPEG로 변환" h2=".NET Photoshop API for PSD & PSB JPEG를 포함한 래스터 이미지로의 변환" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C #을 통해 PSB를 JPEG로 변환" h2=".NET Photoshop API for PSD & PSB JPEG를 포함한 래스터 이미지로의 변환" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PSB를 JPEG로 고품질 렌더링" %}}
 1.다음과 같이 PSB를 로드하십시오. [이미지. 로드](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 방법
-1.이미지에서 Graphics 인스턴스를 생성합니다. [JPEG 옵션](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) 수업
+1.인스턴스 만들기 [JPEG 옵션](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) 수업
 1.전화 [이미지. 저장](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 방법
 1.JPEG 옵션의 출력 파일 이름과 객체 전달
 {{% /blocks/products/pf/agp/feature-section-col %}}

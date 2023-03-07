@@ -17,7 +17,7 @@ url: net/conversion/psb-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality renderöinti PSB GIF" %}}
 1. Lataa PSB [Kuvan.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) menetelmä
- [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) luokka
+1. Luo esiintymä [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) luokka
 1. Soita [Kuva.Tallenna](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) menetelmä
 1. Pass ulostulo tiedostonimi ja kohde GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

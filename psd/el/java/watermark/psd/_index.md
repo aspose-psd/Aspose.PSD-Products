@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="Σχετικά με το Aspose.PSD για Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Υδατογράφημα PSD μέσω Διαδικτυακής Εφαρμογής" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Υδατογράφημα PSD μέσω Διαδικτυακής Εφαρμογής" sectionDescription="Προσθέστε υδατογράφημα σε έγγραφα PSD μεταβαίνοντας στην [Ιστότοπος ζωντανών επιδείξεων](https://products.aspose.app/psd/watermark). Το live demo έχει τα ακόλουθα πλεονεκτήματα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Δεν χρειάζεται να γράψετε κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλά ανεβάστε το αρχείο PSD σας, ρυθμίστε το υδατογράφημα σας και πατήστε το κουμπί\" Προσθήκη\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Αμέσως πάρτε το σύνδεσμο λήψης για το προκύπτον αρχείο" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 Το PSD, Photoshop Document, αντιπροσωπεύει την εγγενή μορφή αρχείου του Adobe Photoshop που χρησιμοποιείται για τη σχεδίαση και την ανάπτυξη γραφικών. Τα αρχεία PSD μπορεί να περιλαμβάνουν επίπεδα εικόνας, επίπεδα ρύθμισης, μάσκες επιπέδων, σχολιασμούς, πληροφορίες αρχείου, λέξεις-κλειδιά και άλλα στοιχεία ειδικά για το Photoshop. Τα αρχεία Photoshop έχουν προεπιλεγμένη επέκταση ως .PSD και έχει μέγιστο ύψος και πλάτος 30.000 pixel και όριο μήκους δύο gigabyte.

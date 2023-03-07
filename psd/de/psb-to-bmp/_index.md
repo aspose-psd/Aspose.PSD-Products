@@ -17,7 +17,7 @@ url: psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Qualitativ hochwertiges Rendern von PSB als BMP" %}}
 1. Laden Sie das PSB mit [Bild. Laden](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) Methode
-1. Erstellen Sie eine Instanz von Graphics aus dem Bild. [BMP-Optionen](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) Klasse
+1. Erstellen Sie eine Instanz von [BMP-Optionen](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) Klasse
 1. Ruf [Bild. Speichern](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) Methode
 1. Übergeben Sie den Ausgabedateinamen und das Objekt von BMPOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

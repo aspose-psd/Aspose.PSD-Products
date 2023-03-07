@@ -132,7 +132,7 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=“.NET PSD İşleme />
+  <img width="70" height="75" alt=“.NET PSD İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD nedir
   </header>
@@ -183,7 +183,7 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=“PSD Manipülasyon />
+  <img width="70" height="75" alt=“PSD Manipülasyon API'leri” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD nedir
   </header>
@@ -201,7 +201,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description=".NET için Aspose.PSD en popüler [Photoshop & raster görüntü] (https://docs.aspose.com/psd/net/supported-file-formats/) dosya formatlarını destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description=".NET için Aspose.PSD en popüler destekler [Photoshop ve raster görüntü](https://docs.aspose.com/psd/net/supported-file-formats/)  dosya biçimleri." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

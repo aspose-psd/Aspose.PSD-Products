@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per visualizzare PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per visualizzare PSB" sectionDescription="Dai un'occhiata alle nostre demo dal vivo a [Visualizza PSB](https://products.aspose.app/psd/viewer/psb) con i seguenti vantaggi." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non c'è bisogno di scrivere o compilare codice" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file PSB e premere il pulsante Visualizza" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file PSB e premere il pulsante\" Visualizza\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Scarica il file PSB dal link, se necessario" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop salva i file in due formati. I file con una dimensione di 30.000 x 30.000 pixel vengono salvati con l'estensione PSD e i file più grandi di PSD fino a 300.000 x 300.000 pixel vengono salvati con l'estensione PSB nota come «Photoshop Big». Più specificamente, i file PSB possono avere dimensioni fino a 4 EB (oltre 4,2 miliardi di GB) con immagini con altezza e larghezza fino a 300.000 pixel. Le PSD, d'altra parte, possono avere una dimensione massima di 2 GB e una dimensione dell'immagine di 30.000 pixel. PSB è anche noto come formato di grande formato per Photoshop e supporta tutte le funzionalità di Photoshop come livelli, effetti e filtri.

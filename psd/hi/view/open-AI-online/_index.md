@@ -12,7 +12,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Open AI file online" >}}
+{{< blocks/products/pf/feature-page-section h2="AI फ़ाइल ऑनलाइन खोलें" >}}
 <p>जब आपको AI प्रारूप ऑनलाइन खोलते समय संपादन कार्यक्षमता की आवश्यकता नहीं होती है, तो यह AI व्यूअर कई उद्देश्यों के लिए एक अच्छा समाधान है। वेब सर्वर पर अपलोड करने के बाद आप AI फ़ाइल को ऑनलाइन खोल सकते हैं। AI प्रारूप एक वेक्टर प्रारूप है, इसलिए रास्टराइजेशन को निर्दिष्ट छवि आकार में आगे बढ़ाया जाएगा। अतिरिक्त कार्यों के लिए, आप इसका उपयोग कर सकते हैं <a href="/psd/net">.Net</a> या <a href="/psd/java">Java</a> आपके लिए आवश्यक आयामों में AI फ़ाइलों को खोलने के लिए हाई-कोड API</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// For the new AI format please use the following code:

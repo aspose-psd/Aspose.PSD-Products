@@ -17,7 +17,7 @@ url: net/conversion/psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kvalitetno prikazivanje PSB-a kao BMP-a" %}}
 1. Učitajte PSB pomoću [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
- [BMpoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) klasa
+1. Stvorite instancu [BMpoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Prolazite naziv izlazne datoteke i objekt BmPoptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

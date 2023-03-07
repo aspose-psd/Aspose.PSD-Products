@@ -82,11 +82,12 @@ Aspose.PSD ist eine API zur Manipulation des Photoshop-Formats. Man kann Adobe P
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Kostenlose App zum Anzeigen von AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Kostenlose App zum Anzeigen von AI" sectionDescription="Schauen Sie sich unsere Live-Demos an [KI ansehen](https://products.aspose.app/psd/viewer/ai) mit folgenden Vorteilen." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sie müssen keinen Code schreiben oder kompilieren" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach die AI-Datei hoch und klicken Sie auf die Schaltfläche Ansicht" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach die AI-Datei hoch und klicken Sie auf die Schaltfläche\" Ansicht\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Laden Sie die AI-Datei von dem Link herunter, falls erforderlich" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Eine Datei mit der Erweiterung.ai ist eine Adobe Illustrator Artwork-Datei, die Vektorgrafiken auf einer einzigen Seite enthält. Sie verwendet Punkte, um Pfade für die Anzeige der Bilddaten zu erstellen, sodass sie nicht an Bildqualität verliert, wenn sie vergrößert wird. Das AI-Dateiformat basiert auf dem PGF-Dateiformat, das AI-Dateien ähnelt. Das AI-Format wird hauptsächlich für Logos und Printmedien verwendet, und seine ersten Versionen wurden als ähnlich denen von EPS-Dateien angesehen. AI-Dateien können mit den Tools Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro und CorelDRAW Graphics geöffnet werden.

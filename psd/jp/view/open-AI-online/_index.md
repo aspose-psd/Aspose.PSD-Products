@@ -12,7 +12,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Open AI file online" >}}
+{{< blocks/products/pf/feature-page-section h2="AI ファイルをオンラインで開く" >}}
 <p>AIフォーマットをオンラインで開くときに編集機能が必要ない場合は、このAIビューアーがさまざまな目的に適したソリューションです。Web サーバーにアップロードした後、AI ファイルをオンラインで開くことができます。AI Format はベクター形式なので、ラスタライズ処理は指定された画像サイズで行われます。追加機能については、 <a href="/psd/net">.Net</a> または <a href="/psd/java">Java</a> 必要なサイズのAIファイルを開くためのハイコードAPI</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// For the new AI format please use the following code:

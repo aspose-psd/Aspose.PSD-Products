@@ -201,7 +201,7 @@ url: net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.PSD for NET υποστηρίζει τις πιο δημοφιλείς μορφές αρχείων [Photoshop & εικόνας ράστερ] (https://docs.aspose.com/psd/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.PSD για NET υποστηρίζει τα πιο δημοφιλή [Εικόνα & ράστερ του Photoshop](https://docs.aspose.com/psd/net/supported-file-formats/)  μορφές αρχείων." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

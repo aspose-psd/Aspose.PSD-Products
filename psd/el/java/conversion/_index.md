@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Μετατροπή αρχείων Adobe® Photoshop® μέσω Java" h2="Μετατροπή Photoshop PSD, PSB σε JPG, PNG, BMP, TIFF Εικόνες και PDF για τη δημιουργία εφαρμογών Java σε διαφορετικές πλατφόρμες." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Η μορφή PSD του Adobe® Photoshop® είναι μια μορφή σχεδιαστών για το σχεδιασμό επαγγελματικών καρτών, σχεδίων λογότυπων, μακέτες φυλλάδιο, σχέδια ιστοσελίδων και πολλά άλλα. Οι σχεδιαστές συνηθίζουν να εξάγουν επίπεδα PSD σε μία εικόνα, συμπεριλαμβανομένων των JPG, PNG, GIF, TIFF κ.λπ. μέσω του Adobe Photoshop. Για μετατροπή του photoshop PSD σε εικόνες ράστερ και PDF μέσα σε οποιαδήποτε λύση Java, **Java PSD API** μπορεί να το κάνει με ευκολία. Για οποιαδήποτε εφαρμογή αυτοματισμού μετατροπής PSD, οι παρακάτω κωδικοί μπορούν εύκολα να ενσωματωθούν για εικόνες ράστερ και μετατροπή PDF. **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Η μορφή PSD του Adobe® Photoshop® είναι μια μορφή σχεδιαστών για το σχεδιασμό επαγγελματικών καρτών, σχεδίων λογότυπων, μακέτες φυλλάδιο, σχέδια ιστοσελίδων και πολλά άλλα. Οι σχεδιαστές συνηθίζουν να εξάγουν επίπεδα PSD σε μία εικόνα, συμπεριλαμβανομένων των JPG, PNG, GIF, TIFF κ.λπ. μέσω του Adobe Photoshop. Για μετατροπή PSD του photoshop σε εικόνες ράστερ και PDF μέσα σε οποιαδήποτε λύση Java, **API για Java PSD** μπορεί να το κάνει με ευκολία. Για οποιαδήποτε εφαρμογή αυτοματισμού μετατροπής PSD, οι παρακάτω κωδικοί μπορούν εύκολα να ενσωματωθούν για εικόνες ράστερ και μετατροπή PDF.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

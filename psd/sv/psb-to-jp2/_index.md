@@ -17,7 +17,7 @@ url: psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Hög kvalitet Rendering av PSB som JP2" %}}
 1. Ladda PSB med [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metod
-1. Skapa en instans av grafik från bilden. [Jpeg2000Alternativ](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) klass
+1. Skapa en instans av [Jpeg2000Alternativ](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) klass
 1. Ring [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metod
 1. Skicka utdatafilnamn och objekt för Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

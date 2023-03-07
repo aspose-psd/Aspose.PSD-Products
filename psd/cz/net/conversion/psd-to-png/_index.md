@@ -17,7 +17,7 @@ url: net/conversion/psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Vysoce kvalitní vykreslování PSD jako PNG" %}}
 1. Načíst PSD pomocí [Image.Načíst](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
- [Možnosti PngOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) třída
+1. Vytvořte instanci [Možnosti PngOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) třída
 1. Zavolejte [Obrázek.Uložit](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Předat název výstupního souboru a objekt PngOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

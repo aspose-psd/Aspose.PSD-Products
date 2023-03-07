@@ -116,12 +116,12 @@ Nebo použijte funkci iText a nakonfigurujte každou část textu svým vlastní
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikace Visual PSD Online Editor" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikace Visual PSD Online Editor" sectionDescription="Upravte soubory PSD návštěvou našeho [Web společnosti Live Demos](https://products.aspose.app/psd/editor/). Živé demo má následující výhody" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD, provést některé změny a stisknout\" Stáhnout\“ tlačítko" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, představuje nativní formát souboru Adobe Photoshop používaný pro návrh a vývoj grafiky. Soubory PSD mohou obsahovat vrstvy obrázků, vrstvy úprav, masky vrstev, poznámky, informace o souborech, klíčová slova a další prvky specifické pro Photoshop. Soubory Photoshopu mají výchozí příponu jako PSD a mají maximální výšku a šířku 30 000 pixelů a délkový limit dvou gigabajtů.
 

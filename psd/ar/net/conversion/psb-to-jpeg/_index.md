@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="عرض عالي الجودة لـ PSB كـ JPEG" %}}
 1. قم بتحميل PSB مع [صورة. تحميل](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طريقة
- [خيارات JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) صنف
+1. قم بإنشاء مثيل لـ [خيارات JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) صنف
 1. مكالمة [احفظ الصورة](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طريقة
 1. قم بتمرير اسم ملف الإخراج وكائن JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att visa PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att visa PSD" sectionDescription="Kolla våra live-demos till [Visa PSD](https://products.aspose.app/psd/viewer/psd) med följande fördelar." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Inget behov av att ladda ner eller ställa in något" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Inget behov av att skriva eller kompilera kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp PSD-fil och tryck på\" Visa\” -knappen " >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ladda ner PSD-fil från länken, om det behövs" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, representerar Adobe Photoshop ursprungliga filformat som används för grafik design och utveckling. PSD-filer kan innehålla bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika element. Photoshop-filer har standardtillägg som.PSD och har en maximal höjd och bredd på 30 000 pixlar och en längdgräns på två gigabyte.

@@ -17,7 +17,7 @@ url: psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Висока якість рендеринга PSD як GIF" %}}
 1. Завантажте PSD з [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
-1. Створіть екземпляр графіки з зображення. [Параметри GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) клас
+1. Створіть екземпляр [Параметри GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) клас
 1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передайте назву вихідного файлу та об'єкт GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

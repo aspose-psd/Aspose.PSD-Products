@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendu de haute qualité de PSB en JP2" %}}
 1. Chargez le PSB avec [Image. Charger](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) méthode
- [Options pour JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) classe
+1. Créez une instance de [Options pour JPEG 2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/Jpeg2000Options) classe
 1. Appelez [Image. Enregistrer](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) méthode
 1. Transmettre le nom de fichier de sortie et l'objet de Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

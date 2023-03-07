@@ -82,11 +82,12 @@ Aspose.PSD एक फोटोशॉप फॉर्मेट मैनिपु
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="AI देखने के लिए निःशुल्क ऐप" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="AI देखने के लिए निःशुल्क ऐप" sectionDescription="हमारे लाइव डेमो की जांच करें [AI देखें](https://products.aspose.app/psd/viewer/ai) निम्नलिखित लाभों के साथ।" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="कोड लिखने या संकलित करने की कोई ज़रूरत नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस AI फ़ाइल अपलोड करें और\" व्यू\” बटन दबाएं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="यदि आवश्यक हो, तो लिंक से AI फ़ाइल डाउनलोड करें" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 .ai एक्सटेंशन वाली फ़ाइल एक Adobe Illustrator Artwork फ़ाइल होती है जिसमें एक ही पेज में वेक्टर ग्राफ़िक्स होते हैं। यह छवि डेटा प्रदर्शित करने के लिए पथ बनाने के लिए बिंदुओं का उपयोग करता है, इस प्रकार छवि को बड़ा होने पर छवि गुणवत्ता खोने से सुरक्षित बनाता है। AI फ़ाइल स्वरूप PGF फ़ाइल स्वरूप पर आधारित है जो AI फ़ाइलों के समान है। AI प्रारूप लोगो और प्रिंट मीडिया के लिए इसका प्रमुख उपयोग पाता है, और इसके शुरुआती संस्करणों को EPS फ़ाइलों के समान माना जाता था। AI फाइलें Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro और CorelDraw ग्राफिक्स टूल के साथ खोली जा सकती हैं।

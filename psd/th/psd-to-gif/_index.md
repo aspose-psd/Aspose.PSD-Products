@@ -17,7 +17,7 @@ url: psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="การแสดงผลคุณภาพสูงของ PSD เป็น GIF" %}}
 1.โหลด PSD ด้วย [รูปภาพโหลดภาพ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) วิธี
-1.สร้างอินสแตนซ์ของกราฟิกจากภาพ [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) แบ่งประเภท
+1.สร้างอินสแตนซ์ของ [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) แบ่งประเภท
 1.โทร [รูปภาพบันทึก](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) วิธี
 1.ส่งผ่านชื่อไฟล์การส่งออกและวัตถุของ GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

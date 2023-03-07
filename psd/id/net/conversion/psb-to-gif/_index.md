@@ -17,7 +17,7 @@ url: net/conversion/psb-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendering PSB Berkualitas Tinggi sebagai GIF" %}}
 1. Muat PSB dengan [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metode
- [GifOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) kelas
+1. Buat sebuah instance dari [GifOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) kelas
 1. Panggilan [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metode
 1. Lulus nama file keluaran dan objek BMPOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

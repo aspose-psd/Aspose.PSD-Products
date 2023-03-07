@@ -17,7 +17,7 @@ url: net/conversion/psd-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="การแสดงผลคุณภาพสูงของ PSD เป็น BMP" %}}
 1.โหลด PSD ด้วย [รูปภาพโหลดภาพ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) วิธี
- [บีเอ็มป็อปชัน](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) แบ่งประเภท
+1.สร้างอินสแตนซ์ของ [บีเอ็มป็อปชัน](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) แบ่งประเภท
 1.โทร [รูปภาพบันทึก](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) วิธี
 1.ส่งชื่อไฟล์ที่ส่งออกและวัตถุของ BMPoptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

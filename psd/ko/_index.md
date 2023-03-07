@@ -44,7 +44,12 @@ iFrame 임베딩을 기반으로 하는 다목적 변환 응용 프로그램입�
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="보기" symbol="V" productLink="view/" >}}
 PSD, PSB 및 AI 파일을 볼 수 있는 간단한 위젯
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="서클 크롭" symbol="CC" productLink="crop/circle/" >}}
+원형 이미지를 자르는 간단한 위젯.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD 코드 없음 앱 포함" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="전환" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

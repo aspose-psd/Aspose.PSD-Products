@@ -12,7 +12,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Open AI file online" >}}
+{{< blocks/products/pf/feature-page-section h2="آن لائن AI فائل کھولیں" >}}
 <p>جب آپ AI فارمیٹ آن لائن کھولتے ہیں تو آپ کو ترمیم کی فعالیت کی ضرورت نہیں ہوتی ہے، تو یہ AI ناظر بہت سے مقاصد کے لئے ایک اچھا حل ہے. ویب سرور پر اپ لوڈ کرنے کے بعد آپ AI فائل آن لائن کھول سکتے ہیں. AI فارمیٹ ایک ویکٹر کی شکل ہے، لہذا ریسٹرائزیشن مخصوص تصویر کے سائز میں آگے بڑھایا جائے گا. اضافی افعال کے لئے، آپ استعمال کرسکتے ہیں <a href="/psd/net">.Net</a> یا <a href="/psd/java">Java</a> ہائی کوڈ API آپ کی ضرورت کے طول و عرض میں AI فائلوں کو کھولنے کے لئے</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// For the new AI format please use the following code:

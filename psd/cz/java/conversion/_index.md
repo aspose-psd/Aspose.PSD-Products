@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Převod souborů Adobe® Photoshop® přes Javu" h2="Převést Photoshop PSD, PSB na JPG, PNG, BMP, TIFF obrázky a PDF vytvářet cross-platform Java aplikace." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Formát PSD Adobe® Photoshop® je formát návrhářů pro navrhování vizitek, návrhů loga, makety letáků, návrhů webových stránek a mnoho dalšího. Je to běžný případ pro návrháře exportovat vrstvy PSD do jednoho obrázku včetně JPG, PNG, GIF, TIFF atd. Přes Adobe Photoshop. Pro převod Photoshopu PSD na rastrové obrázky a PDF v libovolném řešení Java, **Java PSD API** to zvládne s lehkostí. Pro jakoukoli aplikaci pro automatizaci konverzí PSD lze níže uvedené kódy snadno integrovat pro rastrové obrázky a konverzi PDF.
+Formát PSD Adobe® Photoshop® je formát návrhářů pro navrhování vizitek, návrhů loga, makety letáků, návrhů webových stránek a mnoho dalšího. Je to běžný případ pro návrháře exportovat vrstvy PSD do jednoho obrázku včetně JPG, PNG, GIF, TIFF atd. Přes Adobe Photoshop. Pro konverzi aplikace Photoshop PSD na rastrové obrázky a PDF v rámci libovolného řešení Java, **Java PSD API** může to udělat s lehkostí. Pro jakoukoli aplikaci pro automatizaci konverzí PSD lze níže uvedené kódy snadno integrovat pro rastrové obrázky a konverzi PDF.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

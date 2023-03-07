@@ -44,7 +44,12 @@ Jednostavan widget za smanjenje veličine datoteke bilo kojeg formata. Za PSD ko
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Pogled" symbol="V" productLink="view/" >}}
 Jednostavan widget za pregled PSD, PSB i AI datoteka
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Krug usjeva" symbol="CC" productLink="crop/circle/" >}}
+Jednostavan widget za sliku kruga u žitu.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Nema kodnih aplikacija" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Pretvorba" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

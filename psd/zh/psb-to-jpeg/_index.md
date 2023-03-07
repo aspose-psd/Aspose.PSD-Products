@@ -17,7 +17,7 @@ url: psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="以 JPEG 格式对 PSB 进行高质量渲染" %}}
 1。用以下方式加载 PSB [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
-1。从图像创建 Graphics 实例。 [JPEG 选项](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) 班级
+1。创建的实例 [JPEG 选项](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) 班级
 1。打电话 [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。传递 jpegOptions 的输出文件名和对象
 {{% /blocks/products/pf/agp/feature-section-col %}}

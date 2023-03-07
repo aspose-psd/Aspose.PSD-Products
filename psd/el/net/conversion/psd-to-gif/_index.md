@@ -17,7 +17,7 @@ url: net/conversion/psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Υψηλής Ποιότητας Απόδοση του PSD ως GIF" %}}
 1. Φόρτωση του PSD με [Εικόνα.Φόρτωση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) μέθοδος
- [Επιλογές δώροςΕπιλογές](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) τάξη
+1. Δημιουργήστε μια παρουσία του [Επιλογές δώροςΕπιλογές](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) τάξη
 1. Καλέστε [Εικόνα.Αποθήκευση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) μέθοδος
 1. Περάστε το όνομα αρχείου εξόδου και το αντικείμενο των GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

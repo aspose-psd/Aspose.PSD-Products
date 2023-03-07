@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="پی ایس ڈی دیکھنے کے لئے مفت اپلی کیشن" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="پی ایس ڈی دیکھنے کے لئے مفت اپلی کیشن" sectionDescription="ہمارے لائیو ڈیمو چیک کریں [پی ایس ڈی دیکھیں](https://products.aspose.app/psd/viewer/psd) مندرجہ ذیل فوائد کے ساتھ." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="کچھ بھی ڈاؤن لوڈ کرنے یا سیٹ اپ کرنے کی ضرورت نہیں ہے" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="کوڈ لکھنے یا مرتب کرنے کی کوئی ضرورت نہیں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="صرف پی ایس ڈی فائل اپ لوڈ کریں اور\" دیکھیں\” بٹن کو ماریں" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="لنک سے پی ایس ڈی فائل ڈاؤن لوڈ کریں، اگر ضرورت ہو" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 پی ایس ڈی، فوٹوشاپ دستاویز، ایڈوب فوٹوشاپ کی مقامی فائل کی شکل کی نمائندگی کرتا ہے جو گرافکس ڈیزائننگ اور ترقی کے پی ایس ڈی فائلوں میں تصویر کی تہوں، ایڈجسٹمنٹ تہوں، پرت ماسک، تشریحات، فائل کی معلومات، مطلوبہ الفاظ اور دیگر فوٹوشاپ مخصوص عناصر شامل ہوسکتے ہیں. فوٹوشاپ فائلوں میں پی ایس ڈی کے طور پر ڈیفالٹ توسیع ہے اور 30,000 پکسلز کی زیادہ سے زیادہ اونچائی اور چوڑائی ہے، اور دو گیگا بائٹس کی لمبائی کی حد ہے.

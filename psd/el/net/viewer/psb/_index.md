@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για να δείτε το PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για να δείτε το PSB" sectionDescription="Ελέγξτε τα live demos μας για [Προβολή PSB](https://products.aspose.app/psd/viewer/psb) με τις ακόλουθες παροχές." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Δεν χρειάζεται να γράψετε ή να μεταγλωττίσετε κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλά ανεβάστε το αρχείο PSB και πατήστε το κουμπί\" Προβολή\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Κατεβάστε το αρχείο PSB από το σύνδεσμο, εάν απαιτείται" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Το Adobe photoshop αποθηκεύει αρχεία σε δύο μορφές. Τα αρχεία που έχουν 30.000 με 30.000 pixels σε μέγεθος αποθηκεύονται με επέκταση PSD και αρχεία μεγαλύτερα από PSD μέχρι 300.000 με 300.000 pixels αποθηκεύονται με επέκταση PSB γνωστή ως «Photoshop Big». Πιο συγκεκριμένα, τα αρχεία PSB μπορεί να είναι τόσο μεγάλα όσο 4 EB (πάνω από 4,2 δισεκατομμύρια GB) με εικόνες που έχουν ύψος και πλάτος έως και 300.000 pixel. Τα PSD, από την άλλη πλευρά, μπορούν να έχουν μέγιστη χωρητικότητα μέχρι 2 GB και διαστάσεις εικόνας 30.000 εικονοστοιχείων. Το PSB είναι επίσης γνωστό ως μέγεθος μεγάλου μεγέθους για το photoshop και υποστηρίζει όλα τα χαρακτηριστικά του photoshop όπως στρώματα, εφέ και φίλτρα.

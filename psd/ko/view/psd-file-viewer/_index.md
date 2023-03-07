@@ -11,7 +11,7 @@ url: view/psd-file-viewer/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="PSD File Viewer" >}}
+{{< blocks/products/pf/feature-page-section h2="PSD 파일 뷰어" >}}
 <p>PSD 뷰어는 모든 PSD 파일을 온라인으로 볼 수 있는 간단한 앱입니다.어도브 포토샵이 없으시면 이 제품을 사용하셔도 됩니다 <a href="/psd/view/psd-file-viewer">PSD 뷰어</a> 또는 <a href="https://products.aspose.app/psd/editor">애스포즈 PSD 에디터</a>.로컬 컴퓨터에 설치해야 하는 다른 뷰어와 달리 이 PSD 파일 뷰어는 무료이며 온라인에서 작동합니다.PSD Viewer를 지원하는 Aspose.PSD 의 지속적인 업데이트 덕분에 픽셀 단위의 완벽한 미리보기로 마지막 버전의 PSD 파일을 열 수 있습니다.참고로 이 앱은 Adobe Photoshop을 사용하지 않으므로 C# 또는 Java를 사용하여 이 뷰어의 모든 기능을 재현할 수 있습니다. <a href="https://products.aspose.com/psd">Aspose.PSD</a></p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))

@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení PSB" sectionDescription="Podívejte se na naše živé ukázky [Zobrazit PSB](https://products.aspose.app/psd/viewer/psb) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSB a stisknout tlačítko\" Zobrazit\“" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Stáhněte si soubor AI z odkazu, v případě potřeby" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe photoshop ukládá soubory ve dvou formátech. Soubory o velikosti 30 000 x 30 000 pixelů se ukládají s příponou PSD a soubory větší než PSD až do 300 000 x 300 000 pixelů se ukládají s příponou PSB známou jako „Photoshop Big“. Přesněji řečeno, soubory PSB mohou být velké až 4 EB (přes 4,2 miliardy GB) s obrázky, které mají výšku a šířku až 300 000 pixelů. Na druhou stranu PSD mohou mít maximálně 2 GB a rozměry obrazu 30 000 pixelů. PSB je také známý jako velkoformátová velikost pro photoshop a podporuje všechny funkce photoshopu, jako jsou vrstvy, efekty a filtry

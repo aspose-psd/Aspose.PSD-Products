@@ -17,7 +17,7 @@ url: net/conversion/psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="GIF olarak PSD Yüksek Kalite Render" %}}
 1. PSD ile yükleyin [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) sınıf
+1. Bir örneği oluşturun [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. GIFOptions'ın çıktı dosya adını ve nesnesini iletin
 {{% /blocks/products/pf/agp/feature-section-col %}}

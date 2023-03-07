@@ -17,7 +17,7 @@ url: psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="GIF के रूप में PSD की उच्च गुणवत्ता वाली रेंडरिंग" %}}
 1। PSD को इसके साथ लोड करें [छवि. लोड](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) तरीका
-1। छवि से ग्राफ़िक्स का एक उदाहरण बनाएं। [GIF विकल्प](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) वर्ग
+1। का एक उदाहरण बनाएं [GIF विकल्प](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) वर्ग
 1। कॉल करें [छवि. सेव करें](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) तरीका
 1। GifOptions का आउटपुट फ़ाइल नाम और ऑब्जेक्ट पास करें
 {{% /blocks/products/pf/agp/feature-section-col %}}

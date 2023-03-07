@@ -44,7 +44,12 @@ API Java για το χειρισμό αρχείων Photoshop και Illustrato
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Προβολή" symbol="V" productLink="view/" >}}
 Απλό γραφικό στοιχείο για να δείτε PSD, PSB και AI Files
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Κυκλική Περικοπή" symbol="CC" productLink="crop/circle/" >}}
+Απλό γραφικό συστατικό για την περικοπή της εικόνας κύκλου.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Δεν υπάρχουν εφαρμογές κώδικα περιλαμβάνουν" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Μετατροπή" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

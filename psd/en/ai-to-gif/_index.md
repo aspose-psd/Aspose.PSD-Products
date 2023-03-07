@@ -37,7 +37,7 @@ PM> Install-Package Aspose.PSD
 {{% /blocks/products/pf/agp/text %}}
 
 1. Load the AI with [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) method
-1. Create an instance of [GifOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/GifOptions) class
+1. Create an instance of [GifOptions](https://reference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions/) class
 1. Call [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) method
 1. Pass output filename and object of GifOptions
 

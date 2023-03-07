@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Pretvorba datoteka Adobe® Photoshop® putem Jave" h2="Pretvoriti Photoshop PSD, PSB u JPG, PNG, BMP, TIFF slike i PDF za izgradnju cross-platform Java aplikacija." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-PSD format Adobe® Photoshop® je format dizajnera za dizajniranje posjetnica, dizajna logotipa, modela letaka, dizajna web stranica i još mnogo toga. Uobičajeni je slučaj da dizajneri izvoze PSD slojeve u jednu sliku, uključujući JPG, PNG, GIF, TIFF itd. Putem Adobe Photoshopa. Za photoshop PSD pretvorbu u rasterske slike i PDF unutar bilo kojeg Java rješenja, ** Java PSD API** to može učiniti s lakoćom. Za bilo koju aplikaciju za automatizaciju pretvorbe PSD, ispod primjera kodova lako se mogu integrirati za rasterske slike i PDF pretvorbu.
+PSD format Adobe® Photoshop® je format dizajnera za dizajniranje posjetnica, dizajna logotipa, modela letaka, dizajna web stranica i još mnogo toga. Uobičajeni je slučaj da dizajneri izvoze PSD slojeve u jednu sliku, uključujući JPG, PNG, GIF, TIFF itd. Putem Adobe Photoshopa. Za Photoshop PSD pretvorbu u rasterske slike i PDF unutar bilo kojeg Java rješenja, **Java PSD API** može to učiniti s lakoćom. Za bilo koju aplikaciju za automatizaciju pretvorbe PSD, ispod primjera kodova lako se mogu integrirati za rasterske slike i PDF pretvorbu.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -13,7 +13,7 @@ url: ai/
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/feature-page-section h2="Pogledaj AI datoteku online" >}}
-<p>Ako nemate nikakav softver za otvaranje AI datoteke, jednostavno upotrijebite alat za internetski preglednik. Ova aplikacija može vam pomoći da vidite AI datoteku bilo koje verzije. No, konačni rezultat će donio pregled. AI datoteka je teško vidjeti u osnovnim aplikacijama jer je AI vektorski format. Samo vektorski preglednik može otvoriti AI. AI Format je stvorio Adobe, to je vlasnički format. Ima ".ai" proširenje. Većina AI Viewera su plaćeni proizvodi, ali ako ne trebate uređivati datoteke Illustrator, za to vam nije potreban plaćeni softver. Dovoljno je koristiti Pogledaj AI datoteke Online s ovom aplikacijom.</p>
+<p>Ako nemate nikakav softver za otvaranje AI datoteke, jednostavno upotrijebite alat za internetski preglednik. Ova aplikacija može vam pomoći da vidite AI datoteku bilo koje verzije. No, konačni rezultat će donio pregled. AI datoteka je teško vidjeti u osnovnim aplikacijama jer je AI vektorski format. Samo vektorski preglednik može otvoriti AI. AI Format je stvorio Adobe, to je vlasnički format. Ima ".ai" proširenje. Većina AI Viewera su plaćeni proizvodi, ali ako ne trebate uređivati datoteke Illustrator, za to vam nije potreban plaćeni softver. Dovoljno je koristiti Pogledaj AI datoteke Online s ovom aplikacijom. Isprobajte ovu ažuriranu verziju AI Viewera</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)

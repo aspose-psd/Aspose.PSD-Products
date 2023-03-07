@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.PSD untuk Java API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Watermark PSD melalui Aplikasi Online" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Watermark PSD melalui Aplikasi Online" sectionDescription="Tambahkan watermark ke dokumen PSD dengan mengunjungi kami [Situs Demo Langsung](https://products.aspose.app/psd/watermark). Demo langsung memiliki manfaat sebagai berikut" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Tidak perlu menulis kode apapun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file PSD Anda, atur tanda air Anda dan tekan tombol\" Add\””" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Segera dapatkan tautan unduhan untuk file yang dihasilkan" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, merupakan format file asli Adobe Photoshop yang digunakan untuk merancang grafis dan pengembangan. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, lapisan masker, anotasi, informasi file, kata kunci dan elemen khusus Photoshop lainnya. File Photoshop memiliki ekstensi default sebagai.PSD dan memiliki tinggi dan lebar maksimum 30.000 piksel, dan batas panjang dua gigabyte.

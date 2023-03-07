@@ -17,7 +17,7 @@ url: psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="Visokokvalitetni prikaz PSD-a kao TIFF" %}}
 1. Učitajte PSD s [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
-1. Stvorite instancu grafike sa slike. [TIFFOpcije](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) klasa
+1. Stvorite instancu [TIFFOpcije](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Pass izlazni naziv datoteke i objekt TIFFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

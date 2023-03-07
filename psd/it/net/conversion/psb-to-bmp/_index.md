@@ -17,7 +17,7 @@ url: net/conversion/psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendering di alta qualità di PSB come BMP" %}}
 1. Carica il PSB con [Immagine.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metodo
- [Opzioni BMP](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) classe
+1. Crea un'istanza di [Opzioni BMP](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) classe
 1. Chiama [Immagine.Salva](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metodo
 1. Passa il nome del file di output e l'oggetto di BmPoptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

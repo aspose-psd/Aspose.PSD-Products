@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="자바를 통한 어도비® 포토샵® 파일 변환" h2="포토샵 PSD, PSB를 JPG, PNG, BMP, TIFF 이미지 및 PDF로 변환하여 크로스 플랫폼 자바 애플리케이션을 구축할 수 있습니다." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop® 의 PSD 형식은 명함, 로고 디자인, 전단지 목업, 웹사이트 디자인 등을 디자인하기 위한 디자이너 형식입니다.디자이너가 어도비 포토샵을 통해 PSD 레이어를 JPG, PNG, GIF, TIFF 등의 단일 이미지로 내보내는 것이 일반적인 경우입니다.포토샵 PSD를 모든 Java 솔루션 내에서 래스터 이미지 및 PDF로 변환하는 경우**Java PSD API**를 사용하면 쉽게 변환할 수 있습니다.모든 PSD 변환 자동화 응용 프로그램의 경우 래스터 이미지 및 PDF 변환을 위해 아래 예제 코드를 쉽게 통합할 수 있습니다. **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Adobe® Photoshop® 의 PSD 형식은 명함, 로고 디자인, 전단지 목업, 웹 사이트 디자인 등을 디자인하기 위한 디자이너 형식입니다.디자이너가 어도비 포토샵을 통해 PSD 레이어를 JPG, PNG, GIF, TIFF 등의 단일 이미지로 내보내는 것이 일반적입니다.모든 Java 솔루션 내에서 포토샵 PSD를 래스터 이미지 및 PDF로 변환하려면 **자바 PSD API** 쉽게 할 수 있습니다.모든 PSD 변환 자동화 응용 프로그램의 경우 래스터 이미지 및 PDF 변환을 위해 아래 예제 코드를 쉽게 통합할 수 있습니다.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

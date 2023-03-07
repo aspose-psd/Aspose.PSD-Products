@@ -17,7 +17,7 @@ url: psd-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Kvalitetno prikazivanje PSD-a kao GIF-a" %}}
 1. Učitajte PSD s [Image.Opterećenje](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
-1. Stvorite instancu grafike sa slike. [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) klasa
+1. Stvorite instancu [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) klasa
 1. Nazovite [Slika.Spremi](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Pass izlazni naziv datoteke i objekt GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

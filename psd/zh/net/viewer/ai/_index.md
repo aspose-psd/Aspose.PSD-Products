@@ -82,11 +82,12 @@ Aspose.PSD 是一个 Photoshop 格式操作 API。人们可以生成、修改和
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="查看人工智能的免费应用程序" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="查看人工智能的免费应用程序" sectionDescription="看看我们的现场演示 [查看人工智能](https://products.aspose.app/psd/viewer/ai) 具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 AI 文件并点击\ “查看\” 按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，从链接下载 AI 文件" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 扩展名为 .ai 的文件是一个 Adobe Illustrator Artwork 文件，它在单个页面中包含矢量图形。它使用点来创建显示图像数据的路径，因此放大后不会损失图像质量。AI 文件格式基于 PGF 文件格式，与 AI 文件类似。人工智能格式主要用于徽标和印刷媒体，其初始版本被认为与EPS文件的版本相似。AI 文件可以使用 Adobe Illustrator、Adobe Acrobat DC、PaintShop Pro 和 CorelDRAW Graphics 工具打开。

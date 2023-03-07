@@ -116,12 +116,12 @@ Eller använd iText-funktionen och konfigurera varje textdel med sin egen specif
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Visuell PSD Online Editor App" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Visuell PSD Online Editor App" sectionDescription="Redigera PSD-filer genom att besöka vår [Live Demos: Hemsida](https://products.aspose.app/psd/editor/). Live demo har följande fördelar" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Inget behov av att ladda ner eller ställa in något" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Inget behov av att skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Bara ladda upp din PSD-fil, göra några ändringar och tryck\" Download\” knapp " >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Få omedelbart nedladdningslänken för den resulterande filen" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, representerar Adobe Photoshop ursprungliga filformat som används för grafik design och utveckling. PSD-filer kan innehålla bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika element. Photoshop-filer har standardtillägg som.PSD och har en maximal höjd och bredd på 30 000 pixlar och en längdgräns på två gigabyte.
 

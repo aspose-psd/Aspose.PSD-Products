@@ -82,11 +82,12 @@ Aspose.PSD est une API de manipulation de format Photoshop. On peut générer, m
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour visualiser l'IA" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour visualiser l'IA" sectionDescription="Consultez nos démos en direct pour [Voir l'IA](https://products.aspose.app/psd/viewer/ai) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Pas besoin d'écrire ou de compiler du code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Il suffit de télécharger le fichier AI et d'appuyer sur le bouton \" Afficher \»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Téléchargez le fichier AI à partir du lien, si nécessaire" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Un fichier portant l'extension .ai est un fichier d'illustration Adobe Illustrator qui contient des graphiques vectoriels sur une seule page. Il utilise des points pour créer des tracés d'affichage des données d'image, évitant ainsi toute perte de qualité d'image en cas d'agrandissement. Le format de fichier AI est basé sur le format de fichier PGF qui est similaire aux fichiers AI. Le format AI trouve son utilisation principale pour les logos et les supports imprimés, et ses versions initiales étaient considérées comme similaires à celles des fichiers EPS. Les fichiers AI peuvent être ouverts avec les outils Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro et CorelDRAW Graphics.

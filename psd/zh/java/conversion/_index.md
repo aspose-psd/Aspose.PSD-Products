@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="通过 Java 转换 Adobe® Photoshop® 文件" h2="将 Photoshop PSD、PSB 转换为 JPG、PNG、BMP、TIFF 图像和 PDF 以构建跨平台 Java 应用程序。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop® 的 PSD 格式是一种设计师格式，用于设计名片、徽标设计、传单模型、网站设计等。设计师通常会通过 Adobe Photoshop 将 PSD 图层导出到单张图像，包括 JPG、PNG、GIF、TIFF 等。要在任何 Java 解决方案中将 photoshop PSD 转换为光栅图像和 PDF，**Java PSD API** 可以轻松完成。对于任何 PSD 转换自动化应用程序，可以轻松集成以下示例代码以进行光栅图像和 PDF 转换。
+Adobe® Photoshop® 的 PSD 格式是设计师设计名片、徽标设计、传单模型、网站设计等的一种格式。设计师通常通过 Adobe Photoshop 将 PSD 图层导出为单张图像，包括 JPG、PNG、GIF、TIFF 等。要在任何 Java 解决方案中将 photoshop PSD 转换为光栅图像和 PDF， **Java PSD API** 可以轻松做到。对于任何PSD转换自动化应用程序，可以轻松地将以下示例代码集成到光栅图像和PDF转换中。
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

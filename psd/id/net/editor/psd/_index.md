@@ -116,12 +116,12 @@ Atau gunakan fungsionalitas iText dan konfigurasikan setiap bagian teks dengan g
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Editor Online PSD Visual" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Editor Online PSD Visual" sectionDescription="Edit file PSD dengan mengunjungi kami [Situs Demo Langsung](https://products.aspose.app/psd/editor/). Demo langsung memiliki manfaat sebagai berikut" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Tidak perlu menulis kode apapun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Hanya meng-upload file PSD Anda, membuat beberapa perubahan dan tekan\" Download\” tombol" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Segera dapatkan tautan unduhan untuk file yang dihasilkan" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, merupakan format file asli Adobe Photoshop yang digunakan untuk merancang grafis dan pengembangan. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, lapisan masker, anotasi, informasi file, kata kunci dan elemen khusus Photoshop lainnya. File Photoshop memiliki ekstensi default sebagai.PSD dan memiliki tinggi dan lebar maksimum 30.000 piksel, dan batas panjang dua gigabyte.
 

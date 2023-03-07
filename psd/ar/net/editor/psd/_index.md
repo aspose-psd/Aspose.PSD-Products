@@ -116,12 +116,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="تطبيق محرر PSD المرئي عبر الإنترنت" sectionDescription="Edit the PSD files by visiting our [Live Demos website](https://products.aspose.app/psd/editor/). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="تطبيق محرر PSD المرئي عبر الإنترنت" sectionDescription="قم بتحرير ملفات PSD من خلال زيارة موقعنا [موقع العروض التوضيحية الحية](https://products.aspose.app/psd/editor/). يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="لا حاجة لكتابة أي كود" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف PSD الخاص بك وإجراء بعض التغييرات والضغط على زر\" تنزيل\»" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="احصل على رابط التنزيل للملف الناتج على الفور" >}}
-
+{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD ، Photoshop Document ، يمثل تنسيق الملف الأصلي لبرنامج Adobe Photoshop المستخدم لتصميم الرسومات وتطويرها. قد تتضمن ملفات PSD طبقات الصورة وطبقات الضبط وأقنعة الطبقة والتعليقات التوضيحية ومعلومات الملف والكلمات الأساسية والعناصر الأخرى الخاصة بـ Photoshop. ملفات Photoshop لها امتداد افتراضي مثل .PSD ولها أقصى ارتفاع وعرض يبلغ 30000 بكسل ، وحد أقصى للطول يبلغ 2 غيغابايت
 

@@ -22,7 +22,7 @@ url: psb/
 "Gists पर PSB फ़ाइलें खोलने के उदाहरण" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "फ़ोटोशॉप के बिना PSB फ़ाइलों को खोलने का ट्यूटोरियल" "https://products.aspose.com/psd/net/viewer/" 
 "PSB फ़ाइल व्यूअर स्टैंडअलोन सेवा के रूप में" "https://products.aspose.app/psd/viewer" >}}
-<p>PSB बिल्ट-इन नो-कोड PSB व्यूअर के साथ PSB फ़ाइल देखें। आप वर्तमान एप्लिकेशन के साथ PSB फ़ाइल खोल सकते हैं। यदि आपको अतिरिक्त संपादन सुविधाओं की आवश्यकता है, तो कृपया इसकी जांच करें <a href="https://products.aspose.app/psd/template-editor">PSB संपादक</a>.</p>
+<p>PSB बिल्ट-इन नो-कोड PSB व्यूअर के साथ PSB फ़ाइल देखें। आप वर्तमान एप्लिकेशन के साथ PSB फ़ाइल खोल सकते हैं। यदि आपको अतिरिक्त संपादन सुविधाओं की आवश्यकता है, तो कृपया इसकी जांच करें <a href="https://products.aspose.app/psd/template-editor">PSB संपादक</a>। यदि बड़ी फ़ाइलों का उपयोग करने की आवश्यकता हो तो PSB फ़ाइलों को आज़माएं</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

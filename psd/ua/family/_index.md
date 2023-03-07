@@ -15,7 +15,7 @@ url: family/
 Цільові форми Windows, ASP.NET або будь-який тип додатків на основі .NET Framework 2.0 або пізнішої версії.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Ява" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
 Рідні API Java для робочого столу, Інтернету або будь-якого виду додатків на основі Java SE або EE.
 {{< /blocks/products/pf/product >}}
 

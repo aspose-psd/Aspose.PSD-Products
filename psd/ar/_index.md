@@ -44,7 +44,12 @@ url: /
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="عرض" symbol="V" productLink="view/" >}}
 أداة بسيطة لعرض ملفات PSD و PSB و AI
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="سيركل كروب" symbol="CC" productLink="crop/circle/" >}}
+أداة بسيطة لقص صورة الدائرة.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD لا تتضمن تطبيقات التعليمات البرمجية" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="تحويل" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

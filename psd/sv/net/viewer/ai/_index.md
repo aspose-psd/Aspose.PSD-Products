@@ -82,11 +82,12 @@ Aspose.PSD är ett Photoshop-format manipulation API. Man kan generera, ändra o
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att visa AI" sectionDescription="Check our live demos to [View AI](https://products.aspose.app/psd/viewer/ai) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att visa AI" sectionDescription="Kolla våra live-demos till [Visa AI](https://products.aspose.app/psd/viewer/ai) med följande fördelar." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Inget behov av att ladda ner eller ställa in något" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Inget behov av att skriva eller kompilera kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp AI-fil och tryck på\" Visa\” -knappen" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ladda ner AI-fil från länken, om det behövs" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 En fil med en.ai förlängning är en Adobe Illustrator konstverk fil som innehåller vektorgrafik i en enda sida. den använder punkter för att skapa vägar för att visa bilddata, vilket gör det säkert från att förlora bildkvalitet om den är förstorad. AI-filformat är bas på PGF-filformatet som liknar AI-filer. AI-format finner sin huvudsakliga användning för logotyper och tryckta medier, och dess ursprungliga versioner ansågs likna EPS-filer. AI-filer kan öppnas med Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro och CorelDRAW Graphics verktyg.

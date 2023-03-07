@@ -5,11 +5,12 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Adobe® Photoshop® -tiedostojen muuntaminen Java-ohjelmalla" h2="Muunna Photoshop PSD, PSB JPG, PNG, BMP, TIFF Images ja PDF rakentaa cross-platform Java-sovelluksia." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Adobe® Photoshop®: n PSD-muoto on suunnittelijoiden muoto käyntikorttien suunnitteluun, logomalleihin, esitteiden malleihin, verkkosivustojen suunnitteluun ja paljon muuta. Suunnittelijoiden on tavallista viedä PSD-kerrokset yhteen kuvaan, mukaan lukien JPG, PNG, GIF, TIFF jne. Adobe Photoshopin kautta. Photoshop PSD muuntaminen rasterikuvia ja PDF tahansa Java ratkaisu, **Java PSD API** voi tehdä sen helposti. Minkä tahansa PSD muuntaminen automaatio sovellus, alla esimerkki koodit voidaan helposti integroida rasterikuvia ja PDF muuntaminen. **Java PSD API** can do it with ease. For any PSD conversion automation application, below example codes can easily be integrated for raster images and PDF conversion.
+Adobe® Photoshop®: n PSD-muoto on suunnittelijoiden muoto käyntikorttien suunnitteluun, logomalleihin, esitteiden malleihin, verkkosivustojen suunnitteluun ja paljon muuta. Suunnittelijoiden on tavallista viedä PSD-kerrokset yhteen kuvaan, mukaan lukien JPG, PNG, GIF, TIFF jne. Adobe Photoshopin kautta. Photoshop PSD muuntaminen rasterikuvia ja PDF tahansa Java ratkaisu, **Java PSD API** voi tehdä sen helposti. Minkä tahansa PSD muuntaminen automaatio sovellus, alla esimerkki koodit voidaan helposti integroida rasterikuvia ja PDF muuntaminen.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

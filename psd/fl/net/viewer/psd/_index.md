@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ilmainen sovellus PSD: n katseluun" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Ilmainen sovellus PSD: n katseluun" sectionDescription="Tarkista live-demoja [Näytä PSD](https://products.aspose.app/psd/viewer/psd) seuraavilla eduilla." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Ei tarvitse ladata tai asentaa mitään" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Koodia ei tarvitse kirjoittaa tai koota" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Lataa vain PSD-tiedosto ja paina\" Näytä\” -painiketta " >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Lataa PSD-tiedosto linkistä tarvittaessa" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, edustaa Adobe Photoshopin alkuperäistä tiedostomuotoa, jota käytetään grafiikan suunnitteluun ja kehittämiseen. PSD-tiedostot voivat sisältää kuvakerroksia, säätökerroksia, kerrosmaskeja, huomautuksia, tiedostotietoja, avainsanoja ja muita Photoshop-kohtaisia elementtejä. Photoshop-tiedostojen oletustunniste on .PSD, ja niiden enimmäiskorkeus ja -leveys on 30 000 pikseliä ja pituusrajoitus kaksi gigatavua.

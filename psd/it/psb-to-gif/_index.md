@@ -17,7 +17,7 @@ url: psb-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Rendering di alta qualità di PSB come GIF" %}}
 1. Carica il PSB con [Immagine.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metodo
-1. Crea un'istanza di Graphics dall'immagine. [Opzioni GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) classe
+1. Crea un'istanza di [Opzioni GIF](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) classe
 1. Chiama [Immagine.Salva](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metodo
 1. Passa il nome del file di output e l'oggetto di GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

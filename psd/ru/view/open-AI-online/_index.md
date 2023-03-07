@@ -12,7 +12,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/feature-page-section h2="Open AI file online" >}}
+{{< blocks/products/pf/feature-page-section h2="Откройте файл AI онлайн" >}}
 <p>Если вам не нужны функции редактирования при открытии формата AI в Интернете, этот AI Viewer станет хорошим решением для многих целей. Вы можете открыть AI файл онлайн после загрузки на веб-сервер. Формат AI является векторным форматом, поэтому растрирование будет осуществляться в указанном размере изображения. Для дополнительных функций вы можете использовать <a href="/psd/net">.Net</a> или же <a href="/psd/java">Java</a> API с высоким кодом для открытия файлов AI в нужных вам размерах</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `	// For the new AI format please use the following code:

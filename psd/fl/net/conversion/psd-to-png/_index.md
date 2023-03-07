@@ -17,7 +17,7 @@ url: net/conversion/psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality Renderöinti PSD PNG" %}}
 1. Lataa PSB [Kuvan.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) menetelmä
- [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) luokka
+1. Luo esiintymä [PNGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) luokka
 1. Soita [Kuva.Tallenna](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) menetelmä
 1. Pass ulostulo tiedostonimi ja kohde PDFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

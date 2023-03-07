@@ -100,7 +100,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd İşleme API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java psd İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD nedir
   </header>
@@ -146,7 +146,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd İşleme API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java psd İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD nedir
   </header>
@@ -164,7 +164,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Java için Aspose.PSD [desteklenen dosya biçimleri] (https://docs.aspose.com/psd/java/supported-file-formats/) aşağıda listelenmiştir." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Java için Aspose.PSD [desteklenen dosya biçimleri](https://docs.aspose.com/psd/java/supported-file-formats/)  aşağıda listelenmiştir." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -215,7 +215,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=“Java psd />
+  <img width="70" height="75" alt=“Java psd API'sı” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD nedir
   </header>

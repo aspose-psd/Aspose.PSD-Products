@@ -17,7 +17,7 @@ url: psd-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="Υψηλής ποιότητας απόδοση του PSD ως JP2" %}}
 1. Φόρτωση του PSD με [Εικόνα.Φόρτωση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) μέθοδος
-1. Δημιουργήστε μια παρουσία των γραφικών από την εικόνα. [Επιλογές Jpeg2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) τάξη
+1. Δημιουργήστε μια παρουσία του [Επιλογές Jpeg2000](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) τάξη
 1. Καλέστε [Εικόνα.Αποθήκευση](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) μέθοδος
 1. Περάστε το όνομα αρχείου εξόδου και το αντικείμενο του Jpeg2000Options
 {{% /blocks/products/pf/agp/feature-section-col %}}

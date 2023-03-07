@@ -44,7 +44,12 @@ Jednoduchý widget pro zmenšení velikosti souboru libovolného formátu. Pro P
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Zobrazit" symbol="V" productLink="view/" >}}
 Jednoduchý widget pro zobrazení souborů PSD, PSB a AI
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Kruh v obilí" symbol="CC" productLink="crop/circle/" >}}
+Jednoduchý widget pro obrázek kruhu v obilí.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD Žádné kódové aplikace zahrnují" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Konverze" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

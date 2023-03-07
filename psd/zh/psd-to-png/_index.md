@@ -17,7 +17,7 @@ url: psd-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSD 的高质量渲染为 PNG" %}}
 1。用以下方式加载 PSD [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
-1。从图像创建 Graphics 实例。 [png 期权](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) 班级
+1。创建的实例 [png 期权](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) 班级
 1。打电话 [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。传递 pngOptions 的输出文件名和对象
 {{% /blocks/products/pf/agp/feature-section-col %}}

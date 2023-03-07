@@ -17,7 +17,7 @@ url: net/conversion/psd-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="TIFF کے طور پر پی ایس ڈی کے اعلی معیار کی انجام" %}}
 1. پی ایس ڈی کے ساتھ لوڈ کریں [تصویر. لوڈ](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) طریقہ
- [اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) جماعت
+1. کی ایک مثال بنائیں [اختیارات](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) جماعت
 1. کال کریں [تصویر. محفوظ کریں](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) طریقہ
 1. پاس آؤٹ پٹ فائل کا نام اور ifOptions کا اعتراض
 {{% /blocks/products/pf/agp/feature-section-col %}}

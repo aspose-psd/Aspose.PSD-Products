@@ -17,7 +17,7 @@ url: psb-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="Високоякісний рендеринг PSB як BMP" %}}
 1. Завантажте PSB за допомогою [Зображення. Завантажити](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) метод
-1. Створіть екземпляр графіки з зображення. [Варіанти BMP](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) клас
+1. Створіть екземпляр [Варіанти BMP](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) клас
 1. Дзвінок [Зображення.Зберегти](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) метод
 1. Передача назви вихідного файлу та об'єкта BMPOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

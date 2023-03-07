@@ -17,7 +17,7 @@ url: psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="Vysoce kvalitní vykreslování PSB jako JPEG" %}}
 1. Načíst PSB pomocí [Image.Načíst](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metoda
-1. Vytvořte instanci grafiky z obrázku. [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) třída
+1. Vytvořte instanci [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) třída
 1. Zavolejte [Obrázek.Uložit](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metoda
 1. Předat název výstupního souboru a objekt JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

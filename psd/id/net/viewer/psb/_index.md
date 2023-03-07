@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat PSB" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat PSB" sectionDescription="Periksa demo hidup kami untuk [Lihat PSB](https://products.aspose.app/psd/viewer/psb) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file PSB dan tekan tombol\" Lihat\”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Unduh file PSB dari tautan, jika diperlukan" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop menyimpan file dalam dua format. File yang memiliki ukuran 30.000 x 30.000 piksel disimpan dengan ekstensi PSD dan file yang lebih besar dari PSD hingga 300.000 kali 300.000 piksel disimpan dengan ekstensi PSB yang dikenal sebagai “Photoshop Big”. Lebih khusus lagi, file PSB bisa sebesar 4 EB (lebih dari 4,2 miliar GB) dengan gambar yang memiliki tinggi dan lebar hingga 300.000 piksel. PSDS, di sisi lain, dapat maksimal upto 2 GB dan dimensi gambar 30.000 piksel. PSB juga dikenal sebagai ukuran format besar untuk photoshop dan mendukung semua fitur photoshop seperti lapisan, efek dan filter.

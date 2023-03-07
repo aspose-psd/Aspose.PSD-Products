@@ -17,7 +17,7 @@ url: net/conversion/psd-to-bmp/
 
 {{% blocks/products/pf/agp/feature-section-col title="BMP olarak PSD Yüksek Kalite Render" %}}
 1. PSD ile yükleyin [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) yöntem
- [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) sınıf
+1. Bir örneği oluşturun [BMPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) sınıf
 1. Aramak [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) yöntem
 1. Çıktı dosya adını ve BMPoptions nesnesini geçirin
 {{% /blocks/products/pf/agp/feature-section-col %}}

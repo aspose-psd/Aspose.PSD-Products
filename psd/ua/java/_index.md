@@ -164,7 +164,7 @@ url: java/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Підтримувані формати файлів" description="Aspose.PSD для Java [підтримувані формати файлів](https://docs.aspose.com/psd/java/supported-file-formats/) наведені нижче." >}}
+{{< blocks/products/pf/carousel-item h3="Підтримувані формати файлів" description="Aspose.PSD для Java [підтримувані формати файлів](https://docs.aspose.com/psd/java/supported-file-formats/)  перераховані нижче»." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -215,7 +215,7 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=«Java PSD API» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=«Ява PSD API» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Перетворюйте файли Microsoft Visio у формати PDF, HTML, зображення та інші
   </header>

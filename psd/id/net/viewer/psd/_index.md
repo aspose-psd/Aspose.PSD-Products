@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat PSD" sectionDescription="Periksa demo hidup kami untuk [Lihat PSD](https://products.aspose.app/psd/viewer/psd) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file PSD dan tekan tombol\" Lihat\”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Unduh file PSD dari tautan, jika diperlukan" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, merupakan format file asli Adobe Photoshop yang digunakan untuk merancang grafis dan pengembangan. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, lapisan masker, anotasi, informasi file, kata kunci dan elemen khusus Photoshop lainnya. File Photoshop memiliki ekstensi default sebagai.PSD dan memiliki tinggi dan lebar maksimum 30.000 piksel, dan batas panjang dua gigabyte.

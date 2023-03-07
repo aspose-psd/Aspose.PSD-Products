@@ -22,7 +22,7 @@ url: psb/
 "Παραδείγματα ανοίγματος αρχείων PSB στο Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "Φροντιστήριο πώς να ανοίξετε αρχεία PSB χωρίς Photoshop" "https://products.aspose.com/psd/net/viewer/" 
 "Προβολέας αρχείων PSB ως αυτόνομη υπηρεσία" "https://products.aspose.app/psd/viewer" >}}
-<p>Δείτε το αρχείο PSB με ενσωματωμένο πρόγραμμα προβολής PSB χωρίς κωδικό. Μπορείτε να ανοίξετε το αρχείο PSB με την τρέχουσα εφαρμογή. Αν χρειάζεστε επιπλέον δυνατότητες επεξεργασίας, ελέγξτε την <a href="https://products.aspose.app/psd/template-editor">Επεξεργαστής PSB</a>.</p>
+<p>Δείτε το αρχείο PSB με ενσωματωμένο πρόγραμμα προβολής PSB χωρίς κωδικό. Μπορείτε να ανοίξετε το αρχείο PSB με την τρέχουσα εφαρμογή. Αν χρειάζεστε επιπλέον δυνατότητες επεξεργασίας, ελέγξτε την <a href="https://products.aspose.app/psd/template-editor">Επεξεργαστής PSB</a>. Δοκιμάστε αρχεία PSB αν χρειαστεί να χρησιμοποιήσετε μεγάλα αρχεία</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}
 

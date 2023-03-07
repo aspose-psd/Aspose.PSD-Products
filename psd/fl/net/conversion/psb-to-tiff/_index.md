@@ -17,7 +17,7 @@ url: net/conversion/psb-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality renderöinti PSB TIFF" %}}
 1. Lataa PSB [Kuvan.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) menetelmä
- [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) luokka
+1. Luo esiintymä [TiffOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) luokka
 1. Soita [Kuva.Tallenna](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) menetelmä
 1. Pass lähtö tiedostonimi ja kohde TIFFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

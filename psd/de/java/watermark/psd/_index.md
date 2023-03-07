@@ -83,9 +83,8 @@ url: java/watermark/psd/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.PSD für die Java-API" %}}
@@ -98,11 +97,12 @@ url: java/watermark/psd/
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="PSD mit Wasserzeichen per Online-App" sectionDescription="Add watermark to PSD documents by visiting our [Live Demos website](https://products.aspose.app/psd/watermark). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="PSD mit Wasserzeichen per Online-App" sectionDescription="Fügen Sie PSD-Dokumenten ein Wasserzeichen hinzu, indem Sie unsere [Live-Demo-Webseite](https://products.aspose.app/psd/watermark). Die Live-Demo hat die folgenden Vorteile" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Sie müssen keinen Code schreiben" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre PSD-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche Hinzufügen" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre PSD-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche\" Hinzufügen\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Holen Sie sich sofort den Download-Link für die resultierende Datei" >}}
+			{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, steht für das native Dateiformat von Adobe Photoshop, das für die Grafikgestaltung und -entwicklung verwendet wird. PSD-Dateien können Bildebenen, Einstellungsebenen, Ebenenmasken, Anmerkungen, Dateiinformationen, Schlüsselwörter und andere Photoshop-spezifische Elemente enthalten. Photoshop-Dateien haben die Standarderweiterung PSD und haben eine maximale Höhe und Breite von 30.000 Pixeln sowie eine Längenbeschränkung von zwei Gigabyte.

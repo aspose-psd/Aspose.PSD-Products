@@ -17,7 +17,7 @@ url: net/conversion/psb-to-jpeg/
 
 {{% blocks/products/pf/agp/feature-section-col title="High Quality renderöinti PSB JPEG" %}}
 1. Lataa PSB [Kuvan.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) menetelmä
- [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) luokka
+1. Luo esiintymä [JPEGOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) luokka
 1. Soita [Kuva.Tallenna](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) menetelmä
 1. Pass lähtö tiedostonimi ja kohde JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

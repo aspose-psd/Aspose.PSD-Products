@@ -44,7 +44,12 @@ iFrame 埋め込みに基づく多目的変換アプリケーション。
 {{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="表示" symbol="V" productLink="view/" >}}
 PSD、PSB、AIファイルを表示するシンプルなウィジェット
 {{< /blocks/products/pf/product >}}
-																			   
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="サークルクロップ" symbol="CC" productLink="crop/circle/" >}}
+サークル画像をトリミングするシンプルなウィジェット。
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD コードアプリは含まれていません" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="コンバージョン" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}

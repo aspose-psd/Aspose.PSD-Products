@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ilmainen sovellus PSB: n katseluun" sectionDescription="Check our live demos to [View PSB](https://products.aspose.app/psd/viewer/psb) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Ilmainen sovellus PSB: n katseluun" sectionDescription="Tarkista live-demoja [Näytä PSB](https://products.aspose.app/psd/viewer/psb) seuraavilla eduilla." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Ei tarvitse ladata tai asentaa mitään" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Koodia ei tarvitse kirjoittaa tai koota" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Lataa vain PSB-tiedosto ja paina\" Näytä\” -painiketta " >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Lataa PSB-tiedosto linkistä tarvittaessa" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop tallentaa tiedostot kahdessa muodossa. Tiedostot, joiden koko on 30 000 x 30 000 pikseliä, tallennetaan PSD-laajennuksella ja PSD:tä suuremmat tiedostot jopa 300 000 x 300 000 pikseliä PSB-laajennuksella, joka tunnetaan nimellä "Photoshop Big". Tarkemmin sanottuna PSB-tiedostot voivat olla jopa 4 EB:n kokoisia (yli 4,2 miljardia Gt), ja kuvien korkeus ja leveys on jopa 300 000 pikseliä. PSD-levyt voivat toisaalta olla enintään 2 Gt ja kuvan mitat 30 000 pikseliä. PSB tunnetaan myös Photoshopin suurikokoisena, ja se tukee kaikkia Photoshopin ominaisuuksia, kuten tasoja, tehosteita ja suodattimia.

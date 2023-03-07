@@ -17,7 +17,7 @@ url: psb-to-png/
 
 {{% blocks/products/pf/agp/feature-section-col title="Renderização de alta qualidade de PSB como PNG" %}}
 1. Carregue o PSB com [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) método
-1. Crie uma instância de gráficos a partir da imagem. [Opções de PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) classe
+1. Crie uma instância de [Opções de PNG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/pngoptions) classe
 1. Ligue [Imagem. Salvar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) método
 1. Passe o nome do arquivo de saída e o objeto de pngOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -17,7 +17,7 @@ url: psb-to-gif/
 
 {{% blocks/products/pf/agp/feature-section-col title="Hög kvalitet Rendering av PSB som GIF" %}}
 1. Ladda PSB med [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) metod
-1. Skapa en instans av grafik från bilden. [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) klass
+1. Skapa en instans av [GIFOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/gifoptions) klass
 1. Ring [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) metod
 1. Skicka utdatafilnamn och objekt för GIFOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}

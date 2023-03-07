@@ -17,7 +17,7 @@ url: psd-to-jp2/
 
 {{% blocks/products/pf/agp/feature-section-col title="PSD の JP2 形式の高画質レンダリング" %}}
 1。PSD をロードするには [画像. 読み込み](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
-1。画像から Graphics のインスタンスを作成します。 [Jpeg 2000 オプション](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) クラス
+1。のインスタンスを作成 [Jpeg 2000 オプション](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpeg2000options) クラス
 1。コール [画像. 保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。Jpeg2000オプションの出力ファイル名とオブジェクトを渡す
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -17,7 +17,7 @@ url: net/conversion/psb-to-tiff/
 
 {{% blocks/products/pf/agp/feature-section-col title="TIFF形式でのPSBの高品質レンダリング" %}}
 1。PSB に次の値をロードします。 [画像. 読み込み](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
- [TIFF オプション](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) クラス
+1。のインスタンスを作成 [TIFF オプション](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) クラス
 1。コール [画像. 保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
 1。TIFFOptions の出力ファイル名とオブジェクトを渡す
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -84,11 +84,12 @@ PM> Install-Package Aspose.PSD
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení PSD" sectionDescription="Check our live demos to [View PSD](https://products.aspose.app/psd/viewer/psd) with following benefits." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení PSD" sectionDescription="Podívejte se na naše živé ukázky [Zobrazit PSD](https://products.aspose.app/psd/viewer/psd) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát nebo kompilovat kód" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko Zobrazit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubor PSD a stisknout tlačítko\" Zobrazit\" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Stáhněte soubor PSD z odkazu, pokud je požadováno" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, představuje nativní formát souboru Adobe Photoshop používaný pro návrh a vývoj grafiky. Soubory PSD mohou obsahovat vrstvy obrázků, vrstvy úprav, masky vrstev, poznámky, informace o souborech, klíčová slova a další prvky specifické pro Photoshop. Soubory Photoshopu mají výchozí příponu jako PSD a mají maximální výšku a šířku 30 000 pixelů a délkový limit dvou gigabajtů.
