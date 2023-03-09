@@ -5,6 +5,7 @@ url: java/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Пераўтварэнне файлаў Adobe® Photoshop® праз Java" h2="Канверце Photoshop PSD, PSB у JPG, PNG, BMP, TIFF выявы і PDF для стварэння кросплатформенных прыкладанняў Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}

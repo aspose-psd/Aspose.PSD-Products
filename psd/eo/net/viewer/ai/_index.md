@@ -87,6 +87,7 @@ Aspose.PSD estas Photoshop-formata manipulada API. Oni povas generi, modifi kaj 
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Ne necesas skribi aŭ kompili kodon" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nur alŝutu AI-dosieron kaj premu la \"View\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Elŝutu AI-dosieron de la ligilo, se necese" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="AI" readMoreLink="https://docs.fileformat.com/image/ai/" >}}
 Dosiero kun etendo .ai estas Adobe Illustrator Artwork-dosiero kiu enhavas vektorajn grafikojn en ununura paĝo. ĝi uzas punktojn por krei vojojn por montri la bilddatenojn, tiel igante ĝin sekura kontraŭ perdo de bildkvalito se ĝi estas pligrandigita. AI-dosierformato baziĝas sur la PGF-dosierformato, kiu estas simila al AI-dosieroj. AI-formato trovas sian plej gravan uzadon por emblemoj kaj presaĵmedioj, kaj ĝiaj komencaj versioj estis konsideritaj similaj al tiu de EPS-dosieroj. AI-dosieroj povas esti malfermitaj per iloj Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro kaj CorelDraw Graphics.

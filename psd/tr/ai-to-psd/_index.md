@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="AI'yı PSD'ye Dönüştürmek İçin Ücretsiz Uygulama" sectionDescription="Canlı demolarımızı kontrol edin [AI'den PSD'ye dönüştürme](https://products.aspose.app/psd/conversion/ai-to-psd) aşağıdaki avantajlarla." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmanıza gerek yok." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece AI dosyanızı yükleyin ve\" Convert\ "düğmesine basın." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece AI dosyanızı yükleyin ve \"Convert\" düğmesine basın." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında elde edilen PSD dosyası için indirme bağlantısını alacaksınız." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

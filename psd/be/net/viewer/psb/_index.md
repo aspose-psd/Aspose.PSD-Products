@@ -89,7 +89,7 @@ PM> Усталяваць пакет Aspose.PSD
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Няма неабходнасці пісаць або кампіляваць код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Проста загрузіце файл PSB і націсніце \"View\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Спампуйце файл PSB па спасылцы, калі патрабуецца" >}}
-
+		{{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop захоўвае файлы ў двух фарматах. Файлы памерам 30 000 на 30 000 пікселяў захоўваюцца з пашырэннем PSD, а файлы памерам больш PSD да 300 000 на 300 000 пікселяў захоўваюцца з пашырэннем PSB, вядомым як «Photoshop Big». Больш канкрэтна, файлы PSB могуць быць памерам да 4 EB (больш за 4,2 мільярда ГБ) з выявамі, якія маюць вышыню і шырыню да 300 000 пікселяў. PSD-дыскі, з іншага боку, могуць мець максімум да 2 ГБ і памер выявы 30 000 пікселяў. PSB таксама вядомы як вялікі фармат для Photoshop і падтрымлівае ўсе функцыі Photoshop, такія як пласты, эфекты і фільтры.
 

@@ -73,7 +73,7 @@ PM> Install-Package Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีเพื่อแปลง AI เป็น JPEG" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง AI เป็น JPEG](https://products.aspose.app/psd/conversion/ai-to-jpeg) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนโค้ดใด ๆ." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ AI ของคุณ แล้วกดปุ่ม\" แปลง\" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ AI ของคุณ แล้วกดปุ่ม \"แปลง\"" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="คุณจะได้รับลิงค์ดาวน์โหลดไฟล์ JPEG ที่เป็นผลลัพธ์ทันที" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

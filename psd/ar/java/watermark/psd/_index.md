@@ -100,7 +100,7 @@ url: java/watermark/psd/
         {{< blocks/products/pf/agp/demobox sectionTitle="وضع علامة مائية على PSD عبر التطبيق عبر الإنترنت" sectionDescription="أضف علامة مائية إلى مستندات PSD من خلال زيارة موقعنا [موقع العروض التوضيحية الحية](https://products.aspose.app/psd/watermark). يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="لا حاجة لكتابة أي كود" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف PSD الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر\" Add\ "»" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف PSD الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر\" Add\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="احصل على رابط التنزيل للملف الناتج على الفور" >}}
 			{{< /blocks/products/pf/agp/demobox >}}
 

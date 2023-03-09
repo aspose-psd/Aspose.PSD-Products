@@ -89,6 +89,7 @@ PM> Instal-Pako Aspose.PSD
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Ne necesas skribi aŭ kompili kodon" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Nur alŝutu PSB-dosieron kaj premu la \"View\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Elŝutu PSB-dosieron de la ligilo, se necese" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSB" readMoreLink="https://docs.fileformat.com/image/psb/" >}}
 Adobe Photoshop konservas dosierojn en du formatoj. Dosieroj havantaj 30,000 je 30,000 pikseloj en grandeco estas konservitaj per PSD-etendo kaj dosieroj pli grandaj ol PSD ĝis 300,000 je 300,000 pikseloj estas konservitaj per PSB-etendo konata kiel "Photoshop Big". Pli specife, PSB-dosieroj povas esti same grandaj kiel 4 EB (pli ol 4,2 miliardoj GB) kun bildoj kiuj havas altecon kaj larĝon de ĝis 300,000 pikseloj. PSD-oj, aliflanke, povas esti maksimume ĝis 2 GB kaj bildaj dimensioj de 30,000 pikseloj. PSB ankaŭ estas konata kiel grandformata grandeco por Photoshop kaj subtenas ĉiujn funkciojn de Photoshop kiel tavoloj, efikoj kaj filtriloj.

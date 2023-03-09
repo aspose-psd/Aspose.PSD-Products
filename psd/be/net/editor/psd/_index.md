@@ -121,6 +121,7 @@ PM> Усталяваць пакет Aspose.PSD
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Няма неабходнасці пісаць код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Проста загрузіце файл PSD, унясіце некаторыя змены і націсніце \"Download\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Імгненна атрымаць спасылку для загрузкі выніковага файла" >}}
+		{{< /blocks/products/pf/agp/demobox >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
 PSD, Photoshop Document, уяўляе сабой родны фармат файла Adobe Photoshop, які выкарыстоўваецца для графічнага праектавання і распрацоўкі. Файлы PSD могуць уключаць у сябе пласты малюнкаў, карэкціруючыя пласты, маскі слаёў, анатацыі, інфармацыю аб файле, ключавыя словы і іншыя элементы, характэрныя для Photoshop. Файлы Photoshop маюць па змаўчанні пашырэнне .PSD і маюць максімальную вышыню і шырыню 30 000 пікселяў і абмежаванне даўжыні ў два гігабайты.

@@ -119,7 +119,7 @@ Veya iText işlevini kullanın ve her metin bölümünü kendi özel stiliyle ya
         {{< blocks/products/pf/agp/demobox sectionTitle="Görsel PSD Çevrimiçi Editör Uygulaması" sectionDescription="Ziyaret ederek PSD dosyalarını düzenleyin bizim [Live Demos Web Sitesi](https://products.aspose.app/psd/editor/). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmeye veya ayarlamaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmanıza gerek yok" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin, bazı değişiklikler yapın ve\" İndir\” düğmesine basın" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece PSD dosyanızı yükleyin, bazı değişiklikler yapın ve \"İndir\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosya için indirme bağlantısını anında alın" >}}
 {{< /blocks/products/pf/agp/demobox >}}
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" >}}
