@@ -92,7 +92,7 @@ PM> Install-Package Aspose.PSD
         {{< blocks/products/pf/agp/demobox sectionTitle="วอเตอร์มาร์ค PSD ผ่านแอพออนไลน์" sectionDescription="เพิ่มลายน้ำลงในเอกสาร PSD โดยไปที่ [เว็บไซต์การสาธิตการถ่ายทอดสด](https://products.aspose.app/psd/watermark).การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="ไม่จำเป็นต้องเขียนโค้ดใด ๆ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD ของคุณ ตั้งลายน้ำของคุณและกดปุ่ม\" เพิ่ม\”" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัพโหลดไฟล์ PSD ของคุณ ตั้งลายน้ำของคุณและกดปุ่ม \"เพิ่ม\”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="ทันทีได้รับลิงค์ดาวน์โหลดสำหรับไฟล์ผลลัพธ์" >}}
 		{{< /blocks/products/pf/agp/demobox >}}			
 
