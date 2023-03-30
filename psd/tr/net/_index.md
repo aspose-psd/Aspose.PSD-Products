@@ -1,23 +1,24 @@
 ---
-title: C# .NET Photoshop Manipülasyon API'sı - Aspose
+title: C#.NET Photoshop Manipülasyon API'si - Aspose
 weight: 90
-description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek için C# ASP.NET VB.NET Photoshop kitaplığı
+description: C# ASP.NET VB.NET Photoshop kütüphanesi oluşturmak ve Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API'leri Photoshop Dosyalarını Değiştirmek için" h2=" Herhangi bir Adobe Photoshop bağımlılığı olmadan PSD ve PSB dosyaları oluşturun, okuyun, düzenleyin ve dönüştürün." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName=".NET için" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API'leri Photoshop dosyalarını işlemek için" h2="Oluşturma, Okuma, Düzenleme ve herhangi bir Adobe Photoshop bağımlılıkları olmadan PSD & PSB dosyalarını dönüştürme." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName=".NET için" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.PSD for .NET, herhangi bir Adobe Photoshop veya Adobe Illustrator bağımlılığı olmadan gelişmiş bir PSD ve giriş seviyesi AI dosyaları formatlama API'sidir. API, Photoshop dosyalarını oluşturma ve düzenlemenin yanı sıra katman özelliklerini güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme veya bir dosya biçimini diğerine dönüştürme yeteneği sağlar.</p>
+<p>.NET için Aspose.PSD, herhangi bir Adobe Photoshop veya Adobe Illustrator bağımlılıkları olmadan gelişmiş bir PSD ve giriş seviyesi AI dosyaları biçimleri manipülasyon API'sidir. API, Photoshop dosyalarını oluşturup düzenlemenin yanı sıra katman özelliklerini güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme veya bir dosya biçimini diğerine dönüştürme olanağı sağlar.</p>
 
 <p>
- API, katman olarak içe aktarmayı ve aşağıdaki biçimlerde dışa aktarmayı destekler:
+ API, katman olarak içe aktarmayı ve aşağıdaki biçimlere dışa aktarmayı destekler:
  <a href="https://docs.fileformat.com/image/png/">
-  PNG
+  TAG
  </a>
  ,
  <a href="https://docs.fileformat.com/image/jpeg/">
@@ -47,7 +48,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
  <a href="https://docs.fileformat.com/image/psb/">
   PSB
  </a>
- seçilebilir metin ile Pdf'ye dışa aktarma ile birlikte. Aspose.PSD, Ayarlama Katmanları, Metin Katmanı oluşturma ve düzenleme, Dolgu Katmanları, Katman Efektleri, Katmanlar için Raster Düzenleme ve Vektör Maskeleri gibi Adobe Photoshop özelliklerini kısmen destekler.
+ Seçilebilir metinle Pdf'ye dışa aktarma ile birlikte. Aspose.PSD kısmen Ayar Katmanları, Metin Katmanı oluşturma ve düzenleme, Dolgu Katmanları, Katmanlar Efektleri, katmanlar için Raster ve Vektör Maskeleri Düzenleme gibi Adobe Photoshop özelliklerini destekler.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -55,7 +56,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API'ye genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API'ye genel bir bakış." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -67,22 +68,22 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
      Döndür veya Çevir
     </li>
     <li>
-     Ölçekle veya Kırp
+     Ölçeklendirme veya Kırp
     </li>
     <li>
-     titreme
+     Dithering
     </li>
     <li>
-     Exif Verilerini Oku veya Yaz
+     Exif Verilerini Okuma veya Yazma
     </li>
     <li>
      Matris Dönüşümleri
     </li>
     <li>
-     Şekillerin Çizilmesi ve Doldurulması
+     Şekillerin Çizimi ve Doldurulması
     </li>
     <li>
-     Parlaklığı, Kontrastı veya Gamayı Ayarlayın
+     Parlaklık, Kontrast veya Gama Ayarlama
     </li>
    </ul>
   </div>
@@ -96,25 +97,25 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
      Dosya Oluşturma
     </li>
     <li>
-     Dosya Yükleme
+     Dosya Yükleniyor
     </li>
     <li>
-     Ham Veri İşleme
+     Ha Veri İşleme
     </li>
     <li>
      RLE Sıkıştırma
     </li>
     <li>
-     Görsellere Dönüştürme
+     Görüntülere Dönüşüm
     </li>
     <li>
-     Katmanları Doldur
+     Katmanları Doldurma
     </li>
     <li>
      Ayar Katmanları
     </li>
     <li>
-     Katman Efektleri
+     Katman Etkileri
     </li>
     <li>
      Raster, Vektör ve Kırpma Maskeleri
@@ -131,16 +132,16 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD İşleme API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=“.NET PSD İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
      için
     </em>
-    .AĞ
+    .NET
    </small>
   </footer>
  </div>
@@ -149,12 +150,12 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.PSD for .NET, 2.0'dan başlayarak tüm .NET çerçevelerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description=".NET için Aspose.PSD 2.0'dan başlayan herhangi bir .NET çerçevesini destekler." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    .NET Çerçevesi
+    .NET Çerçeve
    </header>
    <ul>
     <li>
@@ -172,7 +173,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
    </header>
    <ul>
     <li>
-     ASP.NET Çekirdek Web uygulaması
+     ASP.NET Core Web uygulaması
     </li>
     <li>
      .NET Core tabanlı Windows uygulaması
@@ -182,16 +183,16 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="PSD Manipülasyon API'leri" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=“PSD Manipülasyon API'leri” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
      için
     </em>
-    .AĞ
+    .NET
    </small>
   </footer>
  </div>
@@ -200,12 +201,12 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.PSD for .NET, en popüler [Photoshop & raster image](https://docs.aspose.com/psd/net/supported-file-formats/) dosya formatlarını destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description=".NET için Aspose.PSD en popüler destekler [Photoshop ve raster görüntü](https://docs.aspose.com/psd/net/supported-file-formats/)  dosya biçimleri." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Giriş çıkış
+    Giriş/Çıkış
    </header>
    <ul>
     <li>
@@ -219,14 +220,14 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Yalnızca Çıkış
+    Sadece Çıktı
    </header>
    <ul>
     <li>
      <b>
-      Raster Formatları:
+      Raster Biçimleri:
      </b>
-     TIFF, JPEG, PNG, GIF, BMP, JPEG2000
+     TİFF, JPEG, PNG, GİF, BMP, JPEG2000
     </li>
     <li>
      <b>
@@ -236,14 +237,14 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     </li>
    </ul>
    <header>
-    Yalnızca Giriş
+    Sadece Giriş
    </header>
    <ul>
     <li>
      <b>
-      illüstratör:
+      İllüstratör:
      </b>
-     yapay zeka
+     AI
     </li>
    </ul>
   </div>
@@ -251,16 +252,16 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=“.NET PSD APİ” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
      için
     </em>
-    .AĞ
+    .NET
    </small>
   </footer>
  </div>
@@ -288,7 +289,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Photoshop dosyalarını görüntülere dönüştürün</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Photoshop dosyalarını görüntülere dönüştürme</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -302,14 +303,14 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Mevcut Photoshop dosyalarını yükleyin</a>
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Mevcut Photoshop dosyalarını yükleme</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Dikdörtgen bir bölgeye kırpın</a>
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Dikdörtgen bir bölgeye klipsleyin</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -344,7 +345,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD dosyası Önizleme Piksel-Mükemmel Dışa Aktarma</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD dosyası Önizleme Pixel-Perfect İhracat</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -358,7 +359,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">Katman Efektlerinin Uygulanması</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">Katman Etkilerinin Uygulanması</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -372,7 +373,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sayfa Rengi Vurgulama
+     Sac Rengi Vurgulama
     </p>
    </div>
    <div class="col-lg-4">
@@ -393,28 +394,28 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">Ayarlama Katmanlarının Desteği</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">Ayar Katmanlarının Desteği</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Siyah Beyaz Ayar Katmanı
+     Siyah-Beyaz Ayar Katmanı
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">Parlaklık/Kontrast Ayarlama Katmanı</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">Parlaklık/Kontrast Ayar Katmanı</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Kanal Mikser Ayarlama Katmanı</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Kanal Karıştırıcı Ayar Katmanı</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -428,32 +429,32 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Eğriler Ayarlama Katmanı</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Eğriler Ayar Katmanı</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">Pozlama Ayarlama Katmanı</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">Pozlama Ayar Katmanı</a>
     </p>
    </div>
    <div class="col-lg-4"><em class="fa fa-align-right ico-blue fa-2x col-lg-2"></em><p class="col-lg-10">
       <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-hue-saturation-of-adjustment-layers">
-      Ton/Doygunluk Ayarlama Katmanı
+      Ton/Doygunluk Ayar Katmanı
       </a></p></div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Ayarlama Katmanını Ters Çevir</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Ayar Katmanı Ters Çevir</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Seviye Ayarlama Katmanı</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Seviye Ayar Katmanı</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -495,14 +496,14 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">Çok sayıda Katman Kaynağı desteği</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">Çok sayıda Katman Kaynaklarının Desteği</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Çok sayıda Görsel Bölüm Kaynağı desteği</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Çok sayıda Görüntü Bölümü Kaynaklarının Desteği</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -516,14 +517,14 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Bağlantılı Katmanların eklenmesi ve kaldırılması</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Bağlantılı Katmanlar ekleme ve kaldırma</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Katman Gruplarını Dışa Aktarma</a>
+      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Katman grupları dışa aktar</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -535,53 +536,53 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">En Son PSD API Özellikleri</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD for .NET API, onu güçlü kılmak için sürekli olarak daha fazla özellik ekliyor. İşte en son eklenenlerden birkaç seçki listesi.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Dolgu katmanlarının desteği. Desen, Renk ve Gradyan dolgusu</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>GdFlResource, VmskResource, PtFlResource ve VsmsResource desteği</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>JPEG/PNG/vb görüntü dosyalarını doğrudan yükleme olmadan PsdImage'a yükleyin</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Katman Vektör Maskelerinin Rasterleştirilmesi ve Metin Katmanı Özel FlipRotate</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Dışa aktarma için Renk Dolgusu ile Kontur efektinin oluşturulması</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSD'yi Çeşitli Raster Formatlarına Aktarın
+     PSD'leri Çeşitli Raster Formatlarına Aktar
     </h2>
     <p>
-     Aspose.PSD for .NET, PSD dosyalarını birkaç satır kodla desteklenen raster görüntü formatlarından herhangi birine aktarma yeteneği sağlar.
+     .NET için Aspose.PSD kod sadece birkaç satır ile, desteklenen raster görüntü formatlarından herhangi birine PSD dosyalarını ihracat yeteneği sağlar.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      PSD'yi PNG, JPEG ve TIFF'e Dönüştür - C#
+      PSD'yi PNG, JPEG ve TIFF'e dönüştürme - C#
      </h3>
     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSD Katmanlarına Erişin ve İşleyin
+     PSD Katmanlarına Erişim ve İşleme
     </h2>
     <p>
-     Aspose.PSD for .NET, bir PSD'nin katmanlarına, üzerinde resim veya metinle çizim yapma olanağıyla erişmenizi sağlar. Katmanları birleştirebilir, katmanlardaki metni güncelleyebilir, efektler ayarlayabilir veya katmanı görüntü olarak dışa aktarabilirsiniz. Düzleştirilmiş PSD dosyalarını algılamak veya küçük resimler oluşturmak için PSD .NET API'yi de kullanabilirsiniz.
+     .NET için Aspose.PSD görüntü veya metin ya ile çizmek için yeteneği ile bir PSD katmanlarına erişmenizi sağlar. Katmanları birleştirebilir, katmanlardaki metni güncelleyebilir, efektleri ayarlayabilir veya katmanı görüntü olarak dışa aktarabilirsiniz. Düzleştirilmiş PSD dosyalarını algılamak veya küçük resimler oluşturmak için PSD .NET API'sini de kullanabilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSD Dosyalarını Okuyun veya Oluşturun
+     Okuma veya PSD Dosyaları Oluşturma
     </h2>
     <p>
-     Aspose.PSD for .NET, manipülasyon ve dönüştürme için yalnızca PSD ve PSB dosya biçimlerinin yüklenmesini desteklemekle kalmaz, aynı zamanda PSD ve PSB dosyalarını sıfırdan oluşturma yeteneği sağlar. .NET geliştiricileri, kendilerine yardımcı olabilecek senaryoları otomatikleştirmek için API'yi kullanabilir.
+     .NET için Aspose.PSD manipülasyon ve dönüşüm için yükleme PSD ve PSB dosya formatlarını destekler ama aynı zamanda sıfırdan PSD ve PSB dosyaları oluşturmak için yeteneği sağlar sadece.NET geliştiriciler yolda onlara yardımcı olabilecek senaryoları otomatikleştirmek için API kullanabilirsiniz.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -595,7 +596,7 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
      Çeşitli Görüntüleme Filtreleri
     </h2>
     <p>
-     Aspose.PSD for .NET, sınıf kitaplıkları aracılığıyla renk ayarı gibi temel görüntüleme özelliklerini sağlar. Geliştiriciler, API tarafından yüklenen raster görüntüde parlaklığı, kontrastı veya gamayı kolayca ayarlayabilir. Ayrıca geliştiriciler, görüntüleri dinamik olarak titreştirebilir veya bulanıklaştırabilir ve Median, Gauss Wiener, Motion Wiener ve Bradley Threshold gibi popüler filtreleri kullanabilir.
+     .NET için Aspose.PSD, sınıf kütüphaneleri aracılığıyla renk ayarı gibi çekirdek görüntüleme özelliklerini sağlar. Geliştiriciler, API tarafından yüklenen raster görüntüdeki parlaklığı, kontrastı veya gammayı kolayca ayarlayabilir. Ayrıca, geliştiriciler görüntüleri dinamik olarak renklendirebilir veya bulanıklaştırabilir ve Median dahil popüler filtreleri kullanabilir, Gauss Wiener, Motion Wiener ve Bradley Eşiği.
     </p>
    </div>
   </div>
@@ -608,10 +609,11 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/psd/net/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/psd/net/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak Kodu" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/net/psd" >}}
-{{< blocks/products/pf/slr-element name="Eğitici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Depo" href="https://repository.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün Desteği" tabId="support" >}}
@@ -621,16 +623,16 @@ description: Photoshop PSD PSB formatlarını düzenlemek ve dönüştürmek iç
 {{< blocks/products/pf/slr-element name="Sürüm Notları" href="https://docs.aspose.com/psd/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden .NET için Aspose.PSD?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.PSD için .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Hikayeleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı PSD API'leri sunar:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD aşağıda listelendiği gibi diğer popüler geliştirme ortamları için bireysel PSD API'leri sunmaktadır:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

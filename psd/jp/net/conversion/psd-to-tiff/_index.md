@@ -1,33 +1,34 @@
 ---
-title: C＃でPSDをTIFFに変換する
-description: .NET APIを介してPSD、PSB、AIファイルをエクスポートする
+title: C# で PSB ファイルを TIFF 形式に変換する方法
+description: .NET API 経由で PSD、PSB、AI ファイルをエクスポートする
 family: psd
 platformtag: net
 feature: conversion
 informat: PSD
 outformat: TIFF
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF PNG
+url: net/conversion/psd-to-tiff/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" C＃を介してPSDをTIFFに変換します" h2=" .NET Photoshop API for PSD＆PSBTIFFを含むラスター画像への変換">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# を使用して PSD ファイルを TIFF ファイルに変換する" h2=".NET Photoshop API for PSD および PSB から TIFF を含むラスターイメージへの変換" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="TIFFとしてのPSDの高品質レンダリング" %}}
-1. [Image.Load]（https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index）メソッドを使用してPSDをロードします
-1. [TiffOptions]（https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions）クラスのインスタンスを作成します
-1. [Image.Save]（https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index）メソッドを呼び出します
-1.出力ファイル名とTiffOptionsのオブジェクトを渡します
+{{% blocks/products/pf/agp/feature-section-col title="TIFF 形式の PSD の高画質レンダリング" %}}
+1。PSD をロードするには [画像. 読み込み](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
+1。のインスタンスを作成 [TIFF オプション](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/tiffoptions) クラス
+1。コール [画像. 保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
+1。TIFFOptions の出力ファイル名とオブジェクトを渡す
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" .NETPhotoshopAPIの使用を開始する" %}}
-コマンドラインから```nuget install Aspose.PSD```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.PSD```を使用してインストールします。
+{{% blocks/products/pf/agp/feature-section-col title=".NET フォトショップ API を使ってみる" %}}
+コマンドラインから次のようにインストール ```nuget install Aspose.PSD``` または、Visual Studio のパッケージマネージャーコンソールを使用して ```Install-Package Aspose.PSD```
 
-または、[ダウンロード]（https://downloads.aspose.com/psd/net）からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、オフライン MSI インストーラまたは DLL を ZIP ファイルとして次の場所から入手してください。 [ダウンロード](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=" PSDからTIFFへの変換用の.NETC＃コード" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title=".NET C# コードを使用して PSD ファイルを TIFF ファイルに変換する方法" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "5a58a43ac00fd68974d95b72d2fdb5e8" "convert-psd-to-tiff.cs" >}}
 

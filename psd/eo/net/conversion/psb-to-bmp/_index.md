@@ -7,10 +7,11 @@ feature: conversion
 informat: PSB
 outformat: BMP
 otherformats: GIF JPEG JPEG2000 JP2 PDF PNG PSD TIFF
+url: net/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konverti PSB al BMP per C#" h2=".NET Photoshop API por PSD & PSB Konvertiĝo al rastrumaj bildoj inkluzive de BMP">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konverti PSB al BMP per C#" h2=".NET Photoshop API por PSD & PSB Konvertiĝo al rastrumaj bildoj inkluzive de BMP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -24,7 +25,7 @@ otherformats: GIF JPEG JPEG2000 JP2 PDF PNG PSD TIFF
 {{% blocks/products/pf/agp/feature-section-col title="Komencu kun .NET Photoshop API" %}}
 Instalu el komandlinio kiel ```nuget install Aspose.PSD``` aŭ per Package Manager Console de Visual Studio kun ```Install-Package Aspose.PSD```.
 
-Alternative, ricevu la senkonektan MSI-instalilon aŭ DLL-ojn en ZIP-dosiero de [elŝutoj](https://downloads.aspose.com/psd/net).
+Alternative, ricevu la senkonektan MSI-instalilon aŭ DLL-ojn en ZIP-dosiero de [elŝutoj](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kodo por PSB al BMP-Konvertiĝo" gistPath="" %}}

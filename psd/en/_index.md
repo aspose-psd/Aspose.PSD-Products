@@ -1,8 +1,8 @@
 ---
-title: Create, Edit or Convert PSD & PSB files to PDF & image formats 
+title: Create, Edit or Convert PSD & PSB files to PDF & image formats
 weight: 310
-url: /
 description: High Code APIs and Free Apps to edit Photoshop files. Ability to update layer properties, add watermarks rotate scale Flip Crop Dithering Raster Conversion.
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -23,6 +23,33 @@ Java APIs to manipulate Photoshop and Illustrator files. Create, load, modify an
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< blocks/products/pf/product-card-row title="Aspose.PSD Built-in Apps with the code examples" >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Convert" symbol="C" productLink="convert/" >}}
+Simple widget to convert PSD to different formats
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="IFrame Conversion" symbol="iC" productLink="conversion/" >}}
+Multi-purpose conversion application based on IFrame embedding.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Reduce size of PSD" symbol="RS" productLink="reduce-size/" >}}
+Simple widget to reduce size of PSD Files using undocumented features of PSD Format for compresssion
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="PSD Compression" symbol="Cm" productLink="compress/" >}}
+Simple widget to reduce size of file of any format. For the PSD compressing is better to use other app.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="View" symbol="V" productLink="view/" >}}
+Simple widget to view PSD, PSB and AI Files
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Circle Crop" symbol="CC" productLink="crop/circle/" >}}
+Simple widget to crop circle image.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
 {{< blocks/products/pf/product-card-row title="Aspose.PSD No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}
@@ -63,7 +90,7 @@ Quick and Simple App for Update PSD Online. Text and Layer Updates are supported
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

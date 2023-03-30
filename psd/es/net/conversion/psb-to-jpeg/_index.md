@@ -1,33 +1,34 @@
 ---
-title: Convertir PSB a JPEG con C#
-description: Exportar archivos PSD, PSB y AI a través de la API .NET
+title: Convierte PSB a JPEG con C#
+description: Exporte archivos PSD, PSB y AI a través de la API .NET
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: JPEG
 otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
+url: net/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir PSB a JPEG a través de C#" h2=".NET Photoshop API para conversión de PSD y PSB a imágenes raster, incluido JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir PSB a JPEG mediante C#" h2="API .NET Photoshop para conversión de PSD y PSB a imágenes rasterizadas, incluido JPEG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Representación de alta calidad de PSB como JPEG" %}}
-1. Cargue el PSB con el método [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index)
-1. Cree una instancia de la clase [JpegOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions)
-1. Llame al método [Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)
-1. Pase el nombre del archivo de salida y el objeto de JpegOptions
+1. Cargue el PSB con [Imagen. Cargar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) método
+1. Crea una instancia de [Opciones JPEG](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/jpegoptions) clase
+1. Llamada [Imagen. Guardar](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) método
+1. Pase el nombre de archivo de salida y el objeto de JPEGOptions
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Comience con la API de Photoshop de .NET" %}}
-Instale desde la línea de comandos como ```nuget install Aspose.PSD``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.PSD```.
+{{% blocks/products/pf/agp/feature-section-col title="Comience con la API .NET Photoshop" %}}
+Instalar desde la línea de comandos como ```nuget install Aspose.PSD``` o mediante la consola de gestión de paquetes de Visual Studio con ```Install-Package Aspose.PSD```
 
-Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/psd/net).
+También puede obtener el instalador MSI sin conexión o los archivos DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Código para conversión de PSB a JPEG" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Código.NET C# para la conversión de PSB a JPEG" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-jpeg.cs" >}}
 

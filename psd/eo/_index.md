@@ -2,6 +2,7 @@
 title: Kreu, Redaktu aŭ Konvertu PSD kaj PSB-dosierojn al PDF kaj bildformatoj
 weight: 310
 description: Altkodaj APIoj kaj Senpagaj Aplikoj por redakti Photoshop-dosierojn. Kapablo ĝisdatigi tavolproprietojn, aldoni akvomarkojn rotacii skalon Flip Crop Dithering Raster Konvertiĝo.
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -62,7 +63,7 @@ Rapida kaj Simpla Apo por Ĝisdatigo de PSD Interreta. Tekstaj kaj Tavolaj Ĝisd
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Kion Homoj Diras" subTitle="Ne nur kredu nian vorton. Vidu kion uzantoj devas diri pri Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Kion Homoj Diras" subTitle="Ne nur kredu nian vorton. Vidu kion uzantoj devas diri pri Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

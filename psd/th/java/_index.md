@@ -1,19 +1,20 @@
 ---
 title: Java Photoshop API | การแยกวิเคราะห์รูปแบบ PSD และ PSB
 weight: 270
-description: สร้างแก้ไขหรือแปลงรูปแบบ PSD และ PSB โดยใช้ไลบรารีนี้ภายในแอปพลิเคชัน Java ใด ๆ โดยไม่ต้องใช้ซอฟต์แวร์ Photoshop
+description: สร้างแก้ไขหรือแปลงรูปแบบ PSD และ PSB โดยใช้ห้องสมุดนี้ภายในโปรแกรม Java ใด ๆ โดยไม่ต้องใช้ซอฟต์แวร์ Photoshop
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="ไลบรารี Java สำหรับไฟล์ Photoshop" h2="สร้าง โหลด แก้ไข และแสดงรูปแบบเอกสาร PSD และ PSB จากภายในแอปพลิเคชัน Java" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="สมมุติ.PSD" subTitlepfName="สำหรับ Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="ไลบรารี Java สำหรับไฟล์ Photoshop" h2="สร้าง โหลด แก้ไข และแสดงรูปแบบเอกสาร PSD และ PSB จากภายในโปรแกรม Java" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="อัสสัมชัญPSD" subTitlepfName="สำหรับ Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PSD สำหรับ Java เป็น API การจัดการรูปแบบไฟล์ Adobe Photoshop ที่ใช้งานง่าย มันสามารถโหลดและอ่านไฟล์ PSD, PSB และ AI ได้อย่างง่ายดาย ทำให้นักพัฒนา Java สามารถดำเนินการต่างๆ เช่น อัปเดตคุณสมบัติของเลเยอร์ เพิ่มลายน้ำ บีบอัด หมุน ปรับขนาด หรือแสดงรูปแบบไฟล์หนึ่งไปยังอีกรูปแบบหนึ่งโดยไม่จำเป็นต้องติดตั้ง Adobe Photoshop รูปแบบรูปภาพ เช่น JPEG, TIFF, GIF, PNG, BMP, JPEG2000 และสามารถเปิดและเพิ่มเป็นเลเยอร์ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด ไฟล์ PSD, PSB & AI สามารถส่งออกไปยังรูปแบบที่อยู่ในรายการและไปยังรูปแบบ PDF ได้อีกด้วย
+ Aspose.PSD สำหรับ Java เป็นเรื่องง่ายที่จะใช้ Adobe Photoshop รูปแบบไฟล์ API การจัดการสามารถโหลดและอ่านไฟล์ PSD, PSB & AI ได้อย่างง่ายดายทำให้มันเป็นไปได้สำหรับนักพัฒนาจาวาที่จะดำเนินการเช่นการปรับปรุงคุณสมบัติเลเยอร์, เพิ่มลายน้ำ, บีบอัด, หมุน, ปรับขนาดหรือการแสดงผลรูปแบบไฟล์หนึ่งไปยังอีกรูปแบบหนึ่งโดยไม่จำเป็นต้องติดตั้ง Adobe Photoshopรูปแบบภาพเช่น JPEG, TIFF, GIF, PNG, BMP, JPEG2000 และสามารถเปิดและเพิ่มเป็นเลเยอร์ที่มีเพียงไม่กี่บรรทัดของรหัสไฟล์ PSD, PSB และ AI สามารถส่งออกไปยังรูปแบบที่ระบุไว้และเป็นรูปแบบ PDF เพิ่มเติม
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -21,7 +22,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="โดยสังเขป" description="ภาพรวมของ API" >}}
+{{< blocks/products/pf/carousel-item h3="เพียงคร่าวๆ" description="ภาพรวมของ API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -38,7 +39,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
      มาตราส่วนหรือครอบตัด
     </li>
     <li>
-     Dithering
+     การดิเตอริง
     </li>
     <li>
      อ่านหรือเขียนข้อมูล Exif
@@ -47,10 +48,10 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
      การแปลงเมทริกซ์
     </li>
     <li>
-     การวาดและการเติมรูปทรง
+     การวาดและการเติมรูปร่าง
     </li>
     <li>
-     ปรับความสว่าง คอนทราสต์ หรือ Gamma
+     ปรับความสว่าง ความเปรียบต่าง หรือแกมมา
     </li>
    </ul>
   </div>
@@ -61,10 +62,10 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
    </header>
    <ul>
     <li>
-     การสร้างไฟล์
+     การสร้างแฟ้ม
     </li>
     <li>
-     กำลังโหลดไฟล์
+     กำลังโหลดแฟ้ม
     </li>
     <li>
      การประมวลผลข้อมูลดิบ
@@ -73,25 +74,25 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
      การบีบอัด RLE
     </li>
     <li>
-     แปลงเป็นรูปภาพ
+     การแปลงเป็นภาพ
     </li>
     <li>
      เติมเลเยอร์
     </li>
     <li>
-     เลเยอร์การปรับแต่ง
+     การปรับเลเยอร์
     </li>
     <li>
-     เอฟเฟกต์เลเยอร์
+     ผลกระทบเลเยอร์
     </li>
     <li>
-     Raster, Vector และ Clipping Masks
+     แรสเตอร์เวกเตอร์และหน้ากากตัด
     </li>
     <li>
      เลเยอร์ข้อความ
     </li>
     <li>
-     โหมดรูปภาพไฟล์ PSD/PSB ส่วนใหญ่
+     โหมดภาพไฟล์ PSD/PSB ส่วนใหญ่
     </li>
    </ul>
   </div>
@@ -99,7 +100,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd กำลังประมวลผล API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=“Java PSD การประมวลผล API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -117,7 +118,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="แพลตฟอร์มอิสระ" description="API รองรับแอปพลิเคชันเดสก์ท็อป เว็บ และคอนโซลบนแพลตฟอร์มเช่น Windows, Linux/Unix, MacOS ที่มี Java" >}}
+{{< blocks/products/pf/carousel-item h3="ความเป็นอิสระแพลตฟอร์ม" description="API รองรับการใช้งานเดสก์ท็อป เว็บ และคอนโซลบนแพลตฟอร์มต่างๆ เช่น วินโดวส์, ลินุกซ์/ยูนิกซ์, แมคโอเอส ที่มีจาวา" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,17 +128,17 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime Environment
+    Java Runtime สิ่งแวดล้อม
    </header>
    <ul>
     <li>
-     แอปพลิเคชัน JSP/JSF
+     JSP/JSF แอพลิเคชัน
     </li>
     <li>
-     แอปพลิเคชั่นเดสก์ท็อป
+     เดสก์ท็อปแอพพลิเคชั่น
     </li>
     <li>
-     แอปพลิเคชั่นคอนโซล
+     คอนโซลแอพพลิเคชั่น
     </li>
    </ul>
   </div>
@@ -145,7 +146,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd กำลังประมวลผล API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=“Java PSD การประมวลผล API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -163,7 +164,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description="Aspose.PSD สำหรับ Java [รูปแบบไฟล์ที่รองรับ](https://docs.aspose.com/psd/java/supported-file-formats/) มีการระบุไว้ด้านล่าง" >}}
+{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description="Aspose.PSD สำหรับภาษาจาวา [รูปแบบไฟล์ที่รองรับ](https://docs.aspose.com/psd/java/supported-file-formats/)  มีการระบุไว้ด้านล่าง." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,7 +183,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    เอาท์พุตเท่านั้น
+    เอาต์พุตเท่านั้น
    </header>
    <ul>
     <li>
@@ -193,13 +194,13 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     </li>
     <li>
      <b>
-      อื่น:
+      อื่น ๆ:
      </b>
-     ไฟล์ PDF
+     รูปแบบไฟล์ PDF
     </li>
    </ul>
    <header>
-    ป้อนข้อมูลเท่านั้น
+    อินพุตเท่านั้น
    </header>
    <ul>
     <li>
@@ -214,7 +215,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=“Java psd API” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -242,7 +243,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    คุณสมบัติ Photoshop Java API ขั้นสูง
+    คุณสมบัติขั้นสูงของ Photoshop Java API
    </h2>
    <p>
     &amp;nbsp
@@ -251,7 +252,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">ส่งออกไฟล์ Photoshop เป็นรูปภาพ</a>
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">ส่งออกไฟล์ Photoshop ไปยังรูปภาพ</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -272,7 +273,7 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">ส่งออกไฟล์ AI เป็นรูปแบบแรสเตอร์</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">ส่งออกไฟล์ AI ไปยังรูปแบบแรสเตอร์</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -286,28 +287,28 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">วาดและเติมรูปทรงพื้นฐาน</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">วาดและเติมรูปร่างพื้นฐาน</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">ครอบตัด หมุนและปรับขนาดรูปภาพ</a>
+      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">ครอบตัด หมุน และปรับขนาดภาพ</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/">รองรับเลเยอร์</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/">การสนับสนุนของเลเยอร์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">เลเยอร์แฟบ</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">การทำให้แบนเป็นชั้น</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -328,35 +329,35 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">เปิดและส่งออกไฟล์ PSD ด้วยการผสมผสานระหว่าง RGB, CMYK, LAB, โหมดโทนสีเทาที่มี 8/16/32 บิตต่อช่องสัญญาณ</a>
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">เปิดและส่งออกไฟล์ PSD ด้วยการรวมกันของ RGB, CMYK, LAB, โหมดสีเทา 8/16/32 บิตต่อช่อง</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">รองรับเอฟเฟกต์เลเยอร์ที่ใช้มากที่สุด</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">การสนับสนุนของผลกระทบชั้นที่ใช้มากที่สุด</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">เลเยอร์เงา</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">เงาเลเยอร์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">ภายนอก/ภายใน/กลางจังหวะผล</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">ผลโรคหลอดเลือดสมองภายนอก/ภายใน/ศูนย์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">สี/รูปแบบ/เอฟเฟกต์เลเยอร์การไล่ระดับสี</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">เอฟเฟกต์เลเยอร์สี/ลวดลาย/ไล่ระดับสี</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,49 +371,49 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">เลเยอร์การปรับแต่ง เช่น ความสว่าง/คอนทราสต์ เส้นโค้ง ฮิว/ความอิ่มตัว ฟิลเตอร์ภาพถ่าย และอื่นๆ อีกมากมาย</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">การปรับเลเยอร์ต่างๆ เช่น ความสว่าง/ความเปรียบต่าง เส้นโค้ง เฉดสี/ความอิ่มตัวของสี ฟิลเตอร์ภาพถ่าย และอื่นๆ อีกมากมาย</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">รองรับ Vector, Raster, Clipping Masks และการรวมกัน</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">การสนับสนุนเวกเตอร์, แรสเตอร์, หน้ากากตัดและชุดค่าผสม</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">จัดการความทึบของเลเยอร์</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">จัดการความทึบแสงของเลเยอร์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/supported-resources/">รองรับ Layer Resources จำนวนมาก</a>
+      <a href="https://docs.aspose.com/psd/java/supported-resources/">การสนับสนุนของจำนวนมากของทรัพยากรเลเยอร์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ดึงข้อมูลจากทรัพยากรส่วนรูปภาพ
+     การสกัดข้อมูลจากทรัพยากรส่วนภาพ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">การอ่านและแก้ไข Fill Layers</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">การอ่านและการแก้ไขการเติมเลเยอร์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">รองรับเลเยอร์ที่เชื่อมโยง</a>
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">การสนับสนุนของชั้นที่เชื่อมโยง</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -426,26 +427,26 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     การเน้นสีแผ่น
+     การเน้นสีแผ่นงาน
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">คุณสมบัติ PSD API ล่าสุด</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD for .NET API เพิ่มคุณสมบัติอย่างต่อเนื่องเพื่อให้มีประสิทธิภาพ นี่คือรายการของตัวเลือกบางส่วนจากรายการล่าสุดที่เพิ่มเข้ามา</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>รองรับการเติมเลเยอร์ รูปแบบ สี และการเติมไล่ระดับ</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>รองรับ GdFlResource, VmskResource, PtFlResource และ VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>โหลดไฟล์รูปภาพ JPEG/PNG/etc ไปยัง PsdImage โดยไม่ต้องโหลดโดยตรง</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>รองรับ Layer Vector Masks และ Text Layer Custom FlipRotate</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>การแสดงผลของเอฟเฟกต์โรคหลอดเลือดสมองด้วยการเติมสีเพื่อการส่งออก</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -455,11 +456,11 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
      แปลงไฟล์ PSD เป็นภาพแรสเตอร์
     </h2>
     <p>
-     Aspose.PSD สำหรับไลบรารี Java รองรับการแปลงไฟล์ PSD เป็นภาพแรสเตอร์ที่รองรับด้วยโค้ดเพียงไม่กี่บรรทัด
+     Aspose.PSD สำหรับไลบรารี Java สนับสนุนการแปลงไฟล์ PSD เป็นภาพแรสเตอร์ใด ๆ ที่สนับสนุนโดยมีโค้ดเพียงไม่กี่บรรทัด
     </p>
     <div class="codeblock" id="code">
      <h3>
-      แปลง PSD เป็น BMP, GIF & JPEG - Java
+      แปลง PSD เพื่อ BMP, GIF และ JPEG - Java
      </h3>
      
 	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
@@ -467,34 +468,34 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     จัดการเลเยอร์ Photoshop อย่างง่ายดาย
+     จัดการเลเยอร์ของ Photoshop ได้อย่างง่ายดาย
     </h2>
     <p>
-     การจัดการเลเยอร์ PSD เช่น การผสานเลเยอร์ การอัปเดตข้อความบนเลเยอร์ เอฟเฟกต์การตั้งค่า หรือการส่งออกเลเยอร์เป็นรูปภาพ เป็นเพียงฟีเจอร์บางส่วนที่ API จัดเตรียมให้ นอกจากนี้ยังสามารถตรวจจับเอกสาร PSD ที่แบนราบและสร้างภาพขนาดย่อได้
+     การจัดการชั้น PSD เช่นการผสานชั้น, การปรับปรุงข้อความบนชั้นผลกระทบการตั้งค่าหรือชั้นการส่งออกเป็นภาพที่มีไม่กี่ของคุณสมบัติการจัดการที่ API ให้นอกจากนี้ยังสามารถตรวจจับเอกสาร PSD ที่ราบเรียบและสร้างภาพขนาดย่อได้
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     ครอบตัด หมุน และปรับขนาดรูปภาพได้ทุกที่
+     ครอบตัด หมุน และปรับขนาดภาพขณะเดินทาง
     </h2>
     <p>
-     คุณลักษณะการจัดการรูปภาพใดๆ เช่น การพลิก การครอบตัด การหมุนและการปรับขนาดรูปภาพ สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด เช่น ข้อมูลโค้ดด้านล่างจะหมุนรูปภาพ
+     คุณลักษณะการจัดการภาพใด ๆ เช่นพลิกการปลูกพืชหมุนและการปรับขนาดภาพสามารถดำเนินการที่มีเพียงไม่กี่บรรทัดของรหัสเช่นด้านล่างข้อมูลหมุนภาพ
     </p>
     <div class="codeblock" id="code">
      <h3>
-      การหมุนภาพ - Java
+      หมุนภาพ - Java
      </h3>
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     นอกจากนี้ API ยังมีฟิลเตอร์ภาพต่างๆ เช่น การปรับคอนทราสต์ ความสว่าง หรือแกมมาบนภาพแรสเตอร์ การทำให้ภาพเพี้ยนหรือเบลอ รวมถึงฟิลเตอร์ที่มีชื่อเสียงที่สุด เช่น Gauss Wiener, Median, Bradley Threshold และ Motion Wiener
+     นอกจากนี้ API ยังมีฟิลเตอร์การถ่ายภาพที่แตกต่างกันเช่นการปรับความคมชัดความสว่างหรือแกมมาในภาพแรสเตอร์ dithering หรือเบลอของภาพเช่นเดียวกับตัวกรองที่มีชื่อเสียงมากที่สุดรวมทั้ง Gauss Wiener, Median, Bradley Threshold และ Motion Wiener
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">การใช้งานฟิลเตอร์ภาพ</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p> Aspose.PSD for Java ให้คุณสมบัติการสร้างภาพหลัก เช่น การปรับสีผ่านไลบรารีคลาสของมัน นักพัฒนาสามารถปรับความสว่าง คอนทราสต์ หรือแกมมาบนภาพแรสเตอร์ที่โหลดโดย API ได้อย่างง่ายดาย นอกจากนี้ นักพัฒนายังสามารถบิดเบือนหรือเบลอภาพแบบไดนามิก รวมทั้งใช้ตัวกรองยอดนิยม เช่น Median, Motion Wiener, Gauss Wiener และ Bradley Threshold</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -508,27 +509,28 @@ description: สร้างแก้ไขหรือแปลงรูปแ�
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสารประกอบ" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="ซอร์สโค้ด" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
-{{< blocks/products/pf/slr-element name="อ้างอิง API" href="https://apireference.aspose.com/java/psd" >}}
-{{< blocks/products/pf/slr-element name="วิดีโอแนะนำ" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="พื้นที่เก็บข้อมูล" href="https://repository.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="การสนับสนุนผลิตภัณฑ์" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="สนับสนุนฟรี" href="https://forum.aspose.com/c/psd" >}}
+{{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/psd" >}}
 {{< blocks/products/pf/slr-element name="การสนับสนุนแบบชำระเงิน" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/psd/" >}}
-{{< blocks/products/pf/slr-element name="บันทึกประจำรุ่น" href="https://docs.aspose.com/psd/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="หมายเหตุประจำรุ่น" href="https://docs.aspose.com/psd/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="ทำไม Aspose.PSD สำหรับ Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.PSD สำหรับ Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="อัสสัมชัญPSD" description="Aspose.PSD เสนอ PSD API แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD มี PSD APIs แต่ละตัวสำหรับสภาพแวดล้อมการพัฒนาที่เป็นที่นิยมอื่น ๆ ตามที่ระบุไว้ด้านล่าง:" >}}
 
     {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 

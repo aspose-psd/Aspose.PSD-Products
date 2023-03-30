@@ -2,6 +2,7 @@
 title: Crea, Edit aut Converte PSD & PSB files ad PDF & formas imaginum
 weight: 310
 description: High Code APIs and Free Apps to edit Photoshop files. Facultas ad accumsan possessiones renovandi, notae notae rotatae scalae Flip Crop Dithering Raster Conversionis adde.
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -62,7 +63,7 @@ Velox et Simplex App pro Update PSD Online. Textus et Updates Stratum sustentant
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title=" Quid dicunt?" subTitle=" Ne tantum verbum nostrum suscipe pro eo. Vide quid usores de Aspose.PSD dicant." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title=" Quid dicunt?" subTitle=" Ne tantum verbum nostrum suscipe pro eo. Vide quid usores de Aspose.PSD dicant." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

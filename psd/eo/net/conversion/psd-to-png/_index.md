@@ -7,10 +7,11 @@ feature: conversion
 informat: PSD
 outformat: PNG
 otherformats: BMP GIF JPEG JPEG2000 JP2 PDF TIFF
+url: net/conversion/psd-to-png/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertu PSD al PNG per C#" h2=".NET Photoshop API por PSD & PSB Konvertiĝo al rastrumaj bildoj inkluzive PNG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertu PSD al PNG per C#" h2=".NET Photoshop API por PSD & PSB Konvertiĝo al rastrumaj bildoj inkluzive PNG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -24,7 +25,7 @@ otherformats: BMP GIF JPEG JPEG2000 JP2 PDF TIFF
 {{% blocks/products/pf/agp/feature-section-col title="Komencu kun .NET Photoshop API" %}}
 Instalu el komandlinio kiel ```nuget install Aspose.PSD``` aŭ per Package Manager Console de Visual Studio kun ```Install-Package Aspose.PSD```.
 
-Alternative, ricevu la senkonektan MSI-instalilon aŭ DLL-ojn en ZIP-dosiero de [elŝutoj](https://downloads.aspose.com/psd/net).
+Alternative, ricevu la senkonektan MSI-instalilon aŭ DLL-ojn en ZIP-dosiero de [elŝutoj](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kodo por PSD al PNG Konvertiĝo" gistPath="" %}}

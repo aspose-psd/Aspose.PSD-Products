@@ -2,14 +2,15 @@
 title: C# .NET Photoshop Manipulation API - Aspose
 weight: 90
 description: C# ASP.NET VB.NET Бібліятэка Photoshop для стварэння рэдагавання і канвертавання фарматаў Photoshop PSD PSB
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API для маніпулявання файламі Photoshop" h2="Стварайце, чытайце, рэдагуйце і канвертуйце файлы PSD і PSB без якіх-небудзь залежнасцяў Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="для .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API для маніпулявання файламі Photoshop" h2="Стварайце, чытайце, рэдагуйце і канвертуйце файлы PSD і PSB без якіх-небудзь залежнасцяў Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="для .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.PSD для .NET - гэта пашыраны API для маніпулявання фарматамі файлаў AI пачатковага ўзроўню PSD і без якіх-небудзь залежнасцяў Adobe Photoshop або Adobe Illustrator. API дазваляе ствараць і рэдагаваць файлы Photoshop, а таксама дае магчымасць абнаўляць ўласцівасці пласта, дадаваць вадзяныя знакі, выконваць графічныя аперацыі або канвертаваць адзін фармат файла ў іншы.</p>
@@ -131,7 +132,7 @@ description: C# ASP.NET VB.NET Бібліятэка Photoshop для ствар�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET API апрацоўкі PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET API апрацоўкі PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -182,7 +183,7 @@ description: C# ASP.NET VB.NET Бібліятэка Photoshop для ствар�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API для маніпулявання PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt="API для маніпулявання PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -251,7 +252,7 @@ description: C# ASP.NET VB.NET Бібліятэка Photoshop для ствар�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -628,7 +629,7 @@ description: C# ASP.NET VB.NET Бібліятэка Photoshop для ствар�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD прапануе асобныя PSD API для іншых папулярных умоў распрацоўкі, пералічаных ніжэй:" >}}
 

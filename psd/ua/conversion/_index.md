@@ -1,8 +1,10 @@
 ---
-title: Рішення для перетворення форматів PSD PSB і AI
+title: PSD PSB & AI Формат перетворення рішення
 weight: 7730
 limit: 
-description: Перетворюйте файли Adobe PhotoShop і Illustrator, зображення та інші формати
+description: Перетворення файлів Adobe PhotoShop та Illustrator, зображень та інших форматів
+keywords: ["psd", "psb", "ai", "conversion to png", "conversion to jpg", "conversion to pdf", "convert to gif", "convert to bmp", "convert to tiff"]
+url: conversion/
 ---
 
 {{< blocks/products/pf/agp/conversion-solution >}} 

@@ -1,19 +1,20 @@
 ---
-title: Java Photoshop API | PSDおよびPSB形式の解析
+title: Java フォトショップ API | PSD および PSB フォーマットの解析
 weight: 270
-description: Photoshopソフトウェアを必要とせずに、任意のJavaアプリケーション内でこのライブラリを使用してPSDおよびPSB形式の変更または変換を作成します
+description: Photoshopソフトウェアを必要とせずに、このライブラリを使用して任意のJavaアプリケーション内でPSDおよびPSB形式を作成、変更、または変換できます。
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Photoshopファイル用のJavaライブラリ" h2=" Javaアプリケーション内からPSDおよびPSBドキュメント形式を作成、ロード、変更、およびレンダリングします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName=" Aspose.PSD" subTitlepfName="Javaの場合" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="フォトショップファイル用 Java ライブラリ" h2="Java アプリケーション内から PSD および PSB ドキュメントフォーマットの作成、読み込み、変更、レンダリングを行います。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName="Javaの場合" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PSD for Javaは、使いやすいAdobePhotoshopファイル形式操作APIです。PSD、PSB、AIファイルを簡単に読み込んで読み取ることができるため、Java開発者は、Adobe Photoshopをインストールしなくても、レイヤープロパティの更新、透かしの追加、圧縮、回転、スケーリング、ファイル形式のレンダリングなどの操作を実行できます。JPEG、TIFF、GIF、PNG、BMP、JPEG2000などの画像形式は、数行のコードで簡単に開いてレイヤーとして追加できます。PSD、PSB、AIファイルは、リストされた形式にエクスポートでき、さらにPDF形式にエクスポートできます
+ Aspose.PSD for Java は使いやすい Adobe Photoshop ファイル形式操作 API です。PSD、PSB、AIファイルを簡単にロードして読み取ることができるため、Java開発者は、Adobe Photoshopをインストールしなくても、レイヤープロパティの更新、ウォーターマークの追加、圧縮、回転、スケーリング、あるファイル形式へのレンダリングなどの操作を実行できます。JPEG、TIFF、GIF、PNG、BMP、JPEG2000などの画像フォーマットは、わずか数行のコードで簡単に開いてレイヤーとして追加できます。PSD、PSB、AIファイルは、リストされている形式にエクスポートでき、さらにPDF形式にもエクスポートできます
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -21,7 +22,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="概要" description="APIの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="API の概要" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -35,54 +36,54 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
      回転または反転
     </li>
     <li>
-     スケールまたはクロップ
+     スケーリングまたはクロップ
     </li>
     <li>
      ディザリング
     </li>
     <li>
-     Exifデータの読み取りまたは書き込み
+     Exif データの読み取りまたは書き込み
     </li>
     <li>
-     行列変換
+     マトリックス変換
     </li>
     <li>
      図形の描画と塗りつぶし
     </li>
     <li>
-     明るさ、コントラスト、またはガンマを調整します
+     明るさ、コントラスト、ガンマの調整
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Photoshopの機能
+    フォトショップ機能
    </header>
    <ul>
     <li>
-     ファイルの作成
+     ファイル作成
     </li>
     <li>
-     ファイルの読み込み
+     ファイル読み込み
     </li>
     <li>
-     生データ処理
+     未加工データ処理
     </li>
     <li>
-     RLE圧縮
+     RLE 圧縮
     </li>
     <li>
      画像への変換
     </li>
     <li>
-     レイヤーを塗りつぶす
+     フィルレイヤー
     </li>
     <li>
      調整レイヤー
     </li>
     <li>
-     レイヤー効果
+     レイヤーエフェクト
     </li>
     <li>
      ラスター、ベクター、クリッピングマスク
@@ -91,7 +92,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
      テキストレイヤー
     </li>
     <li>
-     ほとんどのPSD/PSBファイルの画像モード
+     ほとんどのPSD/PSBファイルイメージモード
     </li>
    </ul>
   </div>
@@ -99,7 +100,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Javapsd処理API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=「Java PSD プロセッシング API」 src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -117,7 +118,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description=" APIは、Javaが利用可能なWindows、Linux / Unix、MacOSなどのプラットフォームでデスクトップ、Web、およびコンソールアプリケーションをサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォーム独立性" description="APIは、Javaが利用可能なWindows、Linux/Unix、macOSなどのプラットフォーム上のデスクトップ、ウェブ、およびコンソールアプリケーションをサポートします。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,11 +128,11 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
    <header>
     <i class="fa fa-cubes">
     </i>
-    Javaランタイム環境
+    Java ランタイム環境
    </header>
    <ul>
     <li>
-     JSP/JSFアプリケーション
+     JSP/JSF アプリケーション
     </li>
     <li>
      デスクトップアプリケーション
@@ -145,7 +146,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Javapsd処理API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=「Java PSD プロセッシング API」 src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -163,17 +164,17 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description=" Aspose.PSD for Java [サポートされているファイル形式]（https://docs.aspose.com/psd/java/supported-file-formats/）を以下に示します。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Java 用 Aspose.PSD [サポートされるファイル形式](https://docs.aspose.com/psd/java/supported-file-formats/)  以下にリストされています。" >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    入出力
+    入力/出力
    </header>
    <ul>
     <li>
      <b>
-      Photoshop：
+      フォトショップ:
      </b>
      PSD、PSB
     </li>
@@ -187,15 +188,15 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
    <ul>
     <li>
      <b>
-      ラスター形式：
+      ラスタフォーマット:
      </b>
      TIFF、JPEG、PNG、GIF、BMP、JPEG2000
     </li>
     <li>
      <b>
-      他の：
+      その他:
      </b>
-     PDF
+     PDFファイル
     </li>
    </ul>
    <header>
@@ -204,9 +205,9 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
    <ul>
     <li>
      <b>
-      イラストレーター：
+      イラストレーター:
      </b>
-     AI
+     人工知能
     </li>
    </ul>
   </div>
@@ -214,7 +215,7 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=" Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=「Java PSD API」 src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -242,51 +243,51 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    PhotoshopJavaAPIの高度な機能
+    フォトショップ Java API の高度な機能
    </h2>
    <p>
-    ＆nbsp
+    &amp;nbsp
    </p>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Photoshopファイルの画像へのエクスポート</a>
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Photoshop ファイルの画像へのエクスポート</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Photoshopファイルを最初から作成する</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">フォトショップファイルを一から作成する</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">既存のPhotoshopファイルをロードする</a>
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">既存の Photoshop ファイルを読み込む</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">AIファイルのラスター形式へのエクスポート</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-adobe-illustrator-formats/">AI ファイルのラスター形式へのエクスポート</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">長方形の領域にクリップします</a>
+      <a href="https://docs.aspose.com/psd/java/cropping-psd-file-while-converting-to-png/">長方形の領域にクリップする</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">基本的な図形を描画して塗りつぶす</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">基本図形の描画と塗りつぶし</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -307,14 +308,14 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">レイヤーの平坦化</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">レイヤーのフラット化</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">PSDファイルプレビューをエクスポートする機能</a>
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">PSD ファイルプレビューをエクスポートする機能</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -328,14 +329,14 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/"> RGB、CMYK、LAB、チャンネルあたり8/16/32ビットのグレースケールモードを組み合わせたPSDファイルを開いてエクスポートします。</a>
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">チャンネルあたり8/16/32ビットのRGB、CMYK、LAB、グレースケールモードを組み合わせたPSDファイルを開いてエクスポートします。</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">最もよく使用されるレイヤーエフェクトのサポート</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">よく使われるレイヤーエフェクトのサポート</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -349,14 +350,14 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">外側/内側/中央のストローク効果</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">アウトサイド/インサイド/センターストロークエフェクト</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">色/パターン/グラデーションレイヤー効果</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">カラー/パターン/グラデーションレイヤーエフェクト</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,21 +371,21 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">明るさ/コントラスト、曲線、色相/彩度、写真フィルターなどの調整レイヤー</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">明るさ/コントラスト、カーブ、色相/彩度、フォトフィルターなどの調整レイヤー</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">ベクター、ラスター、クリッピングマスクおよびそれらの組み合わせのサポート</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">ベクター、ラスター、クリッピングマスクとその組み合わせのサポート</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">レイヤーの不透明度を管理する</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">レイヤーの不透明度を管理</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -398,21 +399,21 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     画像セクションリソースからのデータ抽出
+     データ採取
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">塗りつぶしレイヤーの読み取りと編集</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">フィルレイヤーの読み取りと編集</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">リンクされたレイヤーのサポート</a>
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">リンクレイヤーのサポート</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -426,40 +427,40 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     シートカラーの強調表示
+     シートカラーハイライト
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">最新のPSDAPI機能</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p> Aspose.PSD for .NET APIは、強力にするために継続的に機能を追加しています。ここに追加された最新のものからのいくつかのピックのリストがあります。</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>塗りつぶしレイヤーのサポート。パターン、色、グラデーションの塗りつぶし</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li> GdFlResource、VmskResource、PtFlResource、VsmsResourceのサポート</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li> JPEG / PNG/etc画像ファイルを直接ロードせずにPsdImageにロードする</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>レイヤーベクターマスクとテキストレイヤーカスタムFlipRotateのサポート</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>エクスポート用のカラーフィルを使用したスト​​ローク効果のレンダリング</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     PSDファイルをラスター画像に変換する
+     PSD ファイルをラスターイメージに変換
     </h2>
     <p>
-     Aspose.PSD for Javaライブラリは、わずか数行のコードで、サポートされているラスターイメージへのPSDファイルの変換をサポートします。
+     Aspose.PSD for Java ライブラリは、わずか数行のコードで、サポートされている任意のラスターイメージへの PSD ファイル変換をサポートします。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      PSDをBMP、GIF、JPEGに変換-Java
+      PSD ファイルを BMP、GIF、JPEG 形式に変換-Java
      </h3>
      
 	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
@@ -467,34 +468,34 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Photoshopレイヤーを簡単に操作する
+     Photoshop レイヤーを簡単に操作できます
     </h2>
     <p>
-     レイヤーのマージ、レイヤー上のテキストの更新、エフェクトの設定、レイヤーの画像としてのエクスポートなどのPSDレイヤー操作は、APIが提供する操作機能の一部です。さらに、平坦化されたPSDドキュメントを検出したり、サムネイルを作成したりできます。
+     レイヤーの結合、レイヤーのテキストの更新、エフェクトの設定、レイヤーの画像としてのエクスポートなどの PSD レイヤー操作は、API が提供する操作機能のほんの一部です。さらに、フラット化されたPSDドキュメントを検出したり、サムネイルを作成したりできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     外出先で画像を切り抜き、回転、サイズ変更
+     外出先でも画像の切り抜き、回転、サイズ変更が可能
     </h2>
     <p>
-     画像の反転、トリミング、回転、サイズ変更などの画像操作機能は、数行のコードで実装できます。たとえば、以下のスニペットは画像を回転させます。
+     画像の反転、トリミング、回転、サイズ変更などの画像操作機能は、わずか数行のコードで実装できます。たとえば、以下のスニペットは画像を回転させます。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      画像の回転-Java
+      イメージを回転させる-Java
      </h3>
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     さらに、APIは、ラスターイメージのコントラスト、明るさ、ガンマの調整、イメージのディザリングまたはブラーなどのさまざまなイメージングフィルターと、Gauss Wiener、Median、Bradley Threshold、MotionWienerなどの最も有名なフィルターを提供します。
+     さらに、APIは、ラスター画像のコントラスト、明るさ、ガンマの調整、画像のディザリングやぼかしなどのさまざまなイメージングフィルターのほか、ガウスウィーナー、中央値、ブラッドレーしきい値、モーションウィーナーなどの有名なフィルターも提供しています。
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">イメージングフィルターの実装</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p> Aspose.PSD for Javaは、クラスライブラリを介した色調整などのコアイメージング機能を提供します。開発者は、APIによってロードされたラスターイメージの明るさ、コントラスト、またはガンマを簡単に調整できます。さらに、開発者は画像を動的にディザリングまたはぼかしたり、メディアン、モーションウィーナー、ガウスウィーナー、ブラッドリーしきい値などの一般的なフィルターを使用したりできます。</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -506,9 +507,10 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="ドキュメント" href="https://docs.aspose.com/psd/java/" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="API リファレンス" href="https://apireference.aspose.com/java/psd" >}}
+{{< blocks/products/pf/slr-element name="リポジトリ" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -519,16 +521,16 @@ description: Photoshopソフトウェアを必要とせずに、任意のJavaア
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/psd/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle=" Aspose.PSD forJavaを選ぶ理由" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.PSD が Java 用なのか？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
-{{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" Aspose.PSDは、以下に示すように、他の一般的な開発環境向けに個別のPSDAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD には、以下に示すように、その他の一般的な開発環境向けに個別の PSD API が用意されています。" >}}
 
     {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
 

@@ -7,10 +7,11 @@ feature: conversion
 informat: PSB
 outformat: GIF
 otherformats: BMP JPEG JPEG2000 JP2 PDF PNG PSD TIFF
+url: net/conversion/psb-to-gif/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1=" Converte PSB ad GIF per C#" h2=".NET Photoshop API ad PSD & PSB Conversio ad raster imagines inter GIF">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1=" Converte PSB ad GIF per C#" h2=".NET Photoshop API ad PSD & PSB Conversio ad raster imagines inter GIF" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -24,7 +25,7 @@ otherformats: BMP JPEG JPEG2000 JP2 PDF PNG PSD TIFF
 {{% blocks/products/pf/agp/feature-section-col title=" Incipias .NET Photoshop API" %}}
 Instrue de mandato linea ut ` `nuget install Aspose.PSD``` vel per Package Procurator Console Studiorum Visualis cum ``````Dissall-Package Aspose.PSD```.
 
-Vel, MSI installer vel DLLs in tabula cursualis e [download](https://downloads.aspose.com/psd/net obtine).
+Vel, MSI installer vel DLLs in tabula cursualis e [download](https://releases.aspose.com/psd/net obtine).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Codex ad PSB ad GIF Conversionis" gistPath="" %}}

@@ -1,21 +1,22 @@
 ---
-title: API de manipulação do Photoshop C# .NET - Aspose
+title: API de manipulação do Photoshop em C#.NET - Aspose
 weight: 90
-description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e converter formatos PSB do Photoshop PSD
+description: Biblioteca C# ASP.NET VB.NET Photoshop para criar, editar e converter formatos PSD PSB do Photoshop
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs para manipular arquivos do Photoshop" h2="Crie, leia, edite e converta arquivos PSD e PSB sem nenhuma dependência do Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="para .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1="APIs do.NET para manipular arquivos do Photoshop" h2="Crie, leia, edite e converta arquivos PSD e PSB sem nenhuma dependência do Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="para .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.PSD para .NET é uma API avançada de manipulação de formatos de arquivos PSD e AI de nível de entrada sem nenhuma dependência do Adobe Photoshop ou Adobe Illustrator. A API permite criar e editar os arquivos do Photoshop, além de fornecer a capacidade de atualizar as propriedades da camada, adicionar marcas d'água, realizar operações gráficas ou converter um formato de arquivo para outro.</p>
+<p>O Aspose.PSD para .NET é uma API avançada de manipulação de formatos de arquivos PSD e AI de nível básico, sem qualquer dependência do Adobe Photoshop ou do Adobe Illustrator. A API permite criar e editar os arquivos do Photoshop, além de fornecer a capacidade de atualizar as propriedades da camada, adicionar marcas d'água, realizar operações gráficas ou converter um formato de arquivo em outro.</p>
 
 <p>
- A API suporta importação como uma camada e exportação para os seguintes formatos:
+ A API oferece suporte à importação como uma camada e à exportação para os seguintes formatos:
  <a href="https://docs.fileformat.com/image/png/">
   PNG
  </a>
@@ -47,7 +48,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
  <a href="https://docs.fileformat.com/image/psb/">
   PSB
  </a>
- juntamente com exportação para PDF com texto selecionável. O Aspose.PSD suporta parcialmente os recursos do Adobe Photoshop como Camadas de Ajuste, renderização e edição de Camadas de Texto, Camadas de Preenchimento, Efeitos de Camadas, Edição de Raster e Máscaras Vetoriais para camadas.
+ junto com a exportação para PDF com texto selecionável. O Aspose.PSD suporta parcialmente recursos do Adobe Photoshop, como camadas de ajuste, renderização e edição de camadas de texto, camadas de preenchimento, efeitos de camadas, edição de máscaras rasterizadas e vetoriais para camadas.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -55,28 +56,28 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Em resumo" description="Uma visão geral da API." >}}
+{{< blocks/products/pf/carousel-item h3="Em um piscar de olhos" description="Uma visão geral da API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Recursos de imagem
+    Características de imagem
    </header>
    <ul>
     <li>
-     Girar ou Virar
+     Girar ou virar
     </li>
     <li>
-     Dimensionar ou Cortar
+     Escalar ou cortar
     </li>
     <li>
-     Dithering
+     Hesitando
     </li>
     <li>
-     Ler ou gravar dados Exif
+     Leia ou grave dados Exif
     </li>
     <li>
-     Transformações de matriz
+     Transformações matriciais
     </li>
     <li>
      Desenho e preenchimento de formas
@@ -96,7 +97,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
      Criação de arquivo
     </li>
     <li>
-     Carregando arquivo
+     Carregamento de arquivo
     </li>
     <li>
      Processamento de dados brutos
@@ -105,19 +106,19 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
      Compressão RLE
     </li>
     <li>
-     Conversão em Imagens
+     Conversão para imagens
     </li>
     <li>
-     Preencher Camadas
+     Preencher camadas
     </li>
     <li>
-     Camadas de Ajuste
+     Camadas de ajuste
     </li>
     <li>
      Efeitos de camada
     </li>
     <li>
-     Máscaras de raster, vetor e recorte
+     Máscaras rasterizadas, vetoriais e de recorte
     </li>
     <li>
      Camadas de texto
@@ -131,16 +132,16 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".API de processamento PSD NET" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=“API de processamento do.NET PSD” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     por
+     pelo
     </em>
-    .INTERNET
+    .NET
    </small>
   </footer>
  </div>
@@ -149,19 +150,19 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="Aspose.PSD para .NET suporta qualquer estrutura .NET a partir de 2.0." >}}
+{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="O Aspose.PSD para .NET oferece suporte a qualquer framework .NET a partir da versão 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    .NET Framework
+    Estrutura do.NET
    </header>
    <ul>
     <li>
-     Aplicativo do Windows
+     Aplicativo para Windows
     </li>
     <li>
-     Aplicativo Web ASP.NET
+     Aplicação Web ASP.NET
     </li>
    </ul>
   </div>
@@ -182,16 +183,16 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="APIs de manipulação de PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=“APIs de manipulação de PSD” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     por
+     pelo
     </em>
-    .INTERNET
+    .NET
    </small>
   </footer>
  </div>
@@ -200,7 +201,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.PSD para .NET suporta os formatos de arquivo mais populares [Photoshop & raster image](https://docs.aspose.com/psd/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="O Aspose.PSD para.NET suporta os mais populares [Photoshop e imagem raster](https://docs.aspose.com/psd/net/supported-file-formats/)  formatos de arquivo." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -224,13 +225,13 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
    <ul>
     <li>
      <b>
-      Formatos de varredura:
+      Formatos rasterizados:
      </b>
      TIFF, JPEG, PNG, GIF, BMP, JPEG2000
     </li>
     <li>
      <b>
-      Outro:
+      Outros:
      </b>
      PDF
     </li>
@@ -243,7 +244,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
      <b>
       Ilustrador:
      </b>
-     IA
+     AI
     </li>
    </ul>
   </div>
@@ -251,16 +252,16 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=“API.NET PSD” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     por
+     pelo
     </em>
-    .INTERNET
+    .NET
    </small>
   </footer>
  </div>
@@ -279,7 +280,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Recursos avançados da API de manipulação .NET PSD
+    Recursos avançados da API de manipulação do.NET PSD
    </h2>
    <p>
     &amp;nbsp
@@ -288,7 +289,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Converter arquivos do Photoshop em imagens</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Converta arquivos do Photoshop em imagens</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -309,7 +310,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Recortar para uma região retangular</a>
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Corte em uma região retangular</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -323,7 +324,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">Cortar, girar e redimensionar imagens</a>
+      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">Corte, gire e redimensione imagens</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -344,7 +345,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Pré-visualização do arquivo PSD Exportação Pixel-Perfect</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Pré-visualização do arquivo PSD Pixel-Perfect Exporting</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -372,7 +373,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Destaque de cor da folha
+     Destaque da cor da folha
     </p>
    </div>
    <div class="col-lg-4">
@@ -393,14 +394,14 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">Suporte de Camadas de Ajuste</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">Suporte de camadas de ajuste</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Camada de ajuste preto e branco
+     Camada de ajuste em preto e branco
     </p>
    </div>
    <div class="col-lg-4">
@@ -414,7 +415,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Camada de ajuste do mixer de canal</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Camada de ajuste do mixer de canais</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -446,7 +447,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Inverter Camada de Ajuste</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Inverter camada de ajuste</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -460,7 +461,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Camada de ajuste de filtro de fotos</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Camada de ajuste do filtro de fotos</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -481,14 +482,14 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Edição de Máscaras de Camada Raster</a>
+      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Edição de máscaras de camada raster</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Gerenciar a opacidade de camadas e nivelar camadas</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Gerencie a opacidade das camadas e nivele as camadas</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -502,7 +503,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Suporte a um grande número de recursos da seção de imagens</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">Suporte de um grande número de recursos da seção de imagens</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -516,7 +517,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Adicionar e remover camadas vinculadas</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Adição e remoção de camadas vinculadas</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -535,35 +536,35 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Recursos mais recentes da API PSD</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD para .NET API continuamente adicionando mais recursos para torná-lo poderoso. Aqui está uma lista de algumas escolhas dos mais recentes adicionados.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Suporte de camadas de preenchimento. Preenchimento de padrão, cor e gradiente</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Suporte de GdFlResource, VmskResource, PtFlResource e VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Carregar arquivos de imagem JPEG/PNG/etc para PsdImage sem carregamento direto</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Rasterização de máscaras de vetor de camada e FlipRotate personalizado de camada de texto</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Renderização do efeito Stroke com Color Fill para exportação</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Exporte PSD para vários formatos raster
+     Exportar PSD para vários formatos rasterizados
     </h2>
     <p>
-     Aspose.PSD para .NET fornece a capacidade de exportar arquivos PSD para qualquer um dos formatos de imagem raster suportados, com apenas algumas linhas de código.
+     O Aspose.PSD para .NET oferece a capacidade de exportar arquivos PSD para qualquer um dos formatos de imagem raster suportados, com apenas algumas linhas de código.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Converter PSD para PNG, JPEG e TIFF - C#
+      Converta PSD em PNG, JPEG e TIFF - C#
      </h3>
     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
@@ -573,7 +574,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
      Acesse e manipule camadas PSD
     </h2>
     <p>
-     O Aspose.PSD para .NET permite acessar camadas de um PSD com a capacidade de desenhar nele com imagem ou texto. Você pode mesclar camadas, atualizar texto em camadas, definir efeitos ou exportar camada como uma imagem. Você também pode usar a API PSD .NET para detectar arquivos PSD achatados ou criar miniaturas.
+     O Aspose.PSD para .NET permite acessar camadas de um PSD com a capacidade de desenhar nele com imagem ou texto. Você pode mesclar camadas, atualizar texto em camadas, definir efeitos ou exportar camadas como uma imagem. Você também pode usar a API PSD.NET para detectar arquivos PSD nivelados ou criar miniaturas.
     </p>
    </div>
    <div class="col-lg-12">
@@ -581,11 +582,11 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
      Leia ou crie arquivos PSD
     </h2>
     <p>
-     O Aspose.PSD para .NET não só suporta o carregamento de formatos de arquivo PSD e PSB para manipulação e conversão, mas também oferece a capacidade de criar arquivos PSD e PSB a partir do zero. Os desenvolvedores .NET podem usar a API para automatizar cenários que podem ajudá-los em seu caminho.
+     O Aspose.PSD para .NET não só suporta o carregamento de formatos de arquivo PSD e PSB para manipulação e conversão, mas também oferece a capacidade de criar arquivos PSD e PSB do zero. Desenvolvedores.NET podem usar a API para automatizar cenários que podem ajudá-los em seu caminho.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Criar PSD do zero - C#
+      Crie PSD do zero - C#
      </h3>
      {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
@@ -595,7 +596,7 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
      Vários filtros de imagem
     </h2>
     <p>
-     O Aspose.PSD para .NET fornece os principais recursos de imagem, como ajuste de cores, por meio de suas bibliotecas de classes. Os desenvolvedores podem facilmente ajustar o brilho, contraste ou gama na imagem raster carregada pela API. Além disso, os desenvolvedores podem pontilhar ou desfocar imagens dinamicamente, bem como usar filtros populares, incluindo Median, Gauss Wiener, Motion Wiener e Bradley Threshold.
+     O Aspose.PSD para .NET fornece os principais recursos de imagem, como ajuste de cores, por meio de suas bibliotecas de classes. Os desenvolvedores podem ajustar facilmente o brilho, o contraste ou a gama em imagens rasterizadas carregadas pela API. Além disso, os desenvolvedores podem pontilhar ou desfocar imagens dinamicamente, bem como usar filtros populares, incluindo Median, Gauss Wiener, Motion Wiener e Bradley Threshold.
     </p>
    </div>
   </div>
@@ -609,13 +610,14 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/psd/net/" >}}
-{{< blocks/products/pf/slr-element name="Código Fonte" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="Código-fonte" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="Repositório" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Suporte ao Produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/psd" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/psd" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/psd/" >}}
 {{< blocks/products/pf/slr-element name="Notas de lançamento" href="https://docs.aspose.com/psd/net/release-notes/" >}}
@@ -628,9 +630,9 @@ description: Biblioteca do Photoshop C# ASP.NET VB.NET para criar editar e conve
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD oferece APIs PSD individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="O Aspose.PSD oferece APIs PSD individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

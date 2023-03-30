@@ -1,16 +1,16 @@
 ---
-title: C# .NET Photoshop Manipulation API - Aspose 
+title: C# .NET Photoshop Manipulation API - Aspose
 weight: 90
-url: /net/ 
 description: C# ASP.NET VB.NET Photoshop library to create edit and convert Photoshop PSD PSB formats
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Photoshop Files" h2="Create, Read, Edit and Convert PSD & PSB files without any Adobe Photoshop dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Photoshop Files" h2="Create, Read, Edit and Convert PSD & PSB files without any Adobe Photoshop dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.PSD for .NET is an advanced PSD and entry level AI files formats manipulation API without any Adobe Photoshop or Adobe Illustrator dependencies. The API allows to create and edit the Photoshop files as well as providing the ability to update layer properties, add watermarks, perform graphics operations or convert one file format to another.</p>
@@ -132,7 +132,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -183,7 +183,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="PSD Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt="PSD Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -252,7 +252,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -612,6 +612,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/psd/net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -629,7 +630,7 @@ description: C# ASP.NET VB.NET Photoshop library to create edit and convert Phot
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD offers individual PSD APIs for other popular development environments as listed below:" >}}
 

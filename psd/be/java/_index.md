@@ -2,14 +2,15 @@
 title: Java Photoshop API | Разбор фарматаў PSD і PSB
 weight: 270
 description: Стварайце мадыфікаваць або канвертаваць фарматы PSD і PSB з дапамогай гэтай бібліятэкі ў любым прылажэнні Java, не патрабуючы праграмнага забеспячэння Photoshop
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Бібліятэка Java для файлаў Photoshop" h2="Ствараць, загружаць, мадыфікаваць і візуалізаваць фарматы дакументаў PSD і PSB з праграм Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="для Java" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Бібліятэка Java для файлаў Photoshop" h2="Ствараць, загружаць, мадыфікаваць і візуалізаваць фарматы дакументаў PSD і PSB з праграм Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="для Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="для Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -99,7 +100,7 @@ description: Стварайце мадыфікаваць або канверта
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=" API апрацоўкі Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt=" API апрацоўкі Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -145,7 +146,7 @@ description: Стварайце мадыфікаваць або канверта
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API апрацоўкі Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="API апрацоўкі Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -214,7 +215,7 @@ description: Стварайце мадыфікаваць або канверта
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="API Java psd" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -526,7 +527,7 @@ description: Стварайце мадыфікаваць або канверта
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD прапануе асобныя API PSD для іншых папулярных умоў распрацоўкі, пералічаных ніжэй:" >}}
 

@@ -7,10 +7,11 @@ feature: conversion
 informat: PSB
 outformat: JPEG
 otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
+url: net/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Канвертаваць PSB у JPEG праз C#" h2=".NET Photoshop API для PSD і PSB Пераўтварэнне ў растравыя выявы, уключаючы JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Канвертаваць PSB у JPEG праз C#" h2=".NET Photoshop API для PSD і PSB Пераўтварэнне ў растравыя выявы, уключаючы JPEG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -24,7 +25,7 @@ otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
 {{% blocks/products/pf/agp/feature-section-col title="Пачаць працу з .NET Photoshop API" %}}
 Усталюйце з каманднага радка як ```nuget install Aspose.PSD``` або праз кансоль дыспетчара пакетаў Visual Studio з ```Install-Package Aspose.PSD```.
 
-У якасці альтэрнатывы атрымайце аўтаномную праграму ўстаноўкі MSI або бібліятэкі DLL у ZIP-файле з [спампоўкі] (https://downloads.aspose.com/psd/net).
+У якасці альтэрнатывы атрымайце аўтаномную праграму ўстаноўкі MSI або бібліятэкі DLL у ZIP-файле з [спампоўкі] (https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Код для пераўтварэння PSB у JPEG" gistPath="" %}}

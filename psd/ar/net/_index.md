@@ -1,23 +1,24 @@
 ---
-title: C # .NET Photoshop Manipulation API - Aspose
+title: واجهة برمجة تطبيقات معالجة فوتوشوب C# .NET - Aspose
 weight: 90
-description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحرير وتحويل تنسيقات Photoshop PSD PSB
+description: مكتبة فوتوشوب C# ASP.NET VB.NET لإنشاء وتحرير وتحويل تنسيقات فوتوشوب PSD PSB
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" .NET APIs لمعالجة ملفات Photoshop" h2=" إنشاء وقراءة وتحرير وتحويل ملفات PSD & PSB دون أي تبعية Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName=" Aspose.PSD" subTitlepfName=" ل .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1="واجهات برمجة تطبيقات .NET لمعالجة ملفات Photoshop" h2="إنشاء ملفات PSD و PSB وقراءتها وتحريرها وتحويلها دون أي تبعيات لبرنامج Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName=" Aspose.PSD" subTitlepfName=" لـ .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p> Aspose.PSD for .NET هي واجهة برمجة تطبيقات متقدمة لمعالجة تنسيقات ملفات AI ومستوى الإدخال بدون أي تبعيات Adobe Photoshop أو Adobe Illustrator. تسمح API بإنشاء ملفات Photoshop وتحريرها بالإضافة إلى توفير القدرة على تحديث خصائص الطبقة أو إضافة علامات مائية أو إجراء عمليات رسومات أو تحويل تنسيق ملف إلى تنسيق آخر.</p>
+<p>Aspose.PSD لـ.NET عبارة عن واجهة برمجة تطبيقات متقدمة لمعالجة تنسيقات ملفات PSD والذكاء الاصطناعي على مستوى المبتدئين دون أي تبعيات لبرنامج Adobe Photoshop أو Adobe Illustrator. تسمح واجهة برمجة التطبيقات بإنشاء ملفات Photoshop وتحريرها بالإضافة إلى توفير القدرة على تحديث خصائص الطبقة أو إضافة علامات مائية أو تنفيذ عمليات الرسومات أو تحويل تنسيق ملف إلى آخر.</p>
 
 <p>
  تدعم واجهة برمجة التطبيقات الاستيراد كطبقة والتصدير إلى التنسيقات التالية:
  <a href="https://docs.fileformat.com/image/png/">
-  بي إن جي
+  PNG
  </a>
  ,
  <a href="https://docs.fileformat.com/image/jpeg/">
@@ -25,15 +26,15 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
  </a>
  ,
  <a href="https://docs.fileformat.com/image/j2k/">
-  JPEG2000
+  جيه بي إيغ 2000
  </a>
  ,
  <a href="https://docs.fileformat.com/image/gif/">
-  GIF
+  صورة
  </a>
  ,
  <a href="https://docs.fileformat.com/image/bmp/">
-  BMP
+  صيغة بيتماب
  </a>
  ,
  <a href="https://docs.fileformat.com/image/tiff/">
@@ -45,9 +46,9 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
  </a>
  و
  <a href="https://docs.fileformat.com/image/psb/">
-  PSB
+  بي اس بي
  </a>
- جنبًا إلى جنب مع التصدير إلى ملف PDF مع نص قابل للتحديد. Aspose.PSD يدعم جزئيًا ميزات Adobe Photoshop مثل Adjustment Layers ، وعرض طبقة النص وتحريرها ، وطبقات التعبئة ، وتأثيرات الطبقات ، وتحرير الأقنعة النقطية والمتجهات للطبقات.
+ جنبًا إلى جنب مع التصدير إلى Pdf بنص قابل للتحديد. يدعم Aspose.PSD جزئيًا ميزات Adobe Photoshop مثل طبقات التعديل، وعرض طبقة النص وتحريرها، وطبقات التعبئة، وتأثيرات الطبقات، وتحرير الأقنعة النقطية والمتجهة للطبقات.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -55,7 +56,7 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3=" لمحة سريعة" description=" نظرة عامة على API." >}}
+{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -64,19 +65,19 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
    </header>
    <ul>
     <li>
-     استدارة أو انعكاس
+     التدوير أو التقليب
     </li>
     <li>
-     مقياس أو اقتصاص
+     مقياس أو محصول
     </li>
     <li>
      التردد
     </li>
     <li>
-     قراءة أو كتابة بيانات Exif
+     قراءة بيانات Exif أو كتابتها
     </li>
     <li>
-     تحولات المصفوفة
+     تحويلات المصفوفة
     </li>
     <li>
      رسم وتعبئة الأشكال
@@ -89,41 +90,41 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    ميزات Photoshop
+    ميزات برنامج فوتوشوب
    </header>
    <ul>
     <li>
      إنشاء ملف
     </li>
     <li>
-     تحميل الملف
+     تحميل ملف
     </li>
     <li>
-     معالجة البيانات الخام
+     معالجة البيانات الأولية
     </li>
     <li>
      ضغط RLE
     </li>
     <li>
-     التحويل إلى الصور
+     التحويل إلى صور
     </li>
     <li>
-     طبقات التعبئة
+     تعبئة الطبقات
     </li>
     <li>
-     طبقات الضبط
+     طبقات التعديل
     </li>
     <li>
      تأثيرات الطبقة
     </li>
     <li>
-     أقنعة خطوط المسح والمتجهات والقص
+     الأقنعة النقطية والمتجهة والأقنعة القطعية
     </li>
     <li>
      طبقات النص
     </li>
     <li>
-     معظم أوضاع صور ملفات PSD / PSB
+     معظم أوضاع صور ملفات PSD/PSB
     </li>
    </ul>
   </div>
@@ -131,16 +132,16 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=" .NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=«واجهة برمجة تطبيقات معالجة.NET PSD» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     ل
+      
     </em>
-    .صافي
+    .NET
    </small>
   </footer>
  </div>
@@ -149,16 +150,16 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3=" منصة الاستقلال" description=" Aspose.PSD for .NET يدعم أي إطار عمل .NET يبدأ من 2.0." >}}
+{{< blocks/products/pf/carousel-item h3="استقلالية المنصة" description="يدعم Aspose.PSD لـ.NET أي إطار عمل .NET يبدأ من 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    .الإطار الصافي
+    إطار عمل .NET
    </header>
    <ul>
     <li>
-     تطبيق Windows
+     تطبيق ويندوز
     </li>
     <li>
      تطبيق ويب ASP.NET
@@ -168,30 +169,30 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    NET Standard
+    معيار دوت نت
    </header>
    <ul>
     <li>
-     تطبيق ويب ASP.NET Core
+     تطبيق ويب ASP.NET الأساسي
     </li>
     <li>
-     NET Core على أساس تطبيق Windows
+     تطبيق ويندوز دوت نت كور
     </li>
    </ul>
   </div>
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=" واجهات برمجة تطبيقات معالجة PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=«واجهات برمجة تطبيقات معالجة PSD» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     ل
+      
     </em>
-    .صافي
+    .NET
    </small>
   </footer>
  </div>
@@ -200,19 +201,19 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3=" تنسيقات الملفات المدعومة" description=" Aspose.PSD for .NET يدعم تنسيقات الملفات الأكثر شيوعًا [Photoshop & raster image] (https://docs.aspose.com/psd/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.PSD لـ.NET يدعم الأكثر شيوعًا [فوتوشوب وصورة نقطية](https://docs.aspose.com/psd/net/supported-file-formats/)  تنسيقات الملفات." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    الإدخال / الإخراج
+    Input/Output
    </header>
    <ul>
     <li>
      <b>
-      محل تصوير:
+      برنامج الفوتوشوب:
      </b>
-     PSD ، PSB
+     بي إس دي، بلاي ستيشن
     </li>
    </ul>
   </div>
@@ -226,13 +227,13 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
      <b>
       تنسيقات البيانات النقطية:
      </b>
-     TIFF و JPEG و PNG و GIF و BMP و JPEG2000
+     تيف، جي بي جي، بي إن جي، جيف، بي إم بي، JPEG2000
     </li>
     <li>
      <b>
-      آخر:
+      أخرى:
      </b>
-     بي دي إف
+     PDF
     </li>
    </ul>
    <header>
@@ -251,16 +252,16 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=" .NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=«واجهة برمجة تطبيقات .NET PSD» src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     ل
+      
     </em>
-    .صافي
+    .NET
    </small>
   </footer>
  </div>
@@ -282,83 +283,83 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
     ميزات واجهة برمجة تطبيقات معالجة .NET PSD المتقدمة
    </h2>
    <p>
-    نبسب
+    وamp(ب)
    </p>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/"> تحويل ملفات Photoshop إلى صور</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">تحويل ملفات Photoshop إلى صور</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface"> قم بإنشاء ملف فوتوشوب من البداية</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">قم بإنشاء ملف Photoshop من البداية</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/"> قم بتحميل ملفات Photoshop الموجودة</a>
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">تحميل ملفات Photoshop الموجودة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/"> قص في منطقة مستطيلة</a>
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">قم بشبكه في منطقة مستطيلة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images/"> ارسم واملأ الأشكال الأساسية</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images/">رسم الأشكال الأساسية وتعبئتها</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/"> اقتصاص الصور وتدويرها وتغيير حجمها</a>
+      <a href="https://docs.aspose.com/psd/net/crop-rotate-and-resize-images/">قص الصور وتدويرها وتغيير حجمها</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1"> دمج الطبقات</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">دمج الطبقات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/#supported-layers"> دعم الطبقات</a>
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/#supported-layers">دعم الطبقات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/"> معاينة ملف PSD Pixel-Perfect Exporting</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">معاينة ملف PSD - تصدير مثالي للبكسل</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/"> دعم RGB و CMYK و LAB و Grayscale مع 8/16/32 بت لكل قناة</a>
+      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">دعم RGB و CMYK و LAB و Grayscale مع 8/16/32 بت لكل قناة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime"> تطبيق تأثيرات الطبقة</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">تطبيق تأثيرات الطبقة</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -372,184 +373,184 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تمييز لون الورقة
+     تسليط الضوء على لون الورقة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/"> أقنعة طبقة</a>
+      <a href="https://docs.aspose.com/psd/net/layers-and-mask-information-section/">أقنعة الطبقة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-text-layers/#update-text-layer-in-psd-file"> تحديث طبقات النص في وقت التشغيل</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-text-layers/#update-text-layer-in-psd-file">تحديث طبقات النص في وقت التشغيل</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers"> دعم طبقات الضبط</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-adjustment-layers">دعم طبقات التعديل</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     طبقة ضبط أبيض وأسود
+     طبقة التعديل بالأبيض والأسود
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers"> طبقة ضبط السطوع / التباين</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">طبقة ضبط السطوع/التباين</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers"> طبقة ضبط خلاط القنوات</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">طبقة تعديل خلاط القنوات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer"> طبقة ضبط توازن اللون</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">طبقة ضبط توازن الألوان</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers"> طبقة ضبط المنحنيات</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">طبقة ضبط المنحنيات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers"> طبقة ضبط التعرض</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-exposure-layers">طبقة ضبط التعريض</a>
     </p>
    </div>
    <div class="col-lg-4"><em class="fa fa-align-right ico-blue fa-2x col-lg-2"></em><p class="col-lg-10">
       <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-hue-saturation-of-adjustment-layers">
-      طبقة ضبط هوى / التشبع
+      طبقة تعديل اللون/التشبع
       </a></p></div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer"> عكس طبقة الضبط</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">طبقة الضبط العكسي</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers"> طبقة ضبط المستويات</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">طبقة ضبط المستويات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer"> طبقة تعديل مرشح الصور</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">طبقة تعديل فلتر الصور</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-clipping-mask"> عرض أقنعة القطع</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-of-clipping-mask">عرض أقنعة القطع</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/"> تنقيط وقت التشغيل لأقنعة طبقة المتجهات</a>
+      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/">التنقيط في وقت التشغيل لأقنعة الطبقة المتجهة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/"> تحرير أقنعة الطبقة النقطية</a>
+      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">تحرير أقنعة الطبقة النقطية</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers"> إدارة عتامة الطبقات وتسوية الطبقات</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">إدارة عتامة الطبقات وتسطيح الطبقات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/"> دعم عدد كبير من Layer Resources</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">دعم عدد كبير من موارد الطبقة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/"> دعم عدد كبير من موارد قسم الصور</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-the-supported-psd-global-image-resources/">دعم عدد كبير من موارد قسم الصور</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/"> التلاعب بطبقات التعبئة</a>
+      <a href="https://docs.aspose.com/psd/net/support-of-fill-layers/">التلاعب بطبقات التعبئة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers"> إضافة وإزالة الطبقات المرتبطة</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">إضافة وإزالة الطبقات المرتبطة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/"> تصدير مجموعات الطبقات</a>
+      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">تصدير مجموعات الطبقات</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/"> القدرة على فتح وتصدير ملفات AI</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">القدرة على فتح وتصدير ملفات AI</a>
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title"> أحدث ميزات واجهة برمجة تطبيقات PSD</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p> تضيف Aspose.PSD لـ .NET API باستمرار المزيد من الميزات لجعلها قوية. فيما يلي قائمة ببعض الاختيارات من أحدثها المضافة.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li> دعم طبقات التعبئة. تعبئة النقش واللون والتدرج</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li> دعم GdFlResource و VmskResource و PtFlResource و VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li> قم بتحميل ملفات صور JPEG / PNG / إلخ إلى PsdImage بدون تحميل مباشر</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li> تنقيط أقنعة متجه الطبقة وطبقة النص المخصصة FlipRotate</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li> عرض تأثير Stroke مع Color Fill للتصدير</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -559,11 +560,11 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
      تصدير PSD إلى تنسيقات نقطية مختلفة
     </h2>
     <p>
-     يوفر Aspose.PSD for .NET القدرة على تصدير ملفات PSD إلى أي من تنسيقات الصور النقطية المدعومة ، فقط ببضعة سطور من التعليمات البرمجية.
+     يوفر Aspose.PSD for .NET القدرة على تصدير ملفات PSD إلى أي من تنسيقات الصور النقطية المدعومة، مع بضعة أسطر من التعليمات البرمجية.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      تحويل PSD إلى PNG و JPEG و TIFF - C #
+      تحويل ملفات PSD إلى PNG و JPEG و TIFF - C#
      </h3>
     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
     </div>
@@ -573,7 +574,7 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
      الوصول إلى طبقات PSD ومعالجتها
     </h2>
     <p>
-     يتيح لك Aspose.PSD for .NET الوصول إلى طبقات PSD مع القدرة على الرسم عليها إما بصورة أو نص. يمكنك دمج الطبقات أو تحديث النص على الطبقات أو تعيين التأثيرات أو تصدير الطبقة كصورة. يمكنك أيضًا استخدام PSD .NET API لاكتشاف ملفات PSD المسطحة أو إنشاء صور مصغرة.
+     يتيح لك Aspose.PSD for .NET الوصول إلى طبقات PSD مع القدرة على الرسم عليها إما بالصورة أو النص. يمكنك دمج الطبقات أو تحديث النص على الطبقات أو تعيين التأثيرات أو تصدير الطبقة كصورة. يمكنك أيضًا استخدام PSD.NET API لاكتشاف ملفات PSD المسطحة أو إنشاء صور مصغرة.
     </p>
    </div>
    <div class="col-lg-12">
@@ -581,21 +582,21 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
      قراءة أو إنشاء ملفات PSD
     </h2>
     <p>
-     لا يدعم Aspose.PSD for .NET تحميل تنسيقات ملفات PSD و PSB للمعالجة والتحويل فحسب ، بل يوفر أيضًا القدرة على إنشاء ملفات PSD & PSB من البداية. يمكن لمطوري .NET استخدام API لأتمتة السيناريوهات التي قد تساعدهم في طريقهم.
+     لا يدعم Aspose.PSD for .NET تحميل تنسيقات ملفات PSD و PSB للمعالجة والتحويل فحسب، بل يوفر أيضًا القدرة على إنشاء ملفات PSD و PSB من البداية. يمكن لمطوري .NET استخدام واجهة برمجة التطبيقات لأتمتة السيناريوهات التي قد تساعدهم في طريقهم.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      إنشاء PSD من البداية - C #
+      إنشاء PSD من الصفر - C#
      </h3>
      {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     مرشحات التصوير المختلفة
+     فلاتر تصوير مختلفة
     </h2>
     <p>
-     يوفر Aspose.PSD for .NET ميزات التصوير الأساسية مثل تعديل اللون عبر مكتبات فئته. يمكن للمطورين بسهولة ضبط السطوع أو التباين أو جاما على الصورة النقطية التي تم تحميلها بواسطة API. علاوة على ذلك ، يمكن للمطورين ديناميكيًا تشويش الصور أو تعتيمها بالإضافة إلى استخدام المرشحات الشائعة بما في ذلك Median و Gauss Wiener و Motion Wiener و Bradley Threshold.
+     يوفر Aspose.PSD for .NET ميزات التصوير الأساسية مثل ضبط اللون عبر مكتبات الفصل الخاصة به. يمكن للمطورين بسهولة ضبط السطوع أو التباين أو جاما على الصورة النقطية التي تم تحميلها بواسطة API. علاوة على ذلك، يمكن للمطورين تشويش الصور أو طمسها ديناميكيًا بالإضافة إلى استخدام الفلاتر الشائعة بما في ذلك Median و Gauss Wiener و Motion Wiener و Bradley Threshold.
     </p>
    </div>
   </div>
@@ -607,30 +608,31 @@ description: C # ASP.NET مكتبة فوتوشوب VB.NET لإنشاء تحري�
 
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle=" مصادر التعلم" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name=" التوثيق" href="https://docs.aspose.com/psd/net/" >}}
-{{< blocks/products/pf/slr-element name=" كود المصدر" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
-{{< blocks/products/pf/slr-element name=" مراجع API" href="https://apireference.aspose.com/net/psd" >}}
-{{< blocks/products/pf/slr-element name=" مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="وثائق" href="https://docs.aspose.com/psd/net/" >}}
+{{< blocks/products/pf/slr-element name="كود المصدر" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="مراجع واجهة برمجة التطبيقات" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="المستودع" href="https://repository.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle=" دعم المنتج" tabId="support" >}}
-{{< blocks/products/pf/slr-element name=" دعم مجاني" href="https://forum.aspose.com/c/psd" >}}
-{{< blocks/products/pf/slr-element name=" دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name=" مدونة" href="https://blog.aspose.com/category/psd/" >}}
-{{< blocks/products/pf/slr-element name=" ملاحظات الإصدار" href="https://docs.aspose.com/psd/net/release-notes/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/psd" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/psd/" >}}
+{{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/psd/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle=" لماذا Aspose.PSD لـ .NET؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name=" قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name=" قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.PSD لـ .NET؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName=" Aspose.PSD" description=" يقدم Aspose.PSD واجهات برمجة تطبيقات PSD فردية لبيئات التطوير الشائعة الأخرى كما هو مذكور أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="تقدم Aspose.PSD واجهات برمجة تطبيقات PSD فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

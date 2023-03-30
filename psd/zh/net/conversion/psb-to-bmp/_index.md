@@ -1,33 +1,34 @@
 ---
-title: 使用 C# 將 PSB 轉換為 BMP
-description: 通過 .NET API 導出 PSD、PSB 和 AI 文件
+title: 使用 C# 将 PSB 转换为 BMP
+description: 通过.NET API 导出 PSD、PSB 和 AI 文件
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: BMP
 otherformats: GIF JPEG JPEG2000 JP2 PDF PNG PSD TIFF
+url: net/conversion/psb-to-bmp/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="通過C#將PSB轉換為BMP" h2=".NET Photoshop API 用於 PSD 和 PSB 轉換為包括 BMP 在內的光柵圖像">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="通过 C# 将 PSB 转换为 BMP" h2="用于 PSD 和 PSB 的 .NET Photoshop API 转换为包括 BMP 在内的光栅图像" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="PSB作為BMP的高質量渲染" %}}
-1. 使用 [Image.Load](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法加載 PSB
-1.創建[BmpOptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions)類的實例
-1.調用[Image.Save](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index)方法
-1. 傳遞 BmpOptions 的輸出文件名和對象
+{{% blocks/products/pf/agp/feature-section-col title="PSB 作为 BMP 的高质量渲染" %}}
+1。用以下方式加载 PSB [图片。加载](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/load/index) 方法
+1。创建的实例 [bmPoptions](https://apireference.aspose.com/psd/net/aspose.psd.imageoptions/bmpoptions) 班级
+1。打电话 [图片。保存](https://apireference.aspose.com/psd/net/aspose.psd/image/methods/save/index) 方法
+1。传递 bmPoptions 的输出文件名和对象
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API 入門" %}}
-從命令行安裝為 ```nuget install Aspose.PSD``` 或通過 Visual Studio 的 Package Manager Console 使用 ```Install-Package Aspose.PSD``` 安裝。
+{{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API 入门" %}}
+从命令行安装为 ```nuget install Aspose.PSD``` 或者通过 Visual Studio 的软件包管理器控制台使用 ```Install-Package Aspose.PSD```
 
-或者，從 [下載](https://downloads.aspose.com/psd/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+或者，从 ZIP 文件中获取离线 MSI 安装程序或 DLL [下载](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# 代碼用於 PSB 到 BMP 的轉換" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title=".NET C# 用于将 PSB 转换为 BMP 的代码" gistPath="" %}}
 
 {{< gist "aspose-com-gists" "676eb266d81d2eed869d9815fe43541d" "convert-psb-to-bmp.cs" >}}
 

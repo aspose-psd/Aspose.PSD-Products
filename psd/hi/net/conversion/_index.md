@@ -1,43 +1,45 @@
 ---
-title: सी # फोटोशॉप फ़ाइलें रूपांतरण
-description: फ़ोटोशॉप PSD, PSB को PDF और छवियों को BMP, JPG, PNG, TIFF सहित .NET लाइब्रेरी के माध्यम से C# कोड की कुछ पंक्तियों में कनवर्ट करें।
+title: C# फ़ोटोशॉप फ़ाइल रूपांतरण
+description: .NET लाइब्रेरी के माध्यम से C# कोड की कुछ पंक्तियों के साथ Photoshop PSD, PSB को PDF और BMP, JPG, PNG, TIFF सहित छवियों में बदलें।
+url: net/conversion/
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Adobe® Photoshop® C# के माध्यम से रूपांतरण" h2=" क्रॉस-प्लेटफ़ॉर्म .NET एप्लिकेशन बनाने के लिए Photoshop PSD, PSB को PDF और JPG, PNG, BMP, TIFF इमेज में बदलें।" >}}
+{{< blocks/products/pf/feature-page-header h1="Adobe® Photoshop® C# के माध्यम से रूपांतरण" h2="फ़ोटोशॉप PSD, PSB को PDF और JPG, PNG, BMP, TIFF इमेज में क्रॉस-प्लेटफ़ॉर्म. NET एप्लिकेशन बनाने के लिए कन्वर्ट करें।" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-PSD प्रारूप डेटा को परतों के रूप में सहेजता है और वेबसाइट डिजाइन सहित डिजाइनिंग उद्देश्यों के लिए Adobe® Photoshop® का प्रसिद्ध प्रारूप है। डिज़ाइनर Adobe Photoshop के माध्यम से PNG, JPG, GIF, TIFF आदि सहित एकल छवियों में PSD परतों को आसानी से निर्यात कर सकते हैं। Adobe Photoshop इंस्टालेशन के बिना .NET समाधान के भीतर रेखापुंज छवियों और PDF में फ़ोटोशॉप रूपांतरण को लागू करने के लिए, .NET API इसे आसानी से कर सकता है। निम्नलिखित सी # उदाहरण कोड को आसानी से पीएसडी फाइल कनवर्टर के रास्टर छवि प्रारूपों और पीडीएफ में स्वचालन के लिए एकीकृत किया जा सकता है। यहां तक ​​कि प्रोग्रामर किसी भी PSD छवि से परतें निकाल सकते हैं।
+PSD प्रारूप परतों के रूप में डेटा को बचाता है और वेबसाइट डिज़ाइन सहित डिज़ाइन करने के उद्देश्यों के लिए Adobe® Photoshop® का जाना-माना प्रारूप है। डिज़ाइनर Adobe Photoshop के माध्यम से PNG, JPG, GIF, TIFF आदि सहित एकल छवियों के लिए PSD परतों को आसानी से निर्यात कर सकते हैं। एडोब फोटोशॉप इंस्टॉलेशन के बिना.NET समाधान के भीतर रास्टर इमेज और पीडीएफ में फोटोशॉप रूपांतरण को लागू करने के लिए, .NET API इसे आसानी से कर सकता है। निम्नलिखित सी # उदाहरण कोड आसानी से PSD फाइल कनवर्टर को रास्टर इमेज फॉर्मेट और पीडीएफ में ऑटोमेशन के लिए एकीकृत किया जा सकता है। यहां तक कि प्रोग्रामर किसी भी PSD छवि से परतें निकाल सकते हैं।
 
 
-{{% /blocks/products/pf/feature-page-summary  %}}
+{{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section  h2="फ़ोटोशॉप PSD को पीडीएफ़ में बदलें" %}}
+{{% blocks/products/pf/feature-page-section h2="फ़ोटोशॉप PSD को PDF में बदलें" %}}
 
-PSD को PDF दस्तावेज़ में बदलने के लिए, [Image class](https://apireference.aspose.com/net/psd/aspose.psd/image) का उपयोग करके PSD फ़ाइल लोड करने की प्रक्रिया है। प्रासंगिक PDF सेटिंग्स के लिए [PdfOptions class](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) ऑब्जेक्ट बनाएं। अंत में [Image.Save](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) मेथड को कॉल करें जिसमें आउटपुट पीडीएफ फाइल और रूपांतरण के लिए पीडीएफ विकल्प हों।
+PSD को PDF दस्तावेज़ में बदलने के लिए, प्रक्रिया है, PSD फ़ाइल का उपयोग करके लोड करें [इमेज क्लास](https://apireference.aspose.com/net/psd/aspose.psd/image)। क्रिएट करें [PDFOptions वर्ग](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pdfoptions) ऑब्जेक्ट, प्रासंगिक पीडीएफ सेटिंग्स के लिए। अंत में कॉल करें [छवि. सेव करें](https://apireference.aspose.com/net/psd/aspose.psd.image/save/methods/3) रूपांतरण के लिए आउटपुट पीडीएफ फाइल और पीडीएफ विकल्प रखने वाली विधि।
 
-{{% blocks/products/pf/feature-page-code h3=" सी# कोड फोटोशॉप PSD से पीडीएफ रूपांतरण के लिए" %}}
+{{% blocks/products/pf/feature-page-code h3="फ़ोटोशॉप PSD के लिए PDF रूपांतरण के लिए C# कोड" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-pdf.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="psb-to-pdf psd-to-pdf" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="फ़ोटोशॉप PSD से JPG, PNG, BMP छवियाँ रूपांतरण" %}}
+{{% blocks/products/pf/feature-page-section h2="फ़ोटोशॉप PSD से JPG, PNG, BMP इमेज रूपांतरण" %}}
 
-PSD को इमेज में बदलने की प्रक्रिया लगभग PSD से पीडीएफ के समान है, इमेज का उपयोग करके फ़ाइल लोड करें। लोड करें और फिर पीडीएफ सेव विकल्पों का उपयोग करने के बजाय, प्रासंगिक इमेज सेव विकल्पों जैसे [JpegOptions](https://apireference.aspose. का उपयोग करके) का उपयोग करें। com/net/psd/aspose.psd.imageoptions/jpegoptions), [PngOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions), [BmpOptions](https:// apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [TiffOptions](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions), [GifOptions]( https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [Jpeg2000Options](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) के लिए जेपीजी, पीएनजी, बीएमपी, टीआईएफएफ, जीआईएफ, जेपी 2 क्रमशः और अंत में प्रासंगिक पैरामीटर के साथ सेव फ़ंक्शन को कॉल करके कनवर्ट करें।
+PSD को Images में बदलने के लिए प्रक्रिया लगभग PSD से PDF के समान ही है, Image.Load का उपयोग करके फ़ाइल को लोड करें और फिर PDF सेव विकल्पों का उपयोग करने के बजाय, प्रासंगिक इमेज सेव विकल्पों का उपयोग करके जैसे [जेपीईजी विकल्प](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpegoptions), [PNG के विकल्प](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/pngoptions),  [BmP के विकल्प](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/bmpoptions), [TIFF के विकल्प](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/tiffoptions),  [GIF विकल्प](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/gifoptions), [Jpeg2000Options](https://apireference.aspose.com/net/psd/aspose.psd.imageoptions/jpeg2000options) JPG, PNG, BMP, TIFF, GIF, JP2 के लिए क्रमशः और अंत में प्रासंगिक मापदंडों के साथ सेव फ़ंक्शन को कॉल करके कनवर्ट करें।
 
 
-{{% blocks/products/pf/feature-page-code h3=" सी# कोड फोटोशॉप PSD के लिए छवि रूपांतरण" %}}
+{{% blocks/products/pf/feature-page-code h3="छवि रूपांतरण के लिए फ़ोटोशॉप PSD के लिए C# कोड" %}}
 
 {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-photoshop-psd-to-images.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="psd-to-bmp psd-to-png psd-to-jpeg psd-to-tiff psd-to-gif psb-to-gif psb-to-tiff psb-to-jpeg psb-to-png psb-to-bmp" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,18 +1,19 @@
 ---
-title: C# .NET Photoshop Manipulation API – Aspose
+title: C# .NET Photoshop Manipulation API - Aspose
 weight: 90
-description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a převodu formátů Photoshop PSD PSB
+description: C# ASP.NET VB.NET Photoshop knihovna pro vytváření úprav a převodu Photoshop PSD PSB formátů
+url: net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" .NET API pro manipulaci se soubory Photoshopu" h2="Vytvářejte, čtěte, upravujte a převádějte soubory PSD a PSB bez jakýchkoli závislostí na Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="pro .NET" downloadUrl="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/upper-banner h1="Rozhraní API .NET pro manipulaci se soubory aplikace Photoshop" h2="Vytvářejte, čtete, upravujte a převádějte soubory PSD a PSB bez závislostí Adobe Photoshop." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-net.svg" pfName="Aspose.PSD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/psd/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="pro .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/psd/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/net/" installationsDocsLink="https://docs.aspose.com/psd/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.PSD/" nugetPackageName="Aspose.PSD" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/psd/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.PSD for .NET je pokročilé rozhraní PSD a rozhraní API pro manipulaci s formáty souborů AI základní úrovně bez jakýchkoli závislostí na Adobe Photoshop nebo Adobe Illustrator. API umožňuje vytvářet a upravovat soubory Photoshopu a také poskytuje možnost aktualizovat vlastnosti vrstev, přidávat vodoznaky, provádět grafické operace nebo převádět jeden formát souboru do druhého.</p>
+<p>Aspose.PSD for .NET je pokročilý PSD a vstupní úroveň AI soubory formáty manipulace API bez Adobe Photoshop nebo Adobe Illustrator závislostí. Rozhraní API umožňuje vytvářet a upravovat soubory Photoshopu a také umožňuje aktualizovat vlastnosti vrstvy, přidávat vodoznaky, provádět grafické operace nebo převést jeden formát souboru do jiného.</p>
 
 <p>
  Rozhraní API podporuje import jako vrstvu a export do následujících formátů:
@@ -47,7 +48,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
  <a href="https://docs.fileformat.com/image/psb/">
   PSB
  </a>
- spolu s exportem do Pdf s volitelným textem. Aspose.PSD částečně podporuje takové funkce Adobe Photoshopu, jako jsou vrstvy úprav, vykreslování a úpravy textových vrstev, výplně vrstev, efekty vrstev, úpravy rastrových a vektorových masek pro vrstvy.
+ spolu s exportem do PDF s volitelným textem. Aspose.PSD částečně podporuje takové funkce aplikace Adobe Photoshop, jako jsou vrstvy úprav, vykreslování a úpravy textových vrstev, vrstvy výplně, efekty vrstev, editace rastrových a vektorových masek pro vrstvy.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -60,14 +61,14 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Funkce zobrazování
+    Zobrazovací funkce
    </header>
    <ul>
     <li>
      Otočit nebo převrátit
     </li>
     <li>
-     Měřítko nebo oříznutí
+     Změna měřítka nebo oříznutí
     </li>
     <li>
      Dithering
@@ -79,17 +80,17 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
      Maticové transformace
     </li>
     <li>
-     Kreslení a vyplňování tvarů
+     Kreslení a plnění tvarů
     </li>
     <li>
-     Upravte Jas, Kontrast nebo Gamma
+     Nastavení jasu, kontrastu nebo gama
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Funkce Photoshopu
+    Funkce aplikace Photoshop
    </header>
    <ul>
     <li>
@@ -102,7 +103,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
      Zpracování nezpracovaných dat
     </li>
     <li>
-     RLE komprese
+     Komprese RLE
     </li>
     <li>
      Převod na obrázky
@@ -111,10 +112,10 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
      Vyplnit vrstvy
     </li>
     <li>
-     Vrstvy úprav
+     Úprava vrstev
     </li>
     <li>
-     Efekty vrstvy
+     Efekty vrstev
     </li>
     <li>
      Rastrové, vektorové a ořezové masky
@@ -131,16 +132,16 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=„NET PSD zpracování API“ src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Co je Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     pro
+     za
     </em>
-    .SÍŤ
+    .NET
    </small>
   </footer>
  </div>
@@ -149,7 +150,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.PSD pro .NET podporuje jakýkoli rámec .NET počínaje verzí 2.0." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost platformy" description="Aspose.PSD pro .NET podporuje libovolný rámec .NET počínaje 2.0." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,30 +169,30 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Standard .NET
+    .NET Standard
    </header>
    <ul>
     <li>
-     Webová aplikace ASP.NET Core
+     ASP.NET Core Webová aplikace
     </li>
     <li>
-     Aplikace pro Windows založená na .NET Core
+     .NET Core založené na aplikaci Windows
     </li>
    </ul>
   </div>
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Rozhraní API pro manipulaci s PSD" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=„PSD Manipulace API“ src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Co je Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     pro
+     za
     </em>
-    .SÍŤ
+    .NET
    </small>
   </footer>
  </div>
@@ -200,12 +201,12 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.PSD for .NET podporuje nejoblíbenější formáty souborů [Photoshop & rastrový obrázek](https://docs.aspose.com/psd/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.PSD pro .NET podporuje nejoblíbenější [Photoshop a rastrový obrázek](https://docs.aspose.com/psd/net/supported-file-formats/)  formáty souborů." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Vstup výstup
+    Vstup/výstup
    </header>
    <ul>
     <li>
@@ -230,7 +231,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     </li>
     <li>
      <b>
-      Jiný:
+      Ostatní:
      </b>
      PDF
     </li>
@@ -241,7 +242,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
    <ul>
     <li>
      <b>
-      ilustrátor:
+      Ilustrátor:
      </b>
      AI
     </li>
@@ -251,16 +252,16 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg"/>
+  <img width="70" height="75" alt=„.NET PSD API“ src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
-   Aspose.PSD
+   Co je Aspose.PSD
   </header>
   <footer>
    <small>
     <em>
-     pro
+     za
     </em>
-    .SÍŤ
+    .NET
    </small>
   </footer>
  </div>
@@ -279,7 +280,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce rozhraní API pro manipulaci s rozhraním .NET PSD
+    Pokročilé funkce rozhraní API pro manipulaci s PSD
    </h2>
    <p>
     &amp;nbsp
@@ -288,28 +289,28 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Převeďte soubory Photoshopu na obrázky</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Převod souborů Photoshopu na obrázky</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Vytvořte soubor Photoshopu od začátku</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Vytvoření souboru aplikace Photoshop od začátku</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Načíst existující soubory Photoshopu</a>
+      <a href="https://docs.aspose.com/psd/net/creating-opening-and-saving-images/">Načtení existujících souborů aplikace Photoshop</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Klip na obdélníkovou oblast</a>
+      <a href="https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/">Oříznutí do obdélníkové oblasti</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -330,7 +331,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">Sloučit vrstvy</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/?#merge-psd-layers-into-other-layers-1">Sloučit hladiny</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -344,21 +345,21 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">Náhled souboru PSD Pixel-Perfect Export</a>
+      <a href="https://docs.aspose.com/psd/net/converting-psd-image-to-raster-format/">PSD soubor Náhled Pixel-Perfect Export</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">Podpora RGB, CMYK, LAB, stupně šedi s 8/16/32 bity na kanál</a>
+      <a href="https://docs.aspose.com/psd/net/psd-convert-between-different-color-modes/">Podpora RGB, CMYK, LAB, stupně šedi s 8/16/32 bitů na kanál</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">Použití efektů vrstvy</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#support-layer-effects-at-runtime">Použití efektů vrstev</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -372,7 +373,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zvýraznění barev listu
+     Zvýraznění barvy listu
     </p>
    </div>
    <div class="col-lg-4">
@@ -400,35 +401,35 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Černobílá úprava vrstvy
+     Černobílá vrstva pro úpravu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">Vrstva pro úpravu jasu/kontrastu</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-brightness-and-contrast-in-adjustment-layers">Hladina nastavení jasu/kontrastu</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Vrstva úprav směšovače kanálů</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-channel-mixer-adjust-layers">Hladina úpravy směšovače kanálů</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">Vrstva pro úpravu vyvážení barev</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#color-balance-adjustment-layer">Hladina úpravy vyvážení barev</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Vrstva úprav křivek</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-curves-adjustment-layers">Hladina úprav křivek</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,27 +441,27 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
    </div>
    <div class="col-lg-4"><em class="fa fa-align-right ico-blue fa-2x col-lg-2"></em><p class="col-lg-10">
       <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-hue-saturation-of-adjustment-layers">
-      Vrstva pro úpravu odstínu/sytosti
+      Vrstva nastavení odstínu a sytosti
       </a></p></div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Invertovat vrstvu úprav</a>
+      <a href="https://docs.aspose.com/psd/net/modifying-images/#invert-adjustment-layer">Invertovat hladinu úprav</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Vrstva úpravy úrovní</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#add-level-adjustment-layers">Hladina úprav úrovní</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Vrstva úprav fotografického filtru</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manager-photo-filter-adjustment-layer">Hladina úpravy fotografického filtru</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -474,28 +475,28 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/">Resterizace za běhu masky vektorové vrstvy</a>
+      <a href="https://docs.aspose.com/psd/net/layer-vector-mask/">Rasterizace vektorových masek vrstev za běhu</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Editace masek rastrových vrstev</a>
+      <a href="https://docs.aspose.com/psd/net/editing-raster-layer-masks-in-psd-file-via-api/">Úpravy masek rastrových vrstev</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Správa neprůhlednosti vrstev a sloučení vrstev</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-photoshop-formats/#manage-opacity-of-layers">Správa krytí vrstev a vyrovnávání vrstev</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">Podpora velkého počtu zdrojů vrstvy</a>
+      <a href="https://docs.aspose.com/psd/net/list-of-psd-layer-resources/">Podpora velkého počtu zdrojů vrstev</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -516,40 +517,40 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Přidávání a odebírání propojených vrstev</a>
+      <a href="https://docs.aspose.com/psd/net/working-with-layers/#support-of-linked-layers">Přidávání a odebrání propojených vrstev</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Export skupin vrstev</a>
+      <a href="https://docs.aspose.com/psd/net/export-layer-group-to-image/">Export skupin hladin</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">Schopnost otevírat a exportovat soubory AI</a>
+      <a href="https://docs.aspose.com/psd/net/manipulating-adobe-illustrator-formats/">Možnost otevírat a exportovat soubory AI</a>
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Nejnovější funkce rozhraní PSD API</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD for .NET API neustále přidává další funkce, aby bylo výkonné. Zde je seznam několika vybraných z nejnovějších přidaných.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Podpora vrstev výplně. Vzor, barva a přechodová výplň</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Podpora GdFlResource, VmskResource, PtFlResource a VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Načíst soubory obrázků JPEG/PNG/atd. do PsdImage bez přímého načítání</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Rasterizace vektorových masek vrstev a vlastní FlipRotate textové vrstvy</li>
+<li>Rasterization of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Vykreslení efektu tahu s barevnou výplní pro export</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -559,7 +560,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
      Export PSD do různých rastrových formátů
     </h2>
     <p>
-     Aspose.PSD for .NET poskytuje možnost exportovat soubory PSD do libovolného z podporovaných formátů rastrových obrázků pomocí pouhých několika řádků kódu.
+     Aspose.PSD for .NET poskytuje možnost exportovat soubory PSD do některého z podporovaných rastrových obrazových formátů, jen s několika řádky kódu.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -573,19 +574,19 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
      Přístup a manipulace s vrstvami PSD
     </h2>
     <p>
-     Aspose.PSD for .NET vám umožňuje přistupovat k vrstvám PSD s možností kreslit na něj pomocí obrázku nebo textu. Můžete sloučit vrstvy, aktualizovat text ve vrstvách, nastavit efekty nebo exportovat vrstvu jako obrázek. Můžete také použít PSD .NET API k detekci sloučených souborů PSD nebo vytváření miniatur.
+     Aspose.PSD pro .NET umožňuje přístup k vrstvám PSD s možností čerpat z něj buď obrázek nebo text. Můžete sloučit vrstvy, aktualizovat text ve vrstvách, nastavit efekty nebo exportovat vrstvu jako obrázek. Rozhraní PSD. NET API můžete také použít k detekci zploštělých souborů PSD nebo k vytváření miniatur.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Číst nebo vytvářet soubory PSD
+     Čtení nebo vytváření souborů PSD
     </h2>
     <p>
-     Aspose.PSD for .NET nejen podporuje načítání formátů souborů PSD a PSB pro manipulaci a konverzi, ale také poskytuje možnost vytvářet soubory PSD a PSB od začátku. Vývojáři .NET mohou použít API k automatizaci scénářů, které jim mohou pomoci na jejich cestě.
+     Aspose.PSD for .NET podporuje nejen načítání formátů PSD a PSB souborů pro manipulaci a konverzi, ale také poskytuje možnost vytvářet soubory PSD a PSB od nuly.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Vytvořte PSD od nuly - C#
+      Vytvořit PSD od nuly - C#
      </h3>
      {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
     </div>
@@ -595,7 +596,7 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
      Různé zobrazovací filtry
     </h2>
     <p>
-     Aspose.PSD pro .NET poskytuje základní zobrazovací funkce, jako je úprava barev prostřednictvím knihoven tříd. Vývojáři mohou snadno upravit jas, kontrast nebo gamu na rastrovém obrázku načteném pomocí API. Kromě toho mohou vývojáři dynamicky rozkládat nebo rozmazávat obrázky a také používat oblíbené filtry včetně Median, Gauss Wiener, Motion Wiener a Bradley Threshold.
+     Aspose.PSD for .NET poskytuje základní zobrazovací funkce, jako je úprava barev prostřednictvím knihoven tříd. Vývojáři mohou snadno upravit jas, kontrast nebo gama na rastrovém obrazu načteném rozhraním API. Kromě toho mohou vývojáři dynamicky rozmazávat nebo rozmazávat obrázky a používat oblíbené filtry včetně Median, Gauss Wiener, Motion Wiener a Bradley Threshold.
     </p>
    </div>
   </div>
@@ -607,14 +608,15 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
 
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Vzdělávací zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/psd/net/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-psd/Aspose.PSD-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Reference API" href="https://apireference.aspose.com/net/psd" >}}
+{{< blocks/products/pf/slr-element name="Repozitář" href="https://repository.aspose.com/psd/" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Produktová podpora" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/psd" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/psd/" >}}
@@ -623,14 +625,14 @@ description: C# ASP.NET Knihovna Photoshopu VB.NET pro vytváření úprav a př
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.PSD pro .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Příběhy úspěšných" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Příběhy o úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nabízí jednotlivá PSD API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nabízí individuální PSD API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
 

@@ -2,6 +2,7 @@
 title: Стварайце, рэдагуйце або канвертуйце файлы PSD і PSB у PDF і фарматы малюнкаў
 weight: 310
 description: API высокага кода і бясплатныя праграмы для рэдагавання файлаў Photoshop. Магчымасць абнаўляць ўласцівасці пласта, дадаваць вадзяныя знакі, круціць маштаб. Перавярнуць абрэзку.
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -62,7 +63,7 @@ API Java для маніпулявання файламі Photoshop і Illustrat
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Што кажуць людзі" subTitle="Не паверце нам на слова. Паглядзіце, што карыстальнікі кажуць пра Aspose.PSD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Што кажуць людзі" subTitle="Не паверце нам на слова. Паглядзіце, што карыстальнікі кажуць пра Aspose.PSD." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

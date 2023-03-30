@@ -2,10 +2,11 @@
 title: .NET and Java Photoshop APIs | Parse PSD et PSB Files
 weight: 10
 description: Bibliothecam legere scribere et exportare PSD & PSB lima in multiplex suggestis. Stratis extrahendis et manipulatis sine Photoshop inauguratus est.
+url: family/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=" APIs Manipulare PSD, PSB & AI Tabularia" h2=".NET & Java APIs ad creandum, edit et convertendum Adobe Photoshop et Adobe Illustrator lima." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName=" Aspose.PSD" downloadUrl="https://downloads.aspose.com/psd/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1=" APIs Manipulare PSD, PSB & AI Tabularia" h2=".NET & Java APIs ad creandum, edit et convertendum Adobe Photoshop et Adobe Illustrator lima." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd.svg" pfName=" Aspose.PSD" downloadUrl="https://releases.aspose.com/psd/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=" Aspose.PSD High Code APIs Include" >}}
@@ -42,6 +43,6 @@ Iava APIs indigena pro desktop, tela vel aliqua applicatione innixa Java SE vel 
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

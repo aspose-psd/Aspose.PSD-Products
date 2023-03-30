@@ -1,19 +1,20 @@
 ---
-title: Java Photoshop API | Raščlamba PSD i PSB formata
+title: Java Photoshop API | PSD i PSB format raščlanjivanje
 weight: 270
-description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove biblioteke unutar bilo koje Java aplikacije bez potrebe za softverom Photoshop
+description: Stvorite izmjenu ili pretvorite PSD i PSB formate pomoću ove knjižnice unutar bilo koje Java aplikacije bez potrebe za Photoshop softverom
+url: java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java biblioteka za Photoshop datoteke" h2="Stvorite, učitajte, modificirajte i renderirajte formate PSD i PSB dokumenata iz Java aplikacija." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD" subTitlepfName="za Javu" downloadUrl="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java knjižnica za Photoshop datoteke" h2="Stvaranje, učitavanje, izmjena i renderiranje PSD i PSB formata dokumenata iz Java aplikacija." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-for-java.svg" pfName="Aspose.PSD " subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/psd/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.PSD" subTitlepfName="za Javu" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.PSD " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-psd" directDownloadLink="https://downloads.aspose.com/psd/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" liveDemosLink="https://products.aspose.app/psd/family" PricingLink="https://purchase.aspose.com/pricing/psd/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/psd/java/" installationsDocsLink="https://docs.aspose.com/psd/java/installation/" nugetLink="" nugetPackageName="Photoshop:" mavenRepoLink="https://repository.aspose.com/psd/" directDownloadLink="https://releases.aspose.com/psd/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.PSD za Javu je jednostavan za korištenje Adobe Photoshop API za manipulaciju formatom datoteke. Može jednostavno učitavati i čitati PSD, PSB i AI datoteke, što Java programerima omogućuje izvođenje operacija kao što su ažuriranje svojstava sloja, dodavanje vodenih žigova, kompresija, rotacija, skaliranje ili renderiranje jednog formata datoteke u drugi bez potrebe za instaliranjem Adobe Photoshopa. Formati slika poput JPEG, TIFF, GIF, PNG, BMP, JPEG2000 i lako se mogu otvoriti i dodati kao sloj sa samo nekoliko redaka koda. PSD, PSB & AI datoteke mogu se izvesti u navedeni format, te dodatno u PDF format
+ Aspose.PSD za Java je jednostavan za korištenje Adobe Photoshop format datoteke manipulacije API. Može lako učitati i čitati PSD, PSB i AI datoteke, što omogućuje programerima Java da izvode operacije poput ažuriranja svojstava sloja, dodavanja vodenih žigova, kompresije, rotacije, skaliranja ili prikazivanja jednog formata datoteke u drugi bez potrebe za instaliranjem Adobe Photoshopa. Formati slika poput JPEG, TIFF, GIF, PNG, BMP, JPEG2000 i lako se mogu otvoriti i dodati kao sloj sa samo nekoliko redaka koda. PSD, PSB i AI datoteke mogu se izvesti u navedeni format i dodatno u PDF format
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -28,17 +29,17 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
    <header>
     <i class="fa fa-bars">
     </i>
-    Značajke slikanja
+    Značajke snimanja
    </header>
    <ul>
     <li>
-     Zakreni ili preokreni
+     Zakrenite ili okrenite
     </li>
     <li>
-     Scale ili Crop
+     Skala ili obrezivanje
     </li>
     <li>
-     Dithering
+     odumiranje
     </li>
     <li>
      Čitanje ili pisanje Exif podataka
@@ -47,30 +48,30 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
      Matrične transformacije
     </li>
     <li>
-     Crtanje i popunjavanje oblika
+     Crtanje i punjenje oblika
     </li>
     <li>
-     Podesite svjetlinu, kontrast ili gamu
+     Podesite svjetlinu, kontrast ili gama
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    Značajke Photoshopa
+    Photoshop značajke
    </header>
    <ul>
     <li>
-     Stvaranje datoteke
+     Stvaranje datoteka
     </li>
     <li>
-     Učitavanje datoteke
+     Učitavanje datoteka
     </li>
     <li>
      Obrada sirovih podataka
     </li>
     <li>
-     RLE kompresija
+     Kompresija RLE
     </li>
     <li>
      Pretvorba u slike
@@ -79,19 +80,19 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
      Ispunite slojeve
     </li>
     <li>
-     Slojevi za prilagodbu
+     Slojevi za podešavanje
     </li>
     <li>
-     Efekti slojeva
+     Efekti sloja
     </li>
     <li>
-     Raster, vektor i maske za izrezivanje
+     Rasterske, vektorske i klipne maske
     </li>
     <li>
      Slojevi teksta
     </li>
     <li>
-     Većina slikovnih načina PSD/PSB datoteka
+     Većina načina slike PSD/PSB datoteka
     </li>
    </ul>
   </div>
@@ -99,7 +100,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API za obradu Java psd-a" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd API za obradu" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -117,7 +118,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Neovisnost platforme" description="API podržava aplikacije za stolna računala, web i konzole na platformama kao što su Windows, Linux/Unix, MacOS gdje je Java dostupna." >}}
+{{< blocks/products/pf/carousel-item h3="Neovisnost platforme" description="API podržava Desktop, Web i Console aplikacije na platformama kao što su Windows, Linux/Unix, macOS gdje je Java dostupna." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,7 +128,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime Environment
+    Java Runtime okruženje
    </header>
    <ul>
     <li>
@@ -137,7 +138,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
      Desktop aplikacije
     </li>
     <li>
-     Konzolne aplikacije
+     Aplikacije za konzole
     </li>
    </ul>
   </div>
@@ -145,7 +146,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API za obradu Java psd-a" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd API za obradu" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -163,12 +164,12 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podržani formati datoteka" description="Aspose.PSD za Javu [podržani formati datoteka](https://docs.aspose.com/psd/java/supported-file-formats/) navedeni su u nastavku." >}}
+{{< blocks/products/pf/carousel-item h3="Podržani formati datoteka" description="Aspose.PSD za Java [podržani formati datoteka](https://docs.aspose.com/psd/java/supported-file-formats/)  navedene su u nastavku." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Ulaz izlaz
+    Ulaz/izlaz
    </header>
    <ul>
     <li>
@@ -193,18 +194,18 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
     </li>
     <li>
      <b>
-      ostalo:
+      Ostalo:
      </b>
      PDF
     </li>
    </ul>
    <header>
-    Samo unos
+    Samo ulaz
    </header>
    <ul>
     <li>
      <b>
-      ilustrator:
+      Ilustrator:
      </b>
      AI
     </li>
@@ -214,7 +215,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg"/>
+  <img width="70" height="75" alt="Java psd API" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD
   </header>
@@ -242,7 +243,7 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Napredne značajke Photoshop Java API-ja
+    Napredne Photoshop Java API značajke
    </h2>
    <p>
     &amp;nbsp
@@ -258,14 +259,14 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Izradite Photoshop datoteku ispočetka</a>
+      <a href="https://docs.aspose.com/psd/net/drawing-images-using-graphics/#clear-the-surface">Stvorite Photoshop datoteku ispočetka</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Učitajte postojeće datoteke Photoshopa</a>
+      <a href="https://docs.aspose.com/psd/java/creating-opening-and-saving-images/#opening-image-files">Učitavanje postojećih Photoshop datoteka</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -286,35 +287,35 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/drawing-images/">Nacrtajte i ispunite osnovne oblike</a>
+      <a href="https://docs.aspose.com/psd/java/drawing-images/">Crtanje i ispunjavanje osnovnih oblika</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Izrežite, rotirajte i promijenite veličinu slika</a>
+      <a href="https://docs.aspose.com/psd/java/crop-rotate-and-resize-images/">Obrezivanje, rotiranje i promjena veličine slika</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/">Podrška za slojeve</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/">Podrška slojeva</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cubes ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Poravnavanje slojeva</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-flatten-layers">Ravnanje sloja</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Mogućnost izvoza pregleda PSD datoteke</a>
+      <a href="https://docs.aspose.com/psd/java/converting-psd-image-to-raster-format/">Sposobnost za izvoz PSD datoteke pregled</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -328,124 +329,124 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Otvaranje i izvoz PSD datoteka s nekom kombinacijom RGB, CMYK, LAB, Sivih tonova s ​​8/16/32 bita po kanalu.</a>
+      <a href="https://docs.aspose.com/psd/java/color-space-conversion-for-jpeg-through-icc-profiles/">Otvorite i izvozite PSD datoteke s nekom kombinacijom načina RGB, CMYK, LAB, Grayscale s 8/16/32 bita po kanalu.</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lightbulb-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Podrška za najčešće korištene efekte slojeva</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-layer-effects-for-psd">Podrška najčešće korištenih Layer Effects</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Sjenka sloja</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-drop-shadow-effect">Sjena sloja</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Vanjski/unutarnji/centralni udarni efekt</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/#stroke-effect-with-color-fill">Vanjski/unutar/središnji efekt moždanog udara</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Efekt sloja boje/uzorka/gradijenta</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Boja/uzorak/gradijent sloj efekt</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">Dodavanje i uređivanje slojeva teksta u vremenu izvođenja</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#support-of-text-layers-on-runtime">Dodavanje i uređivanje slojeva teksta u Runtime</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clone ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Slojevi za podešavanje kao što su svjetlina/kontrast, krivulje, nijansa/zasićenost, foto filtar i još mnogo toga</a>
+      <a href="https://docs.aspose.com/psd/java/layer-types/adjustment-layer/">Slojevi za podešavanje poput svjetline/kontrasta, krivulja, nijanse/zasićenja, foto filtra i još mnogo toga</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star-half-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/apply-masking/">Podrška za vektorske, rasterske, maske za izrezivanje i njihove kombinacije</a>
+      <a href="https://docs.aspose.com/psd/java/apply-masking/">Podrška Vector, Raster, Clipping Maske i njegove kombinacije</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Upravljajte neprozirnošću slojeva</a>
+      <a href="https://docs.aspose.com/psd/java/manipulating-photoshop-formats/#manage-opacity-of-layers">Upravljanje neprozirnošću slojeva</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th-large ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/supported-resources/">Podrška za veliki broj resursa slojeva</a>
+      <a href="https://docs.aspose.com/psd/java/supported-resources/">Podrška velikog broja Layer Resources</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ekstrakcija podataka iz Resursa odjeljka slika
+     Vađenje podataka iz resursa odjeljka slike
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Čitanje i uređivanje slojeva za popunjavanje</a>
+      <a href="https://docs.aspose.com/psd/java/support-of-fill-layers/">Čitanje i uređivanje Fill Layers</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Podrška za povezane slojeve</a>
+      <a href="https://docs.aspose.com/psd/java/working-with-layers/#support-of-linked-layers">Podrška povezanih slojeva</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clock-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ekstrahiranje datuma i vremena stvaranja sloja
+     Izvlačenje datuma i vremena stvaranja sloja
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sun-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Isticanje boje lista
+     Isticanje boja lista
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Najnovije PSD API značajke</h2>
+<h2 class="h2title">Latest PSD API Features</h2>
 
-<p>Aspose.PSD za .NET API neprestano dodaje više značajki kako bi bio moćan. Ovdje je popis nekoliko odabranih od najnovijih dodanih.</p>
+<p>Aspose.PSD for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
-<li>Podrška slojeva za popunjavanje. Uzorak, boja i Gradijentna ispuna</li>
+<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
 
-<li>Podrška za GdFlResource, VmskResource, PtFlResource i VsmsResource</li>
+<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
 
-<li>Učitajte JPEG/PNG/itd slikovne datoteke u PsdImage bez izravnog učitavanja</li>
+<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
 
-<li>Podrška za vektorske maske sloja i prilagođeno okretanje okretanjem sloja teksta</li>
+<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Renderiranje efekta poteza s ispunom bojom za izvoz</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -455,11 +456,11 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
      Pretvorite PSD datoteke u rasterske slike
     </h2>
     <p>
-     Aspose.PSD za Java knjižnicu podržava pretvaranje PSD datoteka u bilo koju od podržanih rasterskih slika, sa samo nekoliko redaka koda.
+     Aspose.PSD za Java knjižnica podržava pretvorbu PSD datoteka u bilo koju od podržanih rasterskih slika, sa samo nekoliko redaka koda.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Pretvorite PSD u BMP, GIF & JPEG - Java
+      Pretvorite PSD u BMP, GIF i JPEG - Java
      </h3>
      
 	{{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "convert-psd-to-bmp-gif-jpg.java" >}}
@@ -467,18 +468,18 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     S lakoćom manipulirajte slojevima Photoshopa
+     Jednostavno manipulirajte slojevima Photoshopa
     </h2>
     <p>
-     Manipulacija PSD slojevima kao što je spajanje slojeva, ažuriranje teksta na slojevima, postavljanje efekata ili izvoz sloja kao slike samo su neke od značajki manipulacije koje API pruža. Štoviše, može otkriti spljoštene PSD dokumente, kao i stvoriti minijature.
+     Manipulacija PSD slojevima poput spajanja slojeva, ažuriranja teksta na slojevima, postavljanja efekata ili izvoza sloja kao slike neke su od značajki manipulacije koje API pruža. Štoviše, može otkriti spljoštene PSD dokumente, kao i stvoriti minijature.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Izrežite, rotirajte i promijenite veličinu slika u pokretu
+     Obrezivanje, rotiranje i promjena veličine slika u pokretu
     </h2>
     <p>
-     Bilo koja značajka manipulacije slikama kao što je okretanje, izrezivanje, rotiranje i promjena veličine slike može se implementirati sa samo nekoliko redaka koda, npr. ispod isječka rotira sliku.
+     Svaka značajka manipulacije slikama poput okretanja, obrezivanja, rotiranja i promjene veličine slika može se implementirati sa samo nekoliko redaka koda, npr. Ispod isječka rotira sliku.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -487,14 +488,14 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
     {{< gist "aspose-com-gists" "2a8c10d2eeb5bcfa4e122a9d0bd969e3" "rotate-an-image.java" >}}
     </div>
     <p>
-     Nadalje, API nudi različite filtre za slike kao što su podešavanje kontrasta, svjetline ili gama na rasterskim slikama, zamagljivanje ili zamućenje slika, kao i najpoznatije filtre uključujući Gauss Wiener, Median, Bradley Threshold i Motion Wiener.
+     Nadalje, API pruža različite filtre za snimanje poput podešavanja kontrasta, svjetline ili gama na rasterskim slikama, odumiranja ili zamućivanja slika, kao i najpoznatijih filtera, uključujući Gauss Wiener, Median, Bradley Threshold i Motion Wiener.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
-<h2 class="h2title">Implementacija filtara slike</h2>
+<h2 class="h2title">Imaging Filters Implementation</h2>
 
-<p>Aspose.PSD za Javu pruža osnovne značajke slike kao što je podešavanje boja putem svojih biblioteka klasa. Programeri mogu jednostavno podesiti svjetlinu, kontrast ili gamu na rasterskoj slici koju učitava API. Nadalje, programeri mogu dinamički zamutiti ili zamutiti slike, kao i koristiti popularne filtere uključujući Median, Motion Wiener, Gauss Wiener i Bradley Threshold.</p>
+<p>Aspose.PSD for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Motion Wiener, Gauss Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -509,7 +510,8 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
 {{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/psd/java/" >}}
 {{< blocks/products/pf/slr-element name="Izvorni kod" href="https://github.com/aspose-psd/Aspose.PSD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API reference" href="https://apireference.aspose.com/java/psd" >}}
-{{< blocks/products/pf/slr-element name="Videozapisi s uputama" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Repozitorij" href="https://repository.aspose.com/psd/" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podrška za proizvod" tabId="support" >}}
@@ -519,14 +521,14 @@ description: Izradite modificirajte ili pretvorite PSD i PSB formate pomoću ove
 {{< blocks/products/pf/slr-element name="Napomene o izdanju" href="https://docs.aspose.com/psd/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Zašto Aspose.PSD za Javu?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Zašto Aspose.PSD za Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Popis kupaca" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Priče o uspjehu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/java" pricingInformationLink="https://purchase.aspose.com/pricing/psd/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD nudi pojedinačne PSD API-je za druga popularna razvojna okruženja kao što je navedeno u nastavku:" >}}
 

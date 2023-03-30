@@ -1,30 +1,58 @@
 ---
-title: Erstellen, bearbeiten oder konvertieren Sie PSD- und PSB-Dateien in PDF- und Bildformate
+title: PSD- und PSB-Dateien in PDF- und Bildformate erstellen, bearbeiten oder konvertieren
 weight: 310
-description: High Code APIs und kostenlose Apps zum Bearbeiten von Photoshop-Dateien. Möglichkeit zum Aktualisieren von Ebeneneigenschaften, Hinzufügen von Wasserzeichen, Drehen, Drehen, Drehen, Schneiden, Dithering, Rasterkonvertierung.
+description: High Code APIs und kostenlose Apps zum Bearbeiten von Photoshop-Dateien. Möglichkeit, Ebeneneigenschaften zu aktualisieren, Wasserzeichen hinzuzufügen, zu drehen, skalieren, Flip, Crop, Dithering, Raster Conversion.
+url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Adobe Photoshop-Dateiformatlösung" h2="High Code APIs und kostenlose Apps für PSD-, PSB- und AI-Dateiformate, ohne Abhängigkeit von Adobe Photoshop und Adobe Illustrator" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD-Produktlösung" >}}
+{{< blocks/products/pf/upper-banner h1="Adobe® Photoshop®-Dateiformatlösung" h2="High-Code-APIs und kostenlose Apps für PSD-, PSB- und AI-Dateiformate, ohne Abhängigkeit von Adobe Photoshop und Adobe Illustrator" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Produktlösung" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.PSD High Code APIs enthalten" >}}
+{{< blocks/products/pf/product-card-row title="Die Highcode-APIs von Aspose.PSD enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD für" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
-High-Code-APIs für die Bearbeitung von PSD-, PSB- und AI-Dateiformaten in Windows Forms, ASP.NET, WPF, WCF oder jeder Art von Anwendung, die auf .NET Framework 2.0 oder höher basiert.
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net" >}}
+High-Code-APIs für die Manipulation von PSD-, PSB- und AI-Dateiformaten in Windows Forms, ASP.NET, WPF, WCF oder jeder Art von Anwendung, die auf.NET Framework 2.0 oder höher basiert.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD für" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
-Java-APIs zum Bearbeiten von Photoshop- und Illustrator-Dateien. Erstellen, laden, ändern und rendern Sie PSD-, PSB- und KI-Formate in Java-basierten Anwendungen ohne Softwareabhängigkeiten.
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java" >}}
+Java-APIs zur Bearbeitung von Photoshop- und Illustrator-Dateien. Erstellen, laden, ändern und rendern Sie PSD-, PSB- und AI-Formate in Java-basierten Anwendungen ohne jegliche Softwareabhängigkeiten.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="family/" innerText="Alle High-Code-APIs anzeigen" >}}
+{{< blocks/products/pf/center-button href="family/" innerText="Alle High Code-APIs anzeigen" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.PSD Keine Code-Apps enthalten" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.PSD Integrierte Apps mit den Codebeispielen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD" title="Umwandlung" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Konvertieren" symbol="C" productLink="convert/" >}}
+Einfaches Widget zum Konvertieren von PSD in verschiedene Formate
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="iFrame-Konvertierung" symbol="iC" productLink="conversion/" >}}
+Mehrzweck-Konvertierungsanwendung, die auf iFrame-Einbettung basiert.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="PSD-Größe reduzieren" symbol="RS" productLink="reduce-size/" >}}
+Einfaches Widget zur Reduzierung der Größe von PSD-Dateien mithilfe undokumentierter Funktionen des PSD-Formats für die Komprimierung
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="PSD-Komprimierung" symbol="Cm" productLink="compress/" >}}
+Einfaches Widget zur Reduzierung der Größe von Dateien in jedem Format. Für die PSD-Komprimierung ist es besser, eine andere App zu verwenden.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Ansicht" symbol="V" productLink="view/" >}}
+Einfaches Widget zum Anzeigen von PSD-, PSB- und AI-Dateien
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/built-in-app-card pfName="Aspose.PSD" title="Kreisförmiger Zuschnitt" symbol="CC" productLink="crop/circle/" >}}
+Einfaches Widget zum Kornkreisbild.
+{{< /blocks/products/pf/product >}}
+									
+{{< /blocks/products/pf/product-card-row >}}										   
+{{< blocks/products/pf/product-card-row title="Aspose.PSD enthält keinen Code, den Apps enthalten" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PSD" title="Konvertierung" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/psd/conversion" >}}
 Kostenlose App mit Funktionen zum einfachen Konvertieren von Photoshop- und Illustrator-Dateien in Rasterbildformate.
 {{< /blocks/products/pf/product >}}
 
@@ -32,28 +60,28 @@ Kostenlose App mit Funktionen zum einfachen Konvertieren von Photoshop- und Illu
 Zeigen Sie Photoshop-Dateien im Bildformat online von überall und jeder Plattform an.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD" title="Auszug" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_extract-app.png" productLink="https://products.aspose.app/psd/extract" >}}
-Extrahieren und exportieren Sie Ebenen aus PSD-Dateien in PNG mit Transparenz. Online und kostenlos
+{{< blocks/products/pf/product pfName="Aspose.PSD" title="(Gojibeere)" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_extract-app.png" productLink="https://products.aspose.app/psd/extract" >}}
+Extrahieren und exportieren Sie Ebenen aus PSD-Dateien nach PNG mit Transparenz
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Komprimieren" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-compress-app.png" productLink="https://products.aspose.app/psd/compress" >}}
-Komprimieren Sie PSD-Dateien je nach Bedarf mit verlustfreien oder verlustbehafteten Methoden. Verschiedene PSD-Komprimierungsoptionen sind online und kostenlos verfügbar
+Komprimieren Sie PSD-Dateien mit Lossless- oder Lossy-Methoden nach Ihren Bedürfnissen. Verschiedene PSD-Komprimierungsoptionen sind online und kostenlos verfügbar
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Wasserzeichen" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-watermark-app.png" productLink="https://products.aspose.app/psd/watermark" >}}
-Fügen Sie den PSD-Dateien jeweils ein benutzerdefiniertes Bild- oder Textwasserzeichen hinzu. Zusätzliche Schutzoptionen wie Vektorrasterisierung sind online und kostenlos verfügbar.
+Fügen Sie den PSD-Dateien jeweils ein benutzerdefiniertes Bild oder ein Textwasserzeichen hinzu. Zusätzliche Schutzoptionen wie Vector Rasterization sind online und kostenlos verfügbar.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Fusion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-merger-app.png" productLink="https://products.aspose.app/psd/merger" >}}
-Führen Sie zwei oder mehr PSD-Dateien zu einer zusammen. Verwenden von Overlay oder einer anderen Art der Zusammenführung. Sie können Png, JPEG, Tiff, Gif auch als Ebene zu Ihrer Datei im PSD-Format zusammenführen oder hinzufügen. PSD Merging App online verfügbar und kostenlos.
+Füge zwei oder mehr PSD-Dateien zu einer zusammen. Verwenden von Overlay oder einer anderen Art der Zusammenführung. Sie können Ihrer Datei im PSD-Format auch Png, Jpeg, Tiff, Gif als Ebene zusammenführen oder hinzufügen. PSD Merging App online und kostenlos verfügbar.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Portfolio" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-portfolio-app.png" productLink="https://products.aspose.app/psd/create-portfolio" >}}
-Erstellen Sie schnell Designer-, Illustrator- oder Fotografen-Portfolios. Laden Sie einfach Ihre grafischen Arbeiten hoch, fügen Sie eine Beschreibung hinzu und erhalten Sie ein anpassbares Portfolio im PSD-Format mit oder ohne Foto. Schnelle Möglichkeit, ein Portfolio für ein bestimmtes Projekt auf jeder freiberuflichen Website zu erstellen. Sie können auch beliebige Bilder wie Psd, Png, JPEG, Tiff, Gif hochladen. Generieren Sie online und kostenlos ein ordentliches und schönes Portfolio.
+Erstellen Sie schnell ein Designer-, Illustrator- oder Fotografenportfolio. Laden Sie einfach Ihre grafischen Arbeiten hoch, fügen Sie eine Beschreibung hinzu und erhalten Sie ein anpassbares Portfolio im PSD-Format mit oder ohne Foto. Schnelle Möglichkeit, auf jeder freiberuflichen Website ein Portfolio für ein bestimmtes Projekt zu erstellen. Sie können auch beliebige Bilder wie Psd, Png, Jpeg, Tiff, Gif hochladen. Generieren Sie ein nettes und schönes Portfolio online und kostenlos.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.PSD" title="Vorlage" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_psd-template-app.png" productLink="https://products.aspose.app/psd/template-editor" >}}
-Schnelle und einfache App zum Aktualisieren von PSD Online. Text- und Ebenenaktualisierungen werden unterstützt.
+Schnelle und einfache App zum Online-Update von PSD. Text- und Ebenenaktualisierungen werden unterstützt.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/psd/family" innerText="Alle No-Code-Apps anzeigen" >}}
@@ -62,13 +90,13 @@ Schnelle und einfache App zum Aktualisieren von PSD Online. Text- und Ebenenaktu
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="Was die Leute sagen" subTitle="Glaube uns nicht einfach beim Wort. Sehen Sie, was Benutzer über Aspose.PSD zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="Was die Leute sagen" subTitle="Verlassen Sie sich nicht einfach auf uns. Lesen Sie, was Benutzer über Aspose.PSD zu sagen haben." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Während wir uns Aspose.PSD angesehen haben, haben wir uns auch andere Produkte angesehen, aber nachdem wir die kostenlose Testversion verwendet hatten, war klar, dass Aspose.PSD unsere Anforderungen erfüllte und schnell und einfach zu implementieren war, da ein funktionierender Prototyp innerhalb eines Tages fertig war. Dies wäre bei den anderen von uns in Betracht gezogenen Ansätzen nicht möglich gewesen, und die Zweckmäßigkeit des Projekts wurde durch die bereitgestellte Dokumentation erheblich unterstützt.
+ Während wir uns Aspose.PSD angeschaut haben, haben wir uns auch andere Produkte angesehen, aber nach der Nutzung der kostenlosen Testversion war klar, dass Aspose.PSD unseren Anforderungen entsprach und schnell und einfach zu implementieren war und innerhalb eines Tages ein funktionierender Prototyp fertig war. Dies wäre bei den anderen von uns in Betracht gezogenen Ansätzen nicht möglich gewesen, und die bereitgestellte Dokumentation trug wesentlich zur Zweckmäßigkeit des Projekts bei.
  <em>
-  Liam Dowen-Gould | Regency Hampers Ltd, England
+  Liam Dowen-Gould | Regency Hampers Ltd., Vereinigtes Königreich
  </em>
 </p>
 

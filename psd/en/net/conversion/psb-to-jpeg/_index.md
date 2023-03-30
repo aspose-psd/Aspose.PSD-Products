@@ -1,17 +1,17 @@
 ---
 title: Convert PSB to JPEG with C#
 description: Export PSD, PSB & AI file via .NET API
-url: /net/conversion/psb-to-jpeg/
 family: psd
 platformtag: net
 feature: conversion
 informat: PSB
 outformat: JPEG
 otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
+url: net/conversion/psb-to-jpeg/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert PSB to JPEG via C#" h2=".NET Photoshop API for PSD & PSB Conversion to raster images including JPEG">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert PSB to JPEG via C#" h2=".NET Photoshop API for PSD & PSB Conversion to raster images including JPEG" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -25,7 +25,7 @@ otherformats: BMP GIF JPEG2000 JP2 PDF PNG PSD TIFF
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Photoshop API" %}}
 Install from command line as ```nuget install Aspose.PSD``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.PSD```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for PSB to JPEG Conversion" gistPath="" %}}
