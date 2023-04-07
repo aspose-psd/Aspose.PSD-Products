@@ -16,11 +16,11 @@ url: tutorial/add-watermark/
 {{< blocks/products/pf/feature-page-section h2="Learn How To Create Text Watermark" >}}
 
 <p>
-In this tutorial, you'll learn how to create a text watermark using the Aspose.PSD library and add it to a PSD file. Watermarks are an essential element for protecting your images from unauthorized use or copying, and adding them to your PSD files is an easy way to ensure your work stays safe. With our step-by-step guide, you'll be able to create a custom text watermark and apply it to your PSD files in just a few easy steps.
+In this tutorial, you'll learn how to create a text <a href="https://products.aspose.app/psd/watermark">watermark</a> using the Aspose.PSD library and add it to a PSD file. Watermarks are an essential element for protecting your images from unauthorized use or copying, and adding them to your PSD files is an easy way to ensure your work stays safe. With our step-by-step guide, you'll be able to create a custom text watermark and apply it to your PSD files in just a few easy steps.
 </p>
 
 <p>
-We'll start by creating a simple text watermark using the Aspose.PSD library, and then we'll add it to a PSD file. You'll learn how to adjust the font, size, and color of the watermark, as well as how to position it in the image.
+We'll start by creating a simple text watermark using the <a href="https://www.nuget.org/packages/Aspose.PSD">Aspose.PSD library</a>, and then we'll add it to a PSD file. You'll learn how to adjust the font, size, and color of the watermark, as well as how to position it in the image.
 </p>
 
 <br>

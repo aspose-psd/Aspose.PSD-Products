@@ -12,12 +12,14 @@ url: tutorial/add-text-effects/
 {{< blocks/products/pf/feature-page-section h2="Learn How To Add Effects To TextLayer" >}}
 
 
+<a href="LINK">
+</a>
 <p>
-In this tutorial, we'll create a text layer in a PSD file and apply different effects to it, such as shadows and strokes. Text layers are a powerful feature of the PSD format, and adding effects to them can make your designs more visually appealing and attractive.
+In this tutorial, we'll create a text layer in a PSD file and apply different effects to it, such as <a href="https://docs.aspose.com/psd/net/shadow-effects-in-psd-file/">shadows</a> and <a href="https://docs.aspose.com/psd/net/stroke-effect-with-color-fill/">strokes</a>. <a href="https://reference.aspose.com/psd/net/aspose.psd.fileformats.psd.layers/textlayer/">Text layers</a> are a powerful feature of the PSD format, and adding effects to them can make your designs more visually appealing and attractive.
 </p>
 
 <p>
-We'll start by creating a new text layer using the Aspose.PSD library and customizing its font, size, and color. Then, we'll add a shadow effect to the text layer to give it depth and dimension. Finally, we'll add a stroke effect to the text layer to create a border around the text.
+We'll start by creating a new text layer using the <a href="https://www.nuget.org/packages/Aspose.PSD">Aspose.PSD library</a> and customizing its font, size, and color. Then, we'll add a shadow effect to the text layer to give it depth and dimension. Finally, we'll add a stroke effect to the text layer to create a border around the text.
 </p>
 
 <br>
