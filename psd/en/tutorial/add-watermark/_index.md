@@ -2,7 +2,7 @@
 title: Aspose.PSD Add Watermark
 weight: 7700
 limit: 
-description: Learn hot to add watermark by code.
+description: Learn how to add watermark by code.
 keywords: [watermark image, watermark photo, add watermark, watermark for psd, export psd, open photoshop file, psd file preview, watermark photoshop]
 url: tutorial/add-watermark/
 ---
@@ -27,6 +27,15 @@ We'll start by creating a simple text watermark using the Aspose.PSD library, an
 {{< psd/tutorial-widget sourcePath="psd/tutorial/examples/1_add_watermark" >}}
 <br>
 
+<br>
+<br>
+<div class="code-sample">
+    <ul class="link-list">
+        <li class="link-item"><a href="https://docs.aspose.com/psd/net/installation/">Installation of Aspose.PSD</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/psd/watermark">Free Online Watermark Maker</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/psd/net/working-with-text-layers/">Working With Text Layers</a></li>
+    </ul>
+</div>
 
 
 {{< /blocks/products/pf/feature-page-section >}}

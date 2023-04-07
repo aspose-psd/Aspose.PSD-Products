@@ -2,7 +2,7 @@
 title: Aspose.PSD Add Text Effects
 weight: 7700
 limit: 
-description: Learn hot to edit and export PSD file by code.
+description: Learn how to add text effects lesson.
 keywords: [text effects, text shadow, photoshop text effects, text stroke, open photoshop file, psd file export, text effect psd]
 url: tutorial/add-text-effects/
 ---
@@ -24,6 +24,15 @@ We'll start by creating a new text layer using the Aspose.PSD library and custom
 {{< psd/tutorial-widget sourcePath="psd/tutorial/examples/0_text_effects" >}}
 <br>
 
+<br>
+<br>
+<div class="code-sample">
+    <ul class="link-list">
+        <li class="link-item"><a href="https://docs.aspose.com/psd/net/installation/">Installation of Aspose.PSD</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/psd/net/working-with-text-layers/">Working With Text Layers</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/psd/editor/">PSD Editor</a></li>
+    </ul>
+</div>
 
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -2,7 +2,7 @@
 title: Aspose.PSD Features Tutorial
 weight: 7700
 limit: 
-description: Learn hot to edit and export PSD file by code.
+description: Learn how to edit and export PSD file by code.
 keywords: [text effects, psd editing, open psd file, psd file, psd to png, psd file format, PSD API, Aspose.PSD library, Aspose.PSD tutorial]
 url: tutorial/
 ---
@@ -31,12 +31,13 @@ imgSrc="psd/tutorial/examples/0_text_effects/images/5.png" >}}
 imgSrc="psd/tutorial/examples/1_add_watermark/images/5.png" >}}
 
 
-
-<!-- {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-
-"View AI files without Illustrator" "https://products.aspose.com/psd/view/" 
-"GIST Examples of viewing AI files using high-code API" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
-"Aspose Low-code app to view AI online" "https://products.aspose.app/psd/viewer/ai" >}} -->
+<div class="code-sample">
+    <ul class="link-list">
+        <li class="link-item"><a href="https://products.aspose.com/psd/view/">View PSD files without Photoshop</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/psd/net/features/">Documentation for Aspose.PSD features</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/psd/net/installation/">Installation of Aspose.PSD</a></li>
+    </ul>
+</div>
 
 
 {{< /blocks/products/pf/feature-page-section >}}
