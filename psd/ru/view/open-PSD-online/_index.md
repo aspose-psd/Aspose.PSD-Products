@@ -28,3 +28,4 @@ url: view/open-PSD-online/
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

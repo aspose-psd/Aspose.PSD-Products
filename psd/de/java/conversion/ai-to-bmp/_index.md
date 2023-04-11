@@ -125,3 +125,4 @@ Dateien mit der Erweiterung .BMP stehen für Bitmap-Bilddateien, die zum Speiche
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

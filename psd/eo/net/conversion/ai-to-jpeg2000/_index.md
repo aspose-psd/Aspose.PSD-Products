@@ -107,3 +107,4 @@ Dosiero kun etendo .ai estas Adobe Illustrator Artwork-dosiero kiu enhavas vekto
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

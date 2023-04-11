@@ -107,3 +107,4 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

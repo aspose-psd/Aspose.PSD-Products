@@ -126,3 +126,4 @@ JPEG هو نوع من تنسيق الصور يتم حفظه باستخدام ط�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

@@ -107,3 +107,4 @@ Brza i jednostavna aplikacija za ažuriranje PSD Online. Podržana su ažuriranj
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

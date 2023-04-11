@@ -107,3 +107,4 @@ Nopea ja yksinkertainen sovellus päivitys PSD verkossa. Teksti- ja tasopäivity
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

@@ -537,3 +537,4 @@ url: java/
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

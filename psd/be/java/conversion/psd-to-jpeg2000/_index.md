@@ -125,3 +125,4 @@ PSD, Photoshop Document, уяўляе сабой родны фармат фай�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

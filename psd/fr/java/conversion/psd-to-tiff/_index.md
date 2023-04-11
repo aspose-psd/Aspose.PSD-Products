@@ -142,3 +142,4 @@ Le format TIFF ou TIF, Tagged Image File Format, représente des images matricie
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

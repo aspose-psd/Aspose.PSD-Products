@@ -109,3 +109,4 @@ Photoshop και Illustrator File Manulation Library με τη δυνατότη�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

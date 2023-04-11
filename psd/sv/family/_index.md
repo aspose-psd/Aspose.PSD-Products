@@ -47,3 +47,4 @@ Native Java API: er för skrivbordet, webben eller någon form av applikation ba
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

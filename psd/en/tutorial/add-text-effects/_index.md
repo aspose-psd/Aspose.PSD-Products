@@ -22,12 +22,12 @@ In this tutorial, we'll create a text layer in a PSD file and apply different ef
 We'll start by creating a new text layer using the <a href="https://www.nuget.org/packages/Aspose.PSD">Aspose.PSD library</a> and customizing its font, size, and color. Then, we'll add a shadow effect to the text layer to give it depth and dimension. Finally, we'll add a stroke effect to the text layer to create a border around the text.
 </p>
 
-<br>
+<br />
 {{< psd/tutorial-widget sourcePath="psd/tutorial/examples/0_text_effects" >}}
-<br>
+<br />
 
-<br>
-<br>
+<br />
+<br />
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/psd/net/installation/">Installation of Aspose.PSD</a></li>
@@ -41,3 +41,4 @@ We'll start by creating a new text layer using the <a href="https://www.nuget.or
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

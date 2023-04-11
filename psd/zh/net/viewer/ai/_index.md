@@ -103,3 +103,4 @@ Aspose.PSD 是一个 Photoshop 格式操作 API。人们可以生成、修改和
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

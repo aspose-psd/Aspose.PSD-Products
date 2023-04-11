@@ -142,3 +142,4 @@ GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir gör�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

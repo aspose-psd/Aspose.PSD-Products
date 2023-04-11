@@ -43,3 +43,4 @@ Muuntaa PSD Images prosessi on lähes sama kuin PSD PDF, Lataa tiedosto Image.Lo
 
 {{< blocks/products/pf/feature-page-options pairs="psd-to-bmp psd-to-png psd-to-jpeg psd-to-tiff psd-to-gif psb-to-gif psb-to-tiff psb-to-jpeg psb-to-png psb-to-bmp" >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
+{{< psd/tize >}}

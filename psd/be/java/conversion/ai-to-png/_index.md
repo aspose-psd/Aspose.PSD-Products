@@ -125,3 +125,4 @@ PNG, Portable Network Graphics, адносіцца да тыпу файла ра
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

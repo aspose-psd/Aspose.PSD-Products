@@ -109,3 +109,4 @@ Adobe photoshop сохраняет файлы в двух форматах. Фа
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

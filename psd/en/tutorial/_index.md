@@ -20,14 +20,12 @@ At Aspose, we're committed to providing our customers with the best tools and re
 <p>
 So, whether you're a designer, developer, or just someone who needs to work with PSD files, our Aspose.PSD lessons are the perfect resource for you. Browse our tutorials today and start learning how to edit PSD files with ease!</p>
 
-<br>
-<br>
+<br />
+<br />
 
-{{< psd/tutorial-card link="tutorial/add-text-effects/" title="Add Text Effects"
-imgSrc="psd/tutorial/examples/0_text_effects/images/5.png" >}}
+{{< psd/tutorial-card link="tutorial/add-text-effects/" title="Add Text Effects" imgSrc="psd/tutorial/examples/0_text_effects/images/5.png" >}}
 
-{{< psd/tutorial-card link="tutorial/add-watermark/" title="Add Watermark"
-imgSrc="psd/tutorial/examples/1_add_watermark/images/5.png" >}}
+{{< psd/tutorial-card link="tutorial/add-watermark/" title="Add Watermark" imgSrc="psd/tutorial/examples/1_add_watermark/images/5.png" >}}
 
 
 <div class="code-sample">
@@ -44,3 +42,4 @@ imgSrc="psd/tutorial/examples/1_add_watermark/images/5.png" >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

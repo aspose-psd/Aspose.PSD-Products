@@ -126,3 +126,4 @@ JPEG เป็นรูปแบบภาพที่บันทึกไว้
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

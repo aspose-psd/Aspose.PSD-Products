@@ -142,3 +142,4 @@ Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimie
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

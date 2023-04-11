@@ -107,3 +107,4 @@ API Java για το χειρισμό αρχείων Photoshop και Illustrato
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

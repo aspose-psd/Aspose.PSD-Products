@@ -107,3 +107,4 @@ Adobe Photoshop 以两种格式保存文件。大小为 30,000 x 30,000 像素�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

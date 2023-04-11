@@ -142,3 +142,4 @@ url: java/conversion/psd-to-jpeg/
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

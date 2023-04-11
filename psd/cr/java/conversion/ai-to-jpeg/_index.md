@@ -126,3 +126,4 @@ JPEG je vrsta formata slike koja se sprema metodom kompresije s gubitkom. Izlazn
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

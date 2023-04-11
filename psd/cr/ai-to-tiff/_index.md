@@ -107,3 +107,4 @@ TIFF ili TIF, Tagged Image File Format, predstavlja rasterske slike koje su nami
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

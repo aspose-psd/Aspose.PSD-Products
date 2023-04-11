@@ -125,3 +125,4 @@ Los archivos con la extensión .BMP representan archivos de imágenes de mapa de
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

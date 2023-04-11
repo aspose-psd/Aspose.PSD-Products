@@ -125,3 +125,4 @@ Aspose.PSD فوٹوشاپ فارمیٹ ہیرا پھیری API ہے. ایک ای
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

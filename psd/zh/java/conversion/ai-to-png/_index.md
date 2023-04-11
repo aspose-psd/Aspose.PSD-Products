@@ -125,3 +125,4 @@ PNG，即便携式网络图形，是指一种使用无损压缩的光栅图像�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

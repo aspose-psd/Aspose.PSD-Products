@@ -125,3 +125,4 @@ Dosieroj havantaj etendon .BMP reprezentas Bitmap Image dosierojn kiuj estas uza
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

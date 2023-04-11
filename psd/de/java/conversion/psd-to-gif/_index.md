@@ -142,3 +142,4 @@ Ein GIF oder Graphical Interchange Format ist eine Art von stark komprimiertem B
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

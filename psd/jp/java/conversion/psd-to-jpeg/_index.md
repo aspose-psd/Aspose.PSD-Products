@@ -142,3 +142,4 @@ JPEG は、非可逆圧縮方式を使用して保存される画像形式の一
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

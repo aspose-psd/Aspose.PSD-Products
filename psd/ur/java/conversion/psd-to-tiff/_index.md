@@ -142,3 +142,4 @@ TIFF یا TIF، ٹیگ کردہ تصویری فائل فارمیٹ، ریسٹر 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

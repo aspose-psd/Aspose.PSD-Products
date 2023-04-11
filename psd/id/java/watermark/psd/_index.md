@@ -122,3 +122,4 @@ PSD, Photoshop Document, merupakan format file asli Adobe Photoshop yang digunak
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

@@ -107,3 +107,4 @@ Adobe Photoshop फ़ाइलों को दो स्वरूपों म
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

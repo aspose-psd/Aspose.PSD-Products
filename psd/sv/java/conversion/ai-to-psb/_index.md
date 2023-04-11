@@ -125,3 +125,4 @@ Adobe Photoshop sparar filer i två format. Filer med 30.000 x 30.000 pixlar i s
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

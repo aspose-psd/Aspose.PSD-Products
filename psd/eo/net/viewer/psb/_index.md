@@ -109,3 +109,4 @@ Adobe Photoshop konservas dosierojn en du formatoj. Dosieroj havantaj 30,000 je 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

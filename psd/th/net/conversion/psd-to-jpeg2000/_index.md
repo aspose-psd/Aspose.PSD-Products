@@ -113,3 +113,4 @@ PSD, Photoshop Document, แสดงถึงรูปแบบไฟล์พ�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

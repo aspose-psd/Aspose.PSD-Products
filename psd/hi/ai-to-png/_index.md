@@ -107,3 +107,4 @@ PNG, पोर्टेबल नेटवर्क ग्राफ़िक्�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

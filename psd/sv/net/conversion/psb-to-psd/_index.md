@@ -119,3 +119,4 @@ PSD, Photoshop Document, representerar Adobe Photoshop ursprungliga filformat so
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}
