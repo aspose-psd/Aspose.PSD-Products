@@ -107,3 +107,4 @@ TIFF или TIF, Tagged Image File Format, представляет собой �
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

@@ -125,3 +125,4 @@ Un file con estensione .ai è un file Adobe Illustrator Artwork che contiene gra
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

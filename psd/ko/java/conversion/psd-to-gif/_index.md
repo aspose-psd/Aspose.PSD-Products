@@ -142,3 +142,4 @@ GIF 또는 그래픽 교환 형식은 압축률이 높은 이미지 유형입니
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

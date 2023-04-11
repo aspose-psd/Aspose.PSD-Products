@@ -38,3 +38,4 @@ Alternativno, nabavite izvanmrežni MSI instalacijski program ili DLL-ove u ZIP 
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

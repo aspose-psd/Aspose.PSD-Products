@@ -114,3 +114,4 @@ PSD, Photoshop Document, edustaa Adobe Photoshopin alkuperäistä tiedostomuotoa
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

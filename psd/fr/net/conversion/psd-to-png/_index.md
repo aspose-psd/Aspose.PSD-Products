@@ -38,3 +38,4 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

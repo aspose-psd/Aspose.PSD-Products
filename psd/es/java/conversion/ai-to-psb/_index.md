@@ -125,3 +125,4 @@ Adobe photoshop guarda los archivos en dos formatos. Los archivos con un tamaño
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

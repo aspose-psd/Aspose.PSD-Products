@@ -107,3 +107,4 @@ Adobe Photoshop menyimpan file dalam dua format. File yang memiliki ukuran 30.00
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

@@ -107,3 +107,4 @@ Schnelle und einfache App zum Online-Update von PSD. Text- und Ebenenaktualisier
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

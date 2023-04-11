@@ -47,3 +47,4 @@ Masaüstü, web veya Java SE veya EE tabanlı her türlü uygulama için yerel J
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

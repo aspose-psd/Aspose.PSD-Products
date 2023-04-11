@@ -142,3 +142,4 @@ JPEG 是一种使用有损压缩方法保存的图像格式。由于压缩，输
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

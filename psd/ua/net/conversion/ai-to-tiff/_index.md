@@ -107,3 +107,4 @@ TIFF або TIF, Tagged Image File Format, представляє растров
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

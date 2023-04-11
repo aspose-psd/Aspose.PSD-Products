@@ -125,3 +125,4 @@ TIFF ή TIF, Tagged Image File Format, αντιπροσωπεύει εικόνε
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

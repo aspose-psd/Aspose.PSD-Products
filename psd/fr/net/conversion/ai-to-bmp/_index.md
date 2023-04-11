@@ -107,3 +107,4 @@ Les fichiers portant l'extension .BMP représentent des fichiers image bitmap ut
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

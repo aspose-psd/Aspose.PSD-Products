@@ -43,3 +43,4 @@ PSD를 이미지로 변환하는 과정은 PSD를 PDF로 변환하는 과정과 
 
 {{< blocks/products/pf/feature-page-options pairs="psd-to-bmp psd-to-png psd-to-jpeg psd-to-tiff psd-to-gif psb-to-gif psb-to-tiff psb-to-jpeg psb-to-png psb-to-bmp" >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
+{{< psd/tize >}}

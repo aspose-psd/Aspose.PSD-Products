@@ -126,3 +126,4 @@ Un JPEG est un type de format d'image enregistré à l'aide de la méthode de co
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

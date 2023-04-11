@@ -142,3 +142,4 @@ JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové k
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

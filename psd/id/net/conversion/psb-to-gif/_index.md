@@ -38,3 +38,4 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [mengunduh](h
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

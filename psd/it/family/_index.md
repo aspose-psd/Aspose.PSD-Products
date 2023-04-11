@@ -47,3 +47,4 @@ API Java native per desktop, web o qualsiasi tipo di applicazione basata su Java
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

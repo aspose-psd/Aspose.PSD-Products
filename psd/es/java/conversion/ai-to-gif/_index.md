@@ -125,3 +125,4 @@ Un formato GIF o de intercambio gráfico es un tipo de imagen altamente comprimi
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

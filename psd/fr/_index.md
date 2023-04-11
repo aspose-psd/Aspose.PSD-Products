@@ -107,3 +107,4 @@ Application simple et rapide pour mettre à jour PSD en ligne. Les mises à jour
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

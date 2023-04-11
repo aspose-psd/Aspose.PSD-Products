@@ -125,3 +125,4 @@ PNG, Portable Network Graphics, относится к формату файло�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

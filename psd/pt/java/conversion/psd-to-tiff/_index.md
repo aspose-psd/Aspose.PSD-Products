@@ -142,3 +142,4 @@ TIFF ou TIF, Tagged Image File Format, representa imagens rasterizadas destinada
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

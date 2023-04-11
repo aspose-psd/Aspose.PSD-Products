@@ -107,3 +107,4 @@ PNG, Portable Network Graphics, refers to a type of raster image file format tha
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

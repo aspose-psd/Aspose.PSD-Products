@@ -107,3 +107,4 @@ PSD, Photoshop Document, représente le format de fichier natif d'Adobe Photosho
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

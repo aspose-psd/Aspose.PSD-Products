@@ -107,3 +107,4 @@ Cepat dan Sederhana App untuk Update PSD online. Pembaruan Teks dan Lapisan didu
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

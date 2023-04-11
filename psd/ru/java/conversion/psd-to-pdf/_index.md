@@ -142,3 +142,4 @@ PSD, Photoshop Document, представляет собственный фор�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

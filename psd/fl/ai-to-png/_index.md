@@ -107,3 +107,4 @@ PNG, Portable Network Graphics, viittaa rasterikuvatiedostomuotoon, joka k√§ytt√
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

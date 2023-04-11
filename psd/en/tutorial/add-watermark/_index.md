@@ -23,12 +23,12 @@ In this tutorial, you'll learn how to create a text <a href="https://products.as
 We'll start by creating a simple text watermark using the <a href="https://www.nuget.org/packages/Aspose.PSD">Aspose.PSD library</a>, and then we'll add it to a PSD file. You'll learn how to adjust the font, size, and color of the watermark, as well as how to position it in the image.
 </p>
 
-<br>
+<br />
 {{< psd/tutorial-widget sourcePath="psd/tutorial/examples/1_add_watermark" >}}
-<br>
+<br />
 
-<br>
-<br>
+<br />
+<br />
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/psd/net/installation/">Installation of Aspose.PSD</a></li>
@@ -43,3 +43,4 @@ We'll start by creating a simple text watermark using the <a href="https://www.n
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

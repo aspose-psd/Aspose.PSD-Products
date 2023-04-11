@@ -125,3 +125,4 @@ PSD，Photoshop 文档，代表了 Adobe Photoshop 用于图形设计和开发�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

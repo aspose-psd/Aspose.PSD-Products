@@ -125,3 +125,4 @@ Formát GIF nebo Graphical Interchange Format je typ vysoce komprimovaného obra
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

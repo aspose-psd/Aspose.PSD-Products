@@ -38,3 +38,4 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosya
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

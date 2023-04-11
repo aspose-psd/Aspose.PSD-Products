@@ -107,3 +107,4 @@ PSD, Photoshop Document, reprezentas la indiĝenan dosierformaton de Adobe Photo
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

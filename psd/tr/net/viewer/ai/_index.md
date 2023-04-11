@@ -103,3 +103,4 @@ Aspose.PSD bir Photoshop biçimi işleme API'sidir. Adobe Photoshop ve Illustrat
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

@@ -142,3 +142,4 @@ TIFF veya TIF, Etiketli Resim Dosyası Biçimi, bu dosya biçimi standardına uy
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

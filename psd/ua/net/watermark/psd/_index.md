@@ -114,3 +114,4 @@ PSD, Photoshop Document, представляє власний файл Adobe Ph
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

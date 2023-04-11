@@ -142,3 +142,4 @@ Portable Document Format (PDF) je vrsta dokumenta koji je Adobe stvorio još 199
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

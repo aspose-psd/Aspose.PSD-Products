@@ -107,3 +107,4 @@ A file with an .ai extension is an Adobe Illustrator Artwork file that contains 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

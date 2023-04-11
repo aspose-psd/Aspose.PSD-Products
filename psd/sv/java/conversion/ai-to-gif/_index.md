@@ -125,3 +125,4 @@ Ett GIF- eller grafiskt utbytesformat är en typ av mycket komprimerad bild. Äg
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

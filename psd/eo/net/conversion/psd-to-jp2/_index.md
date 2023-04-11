@@ -38,3 +38,4 @@ Alternative, ricevu la senkonektan MSI-instalilon aŭ DLL-ojn en ZIP-dosiero de 
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

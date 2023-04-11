@@ -125,3 +125,4 @@ Uzantısına sahip dosyalar bitmap dijital görüntüleri depolamak için kullan
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

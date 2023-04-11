@@ -142,3 +142,4 @@ PNG, Retiacula Portable Graphica, refertur ad typum rasterii imaginis formati qu
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

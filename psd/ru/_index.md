@@ -107,3 +107,4 @@ API Java для управления файлами Photoshop и Illustrator. С
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< psd/tize >}}

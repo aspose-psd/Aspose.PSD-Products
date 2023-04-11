@@ -107,3 +107,4 @@ File dengan ekstensi.ai adalah file Adobe Illustrator Artwork yang berisi grafik
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

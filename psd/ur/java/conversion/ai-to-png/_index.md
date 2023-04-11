@@ -125,3 +125,4 @@ PNG، پورٹیبل نیٹ ورک گرافکس، سے مراد ریسٹر تص�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}

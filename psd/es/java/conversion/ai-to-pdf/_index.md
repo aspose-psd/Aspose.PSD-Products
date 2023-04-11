@@ -125,3 +125,4 @@ El formato de documento portátil (PDF) es un tipo de documento creado por Adobe
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+{{< psd/tize >}}
