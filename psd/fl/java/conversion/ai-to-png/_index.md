@@ -1,6 +1,6 @@
 ---
-title: Muunna AI PNG: ksi Java
-description: Näyte Java muuntaminen koodi AI-muodossa PNG-tiedostoon. Tämän esimerkkikoodin avulla voit muuntaa tekoälyn PNG: ksi missä tahansa Web- tai Desktop Java-pohjaisessa
+title: Muunna AI PNG| ksi Java
+description: Näyte Java muuntaminen koodi AI-muodossa PNG-tiedostoon. Tämän esimerkkikoodin avulla voit muuntaa tekoälyn PNG| ksi missä tahansa Web- tai Desktop Java-pohjaisessa
 url: java/conversion/ai-to-png/
 ---
 

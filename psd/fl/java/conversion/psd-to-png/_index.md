@@ -1,5 +1,5 @@
 ---
-title: Muunna PSD PNG: ksi Javan kautta
+title: Muunna PSD PNG| ksi Javan kautta
 weight: 80
 description: Näyte Java muuntaminen koodi PSD muodossa PNG-tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD PNG-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa.
 url: java/conversion/psd-to-png/

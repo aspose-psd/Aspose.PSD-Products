@@ -23,9 +23,9 @@ url: psd-to-gif/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Kom igång med .NET Photoshop API" %}}
-Installera från kommandoraden som ```nuget install Aspose.PSD``` eller via Package Manager-konsolen i Visual Studio med ```Install-Package Aspose.PSD```
+Installera från kommandoraden som ```nuget install Aspose.PSD``` eller via Package Manager-konsolen i Visual Studio med ```Install-Package Aspose.PSD```.
 
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [nedladdningar](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [nedladdningar](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kod för PSD till GIF-konvertering" gistPath="" %}}

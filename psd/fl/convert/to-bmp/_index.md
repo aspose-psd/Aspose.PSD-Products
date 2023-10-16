@@ -2,7 +2,7 @@
 title: Muunna PSD → BMP
 weight: 7730
 limit: 
-description: Muunna Adobe PhotoShop PSD -tiedostot BMP: ksi
+description: Muunna Adobe PhotoShop PSD -tiedostot BMP| ksi
 keywords: [convert psd to bmp, psd to bmp, conversion to bmp, create bmp from psd, print psd as bmp]
 url: convert/to-bmp/
 ---

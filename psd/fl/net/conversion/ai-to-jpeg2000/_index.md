@@ -1,5 +1,5 @@
 ---
-title: Muunna AI JPEG2000: ksi C#: n kautta
+title: Muunna AI JPEG2000| ksi C#| n kautta
 description: Näyte koodi AI JPEG2000 C# muuntaminen. Käytä API-esimerkkikoodia erän AI-tiedostoille JPEG2000-muuntamiseen VB.NET-, ASP.net- tai missä tahansa .NET-pohjaisessa sovelluksessa.
 url: net/conversion/ai-to-jpeg2000/
 ---
