@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="Безкоштовний онлайн-додаток для перегляду PSD, PSB або AI формату онлайн" >}}
 <p>Можливість перегляду psd онлайн є популярним сервісом, який може допомогти вам заощадити час і гроші. Щоб відкрити файли PSD, вам не потрібен Adobe Photoshop. Вбудований додаток забезпечує піксель ідеальний вид PSD</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "Підручник, як відкрити PSD файли без Photoshop" "https://products.aspose.com/psd/net/viewer/" 
 "Зразки коду для перегляду PSD як PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 

@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" "Примеры кода для конвертации PSD в другие форматы в Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "Бесплатное веб-приложение для конвертации изображений PSD, PSB и AI в Png, Pdf, Jpg, Tif, Pdf, Gif и другие форматы" "https://products.aspose.app/psd/conversion" >}}
 <br />
 <p>Функция конвертации Aspose.PSD готова к работе в облаке и может использоваться на серверах Windows, Linux и Mac. Локальное решение PSD Convert доступно для Java и последней версии .Net, а также для .Net Framework 2.0 +</p>

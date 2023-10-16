@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Uzorci koda za gledanje PSD-a kao PNG"  "https://docs.aspose.com/psd/net/" 
 "Low-code PSD Editor s većom veličinom radnog prostora" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor koristi obradu datoteka na strani poslužitelja. Aspose.PSD je jedan od rijetkih proizvoda koji se mogu koristiti za stvaranje softvera za uređivanje PSD-a. Podržava i čitanje PSD resursa, kao i renderiranje ažuriranih entiteta PSD datoteka. Ovaj PSD Editor čini PSD Text Layer vrlo blizu originalnog Adobe Photoshop Text Engine. Također možete stvoriti novi PSD sloj s ovim uređivačem i ažurirati ga pomoću Brush Operations. Ažuriranje PSD-a može se obraditi s bilo kojeg uređaja i OS-a. Softver za obradu PSD-a obično podržava samo gledanje PSD resursa datoteka poput EXIF podataka, vremena stvaranja sloja, ali Aspose.PSD može uređivati PSD datoteke u mnogim slučajevima, uključujući slojeve za podešavanje, slojeve ispune, slojeve teksta, pametni objekt. Ako vam značajke PSD Editora nisu dovoljne, provjerite samostalno rješenje na prostoru <a href="/psd/{{< lang-code >}}java">PSD Java</a> i najnoviju verziju <a href="/psd/{{< lang-code >}}net">PSD .Net</a> kao i .Net Framework 2.0 +</p>

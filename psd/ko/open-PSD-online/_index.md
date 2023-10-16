@@ -20,6 +20,15 @@ url: open-PSD-online/
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+`    public static void convertPSDtoPNG(String sourceFileName) {
+    try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+        image.save(sourceFileName + ".png", new PngOptions() {
+        {
+            setColorType(PngColorType.TruecolorWithAlpha);
+        }
+    });
+    }
+    }` 
 "포토샵 없이 PSD 파일을 여는 방법에 대한 튜토리얼" "https://products.aspose.com/psd/net/viewer/" 
 "Gists에서 PSD 파일을 여는 예" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
 "PSD를 온라인으로 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer" >}}

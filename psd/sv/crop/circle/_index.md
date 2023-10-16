@@ -7,7 +7,7 @@ keywords: [crop circle, crop circle image, crop image to circle, make circle pho
 url: crop/circle/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Adobe Photoshop-filformatlösning" h2="High Code API: er och gratisappar för PSD, PSB med möjlighet att beskära bilder till cirkel, ellips och andra figurer" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Produktlösning" >}}
+{{< blocks/products/pf/upper-banner h1="Adobe Photoshop-filformatlösning" h2="High Code API: er och gratisappar för PSD, PSB med möjlighet att beskära bild till cirkel, ellips och andra figurer" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Produktlösning" >}}
 
 {{< blocks/products/pf/main-container >}}
 
@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>Aspose.PSD Crop by Circle använder high-code API. Beskärningsfunktionerna är tillgängliga i Aspose.PSD Solution för Java och .Net. Du kan använda Aspose.PSD för att beskära bilder till vilken figur du vill, den här appen visar bara gröda cirkelfunktioner. Om du vill craete din egen gröda lösning, kontrollera Aspose.PSD det kan användas på Back-end av din webbtjänst och beskära till cirkel bild</p>

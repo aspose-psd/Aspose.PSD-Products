@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Kodprover för visning PSD som PNG"  "https://docs.aspose.com/psd/net/" 
 "Låg kod PSD Editor med en större storlek på arbetsytan" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor använder serversidan bearbetning av filer. Aspose.PSD är en av de få produkter som kan användas för att skapa PSD redigeringsprogram. Den stöder både läsning av PSD-resurser samt rendering av uppdaterade PSD-filer enheter. Denna PSD Editor gör PSD Text Layer mycket nära den ursprungliga Adobe Photoshop Text Engine. Du kan också skapa ett nytt PSD-lager med den här redigeraren och uppdatera den med penseloperationer. Uppdatering av PSD kan behandlas från alla enheter och operativsystem. PSD bearbetning programvara stöder vanligtvis endast visning av PSD File Resources som EXIF data, tid för Layer Creation, men Aspose.PSD kan redigera PSD-filer i många fall, inklusive justeringslager, fyllningslager, textlager, smart objekt. Om funktionerna i PSD Editor är inte tillräckligt för dig kontrollera fristående på plats lösning för <a href="/psd/{{< lang-code >}}java">PSD Java</a> och den senaste versionen av <a href="/psd/{{< lang-code >}}net">PSD</a> såväl som.Net Framework 2.0 +</p>

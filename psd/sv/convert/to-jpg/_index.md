@@ -18,6 +18,13 @@ url: convert/to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
+`    public static void saveJpgFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+        }
+    }` 
 		"jpg" 
 "Konvertera exempel från PSD till JPG med Aspose.PSD high-code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Ansökan om att konvertera PSD-filer till JPEG" "https://products.aspose.app/psd/conversion/psd-to-jpg" 

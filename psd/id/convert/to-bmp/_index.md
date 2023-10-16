@@ -18,6 +18,11 @@ url: convert/to-bmp/
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
     }` 
+`    public static void saveBmpFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".bmp", new BmpOptions());
+        }
+    }` 
 	"bmp" 
 "Mengkonversi contoh dari PSD ke BMP dapat menggunakan Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Konversikan file PSD Anda ke BMP online" "https://products.aspose.app/psd/conversion/psd-to-bmp" 

@@ -89,7 +89,7 @@ url: java/
      Raster, Vektör ve Kırpma Maskeleri
     </li>
     <li>
-     Metin Katmanları
+     Metin katmanları
     </li>
     <li>
      PSD/PSB dosyalarının çoğu görüntü modları
@@ -100,14 +100,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd İşleme API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java psd İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
-     için
+      
+    için
+      
     </em>
     Java
    </small>
@@ -146,14 +148,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd İşleme API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java psd İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
-     için
+      
+    için
+      
     </em>
     Java
    </small>
@@ -215,14 +219,16 @@ url: java/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java psd API'sı" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
+  <img width="70" height="75" alt=“Java psd API'sı” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" />
   <header>
    Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
-     için
+      
+    için
+      
     </em>
     Java
    </small>

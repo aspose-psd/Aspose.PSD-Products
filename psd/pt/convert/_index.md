@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" 
 "Amostras de código para conversão PSD para outros formatos em Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Aplicativo web gratuito para converter suas imagens PSD, PSB e AI em Png, Pdf, Jpg, Tif, Pdf, Gif e outros formatos" "https://products.aspose.app/psd/conversion" >}}

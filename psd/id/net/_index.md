@@ -121,7 +121,7 @@ url: net/
      Masker Raster, Vektor, dan Kliping
     </li>
     <li>
-     Lapisan Teks
+     Lapisan teks
     </li>
     <li>
      Sebagian besar PSD/PSB file mode gambar
@@ -139,7 +139,9 @@ url: net/
   <footer>
    <small>
     <em>
-     untuk
+      
+    untuk
+      
     </em>
     .NET
    </small>
@@ -190,7 +192,9 @@ url: net/
   <footer>
    <small>
     <em>
-     untuk
+      
+    untuk
+      
     </em>
     .NET
    </small>
@@ -259,7 +263,9 @@ url: net/
   <footer>
    <small>
     <em>
-     untuk
+      
+    untuk
+      
     </em>
     .NET
    </small>

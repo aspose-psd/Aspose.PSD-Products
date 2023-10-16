@@ -135,7 +135,95 @@ url: compress/
             image.Save(stream, new PsdOptions(image));
 
             return stream;
-        }` 
+        }` 		
+		`    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }` 
 "Esempi di codice per la compressione dei file PSD sono disponibili nel repository ufficiale di Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Applicazione Web per comprimere PSD e PSB" "https://products.aspose.app/psd/compress" >}}
 <p>Le funzionalità di compressione di Aspose.PSD utilizzano l'API high-code. La soluzione Compress PSD è disponibile in Java e .Net. È possibile utilizzare Aspose.PSD per la compressione o altre attività sul back-end del servizio Web.</p>

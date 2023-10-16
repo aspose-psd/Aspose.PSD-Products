@@ -1,7 +1,7 @@
 ---
 title: Skapa, redigera eller konvertera PSD & SB-filer till PDF & bildformat
 weight: 310
-description: On Premise APIer och gratisappar för att redigera Adobe® Photoshop®-filer. Möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar, rotera, skala, Vänd, Beskär, Dithering, Raster Conversion.
+description: On Premise API:er och gratisappar för att redigera Adobe® Photoshop®-filer. Möjlighet att uppdatera lageregenskaper, lägga till vattenstämplar, rotera, skala, Vänd, Beskär, Dithering, Raster Conversion.
 url: /
 ---
 

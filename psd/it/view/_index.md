@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="App online gratuita per visualizzare online i formati PSD, PSB o AI" >}}
 <p>La possibilità di visualizzare psd online è un servizio popolare, che può aiutarti a risparmiare tempo e denaro. Non è necessario Adobe Photoshop per aprire i file PSD. L'app integrata offre una visualizzazione PSD perfetta per i pixel</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "Tutorial su come aprire file PSD senza Photoshop" "https://products.aspose.com/psd/net/viewer/" 
 "Esempi di codice per visualizzare PSD come PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 

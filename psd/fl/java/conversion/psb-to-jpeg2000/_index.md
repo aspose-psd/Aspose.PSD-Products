@@ -1,6 +1,6 @@
 ---
-title: Muunna PSB JPEG2000 ksi Java-ohjelman kautta
-description: Näyte Java muuntaminen koodi PSB muodossa JPEG2000 tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSBn JPEG2000ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
+title: Muunna PSB JPEG2000: ksi Java-ohjelman kautta
+description: Näyte Java muuntaminen koodi PSB muodossa JPEG2000 tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB:n JPEG2000:ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-jpeg2000/
 ---
 
@@ -55,8 +55,8 @@ Jotta PSB voidaan tehdä JPEG2000: lle, käytämme <a href="/psd/{{< lang-code >
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSB-tiedosto
-- Luo esiintymä [Jpeg2000Vaihtoehdot luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Käytä Image.save (String, Jpeg2000Options) menetelmä muuntamiseen.
+- Luo esiintymä [Jpeg2000Vaihtoehdot luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

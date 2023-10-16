@@ -18,6 +18,23 @@ url: view/psd-file-viewer/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
+    }` `    public static void convertReadOnlyPSBtoJpeg(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".jpg", new JpegOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+
+        }
     }` 
 "보기 위해 PSD 파일을 다른 형식으로 내보내기" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
 "GIST 자바에서 하이 코드 API를 사용하여 다른 형식의 PSD 파일을 보는 예제" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 

@@ -18,6 +18,13 @@ url: convert/to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`    public static void savePngFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 	"png" 
 "PSD'den PNG'ye dönüştürme örneği Aspose.PSD kullanarak yapabilirsiniz"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Ücretsiz web uygulaması PSD dosyaları dönüştürmek PNG ve diğer birçok biçimleri" "https://products.aspose.app/psd/conversion" 

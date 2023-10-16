@@ -7,7 +7,7 @@ keywords: [crop circle, crop circle image, crop image to circle, make circle pho
 url: crop/circle/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="حل تنسيق ملفات أدوبي فوتوشوب" h2="واجهات برمجة التطبيقات عالية الكود والتطبيقات المجانية لـ PSD و PSB مع القدرة على قص الصور إلى الدائرة والقطع الناقص والأشكال الأخرى" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="حل منتج Aspose.PSD" >}}
+{{< blocks/products/pf/upper-banner h1="حل تنسيق ملفات أدوبي فوتوشوب" h2="واجهات برمجة التطبيقات عالية الكود والتطبيقات المجانية لـ PSD و PSB مع القدرة على قص الصورة إلى الدائرة والقطع الناقص والأشكال الأخرى" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="حل منتج Aspose.PSD" >}}
 
 {{< blocks/products/pf/main-container >}}
 
@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>يستخدم Aspose.PSD Crop by Circle واجهة برمجة التطبيقات عالية الكود. تتوفر ميزات الاقتصاص في حل Aspose.PSD لجافا و.Net. يمكنك استخدام Aspose.PSD لقص الصور إلى أي شكل تريده، ويعرض هذا التطبيق ميزات دائرة الاقتصاص فقط. إذا كنت ترغب في إنشاء حل المحاصيل الخاص بك، فيرجى التحقق من Aspose.PSD حيث يمكن استخدامه على الواجهة الخلفية لخدمة الويب الخاصة بك واقتصاص الصورة إلى دائرة</p>

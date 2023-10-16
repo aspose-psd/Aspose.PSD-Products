@@ -49,6 +49,34 @@ url: editor/psb/
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
 	}` 
+	` public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psb")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psb");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "PSB를 PNG로 보기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/" 
 "PSB를 다른 형식으로 변환"  "/psd/convert" 
 "더 큰 작업 공간을 갖춘 로우 코드 PSB 에디터" "https://products.aspose.app/psd/editor/psb" 

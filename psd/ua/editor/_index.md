@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Зразки коду для перегляду PSD як PNG"  "https://docs.aspose.com/psd/net/" 
 "Low-Code PSD редактор з великим розміром робочого простору" "https://products.aspose.app/psd/editor/" >}}
 <p>Редактор PSD використовує обробку файлів на стороні сервера <a href="/psd/{{< lang-code >}}java">PSD Java</a> та найновішу версію <a href="/psd/{{< lang-code >}}net">PSD. Net</a> а також Net Рамкової 2.0 +</p>

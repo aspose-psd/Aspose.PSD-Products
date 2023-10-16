@@ -19,6 +19,11 @@ url: psb/
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
     }` 
+`   public static void convertPSBtoJPG(String sourcePsbFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourcePsbFileName)) {
+            image.save(sourcePsbFileName + ".jpg", new JpegOptions());
+        }
+    }` 
 "Gists पर PSB फ़ाइलें खोलने के उदाहरण" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "फ़ोटोशॉप के बिना PSB फ़ाइलों को खोलने का ट्यूटोरियल" "https://products.aspose.com/psd/net/viewer/" 
 "PSB फ़ाइल व्यूअर स्टैंडअलोन सेवा के रूप में" "https://products.aspose.app/psd/viewer" >}}

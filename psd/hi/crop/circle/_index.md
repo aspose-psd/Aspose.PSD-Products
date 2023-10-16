@@ -7,7 +7,7 @@ keywords: [crop circle, crop circle image, crop image to circle, make circle pho
 url: crop/circle/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="एडोब फोटोशॉप फाइल फॉर्मेट सॉल्यूशन" h2="PSD, PSB के लिए हाई कोड एपीआई और मुफ्त ऐप, सर्कल, दीर्घवृत्त और अन्य आंकड़ों के लिए छवियों को क्रॉप करने की क्षमता के साथ" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD उत्पाद समाधान" >}}
+{{< blocks/products/pf/upper-banner h1="एडोब फोटोशॉप फाइल फॉर्मेट सॉल्यूशन" h2="PSD, PSB के लिए हाई कोड एपीआई और मुफ्त ऐप, सर्कल, दीर्घवृत्त और अन्य आंकड़ों के लिए छवि को क्रॉप करने की क्षमता के साथ" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD उत्पाद समाधान" >}}
 
 {{< blocks/products/pf/main-container >}}
 
@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>Aspose.PSD क्रॉप बाय सर्कल हाई-कोड API का उपयोग करता है। क्रॉपिंग सुविधाएं जावा और .NET के लिए Aspose.PSD समाधान में उपलब्ध हैं। आप अपनी इच्छानुसार किसी भी आकृति में छवियों को क्रॉप करने के लिए Aspose.PSD का उपयोग कर सकते हैं, यह ऐप केवल क्रॉप सर्कल सुविधाओं को प्रदर्शित करता है। यदि आप अपना स्वयं का क्रॉप समाधान बनाना चाहते हैं, तो कृपया Aspose.PSD की जांच करें, इसका उपयोग आपकी वेब-सेवा के बैक-एंड पर किया जा सकता है और क्रॉप टू सर्कल इमेज</p>

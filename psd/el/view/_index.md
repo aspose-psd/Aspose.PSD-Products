@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Online App για να δείτε PSD, PSB ή AI μορφή online" >}}
 <p>Δυνατότητα να δείτε psd σε απευθείας σύνδεση είναι δημοφιλής υπηρεσία, που μπορεί να σας βοηθήσει να εξοικονομήσετε χρόνο και χρήμα. Δεν χρειάζεστε το Adobe Photoshop για να ανοίξετε τα αρχεία PSD. Η ενσωματωμένη εφαρμογή παρέχει τέλεια προβολή psd για pixel</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "Οδηγός για το άνοιγμα αρχείων PSD χωρίς Photoshop" "https://products.aspose.com/psd/net/viewer/" 
 "Δείγματα κώδικα για προβολή PSD ως PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 

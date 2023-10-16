@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="免费的在线应用程序，可在线查看PSD，PSB或AI格式" >}}
 <p>能够在线查看psd是一项受欢迎的服务，它可以帮助您节省时间和金钱。你不需要 Adobe Photoshop 就能打开 PSD 文件。内置应用程序提供像素完美的 psd 视图</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "教程如何在没有 Photoshop 的情况下打开 PSD 文件" "https://products.aspose.com/psd/net/viewer/" 
 "以 PNG 形式查看 PSD 的代码示例"  "https://docs.aspose.com/psd/net/psd-to-png/" 

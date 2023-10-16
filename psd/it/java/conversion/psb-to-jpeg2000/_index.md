@@ -55,8 +55,8 @@ Per renderizzare PSB in JPEG2000, useremo <a href="/psd/{{< lang-code >}}java">A
 {{% /blocks/products/pf/agp/text %}}
 
 - Caricare il file PSB
-- Crea un'istanza di [Classe di opzioni Jpeg 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Usa il metodo Image.save (String, Jpeg2000Options) per la conversione.
+- Crea un'istanza di [Classe di opzioni Jpeg 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

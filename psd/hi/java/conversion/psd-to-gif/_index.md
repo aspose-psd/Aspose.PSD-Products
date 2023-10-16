@@ -60,8 +60,8 @@ url: java/conversion/psd-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD फ़ाइल लोड करें
-- का एक उदाहरण बनाएं [GIFOptions क्लास](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-- रूपांतरण के लिए Image.save (स्ट्रिंग, GIFOptions) विधि का उपयोग करें।
+- का एक उदाहरण बनाएं [GIFOptions क्लास](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

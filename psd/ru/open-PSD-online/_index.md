@@ -19,6 +19,15 @@ url: open-PSD-online/
     {
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+`    public static void convertPSDtoPNG(String sourceFileName) {
+    try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+        image.save(sourceFileName + ".png", new PngOptions() {
+        {
+            setColorType(PngColorType.TruecolorWithAlpha);
+        }
+    });
+    }
     }` "Учебное пособие по открытию PSD-файлов без Photoshop" "https://products.aspose.com/psd/net/viewer/" "Примеры открытия PSD-файлов на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" "Приложение с низким уровнем кода для открытия PSD онлайн" "https://products.aspose.app/psd/viewer" >}}
 <p>Aspose.PSD View Открывает любой PSD-файл и дает возможность загрузить его в формате png. После открытия PSD файлов будет использован предпросмотр этого файла с точностью до пикселя. Можно открыть PSD-файл с 8 битами, 16 битами и 32 битами на цвет. Если вам нужно отредактировать открытый PSD-файл онлайн, используйте <a href="https://products.aspose.app/psd/editor">Редактор PSD</a>. Это приложение открывает PSD только онлайн</p>
 {{< /blocks/products/pf/feature-page-section >}}

@@ -18,6 +18,11 @@ url: convert/to-gif/
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());
     }` 
+	`    public static void saveGifFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".gif", new GifOptions());
+        }
+    }` 
 "gif" 
 "แปลงตัวอย่างจาก PSD เป็น GIF สามารถใช้ Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "แปลงไฟล์ PSD ของคุณเป็น GIF ออนไลน์" "https://products.aspose.app/psd/conversion/psd-to-gif" 

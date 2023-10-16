@@ -7,7 +7,7 @@ keywords: [crop circle, crop circle image, crop image to circle, make circle pho
 url: crop/circle/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Solution de format de fichier Adobe Photoshop" h2="Des API High Code et des applications gratuites pour PSD, PSB avec la possibilité de recadrer des images en cercles, en ellipses et en d'autres figures" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Solution de produit Aspose.PSD" >}}
+{{< blocks/products/pf/upper-banner h1="Solution de format de fichier Adobe Photoshop" h2="Des API High Code et des applications gratuites pour PSD, PSB avec la possibilité de recadrer l'image en cercle, en ellipse et en d'autres figures" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Solution de produit Aspose.PSD" >}}
 
 {{< blocks/products/pf/main-container >}}
 
@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>Aspose.PSD Crop by Circle utilise l'API à code élevé. Les fonctionnalités de recadrage sont disponibles dans la solution Aspose.PSD pour Java et .Net. Vous pouvez utiliser Aspose.PSD pour recadrer les images selon la figure de votre choix. Cette application ne présente que les fonctionnalités des cercles de recadrage. Si vous souhaitez créer votre propre solution de recadrage, veuillez consulter le fichier Aspose.PSD, il peut être utilisé sur le backend de votre service Web et recadrer l'image en cercle</p>

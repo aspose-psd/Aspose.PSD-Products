@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Codebeispiele für die Anzeige von PSD als PNG"  "https://docs.aspose.com/psd/net/" 
 "Low-Code-PSD-Editor mit größerem Arbeitsbereich" "https://products.aspose.app/psd/editor/" >}}
 <p>Der PSD-Editor verwendet die serverseitige Verarbeitung von Dateien. Aspose.PSD ist eines der wenigen Produkte, mit denen PSD-Bearbeitungssoftware erstellt werden kann. Es unterstützt sowohl das Lesen von PSD-Ressourcen als auch das Rendern aktualisierter PSD-Dateientitäten. Dieser PSD-Editor rendert die PSD-Textebene sehr ähnlich der ursprünglichen Adobe Photoshop-Textengine. Sie können mit diesem Editor auch eine neue PSD-Ebene erstellen und sie mit Brush Operations aktualisieren. Das Update von PSD kann von jedem Gerät und Betriebssystem aus verarbeitet werden. Die PSD-Verarbeitungssoftware unterstützt in der Regel nur die Anzeige von PSD-Dateiressourcen wie EXIF-Daten und Zeitpunkt der Ebenenerstellung, aber Aspose.PSD kann in vielen Fällen PSD-Dateien bearbeiten, einschließlich Einstellungsebenen, Füllebenen, Textebenen und Smart-Objekten. Wenn die Funktionen des PSD-Editors für Sie nicht ausreichen, überprüfen Sie bitte die eigenständige On-Premise-Lösung für <a href="/psd/{{< lang-code >}}java">PSD Java</a> und die neueste Version von <a href="/psd/{{< lang-code >}}net">PSD.Net</a> sowie .Net Framework 2.0 +</p>

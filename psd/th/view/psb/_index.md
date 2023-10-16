@@ -18,6 +18,23 @@ url: view/psb/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
+    }`  `    public static void convertReadOnlyPSBtoJpeg(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".jpg", new JpegOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+
+        }
     }` 
 "ตัวอย่างการเปิดไฟล์ PSB บน Gists" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "สอนวิธีเปิดไฟล์ PSB โดยไม่ใช้ Photoshop" "https://products.aspose.com/psd/net/viewer/" 

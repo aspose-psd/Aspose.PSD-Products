@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "Примеры кода для просмотра PSD в формате PNG"  "https://docs.aspose.com/psd/net/" "PSD-редактор с низким содержанием кода и большим размером рабочего пространства" "https://products.aspose.app/psd/editor/" >}}
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` "Примеры кода для просмотра PSD в формате PNG"  "https://docs.aspose.com/psd/net/" "PSD-редактор с низким содержанием кода и большим размером рабочего пространства" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor использует обработку файлов на стороне сервера. Aspose.PSD является одним из немногих продуктов, которые можно использовать для создания программного обеспечения для редактирования PSD. Он поддерживает как чтение ресурсов PSD, так и рендеринг обновленных объектов PSD-файлов. Этот редактор PSD визуализирует текстовый слой PSD очень близко к оригинальному текстовому движку Adobe Photoshop. Вы также можете создать новый слой PSD с помощью этого редактора и обновить его с помощью Brush Operations. Обновление PSD можно обрабатывать с любого устройства и ОС. Программное обеспечение для обработки PSD обычно поддерживает просмотр только файловых ресурсов PSD, таких как данные EXIF, время создания слоя, но Aspose.PSD во многих случаях может редактировать PSD-файлы, включая корректирующие слои, слои заполнения, текстовые слои, смарт-объекты. Если функций PSD Editor вам недостаточно, попробуйте автономное локальное решение для <a href="/psd/{{< lang-code >}}java">PSD Java</a> и последняя версия <a href="/psd/{{< lang-code >}}net">PSD .Net</a> а также платформы.Net Framework 2.0 +</p>
 
 {{< /blocks/products/pf/feature-page-section >}}

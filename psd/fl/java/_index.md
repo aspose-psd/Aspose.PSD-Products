@@ -89,7 +89,7 @@ url: java/
      Rasteri-, vektori- ja leikkausnaamarit
     </li>
     <li>
-     Tekstin tasot
+     Tekstitasot
     </li>
     <li>
      Suurin osa PSD/PSB-tiedostojen kuvamoodeista
@@ -107,7 +107,9 @@ url: java/
   <footer>
    <small>
     <em>
-     for
+      
+    for
+      
     </em>
     Java
    </small>
@@ -153,7 +155,9 @@ url: java/
   <footer>
    <small>
     <em>
-     for
+      
+    for
+      
     </em>
     Java
    </small>
@@ -222,7 +226,9 @@ url: java/
   <footer>
    <small>
     <em>
-     for
+      
+    for
+      
     </em>
     Java
    </small>

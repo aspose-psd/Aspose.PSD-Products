@@ -1,5 +1,5 @@
 ---
-title: Muunna PSD PNG ksi Javan kautta
+title: Muunna PSD PNG: ksi Javan kautta
 weight: 80
 description: Näyte Java muuntaminen koodi PSD muodossa PNG-tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD PNG-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa.
 url: java/conversion/psd-to-png/
@@ -60,8 +60,8 @@ url: java/conversion/psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSD-tiedosto
-- Luo esiintymä [PNGOptions-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- Käytä Image.save (String, PNGOptions) menetelmä muuntamiseen.
+- Luo esiintymä [PNGOptions-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -60,8 +60,8 @@ url: java/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD फ़ाइल लोड करें
-- का एक उदाहरण बनाएं [टिफ़ऑप्शन क्लास](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- रूपांतरण के लिए Image.save (स्ट्रिंग, TiffOptions) विधि का उपयोग करें।
+- का एक उदाहरण बनाएं [टिफ़ऑप्शन क्लास](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

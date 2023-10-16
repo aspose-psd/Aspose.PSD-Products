@@ -18,6 +18,11 @@ url: convert/to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
+`     public static void saveTiffFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
+        }
+    }` 
 	"tiff" "Конвертируйте пример из PSD в Tiff с помощью High-Code API"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "Веб-приложение для конвертации ваших PSD-файлов в Tiff" "https://products.aspose.app/psd/conversion" "Примеры на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-tiff-cs" >}}
 <p>Результат преобразования PSD в Tiff может быть большим по сравнению с пространством на жестком диске. Но вы получаете сжатый файл без потерь с дополнительными метаданными. Не все метаданные правильно конвертированы из PSD в Tiff, если вам нужно извлечь метаданные слоев PSD, попробуйте <a href="https://products.aspose.app/psd/metadata">Экстрактор метаданных PSD</a>. Если вы хотите использовать все возможности API с высоким кодом PSD, попробуйте <a href="/psd">Aspose.PSD</a> для .Net или Java</p>
 {{< /blocks/products/pf/feature-page-section >}}

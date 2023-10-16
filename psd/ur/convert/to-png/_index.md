@@ -18,6 +18,13 @@ url: convert/to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`    public static void savePngFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 	"png" 
 "پی ایس ڈی سے PNG کو مثال کے طور پر تبدیل کریں Aspose.PSD استعمال کر سکتے ہیں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "آپ کے پی ایس ڈی فائلوں کو PNG اور بہت سے دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" 

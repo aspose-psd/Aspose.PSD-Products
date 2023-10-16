@@ -55,8 +55,8 @@ PSD को JPEG2000 में रेंडर करने के लिए, ह
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD फ़ाइल लोड करें
-- का एक उदाहरण बनाएं [Jpeg2000 विकल्प वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- रूपांतरण के लिए Image.save (स्ट्रिंग, Jpeg2000Options) विधि का उपयोग करें।
+- का एक उदाहरण बनाएं [Jpeg2000 विकल्प वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

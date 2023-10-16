@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD फ़ाइल लोड करें
-- का एक उदाहरण बनाएं [PDFOptions वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- रूपांतरण के लिए Image.save (स्ट्रिंग, PDFOptions) विधि का उपयोग करें।
+- का एक उदाहरण बनाएं [PDFOptions वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -58,7 +58,8 @@ PM> Install-Package Aspose.PSD
 
 ```cs
 
-PM> Install-Package Aspose.PSD
+
+
 
 ```
 

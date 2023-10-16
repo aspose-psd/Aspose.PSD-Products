@@ -48,7 +48,35 @@ url: editor/psb/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` "Примеры кода для просмотра PSB в формате PNG"  "https://docs.aspose.com/psd/net/" "Конвертация PSB в другие форматы"  "/psd/convert" "Редактор PSB с низким содержанием кода и большим размером рабочего пространства" "https://products.aspose.app/psd/editor/psb" "Примеры работы с файлами PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
+	}` 
+	` public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psb")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psb");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` "Примеры кода для просмотра PSB в формате PNG"  "https://docs.aspose.com/psd/net/" "Конвертация PSB в другие форматы"  "/psd/convert" "Редактор PSB с низким содержанием кода и большим размером рабочего пространства" "https://products.aspose.app/psd/editor/psb" "Примеры работы с файлами PSB" "https://docs.aspose.com/psd/net/working-with-psb-files/" >}}
 <p>Редактор PSB обрабатывает файлы на сервере. Чтобы отредактировать файлы PSB, редактор Aspose.PSD сначала закажите загрузку файла PSB, затем сериализуйте его и предоставьте пользовательский интерфейс для редактирования загруженного файла PSB. Конечный результат редактирования PSB можно загрузить в разных форматах. При редактировании файлов PSB у вас есть такие операции, как обновление текста, рисование кистью, изменение порядка и изменение видимости слоев. Редактирование можно выполнять с любого устройства и ОС, используя только браузер. Отредактируйте файл PSB там, где хотите или используете <a href="https://docs.aspose.com/psd/net/working-with-psb-files/">API с высоким кодом и создайте свой собственный редактор PSB</a></p>
 
 {{< /blocks/products/pf/feature-page-section >}}

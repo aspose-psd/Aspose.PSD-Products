@@ -7,7 +7,7 @@ keywords: [crop circle, crop circle image, crop image to circle, make circle pho
 url: crop/circle/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Solusi Format File Adobe® Photoshop®" h2="API Kode Tinggi dan aplikasi gratis untuk PSD, PSB dengan kemampuan untuk memotong gambar menjadi lingkaran, elips, dan angka lainnya" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Solusi Produk" >}}
+{{< blocks/products/pf/upper-banner h1="Solusi Format File Adobe® Photoshop®" h2="API Kode Tinggi dan aplikasi gratis untuk PSD, PSB dengan kemampuan untuk memotong gambar ke lingkaran, elips dan tokoh lain" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Aspose.PSD Solusi Produk" >}}
 
 {{< blocks/products/pf/main-container >}}
 
@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>Aspose.PSD Crop by Circle menggunakan API kode tinggi. Fitur Cropping tersedia di Solusi Aspose.PSD untuk Java dan .Net. Anda dapat menggunakan Aspose.PSD untuk memotong gambar ke gambar apa pun yang Anda inginkan, aplikasi ini hanya menunjukkan fitur crop circle. Jika Anda ingin craete solusi tanaman Anda sendiri, silakan periksa Aspose.PSD dapat digunakan pada Back-end layanan web Anda dan tanaman untuk lingkaran gambar</p>

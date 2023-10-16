@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="Aplicación en línea gratuita para ver el formato PSD, PSB o AI en línea" >}}
 <p>La posibilidad de ver archivos PSD en línea es un servicio popular que puede ayudarlo a ahorrar tiempo y dinero. No necesita Adobe Photoshop para abrir los archivos PSD. La aplicación integrada proporciona una vista psd perfecta en píxeles</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "Tutorial de cómo abrir archivos PSD sin Photoshop" "https://products.aspose.com/psd/net/viewer/" 
 "Ejemplos de código para ver PSD como PNG"  "https://docs.aspose.com/psd/net/psd-to-png/" 

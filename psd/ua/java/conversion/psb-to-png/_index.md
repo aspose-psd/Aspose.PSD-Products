@@ -60,8 +60,8 @@ url: java/conversion/psb-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Завантажте файл PSB
-- Створити екземпляр [Клас параметрів PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- Використовуйте метод Image.save (String, pngOptions) для перетворення.
+- Створити екземпляр [Клас параметрів PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

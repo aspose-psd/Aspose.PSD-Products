@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>يمكن ضغط تنسيق PSB بسهولة إذا قمت بحفظه كملف PSD، لكن تنسيق PSD لا يدعم الصورة التي يزيد عرضها أو ارتفاعها عن 30000 بكسل. في هذه الحالة، يعد ضغط ملف PSB حلاً أكثر تعقيدًا. يمكنك تجربة برنامج PSB Compress Software ولكن لا يمكننا ضمان أن ملف PSB المضغوط النهائي سيكون قابلاً للقراءة. يستخدم هذا التطبيق ميزات غير موثقة لتنسيق PSB. لتحسين فرصة العمل الصحيح، يرجى تجربة ميزات الضغط التي لن تزيل البيانات المهمة. قم بتقليل حجم PSB المقدم «كما هو». من الأفضل استخدام الأشياء الشائعة <a href="/psd/reduce-size">تطبيق تقليل حجم PSD</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "يمكن العثور على نماذج التعليمات البرمجية لضغط ملفات PSD في مستودع Github الرسمي"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "تطبيق ويب لضغط PSD و PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>يمكن أن تصل ملفات PSB إلى 2 غيغابايت، لذا يمكنك الحصول على الحالة عندما يتعذر على هذا التطبيق تحميل ملف PSB لتقليل حجمه. في هذه الحالات، من الأفضل استخدامها <a href="/psd">حل تنسيق psd محلي مثل Aspose.PSD</a> واكتب كود الضغط بنفسك. يمكن العثور على أمثلة التعليمات البرمجية الساخنة لضغط تنسيق PSB في هذه المقالة، ما عليك سوى تبديل علامات التبويب في تطبيق PSB File Reduce المدمج</p>

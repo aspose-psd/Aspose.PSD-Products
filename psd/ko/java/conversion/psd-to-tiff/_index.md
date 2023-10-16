@@ -60,8 +60,8 @@ url: java/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD 파일 불러오기
-- 인스턴스 생성 [TIFF 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- 변환에는 Image.save (문자열, TIFF옵션) 메서드를 사용합니다.
+- 인스턴스 생성 [TIFF 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

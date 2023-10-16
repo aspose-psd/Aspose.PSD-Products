@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Ladda PSD-filen
-- Skapa en instans av [Klassen PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Använd Image.save (String, PDFOptions) metod för konvertering.
+- Skapa en instans av [Klassen PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

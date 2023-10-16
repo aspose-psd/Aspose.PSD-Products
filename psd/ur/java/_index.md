@@ -89,7 +89,7 @@ url: java/
      ریسٹر، ویکٹر اور تراشہ ماسک
     </li>
     <li>
-     متن کی تہوں
+     متن کی پرتیں
     </li>
     <li>
      زیادہ تر پی ایس ڈی/پی ایس بی فائلوں کی تصویر کے طریقوں
@@ -107,7 +107,9 @@ url: java/
   <footer>
    <small>
     <em>
-     کے لئے
+      
+    کے لئے
+      
     </em>
     Java
    </small>
@@ -153,7 +155,9 @@ url: java/
   <footer>
    <small>
     <em>
-     کے لئے
+      
+    کے لئے
+      
     </em>
     Java
    </small>
@@ -222,7 +226,9 @@ url: java/
   <footer>
    <small>
     <em>
-     کے لئے
+      
+    کے لئے
+      
     </em>
     Java
    </small>

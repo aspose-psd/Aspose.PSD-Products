@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Sampel kode untuk melihat PSD sebagai PNG"  "https://docs.aspose.com/psd/net/" 
 "Low-code PSD Editor dengan dengan ukuran yang lebih besar dari ruang kerja" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor menggunakan pemrosesan server-side file. Aspose.PSD adalah salah satu dari sedikit produk yang dapat digunakan untuk membuat PSD Editing Software. Mendukung kedua membaca sumber daya PSD serta rendering diperbarui PSD Files entitas. Editor PSD ini membuat PSD Text Layer sangat dekat dengan Adobe Photoshop Text Engine asli. Anda juga dapat membuat Layer PSD baru dengan editor ini dan memperbaruinya dengan Brush Operations. Update PSD dapat diproses dari perangkat dan OS. Perangkat lunak pengolah PSD umumnya hanya mendukung tampilan Sumber File PSD seperti data EXIF, waktu Layer Creation, tetapi Aspose.PSD dapat mengedit File PSD dalam banyak kasus, termasuk Adjustment Layers, Fill Layers, Text Layers, Smart Object. Jika fitur PSD Editor tidak cukup untuk Anda silahkan cek berdiri sendiri solusi on-premise untuk <a href="/psd/{{< lang-code >}}java">Java PSD</a> dan versi terbaru <a href="/psd/{{< lang-code >}}net">PSD .Net</a> serta Net Framework 2.0 +</p>

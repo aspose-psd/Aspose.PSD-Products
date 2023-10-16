@@ -60,8 +60,8 @@ url: java/conversion/psb-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSB 파일 불러오기
-- 인스턴스 생성 [PDF 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- 변환에는 이미지 저장 (문자열, PDF 옵션) 방법을 사용하십시오.
+- 인스턴스 생성 [PDF 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

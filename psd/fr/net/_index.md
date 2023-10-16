@@ -121,7 +121,7 @@ url: net/
      Masques matriciels, vectoriels et de découpage
     </li>
     <li>
-     Couches de texte
+     Calques de texte
     </li>
     <li>
      Modes d'image de la plupart des fichiers PSD/PSB
@@ -139,7 +139,9 @@ url: net/
   <footer>
    <small>
     <em>
-     fourchette
+      
+    fourchette
+      
     </em>
     .NET
    </small>
@@ -190,7 +192,9 @@ url: net/
   <footer>
    <small>
     <em>
-     fourchette
+      
+    fourchette
+      
     </em>
     .NET
    </small>
@@ -259,7 +263,9 @@ url: net/
   <footer>
    <small>
     <em>
-     fourchette
+      
+    fourchette
+      
     </em>
     .NET
    </small>

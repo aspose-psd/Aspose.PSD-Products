@@ -18,6 +18,11 @@ url: convert/to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
+`     public static void saveTiffFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
+        }
+    }` 
 	"tiff" 
 "Beispiel mit High-Code-API von PSD nach Tiff konvertieren"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Webanwendung zum Konvertieren Ihrer PSD-Dateien in Tiff" "https://products.aspose.app/psd/conversion" 

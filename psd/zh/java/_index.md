@@ -89,7 +89,7 @@ url: java/
      栅格、矢量和剪切蒙版
     </li>
     <li>
-     文字层
+     文本图层
     </li>
     <li>
      大多数 PSD/PSB 文件图像模式
@@ -107,7 +107,9 @@ url: java/
   <footer>
    <small>
     <em>
-     叉
+      
+    叉
+      
     </em>
     Java
    </small>
@@ -153,7 +155,9 @@ url: java/
   <footer>
    <small>
     <em>
-     叉
+      
+    叉
+      
     </em>
     Java
    </small>
@@ -222,7 +226,9 @@ url: java/
   <footer>
    <small>
     <em>
-     叉
+      
+    叉
+      
     </em>
     Java
    </small>

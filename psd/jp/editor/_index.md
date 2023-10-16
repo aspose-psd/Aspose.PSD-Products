@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "PSD を PNG 形式で表示するためのコードサンプル"  "https://docs.aspose.com/psd/net/" 
 "ワークスペースのサイズが大きいローコードPSDエディター" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor はサーバー側のファイル処理を使用します。Aspose.PSD は PSD 編集ソフトウェアの作成に使用できる数少ない製品の 1 つです。PSD リソースの読み取りと更新された PSD ファイルエンティティのレンダリングの両方をサポートします。このPSDエディターは、PSDテキストレイヤーを元のAdobe Photoshopテキストエンジンに非常に近い状態でレンダリングします。このエディターで新しい PSD レイヤーを作成し、ブラシ操作で更新することもできます。PSDの更新は、どのデバイスやOSからでも処理できます。PSD処理ソフトウェアは通常、EXIFデータ、レイヤー作成時間などの PSD ファイルリソースの表示のみをサポートしますが、Aspose.PSD は調整レイヤー、フィルレイヤー、テキストレイヤー、スマートオブジェクトなど、多くの場合 PSD ファイルを編集できます。PSD Editorの機能だけでは不十分な場合は、スタンドアロンのオンプレミスソリューションを確認してください <a href="/psd/{{< lang-code >}}java">PSD ジャワ</a> と最新バージョンの <a href="/psd/{{< lang-code >}}net">PSD .Net</a> .Net フレームワーク 2.0 以降と同様に</p>

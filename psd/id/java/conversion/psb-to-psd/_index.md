@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - Muat file PSB
-- Buat sebuah instance dari [kelas PSDoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- Gunakan Image.save (String, PSDoptions) metode untuk konversi.
+- Buat sebuah instance dari [kelas PSDoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

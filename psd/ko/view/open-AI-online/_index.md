@@ -43,7 +43,34 @@ url: view/open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` 
+	}`  `    public static boolean openPdfToPng(InputStream pdfFileStream, String pngFileId, Size size) {
+        try {
+            pdfFileStream.setPosition(0);
+            try (Document pdfDocument = new Document(pdfFileStream)) {
+                com.aspose.pdf.Page page = pdfDocument.getPages().get_Item(1);
+                try (OutputStream imageStream = new ByteArrayOutputStream()) {
+                    Resolution resolution = new Resolution(300);
+                    PngDevice pngDevice = new PngDevice(size.getWidth(), size.getHeight(), resolution);
+                    pngDevice.process(page, imageStream);
+                    imageStream.setPosition(0);
+                    StorageService.upload(pngFileId, imageStream);
+                    return true;
+                }
+            } catch (com.aspose.pdf.exceptions.InvalidPdfFileFormatException e) {
+                return false;
+            }
+        } catch (Exception ex) {
+            return false;
+        }
+    }
+
+    public static void convertAItoPNG(String sourceFileName, String outFileName) {
+        try (AiImage image = (AiImage) Image.load(sourceFileName)) {
+            ImageOptionsBase options = new PngOptions();
+            options.setColorType(PngColorType.TruecolorWithAlpha);
+            image.save(outFileName, options);
+        }
+    }` 
 "일러스트레이터 없이 AI 파일 열기" "https://products.aspose.com/psd/view/" 
 "GIST AI 파일을 여는 예제" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
 "AI를 온라인으로 여는 로우 코드 앱" "https://products.aspose.app/psd/viewer/ai" >}}

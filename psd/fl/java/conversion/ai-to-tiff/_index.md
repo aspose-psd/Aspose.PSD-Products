@@ -1,6 +1,6 @@
 ---
-title: Muunna AI TIFF ksi Javan kautta
-description: Näyte Java-muunnoskoodi AI-muodossa TIFF-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI TIFF ksi missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
+title: Muunna AI TIFF: ksi Javan kautta
+description: Näyte Java-muunnoskoodi AI-muodossa TIFF-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI TIFF: ksi missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
 url: java/conversion/ai-to-tiff/
 ---
 

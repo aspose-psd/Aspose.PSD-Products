@@ -60,8 +60,8 @@ url: java/conversion/psb-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSB फ़ाइल लोड करें
-- का एक उदाहरण बनाएं [PNG विकल्प वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- रूपांतरण के लिए Image.save (स्ट्रिंग, PNGOptions) विधि का उपयोग करें।
+- का एक उदाहरण बनाएं [PNG विकल्प वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

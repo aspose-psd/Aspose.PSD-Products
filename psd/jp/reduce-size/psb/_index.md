@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>PSB形式はPSDとして保存すれば簡単に圧縮できますが、PSD形式は幅または高さが30000ピクセルを超える画像をサポートしていません。この場合、PSBファイルの圧縮はより複雑なソリューションです。PSB Compress ソフトウェアを試すことはできますが、最終的に圧縮された PSB ファイルが読み取れるかどうかは保証できません。このアプリは、PSB形式の文書化されていない機能を使用しています。正しく機能する可能性を高めるため、重要なデータを削除しない圧縮機能を試してください。「現状のまま」提供されるPSBのサイズを縮小します。コモンを使うほうがいいです <a href="/psd/reduce-size">PSD サイズ縮小アプリケーション</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "PSDファイルを圧縮するためのコードサンプルは、公式のGithubリポジトリにあります"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "PSD と PSB を圧縮する Web アプリケーション" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSBファイルは最大2GBまで保存できるため、このアプリではPSBファイルをアップロードしてサイズを小さくできない場合があります。この場合は、使用する方が良いです <a href="/psd">Aspose.PSD のようなオンプレミスの psd 形式のソリューション</a> そして、自分で圧縮コードを書いてください。PSB形式を圧縮するのが難しいコード例は、この記事にあります。組み込みのPSB File Reduceアプリのタブを切り替えるだけです。</p>

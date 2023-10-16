@@ -121,7 +121,7 @@ url: net/
      Rasteri-, vektori- ja leikkausnaamarit
     </li>
     <li>
-     Tekstin tasot
+     Tekstitasot
     </li>
     <li>
      Suurin osa PSD/PSB-tiedostojen kuvamoodeista
@@ -139,7 +139,9 @@ url: net/
   <footer>
    <small>
     <em>
-     for
+      
+    for
+      
     </em>
     .NET
    </small>
@@ -190,7 +192,9 @@ url: net/
   <footer>
    <small>
     <em>
-     for
+      
+    for
+      
     </em>
     .NET
    </small>
@@ -259,7 +263,9 @@ url: net/
   <footer>
    <small>
     <em>
-     for
+      
+    for
+      
     </em>
     .NET
    </small>

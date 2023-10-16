@@ -55,8 +55,8 @@ url: java/conversion/psb-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 - Завантажте файл PSB
-- Створити екземпляр [Клас параметрів JPEG 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Використовуйте метод Image.save (String, Jpeg2000Options) для перетворення.
+- Створити екземпляр [Клас параметрів JPEG 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -18,6 +18,13 @@ url: convert/to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
+`    public static void saveJpgFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+        }
+    }` 
 		"jpg" 
 "使用 Aspose.PSD 高代码 API 将示例从 PSD 转换为 JPG"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "用于将 PSD 文件转换为 JPEG 的应用程序" "https://products.aspose.app/psd/conversion/psd-to-jpg" 

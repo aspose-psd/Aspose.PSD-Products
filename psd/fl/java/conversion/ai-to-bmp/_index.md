@@ -1,6 +1,6 @@
 ---
-title: Muunna AI BMP ksi Javan kautta
-description: Näyte Java-muunnoskoodi AI-muodossa BMP-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI BMP ksi missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
+title: Muunna AI BMP: ksi Javan kautta
+description: Näyte Java-muunnoskoodi AI-muodossa BMP-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa AI BMP: ksi missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa
 url: java/conversion/ai-to-bmp/
 ---
 

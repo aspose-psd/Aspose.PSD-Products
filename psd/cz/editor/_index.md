@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Ukázky kódu pro prohlížení PSD jako PNG"  "https://docs.aspose.com/psd/net/" 
 "Editor PSD s nízkým kódem s větší velikostí pracovního prostoru" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor používá zpracování souborů na straně serveru. Aspose.PSD je jedním z mála produktů, které mohou být použity k vytvoření PSD editační software. Podporuje jak čtení zdrojů PSD, tak i vykreslování aktualizovaných entit PSD souborů. Tento editor PSD vykresluje textovou vrstvu PSD velmi blízko původnímu textového modulu Adobe Photoshop. Pomocí tohoto editoru můžete také vytvořit novou vrstvu PSD a aktualizovat ji pomocí operace štětce. Aktualizace PSD lze zpracovat z libovolného zařízení a operačního systému. Software pro zpracování PSD běžně podporuje pouze prohlížení zdrojů souborů PSD, jako jsou data EXIF, čas vytvoření vrstvy, ale Aspose.PSD může v mnoha případech upravovat soubory PSD, včetně vrstev úprav, vrstev výplně, textových vrstev, inteligentních objektů. Pokud vám funkce editoru PSD nestačí, zkontrolujte samostatné on-premise řešení <a href="/psd/{{< lang-code >}}java">PSD</a> a nejnovější verzi <a href="/psd/{{< lang-code >}}net">PSD</a> stejně jako .NET Framework 2.0 +</p>

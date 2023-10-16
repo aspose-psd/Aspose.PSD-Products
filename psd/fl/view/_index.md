@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus PSD: n katseluun, PSB- tai AI-muoto verkossa" >}}
 <p>Kyky katsella psd verkossa on suosittu palvelu, joka voi auttaa sinua säästämään aikaa ja rahaa. Et tarvitse Adobe Photoshopia avataksesi PSD tiedostoja. Sisäänrakennettu sovellus tarjoaa pikseli-täydellinen PSD näkymä</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "Opetusohjelma PSD-tiedostojen avaamiseksi ilman Photoshopia" "https://products.aspose.com/psd/net/viewer/" 
 "Koodinäytteet PSD: n katseluun PNG: nä"  "https://docs.aspose.com/psd/net/psd-to-png/" 

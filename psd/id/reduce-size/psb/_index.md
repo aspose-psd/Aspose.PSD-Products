@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>Format PSB dapat dengan mudah dikompresi jika Anda menyimpannya sebagai PSD, tetapi format PSD tidak mendukung gambar yang lebih dari 30000 piksel pada lebar atau tinggi. Dalam hal ini mengompresi file PSB adalah solusi yang lebih kompleks. Anda dapat mencoba PSB Compress Software tetapi kami tidak dapat menjamin bahwa file PSB terkompresi akhir akan dapat dibaca. Aplikasi ini menggunakan fitur format PSB yang tidak didokumentasikan. Untuk meningkatkan kemungkinan pekerjaan yang benar, coba kompres fitur yang tidak akan menghapus data penting. Kurangi ukuran PSB yang disediakan “sebagaimana adanya”. Lebih baik menggunakan umum <a href="/psd/reduce-size">Ukuran PSD Mengurangi Aplikasi</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "Sampel kode untuk kompresi File PSD dapat ditemukan di repositori Github resmi"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Aplikasi web untuk mengompres PSD dan PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>File PSB bisa sampai 2gb, sehingga Anda bisa mendapatkan kasus ketika aplikasi ini tidak dapat mengunggah file PSB untuk mengurangi ukurannya. Dalam kasus ini lebih baik menggunakan <a href="/psd">solusi format psd on-premise sebagai Aspose.PSD</a> dan menulis kode kompres sendiri. Contoh kode panas untuk mengompres format PSB dapat ditemukan di artikel ini, cukup alihkan tab di Aplikasi Pengurangan File PSB bawaan</p>

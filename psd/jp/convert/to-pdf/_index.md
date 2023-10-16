@@ -18,6 +18,11 @@ url: convert/to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
+	`    public static void savePdfFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+        }
+    }` 
 	"pdf" 
 "Aspose.PSD での PSD から PDF への変換のコードサンプル"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "PSDファイルをPdfやその他の多くの形式に変換する無料のWebアプリケーション" "https://products.aspose.app/psd/conversion" 

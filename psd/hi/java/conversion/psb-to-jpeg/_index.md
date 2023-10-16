@@ -60,8 +60,8 @@ url: java/conversion/psb-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSB फ़ाइल लोड करें
-- का एक उदाहरण बनाएं [जेपीईजी विकल्प वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
-- रूपांतरण के लिए Image.save (स्ट्रिंग, JPEGOptions) विधि का उपयोग करें।
+- का एक उदाहरण बनाएं [जेपीईजी विकल्प वर्ग](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

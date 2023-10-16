@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" 
 "Δείγματα κώδικα για μετατροπή PSD σε άλλες μορφές στο Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "Δωρεάν web εφαρμογή για να μετατρέψετε PSD, PSB και AI εικόνες σας σε Png, Pdf, Jpg, Tiff, Pdf, Gif και άλλες μορφές" "https://products.aspose.app/psd/conversion" >}}

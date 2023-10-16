@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "ตัวอย่างรหัสสำหรับการดู PSD เป็น PNG"  "https://docs.aspose.com/psd/net/" 
 "PSD Editor รหัสต่ำพร้อมพื้นที่ทำงานที่ใหญ่กว่า" "https://products.aspose.app/psd/editor/" >}}
 <p>ตัวแก้ไข PSD ใช้การประมวลผลไฟล์ฝั่งเซิร์ฟเวอร์Aspose.PSD เป็นหนึ่งในไม่กี่ผลิตภัณฑ์ที่สามารถนำมาใช้ในการสร้างซอฟต์แวร์แก้ไข PSDมันสนับสนุนทั้งการอ่านทรัพยากร PSD เช่นเดียวกับการแสดงผลของการปรับปรุงหน่วยงาน PSD ไฟล์ตัวแก้ไข PSD นี้ทำให้เลเยอร์ข้อความ PSD ใกล้เคียงกับต้นฉบับโปรแกรม Adobe Photoshop ข้อความนอกจากนี้คุณยังสามารถสร้าง PSD เลเยอร์ใหม่ด้วยการแก้ไขนี้และปรับปรุงด้วยการดำเนินงานแปรง.การอัพเดต PSD สามารถประมวลผลได้จากอุปกรณ์และระบบปฏิบัติการใด ๆซอฟต์แวร์ประมวลผล PSD โดยทั่วไปสนับสนุนเฉพาะการดูทรัพยากรไฟล์ PSD เช่นข้อมูล EXIF, เวลาของการสร้างเลเยอร์, แต่ Aspose.PSD สามารถแก้ไขไฟล์ PSD ในหลายกรณี, รวมทั้งการปรับเลเยอร์, Fill Layer, Text Layer, Smart Objectหากคุณสมบัติของ PSD Editor ไม่เพียงพอสำหรับคุณ โปรดตรวจสอบโซลูชันแบบสแตนด์อโลนในสถานที่สำหรับ <a href="/psd/{{< lang-code >}}java">พีเอสดีจาวา</a> และเวอร์ชันล่าสุดของ <a href="/psd/{{< lang-code >}}net">PSD .Net</a> เช่นเดียวกับกรอบ .Net 2.0 +</p>

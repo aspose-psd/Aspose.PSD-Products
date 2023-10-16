@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>پی ایس بی فارمیٹ آسانی سے کمپریسڈ کیا جا سکتا ہے اگر آپ اسے پی ایس ڈی کے طور پر محفوظ کرتے ہیں، لیکن پی ایس ڈی فارمیٹ اس تصویر کی حمایت نہیں کرتا جو 30000 پکسلز سے زیادہ چوڑائی یا اونچائی پر ہیں. اس صورت میں پی ایس بی فائل کو دبانے سے زیادہ پیچیدہ حل ہے. آپ PSB سکیڑیں سافٹ ویئر کی کوشش کر سکتے ہیں لیکن ہم اس بات کی ضمانت نہیں دے سکتے کہ حتمی کمپریسڈ پی ایس بی فائل پڑھنے کے قابل ہو جائے گا یہ ایپ پی ایس بی فارمیٹ کی دستاویزی خصوصیات کا استعمال نہیں کرتا ہے. صحیح کام کے موقع کو بہتر بنانے کے لئے، براہ مہربانی خصوصیات کو سکیڑیں کوشش کریں جو اہم اعداد و شمار کو نہیں ہٹائیں گے. فراہم کی PSB کے سائز کو کم “کے طور پر ہے”. عام استعمال کرنا بہتر ہے <a href="/psd/reduce-size">پی ایس ڈی سائز کی درخواست کو کم</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "پی ایس ڈی فائلوں کے کمپریشن کے لئے کوڈ نمونے سرکاری Github ذخیرہ میں پایا جا سکتا ہے"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "پی ایس ڈی اور پی ایس بی سکیڑیں کرنے کے لئے ویب درخواست" "https://products.aspose.app/psd/compress/psd" >}}
 <p>پی ایس بی فائلیں 2GB تک ہوسکتی ہیں، لہذا آپ اس کیس کو حاصل کرسکتے ہیں جب یہ ایپ اس کے سائز کو کم کرنے کے لئے پی ایس بی فائل اپ لوڈ نہیں کرسکتا ہے. اس صورت میں یہ استعمال کرنا بہتر ہے <a href="/psd">Aspose.PSD کے طور پر پی ایس ڈی فارمیٹ حل پر پریمیسس</a> اور اپنے آپ کو سکیڑیں کوڈ لکھیں. پی ایس بی فارمیٹ کو سکیڑیں کرنے کے لئے کوڈ کی مثالیں اس آرٹیکل میں پایا جا سکتا ہے، صرف بلٹ میں پی ایس بی فائل کو کم کرنے میں ٹیبز کو سوئچ کریں</p>

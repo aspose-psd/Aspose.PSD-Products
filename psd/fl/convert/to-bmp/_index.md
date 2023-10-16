@@ -2,7 +2,7 @@
 title: Muunna PSD → BMP
 weight: 7730
 limit: 
-description: Muunna Adobe PhotoShop PSD -tiedostot BMP ksi
+description: Muunna Adobe PhotoShop PSD -tiedostot BMP: ksi
 keywords: [convert psd to bmp, psd to bmp, conversion to bmp, create bmp from psd, print psd as bmp]
 url: convert/to-bmp/
 ---
@@ -17,6 +17,11 @@ url: convert/to-bmp/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());
+    }` 
+`    public static void saveBmpFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".bmp", new BmpOptions());
+        }
     }` 
 	"bmp" 
 "Muunna esimerkki PSD BMP voi käyttää Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 

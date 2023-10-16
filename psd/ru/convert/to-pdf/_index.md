@@ -18,6 +18,11 @@ url: convert/to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
+	`    public static void savePdfFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+        }
+    }` 
 	"pdf" "Примеры кода конвертации PSD в PDF в Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "Бесплатное веб-приложение для конвертации ваших PSD-файлов в Pdf и многие другие форматы" "https://products.aspose.app/psd/conversion" "Примеры на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-pdf-cs" >}}
 <p>Конвертация PSD в PDF с помощью Aspose.PSD бывает двух типов: конвертация с точностью до пикселей и конвертация с возможностью выбора текста. Для идеального преобразования пикселей вам необходимо использовать <a href="https://reference.aspose.com/psd/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/">Свойство «только для чтения»</a>, пожалуйста, проверьте ссылку на API, будет ли Aspose.PSD использоваться в качестве приложения с высоким кодом. Если вам нужна возможность выбора текста, используйте приведенный выше код.</p>
 {{< /blocks/products/pf/feature-page-section >}}
