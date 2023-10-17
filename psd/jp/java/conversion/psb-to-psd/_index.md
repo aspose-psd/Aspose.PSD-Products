@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 -PSB ファイルを読み込む
--のインスタンスを作成 [PSD オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
--変換には Image.save (文字列、PSDオプション) メソッドを使用してください。
+-のインスタンスを作成 [PSD オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

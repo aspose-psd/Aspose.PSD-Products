@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSB 파일 불러오기
-- 인스턴스 생성 [BMP 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- 변환에는 Image.save (문자열, BMP 옵션) 메서드를 사용합니다.
+- 인스턴스 생성 [BMP 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

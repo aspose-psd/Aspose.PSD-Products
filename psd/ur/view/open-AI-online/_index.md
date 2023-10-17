@@ -43,7 +43,34 @@ url: view/open-AI-online/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` 
+	}`  `    public static boolean openPdfToPng(InputStream pdfFileStream, String pngFileId, Size size) {
+        try {
+            pdfFileStream.setPosition(0);
+            try (Document pdfDocument = new Document(pdfFileStream)) {
+                com.aspose.pdf.Page page = pdfDocument.getPages().get_Item(1);
+                try (OutputStream imageStream = new ByteArrayOutputStream()) {
+                    Resolution resolution = new Resolution(300);
+                    PngDevice pngDevice = new PngDevice(size.getWidth(), size.getHeight(), resolution);
+                    pngDevice.process(page, imageStream);
+                    imageStream.setPosition(0);
+                    StorageService.upload(pngFileId, imageStream);
+                    return true;
+                }
+            } catch (com.aspose.pdf.exceptions.InvalidPdfFileFormatException e) {
+                return false;
+            }
+        } catch (Exception ex) {
+            return false;
+        }
+    }
+
+    public static void convertAItoPNG(String sourceFileName, String outFileName) {
+        try (AiImage image = (AiImage) Image.load(sourceFileName)) {
+            ImageOptionsBase options = new PngOptions();
+            options.setColorType(PngColorType.TruecolorWithAlpha);
+            image.save(outFileName, options);
+        }
+    }` 
 "Illustrator کے بغیر کھلی AI فائلوں" "https://products.aspose.com/psd/view/" 
 "AI فائلوں کو کھولنے کے GIST مثالیں" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
 "AI آن لائن کھولنے کے لئے کم کوڈ ایپ" "https://products.aspose.app/psd/viewer/ai" >}}

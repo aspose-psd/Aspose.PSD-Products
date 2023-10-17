@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>Aspose.PSD Crop by Circle verwendet die High-Code-API. Die Funktionen zum Zuschneiden sind in der Aspose.PSD Solution für Java und.Net verfügbar. Sie können Aspose.PSD verwenden, um Bilder auf jede gewünschte Figur zuzuschneiden. Diese App zeigt nur Kornkreisfunktionen. Wenn Sie Ihre eigene Crop-Lösung erstellen möchten, überprüfen Sie bitte Aspose.PSD, sie kann im Backend Ihres Webservices verwendet werden und schneiden Sie das Bild auf einen Kreis zu</p>

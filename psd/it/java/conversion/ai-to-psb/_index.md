@@ -91,7 +91,7 @@ Per rendere l'IA su PSB, useremo <a href="/psd/{{< lang-code >}}java">Aspose.PSD
 {{< blocks/products/pf/agp/demobox sectionTitle="Dimostrazioni live sulla conversione da IA a PSB" sectionDescription="[Convert AI to PSB](https://products.aspose.app/psd/conversion/ai-to-psb) in questo momento visitando il nostro sito Web Live Demos. La demo live offre i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare l'API Aspose»." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non c'è bisogno di scrivere alcun codice»." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file AI, verrà convertito istantaneamente in PSB»." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il tuo file AI, verrà convertito istantaneamente in PSB." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="Riceverai il link per il download»." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}

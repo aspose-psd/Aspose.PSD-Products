@@ -20,6 +20,15 @@ url: open-PSD-online/
 	    // To open the PSD File as PNG just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+`    public static void convertPSDtoPNG(String sourceFileName) {
+    try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+        image.save(sourceFileName + ".png", new PngOptions() {
+        {
+            setColorType(PngColorType.TruecolorWithAlpha);
+        }
+    });
+    }
+    }` 
 "फ़ोटोशॉप के बिना PSD फ़ाइलें कैसे खोलें ट्यूटोरियल" "https://products.aspose.com/psd/net/viewer/" 
 "Gists पर PSD फ़ाइलें खोलने के उदाहरण" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" 
 "PSD ऑनलाइन खोलने के लिए लो-कोड ऐप" "https://products.aspose.app/psd/viewer" >}}

@@ -89,7 +89,7 @@ url: java/
      Masker Raster, Vektor, dan Kliping
     </li>
     <li>
-     Lapisan Teks
+     Lapisan teks
     </li>
     <li>
      Sebagian besar PSD/PSB file mode gambar
@@ -107,7 +107,9 @@ url: java/
   <footer>
    <small>
     <em>
-     untuk
+      
+    untuk
+      
     </em>
     Java
    </small>
@@ -153,7 +155,9 @@ url: java/
   <footer>
    <small>
     <em>
-     untuk
+      
+    untuk
+      
     </em>
     Java
    </small>
@@ -222,7 +226,9 @@ url: java/
   <footer>
    <small>
     <em>
-     untuk
+      
+    untuk
+      
     </em>
     Java
    </small>

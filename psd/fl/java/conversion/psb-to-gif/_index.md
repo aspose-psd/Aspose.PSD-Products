@@ -1,5 +1,5 @@
 ---
-title: Muunna PSB GIF ksi Javan kautta
+title: Muunna PSB GIF| ksi Javan kautta
 weight: 220
 description: Näyte Java-muunnoskoodi PSB-muotoon GIF-tiedostoon. Tämän esimerkkikoodin avulla voit muuntaa PSB GIF-muotoon missä tahansa Web- tai Desktop Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-gif/
@@ -60,8 +60,8 @@ url: java/conversion/psb-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSB-tiedosto
-- Luo esiintymä [GIFOptions-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-- Käytä Image.save (String, GIFOptions) menetelmä muuntamiseen.
+- Luo esiintymä [GIFOptions-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

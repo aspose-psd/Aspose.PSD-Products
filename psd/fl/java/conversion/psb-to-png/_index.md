@@ -1,5 +1,5 @@
 ---
-title: Muunna PSB PNG ksi Javan kautta
+title: Muunna PSB PNG| ksi Javan kautta
 weight: 110
 description: Näyte Java-muunnoskoodi PSB-muodossa PNG-tiedostoksi. Tämän esimerkkikoodin avulla voit muuntaa PSB PNG-muotoon missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-png/
@@ -60,8 +60,8 @@ url: java/conversion/psb-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSB-tiedosto
-- Luo esiintymä [PNGOptions-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- Käytä Image.save (String, PNGOptions) menetelmä muuntamiseen.
+- Luo esiintymä [PNGOptions-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

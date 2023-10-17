@@ -139,7 +139,9 @@ url: net/
   <footer>
    <small>
     <em>
-     के लिए
+      
+    के लिए
+      
     </em>
     .NET
    </small>
@@ -190,7 +192,9 @@ url: net/
   <footer>
    <small>
     <em>
-     के लिए
+      
+    के लिए
+      
     </em>
     .NET
    </small>
@@ -259,7 +263,9 @@ url: net/
   <footer>
    <small>
     <em>
-     के लिए
+      
+    के लिए
+      
     </em>
     .NET
    </small>

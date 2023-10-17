@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" 
 "在 Aspose.PSD 中将 PSD 转换为其他格式的代码示例"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "免费网络应用程序可将你的 PSD、PSB 和 AI 图像转换为 Png、Pdf、Jpg、Tif、Pdf、Gif 和其他格式" "https://products.aspose.app/psd/conversion" >}}

@@ -1,7 +1,7 @@
 ---
-title: Muunna PSB TIFF ksi Java n kautta
+title: Muunna PSB TIFF| ksi Java| n kautta
 weight: 40
-description: Näyte Java muuntaminen koodi PSB muodossa TIFF tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB TIFF ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
+description: Näyte Java muuntaminen koodi PSB muodossa TIFF tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB TIFF| ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-tiff/
 ---
 
@@ -60,8 +60,8 @@ url: java/conversion/psb-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSB-tiedosto
-- Luo esiintymä [TiffOptionsluokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- Käytä Image.save (String, TiffOptions) menetelmä muuntamiseen.
+- Luo esiintymä [TiffOptionsluokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

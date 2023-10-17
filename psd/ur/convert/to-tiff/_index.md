@@ -18,6 +18,11 @@ url: convert/to-tiff/
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
     }` 
+`     public static void saveTiffFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));
+        }
+    }` 
 	"tiff" 
 "پی ایس ڈی سے مثال کے طور پر ہائی کوڈ API کے ساتھ TIFF میں تبدیل کریں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "آپ کی پی ایس ڈی فائلوں کو ٹف میں تبدیل کرنے کے لئے ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" 

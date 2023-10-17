@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" 
 "Aspose.PSD میں دیگر فارمیٹس پر تبادلوں پی ایس ڈی کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "آپ کے پی ایس ڈی، پی ایس بی اور اے آئی تصاویر کو پی ڈی، پی ڈی ایف، جے پی جی، ٹی آئی ایف، پی ڈی ایف، جیف اور دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" >}}

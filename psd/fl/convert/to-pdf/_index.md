@@ -1,5 +1,5 @@
 ---
-title: Muunna PSD PDF ksi
+title: Muunna PSD PDF| ksi
 weight: 7730
 limit: 
 description: Muunna Adobe PhotoShop -tiedostot PDF-muotoon
@@ -17,6 +17,11 @@ url: convert/to-pdf/
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
+    }` 
+	`    public static void savePdfFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+        }
     }` 
 	"pdf" 
 "Koodinäytteet muuntaminen PSD PDF Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 

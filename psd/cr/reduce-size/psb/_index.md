@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>PSB format može se lako komprimirati ako ga spremite kao PSD, ali PSD format ne podržava sliku koja je veća od 30000 piksela u širini ili visini. U ovom slučaju komprimiranje PSB datoteka je složenije rješenje. Možete isprobati PSB Compress Software, ali ne možemo jamčiti da će konačna komprimirana PSB datoteka biti čitljiva. Ova aplikacija koristi ne dokumentirane značajke PSB formata. Da biste poboljšali šanse za ispravan rad, pokušajte komprimirati značajke koje neće ukloniti važne podatke. Smanjite veličinu PSB pod uvjetom "kakav jest". Bolje je koristiti zajedničko <a href="/psd/reduce-size">PSD veličina smanjiti primjenu</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "Uzorci koda za kompresiju PSD datoteka mogu se naći u službenom Github spremištu"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Web aplikacija za komprimiranje PSD-a i PSB-a" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB datoteke mogu biti i do 2GB, tako da možete dobiti slučaj kada je ova aplikacija ne može prenijeti PSB datoteku kako bi se smanjila njegova veličina. U ovom slučaju bolje je koristiti <a href="/psd">on-premise psd format rješenje kao Aspose.PSD</a> i sami napišite komprimirani kod. Primjeri koda vruće za komprimiranje PSB formata mogu se naći u ovom članku, samo prebacite kartice u ugrađenu aplikaciju PSB File Reduce</p>

@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Δείγματα κώδικα για προβολή PSD ως PNG"  "https://docs.aspose.com/psd/net/" 
 "Χαμηλού κώδικα PSD Editor με μεγαλύτερο χώρο εργασίας" "https://products.aspose.app/psd/editor/" >}}
 <p>Το πρόγραμμα επεξεργασίας PSD χρησιμοποιεί την επεξεργασία αρχείων από την πλευρά του διακομιστή. Aspose.PSD είναι ένα από τα λίγα προϊόντα που μπορούν να χρησιμοποιηθούν για τη δημιουργία PSD Editing Software. Υποστηρίζει τόσο την ανάγνωση των πόρων PSD, καθώς και την απόδοση των ενημερωμένων οντοτήτων PSD Files. Αυτός ο επεξεργαστής PSD καθιστά το PSD Text Layer πολύ κοντά στον αρχικό μηχανισμό κειμένου Adobe Photoshop. Μπορείτε επίσης να δημιουργήσετε ένα νέο PSD Layer με αυτό το πρόγραμμα επεξεργασίας και να το ενημερώσετε με λειτουργίες πινέλου. Η ενημέρωση του PSD μπορεί να υποβληθεί σε επεξεργασία από οποιαδήποτε συσκευή και λειτουργικό σύστημα. PSD λογισμικό επεξεργασίας συνήθως υποστηρίζει μόνο την προβολή των πόρων PSD αρχείων, όπως τα δεδομένα EXIF, το χρόνο της Layer Creation, αλλά Aspose.PSD μπορεί να επεξεργαστεί PSD αρχεία σε πολλές περιπτώσεις, συμπεριλαμβανομένων των επιπέδων ρύθμισης, γεμίσματος επιπέδων, επίπεδα κειμένου, έξυπνο αντικείμενο. Αν τα χαρακτηριστικά του PSD Editor δεν είναι αρκετά για εσάς, ελέγξτε την αυτόνομη on-premise λύση για <a href="/psd/{{< lang-code >}}java">Ιάβα PSD</a> και την πιο πρόσφατη έκδοση του <a href="/psd/{{< lang-code >}}net">PSD .net</a> καθώς και NET πλαίσιο 2.0 +</p>

@@ -60,8 +60,8 @@ url: java/conversion/psd-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 -PSD ファイルを読み込む
--のインスタンスを作成 [BMPオプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
--変換には Image.save (文字列、BMPOptions) メソッドを使用してください。
+-のインスタンスを作成 [BMPオプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>Das PSB-Format kann leicht komprimiert werden, wenn Sie es als PSD speichern, aber das PSD-Format unterstützt Bilder mit einer Breite oder Höhe von mehr als 30.000 Pixeln nicht. In diesem Fall ist das Komprimieren der PSB-Datei eine komplexere Lösung. Sie können die PSB Compress Software ausprobieren, aber wir können nicht garantieren, dass die endgültige komprimierte PSB-Datei lesbar ist. Diese App verwendet nicht dokumentierte Funktionen des PSB-Formats. Um die Wahrscheinlichkeit zu erhöhen, dass das korrekt funktioniert, versuchen Sie bitte, Funktionen zu komprimieren, die wichtige Daten nicht entfernen. Reduzieren Sie die Größe des bereitgestellten PSB „wie es ist“. Es ist besser, Common zu verwenden <a href="/psd/reduce-size">Anwendung zur Reduzierung der PSD-Größe</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "Codebeispiele für die Komprimierung von PSD-Dateien finden Sie im offiziellen Github-Repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Webanwendung zum Komprimieren von PSD und PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB-Dateien können bis zu 2 GB groß sein, sodass Sie den Fall haben können, dass diese App keine PSB-Datei hochladen kann, um ihre Größe zu reduzieren. In diesen Fällen ist es besser zu verwenden <a href="/psd">On-Premise-PSD-Formatlösung als Aspose.PSD</a> und schreibe selbst komprimierten Code. Die Codebeispiele zum Komprimieren des PSB-Formats finden Sie in diesem Artikel. Wechseln Sie einfach die Tabs in der integrierten PSB File Reduce App</p>

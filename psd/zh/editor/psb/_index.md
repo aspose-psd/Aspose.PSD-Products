@@ -49,6 +49,34 @@ url: editor/psb/
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
 	}` 
+	` public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psb")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psb");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "将 PSB 视为 PNG 的代码示例"  "https://docs.aspose.com/psd/net/" 
 "将 PSB 转换为其他格式"  "/psd/convert" 
 "具有更大工作空间的低代码 PSB 编辑器" "https://products.aspose.app/psd/editor/psb" 

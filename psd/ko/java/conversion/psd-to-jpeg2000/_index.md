@@ -55,8 +55,8 @@ PSD를 JPEG2000에 렌더링하기 위해서 <a href="/psd/{{< lang-code >}}java
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD 파일 불러오기
-- 인스턴스 생성 [Jpeg2000 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- 변환에는 이미지 저장 (문자열, Jpeg2000옵션) 메서드를 사용하십시오.
+- 인스턴스 생성 [Jpeg2000 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

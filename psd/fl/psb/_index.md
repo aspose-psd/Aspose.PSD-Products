@@ -2,7 +2,7 @@
 title: Avaa PSB verkossa
 weight: 7730
 limit: 
-description: Avaa PSB Aspose.PSD n voimalla
+description: Avaa PSB Aspose.PSD| n voimalla
 keywords: [open psb, open psb online, open PSB file, open photoshop file, preview psb]
 url: psb/
 ---
@@ -18,6 +18,11 @@ url: psb/
     {
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
+    }` 
+`   public static void convertPSBtoJPG(String sourcePsbFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourcePsbFileName)) {
+            image.save(sourcePsbFileName + ".jpg", new JpegOptions());
+        }
     }` 
 "Esimerkkejä PSB-tiedostojen avaamisesta Gists-tiedostoissa" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-psb-psbtojpg-psbtojpg-cs" 
 "Opetusohjelma PSB-tiedostojen avaamiseksi ilman Photoshopia" "https://products.aspose.com/psd/net/viewer/" 

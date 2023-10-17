@@ -60,8 +60,8 @@ url: java/conversion/psd-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - Завантажте файл PSD
-- Створити екземпляр [Клас параметрів GIF-класу](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-- Використовуйте метод Image.save (String, GIFOptions) для перетворення.
+- Створити екземпляр [Клас параметрів GIF-класу](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

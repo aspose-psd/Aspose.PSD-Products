@@ -15,10 +15,34 @@ url: view/
 {{< blocks/products/pf/feature-page-section h2="پی ایس ڈی، پی ایس بی یا AI فارمیٹ آن لائن دیکھنے کے لئے مفت آن لائن اپلی کیشن" >}}
 <p>پی ایس ڈی آن لائن دیکھنے کے لئے کی صلاحیت مقبول سروس ہے, کہ آپ کو وقت اور پیسہ بچانے کے لئے مدد کر سکتے ہیں. پی ایس ڈی فائلوں کو کھولنے کے لئے آپ کو ایڈوب فوٹوشاپ کی ضرورت نہیں ہے. بلٹ میں اپلی کیشن پکسل-کامل پی ایس ڈی منظر فراہم کرتا ہے</p>
 {{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
-`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+`    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
+    }` 
+	`    public static void viewPSDasPNG(String sourceFileName) {
+        try {
+            PsdLoadOptions loadOptions = new PsdLoadOptions();
+            loadOptions.setReadOnlyMode(true);
+            
+            PsdImage image = null;
+            try {
+                image = (PsdImage) Image.load(sourceFileName, loadOptions);
+                image.save(sourceFileName + ".png", getTruecolorWithAlphaPngOptions());
+            } finally {
+                if (image != null) {
+                    image.dispose();
+                }
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    private static PngOptions getTruecolorWithAlphaPngOptions() {
+        PngOptions options = new PngOptions();
+        options.setColorType(PngColorType.TruecolorWithAlpha);
+        return options;
     }` 
 "فوٹوشاپ کے بغیر پی ایس ڈی فائلوں کو کیسے کھولنے کے لئے سبق" "https://products.aspose.com/psd/net/viewer/" 
 "پی ایس ڈی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/psd-to-png/" 

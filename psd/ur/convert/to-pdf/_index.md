@@ -18,6 +18,11 @@ url: convert/to-pdf/
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());
     }` 
+	`    public static void savePdfFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+        }
+    }` 
 	"pdf" 
 "Aspose.PSD میں پی ڈی ایف میں تبادلوں پی ایس ڈی کے کوڈ نمونے"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "اپنے پی ایس ڈی فائلوں کو پی ڈی ایف اور بہت سے دیگر فارمیٹس میں تبدیل کرنے کے لئے مفت ویب ایپلی کیشن" "https://products.aspose.app/psd/conversion" 

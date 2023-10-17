@@ -107,7 +107,9 @@ url: java/
   <footer>
    <small>
     <em>
-     pelo
+      
+    pelo
+      
     </em>
     Java
    </small>
@@ -153,7 +155,9 @@ url: java/
   <footer>
    <small>
     <em>
-     pelo
+      
+    pelo
+      
     </em>
     Java
    </small>
@@ -222,7 +226,9 @@ url: java/
   <footer>
    <small>
     <em>
-     pelo
+      
+    pelo
+      
     </em>
     Java
    </small>

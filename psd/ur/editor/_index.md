@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "پی ایس ڈی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/" 
 "ورک اسپیس کے بڑے سائز کے ساتھ کم کوڈ پی ایس ڈی ایڈیٹر" "https://products.aspose.app/psd/editor/" >}}
 <p>پی ایس ڈی ایڈیٹر فائلوں کے سرور سائڈ پروسیسنگ کا استعمال کرتے ہیں. Aspose.PSD پی ایس ڈی ترمیم سافٹ ویئر بنانے کے لئے استعمال کیا جا سکتا ہے کہ چند مصنوعات میں سے ایک ہے. یہ پی ایس ڈی وسائل کے پڑھنے کے ساتھ ساتھ اپ ڈیٹ کردہ پی ایس ڈی فائلوں کے اداروں کے انجام دونوں کی حمایت کرتا ہے. یہ پی ایس ڈی ایڈیٹر پی ایس ڈی ٹیکسٹ پرت کو اصل ایڈوب فوٹوشاپ ٹیکسٹ انجن کے بہت قریب ہے. آپ اس ایڈیٹر کے ساتھ نئے پی ایس ڈی پرت بھی بنا سکتے ہیں اور برش آپریشنز کے ساتھ اسے اپ ڈیٹ کرسکتے ہیں. پی ایس ڈی کی اپ ڈیٹ کسی بھی ڈیوائس اور OS سے عملدرآمد کیا جا سکتا ہے. پی ایس ڈی پروسیسنگ سافٹ ویئر عام طور پر EXF ڈیٹا، پرت تخلیق کے وقت کی طرح پی ایس ڈی فائل وسائل کے صرف دیکھنے کی حمایت کرتا ہے، لیکن Aspose.PSD ایڈجسٹمنٹ تہوں، بھریں تہوں، متن تہوں، سمارٹ آبجیکٹ سمیت بہت سے معاملات میں پی ایس ڈی فائلوں میں ترمیم کر سکتے ہیں. اگر آپ کے لئے پی ایس ڈی ایڈیٹر کی خصوصیات کافی نہیں ہیں تو براہ کرم کھڑے اکیلے آن پریمیسس حل کی جانچ پڑتال کریں <a href="/psd/{{< lang-code >}}java">پی ایس ڈی جاوا</a> اور تازہ ترین ورژن <a href="/psd/{{< lang-code >}}net">پی ایس ڈی نیٹ</a> اس کے ساتھ ساتھ نیٹ فریم ورک 2.0 +</p>

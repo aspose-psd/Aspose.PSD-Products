@@ -43,7 +43,34 @@ url: view/ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` 
+	}`  `    public static boolean openPdfToPng(InputStream pdfFileStream, String pngFileId, Size size) {
+        try {
+            pdfFileStream.setPosition(0);
+            try (Document pdfDocument = new Document(pdfFileStream)) {
+                com.aspose.pdf.Page page = pdfDocument.getPages().get_Item(1);
+                try (OutputStream imageStream = new ByteArrayOutputStream()) {
+                    Resolution resolution = new Resolution(300);
+                    PngDevice pngDevice = new PngDevice(size.getWidth(), size.getHeight(), resolution);
+                    pngDevice.process(page, imageStream);
+                    imageStream.setPosition(0);
+                    StorageService.upload(pngFileId, imageStream);
+                    return true;
+                }
+            } catch (com.aspose.pdf.exceptions.InvalidPdfFileFormatException e) {
+                return false;
+            }
+        } catch (Exception ex) {
+            return false;
+        }
+    }
+
+    public static void convertAItoPNG(String sourceFileName, String outFileName) {
+        try (AiImage image = (AiImage) Image.load(sourceFileName)) {
+            ImageOptionsBase options = new PngOptions();
+            options.setColorType(PngColorType.TruecolorWithAlpha);
+            image.save(outFileName, options);
+        }
+    }` 
 "Ver archivos de AI sin Illustrator" "https://products.aspose.com/psd/view/" 
 "Ejemplos de GIST de visualización de archivos de AI mediante una API de código alto" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" 
 "Apose una aplicación de código bajo para ver la AI en línea" "https://products.aspose.app/psd/viewer/ai" >}}

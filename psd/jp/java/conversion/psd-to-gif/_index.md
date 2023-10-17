@@ -60,8 +60,8 @@ url: java/conversion/psd-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 -PSD ファイルを読み込む
--のインスタンスを作成 [GIF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
--変換には Image.save (文字列、GIFオプション) メソッドを使用してください。
+-のインスタンスを作成 [GIF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

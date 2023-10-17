@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "PSD को PNG के रूप में देखने के लिए कोड नमूने"  "https://docs.aspose.com/psd/net/" 
 "वर्कस्पेस के बड़े आकार के साथ कम-कोड PSD संपादक" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD संपादक फ़ाइलों के सर्वर-साइड प्रोसेसिंग का उपयोग करते हैं। Aspose.PSD उन कुछ उत्पादों में से एक है जिनका उपयोग PSD संपादन सॉफ़्टवेयर बनाने के लिए किया जा सकता है। यह PSD संसाधनों को पढ़ने के साथ-साथ अद्यतन PSD फ़ाइल इकाइयों के प्रतिपादन दोनों का समर्थन करता है। यह PSD संपादक PSD टेक्स्ट लेयर को मूल Adobe Photoshop टेक्स्ट इंजन के बहुत करीब प्रस्तुत करता है। आप इस एडिटर के साथ नया PSD लेयर भी बना सकते हैं और इसे ब्रश ऑपरेशंस के साथ अपडेट कर सकते हैं। PSD का अपडेट किसी भी डिवाइस और OS से प्रोसेस किया जा सकता है। PSD प्रोसेसिंग सॉफ़्टवेयर आमतौर पर केवल PSD फ़ाइल संसाधनों को देखने का समर्थन करता है जैसे EXIF डेटा, लेयर क्रिएशन का समय, लेकिन Aspose.PSD कई मामलों में PSD फ़ाइलों को संपादित कर सकता है, जिसमें एडजस्टमेंट लेयर्स, फिल लेयर्स, टेक्स्ट लेयर्स, स्मार्ट ऑब्जेक्ट शामिल हैं। यदि PSD संपादक की सुविधाएँ आपके लिए पर्याप्त नहीं हैं, तो कृपया इसके लिए स्टैंड-अलोन ऑन-प्रिमाइसेस समाधान की जाँच करें <a href="/psd/{{< lang-code >}}java">PSD जावा</a> और का नवीनतम संस्करण <a href="/psd/{{< lang-code >}}net">PSD. नेट</a> साथ ही .Net फ्रेमवर्क 2.0 +</p>

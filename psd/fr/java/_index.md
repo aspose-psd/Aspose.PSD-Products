@@ -89,7 +89,7 @@ url: java/
      Masques matriciels, vectoriels et de découpage
     </li>
     <li>
-     Couches de texte
+     Calques de texte
     </li>
     <li>
      Modes d'image de la plupart des fichiers PSD/PSB
@@ -107,7 +107,9 @@ url: java/
   <footer>
    <small>
     <em>
-     fourchette
+      
+    fourchette
+      
     </em>
     Java
    </small>
@@ -153,7 +155,9 @@ url: java/
   <footer>
    <small>
     <em>
-     fourchette
+      
+    fourchette
+      
     </em>
     Java
    </small>
@@ -222,7 +226,9 @@ url: java/
   <footer>
    <small>
     <em>
-     fourchette
+      
+    fourchette
+      
     </em>
     Java
    </small>

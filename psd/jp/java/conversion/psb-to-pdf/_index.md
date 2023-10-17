@@ -60,8 +60,8 @@ url: java/conversion/psb-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 -PSB ファイルを読み込む
--のインスタンスを作成 [PDF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
--変換には Image.save (文字列、PDFオプション) メソッドを使用してください。
+-のインスタンスを作成 [PDF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

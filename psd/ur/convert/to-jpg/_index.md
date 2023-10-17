@@ -18,6 +18,13 @@ url: convert/to-jpg/
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
     }` 
+`    public static void saveJpgFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+        }
+    }` 
 		"jpg" 
 "Aspose.PSD ہائی کوڈ API کا استعمال کرتے ہوئے JPG کو پی ایس ڈی سے مثال کے طور پر تبدیل کریں"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "پی ایس ڈی فائلوں کو JPEG میں تبدیل کرنے کی درخواست" "https://products.aspose.app/psd/conversion/psd-to-jpg" 

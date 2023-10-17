@@ -1,5 +1,5 @@
 ---
-title: Muunna PSD PDF-muotoon Java n kautta
+title: Muunna PSD PDF-muotoon Java| n kautta
 weight: 360
 description: Näyte Java muuntaminen koodi PSD muodossa PDF-tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSD PDF-muotoon missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: java/conversion/psd-to-pdf/
@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSD-tiedosto
-- Luo esiintymä [PDFOptionS-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Käytä Image.save (String, PDFOptions) menetelmä muuntamiseen.
+- Luo esiintymä [PDFOptionS-luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

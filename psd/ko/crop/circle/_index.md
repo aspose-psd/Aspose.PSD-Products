@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>Aspose.PSD 크롭 바이 서클은 하이코드 API를 사용합니다.자르기 기능은 Java 및 .Net용 Aspose.PSD 솔루션에서 사용할 수 있습니다.Aspose.PSD 를 사용하여 원하는 그림으로 이미지를 자를 수 있습니다. 이 앱은 원형 자르기 기능만 보여줍니다.자신만의 크롭 솔루션을 만들고 싶다면 Aspose.PSD 를 확인하세요. 웹 서비스의 백엔드에서 사용할 수 있으며 원형 이미지로 크롭할 수 있습니다.</p>

@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>यदि आप इसे PSD के रूप में सहेजते हैं, तो PSB प्रारूप को आसानी से संपीड़ित किया जा सकता है, लेकिन PSD प्रारूप उस छवि का समर्थन नहीं करता है जो चौड़ाई या ऊंचाई पर 30000 पिक्सेल से अधिक है। इस मामले में PSB फ़ाइल को संपीड़ित करना अधिक जटिल समाधान है। आप PSB कंप्रेस सॉफ़्टवेयर आज़मा सकते हैं लेकिन हम गारंटी नहीं दे सकते कि अंतिम संपीड़ित PSB फ़ाइल पठनीय होगी। यह ऐप PSB प्रारूप की प्रलेखित सुविधाओं का उपयोग नहीं करता है। सही काम की संभावना को बेहतर बनाने के लिए, कृपया उन सुविधाओं को संपीड़ित करने का प्रयास करें जो महत्वपूर्ण डेटा को नहीं हटाएंगी। “जैसा है” प्रदान किया गया PSB का आकार कम करें। सामान्य का उपयोग करना बेहतर है <a href="/psd/reduce-size">PSD का आकार कम करें अनुप्रयोग</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "PSD फ़ाइलों के संपीड़न के लिए कोड नमूने आधिकारिक Github रिपॉजिटरी में पाए जा सकते हैं"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "PSD और PSB को संपीड़ित करने के लिए वेब एप्लिकेशन" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB फाइलें 2gb तक हो सकती हैं, इसलिए आप केस तब प्राप्त कर सकते हैं जब यह ऐप अपने आकार को कम करने के लिए PSB फ़ाइल अपलोड नहीं कर सकता है। इस मामले में इसका उपयोग करना बेहतर है <a href="/psd">Aspose.PSD के रूप में ऑन-प्रिमाइसेस psd प्रारूप समाधान</a> और अपने आप से संपीड़न कोड लिखें। एसबी प्रारूप को संपीड़ित करने के लिए गर्म कोड उदाहरण इस लेख में पाए जा सकते हैं, बस बिल्ट-इन एसबी फ़ाइल कम ऐप में टैब स्विच करें</p>

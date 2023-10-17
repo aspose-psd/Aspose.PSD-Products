@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Code samples for viewing PSD as PNG"  "https://docs.aspose.com/psd/net/" 
 "Low-code PSD Editor with with a bigger size of workspace" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor use server-side processing of files. Aspose.PSD is one of the few products that can be used to create PSD Editing Software. It supports both reading of PSD resources as well as rendering of updated PSD Files entities. This PSD Editor renders PSD Text Layer very close to the original Adobe Photoshop Text Engine. You also can create new PSD Layer with this editor and update it with Brush Operations. Update of PSD can be processed from any device and OS. PSD processing software commonly supports only viewing of PSD File Resources like EXIF data, time of Layer Creation, but Aspose.PSD can edit PSD Files in many cases, including Adjustment Layers, Fill Layers, Text Layers, Smart Object. If features of PSD Editor is not enough for you please check stand-alone on-premise solution for <a href="/psd/{{< lang-code >}}java">PSD Java</a> and the latest version of <a href="/psd/{{< lang-code >}}net">PSD .Net</a> as well as .Net Framework 2.0 +</p>

@@ -18,6 +18,13 @@ url: convert/to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`    public static void savePngFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 	"png" 
 "可以使用 Aspose.PSD 将示例从 PSD 转换为 PNG"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "免费的网络应用程序，可将您的PSD文件转换为PNG和许多其他格式" "https://products.aspose.app/psd/conversion" 

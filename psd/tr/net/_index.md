@@ -121,7 +121,7 @@ url: net/
      Raster, Vektör ve Kırpma Maskeleri
     </li>
     <li>
-     Metin Katmanları
+     Metin katmanları
     </li>
     <li>
      PSD/PSB dosyalarının çoğu görüntü modları
@@ -132,14 +132,16 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET PSD İşleme API'si" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“.NET PSD İşleme API'si” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
-     için
+      
+    için
+      
     </em>
     .NET
    </small>
@@ -183,14 +185,16 @@ url: net/
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="PSD Manipülasyon API'leri" src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
+  <img width="70" height="75" alt=“PSD Manipülasyon API'leri” src="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" />
   <header>
    Aspose.PSD nedir
   </header>
   <footer>
    <small>
     <em>
-     için
+      
+    için
+      
     </em>
     .NET
    </small>
@@ -259,7 +263,9 @@ url: net/
   <footer>
    <small>
     <em>
-     için
+      
+    için
+      
     </em>
     .NET
    </small>

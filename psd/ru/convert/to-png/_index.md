@@ -18,6 +18,13 @@ url: convert/to-png/
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`    public static void savePngFormat(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 	"png" "Преобразовать пример из PSD в PNG можно с помощью Aspose.PSD"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" "Бесплатное веб-приложение для конвертации ваших PSD-файлов в PNG и многие другие форматы" "https://products.aspose.app/psd/conversion" "Примеры на Gists" "https://gist.github.com/aspose-com-gists/5a58a43ac00fd68974d95b72d2fdb5e8#file-convert-psd-to-png-cs" >}}
 <p>Преобразование PSD в PNG с помощью Aspose.PSD осуществляется с точностью до пикселя. Но могут иметь некоторые различия в конверсии при конвертации 16-битных и 32-битных изображений. Основные причины разные. При конвертации в формат PNG, поддерживающий только 8-битные цвета на канал, вы теряете дополнительную информацию. Кроме того, для 8-битного преобразования PSD в PNG используется предварительный просмотр, в некоторых случаях исходный файл не предпросмотра, потому что он был удален для <a href="/psd/reduce-size">уменьшение размера PSD-файла.</a>. В этом случае лучше использовать <a href="/psd">API с высоким кодом Aspose.PSD</a></p>
 {{< /blocks/products/pf/feature-page-section >}}

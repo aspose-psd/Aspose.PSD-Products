@@ -1,7 +1,7 @@
 ---
-title: Muunna PSB BMP ksi Java n kautta
+title: Muunna PSB BMP| ksi Java| n kautta
 weight: 300
-description: Näyte Java muuntaminen koodi PSB muodossa BMP tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB BMP ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
+description: Näyte Java muuntaminen koodi PSB muodossa BMP tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB BMP| ksi missä tahansa Web- tai Desktop Java -pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-bmp/
 ---
 
@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSB-tiedosto
-- Luo esiintymä [BMPOptions luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- Käytä Image.save (String, BMPOptions) menetelmä muuntamiseen.
+- Luo esiintymä [BMPOptions luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

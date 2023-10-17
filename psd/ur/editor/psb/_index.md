@@ -49,6 +49,34 @@ url: editor/psb/
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
 	}` 
+	` public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psb")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psb");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "پی ایس بی کو PNG کے طور پر دیکھنے کے لئے کوڈ نمونے"  "https://docs.aspose.com/psd/net/" 
 "پی ایس بی کو دیگر فارمیٹس میں تبدیل کرنا"  "/psd/convert" 
 "ورک اسپیس کے بڑے سائز کے ساتھ کم کوڈ پی ایس بی ایڈیٹر" "https://products.aspose.app/psd/editor/psb" 

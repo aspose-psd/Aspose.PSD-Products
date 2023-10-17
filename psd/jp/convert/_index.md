@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" 
 "PSD を Aspose.PSD 内の他の形式に変換するためのコードサンプル"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "PSD、PSB、AI 画像を PNG、PDF、Jpg、Tif、Pdf、Gif などの形式に変換する無料のウェブアプリケーション" "https://products.aspose.app/psd/conversion" >}}

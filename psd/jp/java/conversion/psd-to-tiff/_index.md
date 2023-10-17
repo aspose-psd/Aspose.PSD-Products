@@ -60,8 +60,8 @@ url: java/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 -PSD ファイルを読み込む
--のインスタンスを作成 [TIFF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
--変換には Image.save (文字列、TIFFオプション) メソッドを使用します。
+-のインスタンスを作成 [TIFF オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

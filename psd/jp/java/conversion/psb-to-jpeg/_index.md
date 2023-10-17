@@ -60,8 +60,8 @@ url: java/conversion/psb-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 -PSB ファイルを読み込む
--のインスタンスを作成 [JPEG オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
--変換には Image.save (文字列、JPEGオプション) メソッドを使用してください。
+-のインスタンスを作成 [JPEG オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

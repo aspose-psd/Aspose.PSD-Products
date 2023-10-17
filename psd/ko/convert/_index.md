@@ -21,6 +21,17 @@ url: convert/
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });
     }` 
+	`public static void saveImageFormats(String sourceFileName) {
+        try (PsdImage image = (PsdImage) Image.load(sourceFileName)) {
+            image.save(sourceFileName + ".pdf", new PdfOptions());
+            image.save(sourceFileName + ".jpg", new JpegOptions() {{
+                setQuality(75);
+            }});
+            image.save(sourceFileName + ".png", new PngOptions() {{
+                setColorType(PngColorType.TruecolorWithAlpha);
+            }});
+        }
+    }` 
 "" 
 "PSD를 Aspose.PSD 파일에서 다른 형식으로 변환하기 위한 코드 샘플"  "https://docs.aspose.com/psd/net/convert-psd-to-other-formats/" 
 "PSD, PSB 및 AI 이미지를 Png, Pdf, Jpg, Tif, Pdf, Gif 및 기타 형식으로 변환하는 무료 웹 응용 프로그램" "https://products.aspose.app/psd/conversion" >}}

@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>O formato PSB pode ser facilmente compactado se você salvá-lo como PSD, mas o formato PSD não suporta imagens com mais de 30000 pixels de largura ou altura. Neste caso, compactar o arquivo PSB é uma solução mais complexa. Você pode experimentar o software PSB Compress, mas não podemos garantir que o arquivo PSB compactado final seja legível. Este aplicativo usa recursos não documentados do formato PSB. Para aumentar a chance de o trabalho correto, tente compactar recursos que não removerão dados importantes. Reduza o tamanho do PSB fornecido “como está”. É melhor usar o comum <a href="/psd/reduce-size">Aplicativo de redução de tamanho do PSD</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "Amostras de código para compressão de arquivos PSD podem ser encontradas no repositório oficial do Github"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Aplicativo web para compactar PSD e PSB" "https://products.aspose.app/psd/compress/psd" >}}
 <p>Os arquivos PSB podem ter até 2 GB, então você pode descobrir quando este aplicativo não pode carregar o arquivo PSB para reduzir seu tamanho. Nesses casos, é melhor usar <a href="/psd">solução de formato psd local como Aspose.PSD</a> e escreva o código de compressão sozinho. Os exemplos de código que não podem ser compactados no formato PSB podem ser encontrados neste artigo, basta alternar as guias no aplicativo PSB File Reduce integrado</p>

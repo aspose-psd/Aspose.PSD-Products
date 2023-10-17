@@ -7,7 +7,7 @@ keywords: [crop circle, crop circle image, crop image to circle, make circle pho
 url: crop/circle/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Solução de formato de arquivo Adobe Photoshop" h2="APIs de alto código e aplicativos gratuitos para PSD, PSB com capacidade de recortar imagens em círculos, elipses e em outras figuras" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Solução de produto Aspose.PSD" >}}
+{{< blocks/products/pf/upper-banner h1="Solução de formato de arquivo Adobe Photoshop" h2="APIs de alto código e aplicativos gratuitos para PSD, PSB com capacidade de recortar imagens em círculo, elipse e em outras figuras" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/headers/aspose_psd-brand.svg" imageAlt="Solução de produto Aspose.PSD" >}}
 
 {{< blocks/products/pf/main-container >}}
 
@@ -22,6 +22,13 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     "//" "Cropping" "image" "by" "Circle" "using" "Java" 
+`    public static String cropToCircle(String storageId, Image image, Options options) {
+        try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
+            resultMemoryStream.setPosition(0);
+            return this.StorageService.upload(storageId, resultMemoryStream);
+        }
+    }` 
 "Code samples for cropping to circle the PSD Files can be found in official Github repository"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Simple way to crop image using Aspose.PSD" "https://docs.aspose.com/psd/net/cropping-psd-file-while-converting-to-png/" >}}
 <p>O Aspose.PSD Crop by Circle usa a API high-code. Os recursos de recorte estão disponíveis na solução Aspose.PSD para Java e .Net. Você pode usar o Aspose.PSD para cortar imagens em qualquer figura que desejar. Este aplicativo demonstra apenas os recursos do círculo de corte. Se você quiser criar sua própria solução de corte, verifique Aspose.PSD, ela pode ser usada no back-end do seu serviço web e recorte em uma imagem circular</p>

@@ -55,8 +55,8 @@ Untuk merender PSB ke JPEG2000, kita akan menggunakan <a href="/psd/{{< lang-cod
 {{% /blocks/products/pf/agp/text %}}
 
 - Muat file PSB
-- Buat sebuah instance dari [Kelas Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Gunakan Image.save (String, Jpeg2000Options) metode untuk konversi.
+- Buat sebuah instance dari [Kelas Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

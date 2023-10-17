@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSB 파일 불러오기
-- 인스턴스 생성 [PSD 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- 변환에는 이미지 저장 (문자열, PSD 옵션) 방법을 사용하십시오.
+- 인스턴스 생성 [PSD 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

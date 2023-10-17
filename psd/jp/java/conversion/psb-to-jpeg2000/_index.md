@@ -55,8 +55,8 @@ PSB を JPEG2000 にレンダリングするには、 <a href="/psd/{{< lang-cod
 {{% /blocks/products/pf/agp/text %}}
 
 -PSB ファイルを読み込む
--のインスタンスを作成 [Jpeg 2000 オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
--変換には Image.save (文字列、Jpeg2000オプション) メソッドを使用してください。
+-のインスタンスを作成 [Jpeg 2000 オプションクラス](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

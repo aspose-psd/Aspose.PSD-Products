@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "Koodinäytteet PSD: n katseluun PNG: nä"  "https://docs.aspose.com/psd/net/" 
 "Low-koodi PSD Editor kanssa isompi koko työtilan" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD Editor käyttää palvelinpuolen tiedostojen käsittelyä. Aspose.PSD on yksi harvoista tuotteista, joita voidaan käyttää luomaan PSD muokkausohjelmisto. Se tukee sekä käsittelyssä PSD resursseja sekä renderöinti päivitetyn PSD tiedostot entiteettejä. Tämä PSD Editor tekee PSD Text Layer hyvin lähellä alkuperäistä Adobe Photoshop Text Engine. Voit myös luoda uuden PSD-kerroksen tällä editorilla ja päivittää sen Brush Operations -sovelluksella. PSD: n päivitys voidaan käsitellä mistä tahansa laitteesta ja käyttöjärjestelmästä. PSD ohjelmistot yleisesti tukee vain katselu PSD File Resources kuten EXIF tiedot, aika Layer Creation, mutta Aspose.PSD voi muokata PSD tiedostoja monissa tapauksissa, kuten säätö Tasot, Täytä Tasot, Teksti Tasot, Smart Object. Jos ominaisuuksia PSD Editor ei riitä sinulle tarkista stand-alone on-premise ratkaisu <a href="/psd/{{< lang-code >}}java">PSD Java</a> ja uusin versio <a href="/psd/{{< lang-code >}}net">PSD.Net</a> sekä .Net Framework 2.0 +</p>

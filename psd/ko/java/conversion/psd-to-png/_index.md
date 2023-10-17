@@ -60,8 +60,8 @@ url: java/conversion/psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD 파일 불러오기
-- 인스턴스 생성 [PNG 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- 변환에는 Image.save (문자열, PNG 옵션) 메서드를 사용하십시오.
+- 인스턴스 생성 [PNG 옵션 클래스](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

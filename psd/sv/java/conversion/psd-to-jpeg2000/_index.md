@@ -55,8 +55,8 @@ För att göra PSD till JPEG2000, vi kommer att använda <a href="/psd/{{< lang-
 {{% /blocks/products/pf/agp/text %}}
 
 - Ladda PSD-filen
-- Skapa en instans av [Klassen Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Använd Image.save (String, Jpeg2000Options) metod för konvertering.
+- Skapa en instans av [Klassen Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

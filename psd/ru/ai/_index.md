@@ -43,7 +43,34 @@ url: ai/
 	{
 		ImageOptionsBase options = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 		image.Save(outFileName, options);
-	}` "Просмотр файлов AI без Illustrator" "https://products.aspose.com/psd/view/" "Примеры просмотра AI-файлов в GIST с использованием высококодового API" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "Приложение Aspose Lowcode для просмотра искусственного интеллекта в Интернете" "https://products.aspose.app/psd/viewer/ai" >}}
+	}` 
+	`public static boolean viewPdfToPng(InputStream pdfFileStream, String pngFileId, Size size) {
+        pdfFileStream.Position = 0;
+        try {
+            Document pdfDocument = new Document(pdfFileStream);
+            Page page = pdfDocument.getPages().get_Item(1);
+            try (ByteArrayOutputStream imageStream = new ByteArrayOutputStream()) {
+                Resolution resolution = new Resolution(300);
+                PngDevice pngDevice = new PngDevice(size.getWidth(), size.getHeight(), resolution);
+                pngDevice.process(page, imageStream);
+                imageStream.Position = 0;
+                StorageService.upload(pngFileId, imageStream);
+                return true;
+            }
+        } catch (com.aspose.pdf.exceptions.InvalidPdfFileFormatException e) {
+            return false;
+        } catch (IOException e) {
+            return false;
+        }
+    }
+
+    public static void viewOldAiFormats(String sourceFileName, String outFileName) {
+        try (AiImage image = (AiImage) Image.load(sourceFileName)) {
+            ImageOptionsBase options = new PngOptions();
+            options.setColorType(PngColorType.TruecolorWithAlpha);
+            image.save(outFileName, options);
+        }
+    }`	 "Просмотр файлов AI без Illustrator" "https://products.aspose.com/psd/view/" "Примеры просмотра AI-файлов в GIST с использованием высококодового API" "https://gist.github.com/aspose-com-gists/8a4c9d34ce856d1642fc7c0ce974175c#file-examples-csharp-aspose-modifyingandconvertingimages-ai-aitopng-aitopng-cs" "Приложение Aspose Lowcode для просмотра искусственного интеллекта в Интернете" "https://products.aspose.app/psd/viewer/ai" >}}
 <p>Просмотрите AI-файл с помощью Aspose.PSD. Простой и быстрый AI Viewer.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

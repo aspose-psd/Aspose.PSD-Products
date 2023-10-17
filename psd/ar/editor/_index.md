@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "نماذج التعليمات البرمجية لعرض PSD كـ PNG"  "https://docs.aspose.com/psd/net/" 
 "محرر PSD منخفض الكود مع مساحة عمل أكبر" "https://products.aspose.app/psd/editor/" >}}
 <p>يستخدم محرر PSD معالجة الملفات من جانب الخادم. Aspose.PSD هي واحدة من المنتجات القليلة التي يمكن استخدامها لإنشاء برنامج تحرير PSD. وهو يدعم قراءة موارد PSD وكذلك عرض كيانات ملفات PSD المحدثة. يجعل محرر PSD هذا طبقة نص PSD قريبة جدًا من محرك نصوص Adobe Photoshop الأصلي. يمكنك أيضًا إنشاء طبقة PSD جديدة باستخدام هذا المحرر وتحديثها باستخدام Brush Operations. يمكن معالجة تحديث PSD من أي جهاز ونظام تشغيل. يدعم برنامج معالجة PSD عادةً عرض موارد ملفات PSD فقط مثل بيانات EXIF ووقت إنشاء الطبقة، ولكن يمكن لـ Aspose.PSD تحرير ملفات PSD في كثير من الحالات، بما في ذلك طبقات التعديل وطبقات التعبئة وطبقات النص والكائن الذكي. إذا لم تكن ميزات محرر PSD كافية بالنسبة لك، فيرجى التحقق من الحل المحلي المستقل لـ <a href="/psd/{{< lang-code >}}java">بي إس دي جافا</a> وأحدث إصدار من <a href="/psd/{{< lang-code >}}net">بي إس دي دوت نت</a> بالإضافة إلى إطار عمل .Net 2.0 +</p>

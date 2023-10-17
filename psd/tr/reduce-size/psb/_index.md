@@ -14,7 +14,7 @@ url: reduce-size/psb/
 <p>PSD olarak kaydedecekseniz PSB formatı kolayca sıkıştırılabilir, ancak PSD formatı genişlik veya yükseklikte 30000 pikselden fazla olan görüntüyü desteklemez. Bu durumda PSB dosyasını sıkıştırmak daha karmaşık bir çözümdür. PSB Sıkıştırma Yazılımını deneyebilirsiniz, ancak son sıkıştırılmış PSB dosyasının okunabilir olacağını garanti edemeyiz. Bu uygulama, PSB formatının belgelenmemiş özelliklerini kullanır. Doğru çalışma şansını artırmak için lütfen önemli verileri kaldırmayacak sıkıştırma özelliklerini deneyin. “olduğu gibi” sağlanan PSB boyutunu azaltın. Ortak kullanmak daha iyidir <a href="/psd/reduce-size">PSD Boyutu Azaltma Uygulaması</a></p>
 {{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 
-`        // Lossless PSD file reduce operation
+`        // Lossless PSB file reduce operation
         // Remove Cache Data			
         Stream RemoveCacheData(PsdImage image)
         {
@@ -134,6 +134,97 @@ url: reduce-size/psb/
 
             return stream;
         }` 
+		`    public class PsbCompressionUtils {
+
+    public static OutputStream removeCacheData(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            if (layer instanceof TextLayer || layer instanceof FillLayer) {
+                layer.saveArgb32Pixels(layer.getBounds(), new int[layer.getBounds().getWidth() * layer.getBounds().getHeight()]);
+            }
+        }
+
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+
+    public static OutputStream applyRleCompression(PsdImage image) {
+        for (Layer layer : image.getLayers()) {
+            for (var channelInformation : layer.getChannelInformation()) {
+                if (channelInformation.getCompressionMethod() == CompressionMethod.Raw) {
+                    ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                    image.save(stream, new PsdOptions(image) {{
+                        setCompressionMethod(CompressionMethod.RLE);
+                    }});
+
+                    return stream;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionTo8Bit(PsdImage image) {
+        if (image.getBitsPerChannel() > 8) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setChannelBitsCount(8);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyConversionToRGBA(PsdImage image) {
+        if (image.getColorMode() == ColorModes.Cmyk) {
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image) {{
+                setColorMode(ColorModes.Rgb);
+            }});
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream applyMergingLayers(PsdImage image) {
+        if (image.getLayers().length > 1) {
+            image.flattenImage();
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            image.save(stream, new PsdOptions(image));
+
+            stream.Position = 0;
+
+            return stream;
+        }
+
+        return null;
+    }
+
+    public static OutputStream removeNotVisibleLayers(PsdImage image) {
+        List layersSet = new ArrayList<>();
+        for (Layer layer : image.getLayers()) {
+            if ((!layer.isVisible() || !layer.isVisibleInGroup()) && !(layer instanceof LayerGroup)) {
+                layersSet.add(layer);
+            }
+        }
+
+        image.setLayers(layersSet.toArray(new Layer[0]));
+        ByteArrayOutputStream stream = new ByteArrayOutputStream();
+        image.save(stream, new PsdOptions(image));
+
+        return stream;
+    }
+}` 
 "PSD Dosyaları sıkıştırma için kod örnekleri resmi Github deposunda bulunabilir"  "https://github.com/aspose-psd/Aspose.PSD-for-.NET" 
 "Web uygulaması PSD ve PSB sıkıştırmak için" "https://products.aspose.app/psd/compress/psd" >}}
 <p>PSB dosyaları 2gb'ye kadar olabilir, böylece bu uygulama boyutunu azaltmak için PSB dosyasını yükleyemediğinde durumu alabilirsiniz. Bu durumlarda kullanmak daha iyidir <a href="/psd">Aspose.PSD olarak şirket içi psd biçimi çözümü</a> ve kendiniz kompres kodu yazın. PSB formatını sıkıştırmak için sıcak kod örnekleri bu makalede bulunabilir, sadece yerleşik PSB Dosya Azaltma Uygulamasındaki sekmeleri değiştirin</p>

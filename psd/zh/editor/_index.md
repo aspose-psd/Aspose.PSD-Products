@@ -51,7 +51,34 @@ url: editor/
 
 		// export image to bmp file format.
 		image.Save(outpath, saveOptions);
-	}` 
+	}` `public static void updateTextLayer() {
+        try (PsdImage psdImage = (PsdImage) Image.load("layers.psd")) {
+            for (com.aspose.psd.Layers.ILayer layer : psdImage.getLayers()) {
+                if (layer instanceof TextLayer) {
+                    TextLayer textLayer = (TextLayer) layer;
+                    textLayer.updateText("test update", new Point(0, 0), 15.0f, Color.getPurple());
+                }
+            }
+
+            psdImage.save("UpdateTextLayerInPSDFile_out.psd");
+        }
+    }
+
+    public static void updateLayerWithGraphics() {
+        try (Image image = new PsdImage(100, 100)) {
+            Graphics graphic = new Graphics(image);
+            graphic.clear(Color.getYellow());
+
+            int width = 100;
+            int height = 200;
+            int startAngle = 45;
+            int sweepAngle = 270;
+
+            graphic.drawArc(new Pen(Color.getBlack()), 0, 0, width, height, startAngle, sweepAngle);
+
+            image.save(outpath, saveOptions);
+        }
+    }` 
 "以 PNG 形式查看 PSD 的代码示例"  "https://docs.aspose.com/psd/net/" 
 "具有更大工作空间的低代码 PSD 编辑器" "https://products.aspose.app/psd/editor/" >}}
 <p>PSD 编辑器使用服务器端处理文件。Aspose.PSD 是为数不多的可用于创建 PSD 编辑软件的产品之一。它既支持读取 PSD 资源，也支持渲染更新后的 PSD 文件实体。这款 PSD 编辑器呈现的 PSD 文本图层与原来的 Adobe Photoshop 文本引擎非常接近。您也可以使用此编辑器创建新的 PSD 图层，然后使用 “画笔操作” 对其进行更新。PSD 的更新可以从任何设备和操作系统处理。PSD 处理软件通常仅支持查看 PSD 文件资源，例如 EXIF 数据、图层创建时间，但是 Aspose.PSD 可以在许多情况下编辑 PSD 文件，包括调整图层、填充图层、文本图层、智能对象。如果 PSD 编辑器的功能不足以满足您的需求，请查看独立的本地解决方案 <a href="/psd/{{< lang-code >}}java">PSD Java</a> 以及最新版本的 <a href="/psd/{{< lang-code >}}net">PSD .Net</a> 还有 .net Framework 2.0 +</p>

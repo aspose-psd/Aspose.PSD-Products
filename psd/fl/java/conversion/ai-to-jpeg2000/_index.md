@@ -1,5 +1,5 @@
 ---
-title: Muunna AI JPEG2000 ksi Javan kautta
+title: Muunna AI JPEG2000| ksi Javan kautta
 description: Näyte Java muuntaminen koodi AI-muodossa JPEG2000 tiedosto. Tämän esimerkkikoodin avulla voit muuntaa tekoälyn JPEG2000-muotoon missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa
 url: java/conversion/ai-to-jpeg2000/
 ---

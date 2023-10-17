@@ -1,7 +1,7 @@
 ---
-title: Muunna PSB PSD ksi Java n kautta
+title: Muunna PSB PSD| ksi Java| n kautta
 weight: 160
-description: Näyte Java muuntaminen koodi PSB muodossa PSD tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB PSD ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
+description: Näyte Java muuntaminen koodi PSB muodossa PSD tiedosto. Tämän esimerkkikoodin avulla voit muuntaa PSB PSD| ksi missä tahansa Web- tai Desktop-Java-pohjaisessa sovelluksessa.
 url: java/conversion/psb-to-psd/
 ---
 
@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lataa PSB-tiedosto
-- Luo esiintymä [PSDOptions luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- Käytä Image.save (String, PSDAtions) menetelmä muuntamiseen.
+- Luo esiintymä [PSDOptions luokka](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
