@@ -398,25 +398,17 @@ url: python-net/
    
    <div class="col-lg-12">
     <h2 class="h2title">
-     Export PSD to Various Raster Formats
+     Open PSD File in Python and update text
     </h2>
     <p>
-     Aspose.PSD for Python via .NET provides the capability to export PSD files to any of the supported raster image formats, with just a few lines of code.
+     Aspose.PSD for Python via .NET provides the capability to open and aedit PSD files with just a few lines of code.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Convert PSD to PNG, JPEG &amp; TIFF - Python
+      Open file, Update Text, Export to Other Format like PDF, PNG, JPEG, TIFF, BMP, GIF - Python
      </h3>
-    {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "convert-psd-to-png-jpg-tiff.cs" >}}
+    {{< gist "dimsa" "27582839af6d67e3ae92f72877437250" "Pypi-Open-File-Update-Text.py" >}}
     </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Access &amp; Manipulate PSD Layers
-    </h2>
-    <p>
-     Aspose.PSD for Python via .NET lets you access layers of a PSD with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PSD .NET API to detect flattened PSD files or create thumbnails.
-    </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -429,17 +421,37 @@ url: python-net/
      <h3>
       Create PSD from scratch - Python
      </h3>
-     {{< gist "aspose-com-gists" "f322a3af27fefa5738f72b456cf505b3" "create-psd-from-scratch.cs" >}}
+     {{< gist "dimsa" "27582839af6d67e3ae92f72877437250" "Pypi-Create-File-From-Scratch-And-Layer.py" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Various Imaging Filters
+     Add any file supported Graphic File as a Layer for editing in Photoshop-like style using Aspose.PSD for Python
     </h2>
     <p>
-     Aspose.PSD for Python via.NET provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.
+     Aspose.PSD for Python via .NET provides the capability to add any Image file as a layer and start its editing
     </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Open file, Update Text, Export to Other Format like PDF, PNG, JPEG, TIFF, BMP, GIF - Python
+     </h3>
+    {{< gist "dimsa" "27582839af6d67e3ae92f72877437250" "Pypi-Add-Image-as-a-layer.py" >}}
+    </div>
    </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Please check how the Aspose.PSD for Python License can be applied
+    </h2>
+    <p>
+     Aspose.PSD for Python can be easily tested for your needs but the Library is paid, so you need to obtain license
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Open file, Update Text, Export to Other Format like PDF, PNG, JPEG, TIFF, BMP, GIF - Python
+     </h3>
+    {{< gist "dimsa" "27582839af6d67e3ae92f72877437250" "Pypi-Apply-License.py" >}}
+    </div>
+   </div>   
   </div>
  </div>
 </div>
