@@ -60,8 +60,8 @@ url: java/conversion/psd-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - Načíst soubor PSD
-- Vytvořte instanci [Třída JPEGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
-- Pro konverzi použijte metodu Image.Save (String, JPEGOptions).
+- Vytvořte instanci [Třída JPEGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -117,7 +117,7 @@ PSD, Photoshop Document, představuje nativní formát souboru Adobe Photoshop p
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" >}}
 
-JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu. Formát obrazového souboru JPEG byl standardizován skupinou Joint Photographic Experts Group a odtud název JPEG. Formát byl zvolen pro ukládání a přenos fotografických obrázků na webu. Téměř všechny operační systémy nyní mají prohlížeče, které podporují vizualizaci obrázků JPEG, které jsou často uloženy také s příponou JPG. Dokonce i webové prohlížeče podporují vizualizaci obrázků JPEG.<br /><br />JPG sdružuje kurátory, sběratele a tvůrce prostřednictvím protokolu zaměřeného na kurátorství NFT. Uživatelé mohou vytvářet své vlastní výstavy libovolných NFT založených na Ethereu a vytvářet tak síť kulturních vztahů.
+JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu. Formát obrazového souboru JPEG byl standardizován skupinou Joint Photographic Experts Group a odtud název JPEG. Formát byl zvolen pro ukládání a přenos fotografických obrázků na webu. Téměř všechny operační systémy nyní mají prohlížeče, které podporují vizualizaci obrázků JPEG, které jsou často uloženy také s příponou JPG. Dokonce i webové prohlížeče podporují vizualizaci obrázků JPEG.<br/><br/>JPG sdružuje kurátory, sběratele a tvůrce prostřednictvím protokolu zaměřeného na kurátorství NFT. Uživatelé mohou vytvářet své vlastní výstavy libovolných NFT založených na Ethereu a vytvářet tak síť kulturních vztahů.
 
 
         {{< /blocks/products/pf/agp/about-file-text >}}

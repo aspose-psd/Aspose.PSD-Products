@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - قم بتحميل ملف PSB
-- إنشاء مثيل لـ [فئة خيارات PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- استخدم طريقة Image.save (السلسلة، PSDOptions) للتحويل.
+- إنشاء مثيل لـ [فئة خيارات PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

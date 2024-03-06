@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس بی فائل لوڈ کریں
-- ایک مثال بنائیں [پی ایس ایڈوپشن کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-تبادلوں کے لئے image.save (سٹرنگ، PSDoptons) کا طریقہ استعمال کریں.
+- ایک مثال بنائیں [پی ایس ایڈوپشن کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

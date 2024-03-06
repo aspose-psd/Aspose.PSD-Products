@@ -19,6 +19,10 @@ High Code API: er för PSD-, PSB- och AI-filformatmanipulering i Windows Forms, 
 Java-API:er för att manipulera Photoshop- och Illustrator-filer. Skapa, ladda, ändra och återge PSD-, PSB- och AI-format inom Java-baserade applikationer utan några programvaruberoende.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+API Python для редактирования файлов Photoshop и Illustrator. Создавайте, загружайте, изменяйте и визуализируйте форматы PSD, PSB и AI в приложениях на основе Python без каких-либо программных зависимостей.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Visa alla API:er med hög kod" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

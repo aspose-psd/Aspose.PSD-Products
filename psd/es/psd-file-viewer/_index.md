@@ -19,9 +19,9 @@ url: psd-file-viewer/
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
     }` 
-"Exportación de archivos PSD a otros formatos para su visualización" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
-"Ejemplos de GIST de visualización de archivos PSD en otros formatos utilizando una API de código alto en Java" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
-"Apose una aplicación de código bajo para ver archivos PSD en línea" "https://products.aspose.app/psd/viewer/psd" >}}
+"Exporting of PSD File to other formats for the viewing" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST Examples of viewing PSD files in other formats using high-code API on Java" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"Aspose Low-code app to view PSD File online" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>Vea el archivo PSD con el visor PSD sin código incorporado. Visualización rápida y precisa de archivos PSD. Solo tienes que subir el archivo PSD.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

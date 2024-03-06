@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - Cargue el archivo PSB
-- Crea una instancia de [Clase BMPOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- Utilice el método Image.save (String, BmpOptions) para la conversión.
+- Crea una instancia de [Clase BMPOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

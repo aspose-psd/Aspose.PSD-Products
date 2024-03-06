@@ -60,8 +60,8 @@ url: java/conversion/psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSD 文件
--创建一个实例 [pngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
--使用 Image.Save（字符串、pngOptions）方法进行转换。
+-创建一个实例 [pngOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

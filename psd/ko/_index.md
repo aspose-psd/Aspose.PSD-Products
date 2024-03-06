@@ -19,6 +19,10 @@ url: /
 포토샵과 일러스트레이터 파일을 조작하기 위한 Java API.소프트웨어 종속성 없이 Java 기반 애플리케이션 내에서 PSD, PSB 및 AI 형식을 생성, 로드, 수정 및 렌더링할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+포토샵과 일러스트레이터 파일을 편집하기 위한 파이썬 API소프트웨어 종속성 없이 Python 기반 응용 프로그램 내에서 PSD, PSB 및 AI 형식을 만들고, 로드하고, 수정하고, 렌더링할 수 있습니다.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="모든 하이코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

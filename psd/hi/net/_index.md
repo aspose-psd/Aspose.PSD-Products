@@ -641,6 +641,7 @@ url: net/
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए अलग-अलग PSD API प्रदान करता है:" >}}
 
     {{< blocks/products/pf/offers-section-item link="java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" sdkName="Java" >}}
+	{{< blocks/products/pf/offers-section-item link="python-net/" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" sdkName="Python" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

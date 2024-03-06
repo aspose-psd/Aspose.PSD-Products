@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите файл PSB
-- Создайте экземпляр [Класс опций PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- Используйте метод Image.save (String, PSDoptions) для преобразования.
+- Создайте экземпляр [Класс опций PSD](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

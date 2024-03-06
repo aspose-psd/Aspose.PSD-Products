@@ -19,6 +19,10 @@ API Kode Tinggi untuk PSD, PSB & AI format file manipulasi di Windows Forms, ASP
 API Java untuk memanipulasi file Photoshop dan Illustrator. Membuat, memuat, memodifikasi dan membuat PSD, PSB & AI format dalam aplikasi berbasis Java tanpa dependensi perangkat lunak.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+API Python untuk mengedit file Photoshop dan Illustrator. Membuat, memuat, memodifikasi, dan merender format PSD, PSB & AI dalam aplikasi berbasis Python tanpa ketergantungan perangkat lunak apa pun.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Lihat Semua API Kode Tinggi" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

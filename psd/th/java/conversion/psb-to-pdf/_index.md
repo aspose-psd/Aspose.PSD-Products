@@ -60,8 +60,8 @@ url: java/conversion/psb-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [PDFOptions ระดับ](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- ใช้ Image.save (String, PDFOptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [PDFOptions ระดับ](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

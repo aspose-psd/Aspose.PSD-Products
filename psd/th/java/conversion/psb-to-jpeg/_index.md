@@ -60,8 +60,8 @@ url: java/conversion/psb-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [ระดับ JPEGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
-- ใช้ Image.save (String, JPEGOptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [ระดับ JPEGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

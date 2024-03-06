@@ -19,6 +19,10 @@ High Code API PSD, PSB & AI tiedostomuotoja manipulointi Windows Forms, ASP.NET,
 Java API manipuloida Photoshop ja Illustrator tiedostoja. Luo, lataa, muokkaa ja renderöi PSD-, PSB- ja AI-formaatteja Java-pohjaisissa sovelluksissa ilman ohjelmistorippuvuuksia.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Python-sovellusliittymät Photoshop- ja Illustrator-tiedostojen muokkaamiseen. Luo, lataa, muokkaa ja renderoi PSD-, PSB- ja AI-muotoja Python-pohjaisissa sovelluksissa ilman ohjelmistoriippuvuuksia.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Näytä kaikki korkean koodin ohjelmointirajapindat" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

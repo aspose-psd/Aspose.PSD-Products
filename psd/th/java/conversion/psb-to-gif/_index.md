@@ -60,8 +60,8 @@ url: java/conversion/psb-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [ระดับ GIFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-- ใช้ Image.save (String, GIFOptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [ระดับ GIFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

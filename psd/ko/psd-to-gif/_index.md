@@ -23,9 +23,9 @@ url: psd-to-gif/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET 포토샵 API로 시작하기" %}}
-명령줄에서 다음과 같이 설치 ```nuget install Aspose.PSD``` 또는 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.PSD```
+명령줄에서 다음과 같이 설치 ```nuget install Aspose.PSD``` 또는 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.PSD```.
 
-또는 다음 사이트에서 오프라인 MSI 설치 프로그램 또는 DLL을 ZIP 파일로 가져올 수 있습니다. [다운로드](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [다운로드](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="PSD를 GIF로 변환하기 위한 .NET C# 코드" gistPath="" %}}

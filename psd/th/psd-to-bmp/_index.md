@@ -23,9 +23,9 @@ url: psd-to-bmp/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="เริ่มต้นใช้งานกับ .NET Photoshop API" %}}
-ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.PSD``` หรือ ผ่านทางคอนโซลการจัดการแพคเกจของ Visual Studio ด้วย ```Install-Package Aspose.PSD```
+ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.PSD``` หรือ ผ่านทางคอนโซลการจัดการแพคเกจของ Visual Studio ด้วย ```Install-Package Aspose.PSD```.
 
-อีกวิธีหนึ่งคือ รับโปรแกรมติดตั้ง MSI แบบออฟไลน์หรือ Dll ในแฟ้ม ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [ดาวน์โหลด](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="รหัส .NET C# สำหรับการแปลง PSD เป็น BMP" gistPath="" %}}

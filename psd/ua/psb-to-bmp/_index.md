@@ -23,9 +23,9 @@ url: psb-to-bmp/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Розпочніть роботу з API Photoshop. NET" %}}
-Встановити з командного рядка як ```nuget install Aspose.PSD``` або через консоль диспетчера пакетів Visual Studio з ```Install-Package Aspose.PSD```
+Встановити з командного рядка як ```nuget install Aspose.PSD``` або через консоль диспетчера пакетів Visual Studio з ```Install-Package Aspose.PSD```.
 
-Крім того, отримайте автономний інсталятор MSI або DLL у ZIP-файлі з [завантаження](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [завантаження](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Код для PSB в BMP перетворення" gistPath="" %}}

@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس بی فائل لوڈ کریں
-- ایک مثال بنائیں [بی ایم آپشن کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- تبدیل کرنے کے لئے تصویر کا استعمال کریں. محفوظ کریں (سٹرنگ، BMPOPtions) طریقہ کار.
+- ایک مثال بنائیں [بی ایم آپشن کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

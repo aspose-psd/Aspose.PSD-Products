@@ -23,9 +23,9 @@ url: net/conversion/psb-to-gif/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Inizia con l'API .NET Photoshop" %}}
-Installa dalla riga di comando come ```nuget install Aspose.PSD``` o tramite la console Package Manager di Visual Studio con ```Install-Package Aspose.PSD```
+Installa dalla riga di comando come ```nuget install Aspose.PSD``` o tramite la console Package Manager di Visual Studio con ```Install-Package Aspose.PSD```.
 
-In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [scaricati](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [scaricati](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Codice C# .NET per la conversione da PSB a GIF" gistPath="" %}}

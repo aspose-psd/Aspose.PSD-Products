@@ -55,8 +55,8 @@ Para renderizar PSD a JPEG2000, usaremos <a href="/psd/{{< lang-code >}}java">As
 {{% /blocks/products/pf/agp/text %}}
 
 - Cargar el archivo PSD
-- Crea una instancia de [Clase Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Utilice el método Image.save (String, Jpeg2000Options) para la conversión.
+- Crea una instancia de [Clase Jpeg2000Options](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

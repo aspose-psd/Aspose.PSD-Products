@@ -60,8 +60,8 @@ url: java/conversion/psb-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس بی فائل لوڈ کریں
-- ایک مثال بنائیں [GifOptions کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-تبادلوں کے لئے image.save (سٹرنگ، GifOptions) کا طریقہ استعمال کریں.
+- ایک مثال بنائیں [GifOptions کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -19,6 +19,10 @@ url: /
 واجهات برمجة تطبيقات جافا لمعالجة ملفات Photoshop و Illustrator. قم بإنشاء وتحميل وتعديل وتقديم تنسيقات PSD و PSB و AI داخل التطبيقات القائمة على Java دون أي تبعيات للبرامج.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+واجهات برمجة تطبيقات بايثون لتحرير ملفات فوتوشوب وإلوستراتور. قم بإنشاء وتحميل وتعديل وعرض تنسيقات PSD و PSB و AI داخل التطبيقات القائمة على Python دون أي تبعيات للبرامج.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="عرض جميع واجهات برمجة التطبيقات عالية الكود" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

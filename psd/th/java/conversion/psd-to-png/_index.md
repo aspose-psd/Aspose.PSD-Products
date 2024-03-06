@@ -60,8 +60,8 @@ url: java/conversion/psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSD
-- สร้างตัวอย่างของ [ระดับ PNGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- ใช้ Image.save (String, PNGOptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [ระดับ PNGOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSB 文件
--创建一个实例 [bmPoptions 等级](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
--使用 Image.Save（字符串、bmPoptions）方法进行转换。
+-创建一个实例 [bmPoptions 等级](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

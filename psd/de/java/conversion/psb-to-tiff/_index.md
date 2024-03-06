@@ -60,8 +60,8 @@ url: java/conversion/psb-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lade die PSB-Datei
-- Erstellen Sie eine Instanz von [TiffOptions-Klasse](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- Verwenden Sie die Image.save (String, TiffOptions) -Methode für die Konvertierung.
+- Erstellen Sie eine Instanz von [TiffOptions-Klasse](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -19,9 +19,9 @@ url: psd-file-viewer/
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
     }` 
-"Експорт PSD файлу в інші формати для перегляду" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
-"GIST Приклади перегляду PSD файлів в інших форматах з використанням високого коду API на Java" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
-"Aspose додаток з низьким кодом для перегляду PSD файлу в Інтернеті" "https://products.aspose.app/psd/viewer/psd" >}}
+"Exporting of PSD File to other formats for the viewing" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST Examples of viewing PSD files in other formats using high-code API on Java" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"Aspose Low-code app to view PSD File online" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>Перегляд PSD файл з вбудованим без коду PSD Viewer. Швидкий і точний переглядач PSD файлів. Просто завантажити PSD файл.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

@@ -19,6 +19,10 @@ url: /
 API Java για το χειρισμό αρχείων Photoshop και Illustrator. Δημιουργήστε, φορτώστε, τροποποιήστε και render PSD, PSB & AI formats μέσα σε εφαρμογές που βασίζονται σε Java χωρίς καμία εξάρτηση από λογισμικό.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Python-APIs zum Bearbeiten von Photoshop- und Illustrator-Dateien. Erstellen, laden, ändern und rendern Sie PSD-, PSB- und AI-Formate in Python-basierten Anwendungen ohne Softwareabhängigkeiten.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Προβολή όλων των API υψηλού κώδικα" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -60,8 +60,8 @@ url: java/conversion/psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите PSD-файл
-- Создайте экземпляр [Класс опций PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- Используйте метод Image.save (String, PNGOptions) для преобразования.
+- Создайте экземпляр [Класс опций PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

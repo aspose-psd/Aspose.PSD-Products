@@ -92,10 +92,10 @@ PSD（Photoshop Document）は、グラフィックのデザインと開発に�
         {{< /blocks/products/pf/agp/about-file-text >}}
         
         {{< blocks/products/pf/agp/about-file-text fileFormat="jpeg2000" readMoreLink="https://docs.fileformat.com/image/jp2/" >}}
-        JPEG 2000 (JP2) は、画像コーディングシステムおよび最先端の画像圧縮標準です。
-
-
-
+        JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard.
+        It use wavelet technology to code lossless content in any quality at once.
+        Moreover, without any substantial penalty in coding efficiency, JPEG 2000 has the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities.
+        The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}

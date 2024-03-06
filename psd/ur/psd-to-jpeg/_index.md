@@ -23,9 +23,9 @@ url: psd-to-jpeg/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET فوٹوشاپ API کے ساتھ شروع کریں" %}}
-کمانڈ لائن سے انسٹال کریں ```nuget install Aspose.PSD``` یا ویژیول سٹوڈیو کے پیکیج مینیجر کنسول کے ذریعے ```Install-Package Aspose.PSD```
+کمانڈ لائن سے انسٹال کریں ```nuget install Aspose.PSD``` یا ویژیول سٹوڈیو کے پیکیج مینیجر کنسول کے ذریعے ```Install-Package Aspose.PSD```.
 
-متبادل طور پر، زپ فائل میں آف لائن MSI انسٹالر یا DLL حاصل کریں [ڈاؤن لوڈ](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [ڈاؤن لوڈ](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="پی ایس ڈی کے لئے جے پی ایس ڈی کے لئے. NET سی # کوڈ" gistPath="" %}}

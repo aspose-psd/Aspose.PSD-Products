@@ -19,6 +19,10 @@ url: /
 API Java для маніпулювання файлами Photoshop та Illustrator. Створюйте, завантажуйте, змінюйте та візуалізуйте формати PSD, PSB та AI у програмах на базі Java без будь-яких програмних залежностей.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Photoshop ve Illustrator dosyalarını düzenlemek için Python API'leri. Herhangi bir yazılım bağımlılığı olmadan Python tabanlı uygulamalarda PSD, PSB ve AI formatlarını oluşturun, yükleyin, değiştirin ve oluşturun.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Переглянути всі API високого коду" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

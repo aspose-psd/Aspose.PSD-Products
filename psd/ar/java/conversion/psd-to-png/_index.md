@@ -60,8 +60,8 @@ url: java/conversion/psd-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - قم بتحميل ملف PSD
-- إنشاء مثيل لـ [فئة خيارات PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- استخدم طريقة Image.save (السلسلة، خيارات PNG) للتحويل.
+- إنشاء مثيل لـ [فئة خيارات PNG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -55,8 +55,8 @@ Abychom mohli vykreslit PSB na JPEG2000, použijeme <a href="/psd/{{< lang-code 
 {{% /blocks/products/pf/agp/text %}}
 
 - Načíst soubor PSB
-- Vytvořte instanci [Jpeg2000Options třída](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Pro konverzi použijte metodu Image.Save (String, Jpeg2000Options).
+- Vytvořte instanci [Jpeg2000Options třída](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

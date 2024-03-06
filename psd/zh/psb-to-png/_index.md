@@ -23,9 +23,9 @@ url: psb-to-png/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API 入门" %}}
-从命令行安装为 ```nuget install Aspose.PSD``` 或者通过 Visual Studio 的软件包管理器控制台使用 ```Install-Package Aspose.PSD```
+从命令行安装为 ```nuget install Aspose.PSD``` 或者通过 Visual Studio 的软件包管理器控制台使用 ```Install-Package Aspose.PSD```.
 
-或者，从 ZIP 文件中获取离线 MSI 安装程序或 DLL [下载](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [下载](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# 用于将 PSB 转换为 PNG 的代码" gistPath="" %}}

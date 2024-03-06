@@ -19,6 +19,10 @@ API-ji visokog koda za manipulaciju PSD, PSB i AI formatima datoteka u sustavu W
 Java API-ji za manipulaciju datotekama Photoshop i Illustrator Stvorite, učitajte, mijenjajte i prikazivajte PSD, PSB i AI formate unutar aplikacija temeljenih na Javi bez ikakvih ovisnosti o softveru.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Python API-ji za uređivanje datoteka Photoshop i Illustrator. Stvorite, učitajte, mijenjajte i renderujte PSD, PSB i AI formate unutar Python-ovih aplikacija bez ikakvih softverskih ovisnosti.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Pogledajte sve API-je visokog koda" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

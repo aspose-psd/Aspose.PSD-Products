@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSB dosyasını yükleyin
-- Bir örneğini oluşturun [PSDOptions sınıfı](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- Dönüştürme için Image.save (String, PSDOptions) yöntemini kullanın.
+- Bir örneğini oluşturun [PSDOptions sınıfı](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

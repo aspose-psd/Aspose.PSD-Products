@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSB
-- Δημιουργήστε ένα στιγμιότυπο [Κλάση BMPoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- Χρησιμοποιήστε τη μέθοδο Image.Save (String, BMoptions) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Κλάση BMPoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

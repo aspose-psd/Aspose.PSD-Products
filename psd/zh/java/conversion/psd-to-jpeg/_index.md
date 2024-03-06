@@ -60,8 +60,8 @@ url: java/conversion/psd-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSD 文件
--创建一个实例 [jpegOptions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
--使用 Image.Save（字符串、jpegOptions）方法进行转换。
+-创建一个实例 [jpegOptions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

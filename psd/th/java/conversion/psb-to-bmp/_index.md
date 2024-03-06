@@ -60,8 +60,8 @@ url: java/conversion/psb-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [ระดับบีเอ็มป็อปชัน](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- ใช้ Image.save (String, BMPoptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [ระดับบีเอ็มป็อปชัน](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

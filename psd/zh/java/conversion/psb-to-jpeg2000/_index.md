@@ -55,8 +55,8 @@ url: java/conversion/psb-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSB 文件
--创建一个实例 [jpeg2000Options 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
--使用 Image.Save（字符串，Jpeg2000Options）方法进行转换。
+-创建一个实例 [jpeg2000Options 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

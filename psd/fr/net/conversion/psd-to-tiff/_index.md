@@ -23,9 +23,9 @@ url: net/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Commencez avec l'API .NET Photoshop" %}}
-Installer à partir de la ligne de commande en tant que ```nuget install Aspose.PSD``` ou via la console Package Manager de Visual Studio avec ```Install-Package Aspose.PSD```
+Installer à partir de la ligne de commande en tant que ```nuget install Aspose.PSD``` ou via la console Package Manager de Visual Studio avec ```Install-Package Aspose.PSD```.
 
-Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [téléchargements](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Code .NET C# pour la conversion de PSD en TIFF" gistPath="" %}}

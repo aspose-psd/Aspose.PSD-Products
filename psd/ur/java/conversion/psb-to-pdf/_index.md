@@ -60,8 +60,8 @@ url: java/conversion/psb-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس بی فائل لوڈ کریں
-- ایک مثال بنائیں [پی ڈی ایف کے اختیارات کی کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-تبادلوں کے لئے image.save (سٹرنگ، PDFOptions) کا طریقہ استعمال کریں.
+- ایک مثال بنائیں [پی ڈی ایف کے اختیارات کی کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

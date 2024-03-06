@@ -60,8 +60,8 @@ url: java/conversion/psb-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSB
-- Δημιουργήστε ένα στιγμιότυπο [Τάξη JPEGoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
--Χρησιμοποιήστε τη μέθοδο Image.Save (συμβολοσειρά, JpEGoptions) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Τάξη JPEGoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

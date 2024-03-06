@@ -19,6 +19,10 @@ url: /
 用于操作 Photoshop 和 Illustrator 文件的 Java在基于 Java 的应用程序中创建、加载、修改和渲染 PSD、PSB 和 AI 格式，无需任何软件依赖关系。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+用于编辑 Photoshop 和插画文件的 Python API。在基于 Python 的应用程序中创建、加载、修改和渲染 PSD、PSB 和 AI 格式，无需依赖任何软件。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="查看所有高级代码 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
