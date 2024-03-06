@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSD 文件
--创建一个实例 [PDFOptions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
--使用 Image.Save（字符串、PDFOptions）方法进行转换。
+-创建一个实例 [PDFOptions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

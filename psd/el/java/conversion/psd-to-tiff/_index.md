@@ -60,8 +60,8 @@ url: java/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSD
-- Δημιουργήστε ένα στιγμιότυπο [Κατηγορία TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- Χρησιμοποιήστε τη μέθοδο Image.Save (String, TiffOptions) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Κατηγορία TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

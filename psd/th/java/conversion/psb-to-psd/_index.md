@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [คลาส PSdOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- ใช้ Image.save (String, PSDOptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [คลาส PSdOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

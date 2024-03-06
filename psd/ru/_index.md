@@ -19,6 +19,10 @@ url: /
 API Java для управления файлами Photoshop и Illustrator. Создавайте, загружайте, изменяйте и визуализируйте форматы PSD, PSB и AI в приложениях на основе Java без каких-либо программных зависимостей.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+API Python для редактирования файлов Photoshop и Illustrator. Создавайте, загружайте, изменяйте и визуализируйте форматы PSD, PSB и AI в приложениях на основе Python без каких-либо программных зависимостей.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Просмотреть все High Code API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

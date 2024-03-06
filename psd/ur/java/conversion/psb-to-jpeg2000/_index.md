@@ -55,8 +55,8 @@ url: java/conversion/psb-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس بی فائل لوڈ کریں
-- ایک مثال بنائیں [جے پیگ2000 اختیارات کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- تبدیل کرنے کے لئے تصویر کا استعمال کریں. محفوظ کریں (سٹرنگ، Jpeg2000Options) طریقہ کار.
+- ایک مثال بنائیں [جے پیگ2000 اختیارات کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

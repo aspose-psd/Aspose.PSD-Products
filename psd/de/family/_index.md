@@ -11,12 +11,16 @@ url: family/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Die Highcode-APIs von Aspose.PSD enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-net.svg" productLink="net/" >}}
 Target Windows Forms, ASP.NET oder jede Art von Anwendung, die auf.NET Framework 2.0 oder höher basiert.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Java" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-java.svg" productLink="java/" >}}
 Native Java-APIs für den Desktop, das Web oder jede Art von Anwendung, die auf Java SE oder EE basiert.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+Python-API über.NET für den Desktop Windows, Linux und macOS sowie macOS-ARM.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

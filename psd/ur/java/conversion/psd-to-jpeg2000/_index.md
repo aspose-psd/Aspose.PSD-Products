@@ -55,8 +55,8 @@ JPEG2000 کو پی ایس ڈی فراہم کرنے کے لئے، ہم استعم
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس ڈی فائل لوڈ کریں
-- ایک مثال بنائیں [جے پیگ2000 اختیارات کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- تبدیل کرنے کے لئے تصویر کا استعمال کریں. محفوظ کریں (سٹرنگ، Jpeg2000Options) طریقہ کار.
+- ایک مثال بنائیں [جے پیگ2000 اختیارات کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

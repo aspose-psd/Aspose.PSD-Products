@@ -23,9 +23,9 @@ url: psb-to-jp2/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Comece a usar a API .NET Photoshop" %}}
-Instale a partir da linha de comando como ```nuget install Aspose.PSD``` ou por meio do console do Gerenciador de Pacotes do Visual Studio com ```Install-Package Aspose.PSD```
+Instale a partir da linha de comando como ```nuget install Aspose.PSD``` ou por meio do console do Gerenciador de Pacotes do Visual Studio com ```Install-Package Aspose.PSD```.
 
-Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP do [downloads](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Código.NET C# para conversão de PSB em JP2" gistPath="" %}}

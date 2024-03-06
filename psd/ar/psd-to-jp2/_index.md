@@ -23,9 +23,9 @@ url: psd-to-jp2/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ابدأ باستخدام واجهة برمجة تطبيقات فوتوشوب الخاصة ب.NET" %}}
-التثبيت من سطر الأوامر كـ ```nuget install Aspose.PSD``` أو عبر وحدة تحكم إدارة الحزم في Visual Studio مع ```Install-Package Aspose.PSD```
+التثبيت من سطر الأوامر كـ ```nuget install Aspose.PSD``` أو عبر وحدة تحكم إدارة الحزم في Visual Studio مع ```Install-Package Aspose.PSD```.
 
-بدلاً من ذلك، احصل على مثبت MSI غير المتصل بالإنترنت أو ملفات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [التنزيلات](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="كود .NET C# لتحويل PSD إلى JP2" gistPath="" %}}

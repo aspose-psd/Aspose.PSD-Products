@@ -55,8 +55,8 @@ Kako bismo PSB prikazali na JPEG2000, koristit ćemo <a href="/psd/{{< lang-code
 {{% /blocks/products/pf/agp/text %}}
 
 - Učitajte PSB datoteku
-- Stvorite instancu [Jpeg2000Klasa opcija](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Upotrijebite metodu Image.Save (String, Jpeg2000Options) za pretvorbu.
+- Stvorite instancu [Jpeg2000Klasa opcija](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

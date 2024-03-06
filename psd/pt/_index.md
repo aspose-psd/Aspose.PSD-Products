@@ -19,6 +19,10 @@ APIs de alto código para manipulação de formatos de arquivo PSD, PSB e AI no 
 APIs Java para manipular arquivos do Photoshop e do Illustrator. Crie, carregue, modifique e renderize formatos PSD, PSB e AI em aplicativos baseados em Java sem nenhuma dependência de software.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+APIs Python para editar arquivos do Photoshop e do Illustrator. Crie, carregue, modifique e renderize formatos PSD, PSB e AI em aplicativos baseados em Python sem dependências de software.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Exibir todas as APIs de alto código" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

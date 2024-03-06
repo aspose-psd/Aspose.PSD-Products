@@ -55,8 +55,8 @@ url: java/conversion/psd-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 - قم بتحميل ملف PSD
-- إنشاء مثيل لـ [فئة خيارات Jpeg 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- استخدم طريقة Image.save (السلسلة، خيارات Jpeg2000) للتحويل.
+- إنشاء مثيل لـ [فئة خيارات Jpeg 2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

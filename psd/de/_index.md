@@ -19,6 +19,10 @@ High-Code-APIs für die Manipulation von PSD-, PSB- und AI-Dateiformaten in Wind
 Java-APIs zur Bearbeitung von Photoshop- und Illustrator-Dateien. Erstellen, laden, ändern und rendern Sie PSD-, PSB- und AI-Formate in Java-basierten Anwendungen ohne jegliche Softwareabhängigkeiten.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Python-APIs zum Bearbeiten von Photoshop- und Illustrator-Dateien. Erstellen, laden, ändern und rendern Sie PSD-, PSB- und AI-Formate in Python-basierten Anwendungen ohne Softwareabhängigkeiten.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Alle High Code-APIs anzeigen" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

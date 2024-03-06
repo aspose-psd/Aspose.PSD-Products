@@ -22,8 +22,9 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 	resultMemoryStream.Position = 0;
 	return await this.StorageService.Upload(storageId, resultMemoryStream).ConfigureAwait(false);
 };` 
+     
 `    //Cropping image by Circle using Java
-     public static String cropToCircle(String storageId, Image image, Options options) {
+	public static String cropToCircle(String storageId, Image image, Options options) {
         try (MemoryStream resultMemoryStream = PsdCropper.crop(image, options)) {
             resultMemoryStream.setPosition(0);
             return this.StorageService.upload(storageId, resultMemoryStream);

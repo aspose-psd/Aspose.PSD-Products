@@ -11,12 +11,16 @@ url: family/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="تتضمن واجهات برمجة تطبيقات Aspose.PSD عالية الكود" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-net.svg" productLink="net/" >}}
 استهدف نماذج Windows أو ASP.NET أو أي نوع من التطبيقات استنادًا إلى .NET Framework 2.0 أو الأحدث.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="جافا" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="جافا" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-java.svg" productLink="java/" >}}
 واجهات برمجة تطبيقات Java الأصلية لسطح المكتب أو الويب أو أي نوع من التطبيقات القائمة على Java SE أو EE.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+واجهة برمجة تطبيقات بايثون عبر .NET لسطح المكتب ويندوز ولينوكس وماك أو إس إيه آر إم.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD dosyasını yükleyin
-- Bir örneğini oluşturun [PDFoptions sınıfı](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Dönüştürme için Image.save (String, PDFOptions) yöntemini kullanın.
+- Bir örneğini oluşturun [PDFoptions sınıfı](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

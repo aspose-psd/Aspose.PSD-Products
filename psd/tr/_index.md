@@ -19,6 +19,10 @@ Windows Forms, ASP.NET, WPF, WCF veya.NET Framework 2.0 veya sonraki bir uygulam
 Photoshop ve Illustrator dosyalarını işlemek için Java API'leri. Java tabanlı uygulamalarda herhangi bir yazılım bağımlılığı olmadan PSD, PSB ve AI formatlarını oluşturun, yükleyin, değiştirin ve oluşturun.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Photoshop ve Illustrator dosyalarını düzenlemek için Python API'leri. Herhangi bir yazılım bağımlılığı olmadan Python tabanlı uygulamalarda PSD, PSB ve AI formatlarını oluşturun, yükleyin, değiştirin ve oluşturun.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="Tüm Yüksek Kodlu API'leri Görüntüle" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

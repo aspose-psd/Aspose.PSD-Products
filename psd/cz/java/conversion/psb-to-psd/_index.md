@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - Načíst soubor PSB
-- Vytvořte instanci [Třída PSDoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- Pro konverzi použijte metodu Image.Save (String, PSDoptions).
+- Vytvořte instanci [Třída PSDoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

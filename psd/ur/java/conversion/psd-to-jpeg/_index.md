@@ -60,8 +60,8 @@ url: java/conversion/psd-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 پی ایس ڈی فائل لوڈ کریں
-- ایک مثال بنائیں [جے پیگ آپشنز کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
-تبادلوں کے لئے image.save (سٹرنگ، JPEGOptions) کا طریقہ استعمال کریں.
+- ایک مثال بنائیں [جے پیگ آپشنز کلاس](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

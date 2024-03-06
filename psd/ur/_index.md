@@ -19,6 +19,10 @@ url: /
 فوٹوشاپ اور Illustrator فائلوں جوڑتوڑ جاوا APIs کسی بھی سافٹ ویئر انحصار کے بغیر جاوا کی بنیاد پر ایپلی کیشنز کے اندر پی ایس ڈی، پی ایس بی اور اے اے فارمیٹس بنائیں، لوڈ کریں، ترمیم کریں اور رینڈر کریں.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Photoshop ve Illustrator dosyalarını düzenlemek için Python API'leri. Herhangi bir yazılım bağımlılığı olmadan Python tabanlı uygulamalarda PSD, PSB ve AI formatlarını oluşturun, yükleyin, değiştirin ve oluşturun.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="تمام ہائی کوڈ APIs دیکھیں" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

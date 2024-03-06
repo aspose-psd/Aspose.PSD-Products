@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSB 文件
--创建一个实例 [PSDoPtions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
--使用 Image.Save（字符串、psdoOptions）方法进行转换。
+-创建一个实例 [PSDoPtions 类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

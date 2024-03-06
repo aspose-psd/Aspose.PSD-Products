@@ -23,9 +23,9 @@ url: net/conversion/psd-to-jp2/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API'sini Kullanmaya Başlayın" %}}
-Komut satırından şu şekilde yükleyin ```nuget install Aspose.PSD``` veya Visual Studio'nun Paket Yöneticisi Konsolu ile ```Install-Package Aspose.PSD```
+Komut satırından şu şekilde yükleyin ```nuget install Aspose.PSD``` veya Visual Studio'nun Paket Yöneticisi Konsolu ile ```Install-Package Aspose.PSD```.
 
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında alın [i̇ndirilenler](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [i̇ndirilenler](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kod PSD JP2 Dönüşüm" gistPath="" %}}

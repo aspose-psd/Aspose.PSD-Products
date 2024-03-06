@@ -11,12 +11,16 @@ url: family/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.PSD ハイコード API には次のものが含まれます" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productLink="net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title=".NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-net.svg" productLink="net/" >}}
 Windows フォーム、ASP.NET、または.NET Framework 2.0 以降をベースにしたあらゆる種類のアプリケーションをターゲットにします。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="ジャワ" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productLink="java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="ジャワ" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-java.svg" productLink="java/" >}}
 Java SE または EE をベースにしたデスクトップ、Web、またはあらゆる種類のアプリケーション用のネイティブ Java API。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+デスクトップウィンドウズ、Linux、macOS、MacOS-Arm用の.NET経由のPython API。
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

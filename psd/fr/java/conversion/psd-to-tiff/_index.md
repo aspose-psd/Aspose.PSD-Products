@@ -60,8 +60,8 @@ url: java/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - Chargez le fichier PSD
-- Créez une instance de [Classe TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- Utilisez la méthode Image.save (String, TiffOptions) pour la conversion.
+- Créez une instance de [Classe TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -23,9 +23,9 @@ url: psd-to-gif/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Memulai dengan .NET Photoshop API" %}}
-Instal dari baris perintah sebagai ```nuget install Aspose.PSD``` atau melalui Konsol Manajer Paket Visual Studio dengan ```Install-Package Aspose.PSD```
+Instal dari baris perintah sebagai ```nuget install Aspose.PSD``` atau melalui Konsol Manajer Paket Visual Studio dengan ```Install-Package Aspose.PSD```.
 
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [mengunduh](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [mengunduh](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kode untuk PSD ke GIF Konversi" gistPath="" %}}

@@ -23,9 +23,9 @@ url: psd-to-tiff/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET フォトショップ API を使ってみる" %}}
-コマンドラインから次のようにインストール ```nuget install Aspose.PSD``` または、Visual Studio のパッケージマネージャーコンソールを使用して ```Install-Package Aspose.PSD```
+コマンドラインから次のようにインストール ```nuget install Aspose.PSD``` または、Visual Studio のパッケージマネージャーコンソールを使用して ```Install-Package Aspose.PSD```.
 
-または、オフライン MSI インストーラまたは DLL を ZIP ファイルとして次の場所から入手してください。 [ダウンロード](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [ダウンロード](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# コードを使用して PSD ファイルを TIFF ファイルに変換する方法" gistPath="" %}}

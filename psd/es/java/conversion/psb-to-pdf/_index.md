@@ -60,8 +60,8 @@ url: java/conversion/psb-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Cargue el archivo PSB
-- Crea una instancia de [Clase PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Utilice el método Image.save (String, PDFOptions) para la conversión.
+- Crea una instancia de [Clase PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

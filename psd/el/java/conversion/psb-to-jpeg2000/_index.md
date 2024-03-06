@@ -55,8 +55,8 @@ url: java/conversion/psb-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSB
-- Δημιουργήστε ένα στιγμιότυπο [Κλάση επιλογών Jpeg2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- Χρησιμοποιήστε τη μέθοδο Image.Save (συμβολοσειρά, Jpeg2000Options) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Κλάση επιλογών Jpeg2000](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

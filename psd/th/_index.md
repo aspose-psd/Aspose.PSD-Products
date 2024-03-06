@@ -19,6 +19,10 @@ API รหัสสูงสำหรับ PSD, PSB และ AI รูปแ�
 Java API เพื่อจัดการกับ Photoshop และไฟล์ Illustratorสร้างโหลดแก้ไขและแสดงผล PSD, PSB & AI รูปแบบภายในโปรแกรม Java ตามโดยไม่ต้องอ้างอิงซอฟต์แวร์ใด ๆ
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+API Python для редактирования файлов Photoshop и Illustrator. Создавайте, загружайте, изменяйте и визуализируйте форматы PSD, PSB и AI в приложениях на основе Python без каких-либо программных зависимостей.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="ดูทั้งหมด API รหัสสูง" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

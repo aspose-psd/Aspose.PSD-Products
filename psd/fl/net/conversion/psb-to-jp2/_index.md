@@ -1,6 +1,6 @@
 ---
-title: Muunna PSB JP2 ksi C# lla
-description: Vie PSD, PSB & AI-tiedosto .NET API n kautta
+title: Muunna PSB JP2| ksi C#| lla
+description: Vie PSD, PSB & AI-tiedosto .NET API| n kautta
 family: psd
 platformtag: net
 feature: conversion
@@ -23,9 +23,9 @@ url: net/conversion/psb-to-jp2/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET Photoshop API: n käytön aloittaminen" %}}
-Asenna komentoriviltä ```nuget install Aspose.PSD``` tai Visual Studion Package Manager -konsolilla ```Install-Package Aspose.PSD```
+Asenna komentoriviltä ```nuget install Aspose.PSD``` tai Visual Studion Package Manager -konsolilla ```Install-Package Aspose.PSD```.
 
-Vaihtoehtoisesti voit hankkia offline-MSI-asennusohjelman tai DLL-tiedostot ZIP-tiedostoon osoitteesta [lataa](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [lataa](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# -koodi PSB: lle JP2-muunnokseen" gistPath="" %}}

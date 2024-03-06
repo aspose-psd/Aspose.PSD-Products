@@ -19,6 +19,10 @@ Windows フォーム、ASP.NET、WPF、WCF、または.NET Framework 2.0 以降�
 フォトショップとイラストレーターのファイルを操作するための Java API。ソフトウェアに依存することなく、Javaベースのアプリケーション内でPSD、PSB、AI形式を作成、読み込み、変更、レンダリングできます。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+Photoshop ファイルおよびイラストレーターファイルを編集するための Python API。ソフトウェアに依存することなく、Python ベースのアプリケーション内で PSD、PSB、AI 形式を作成、読み込み、変更、レンダリングできます。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="すべてのハイコード API を表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

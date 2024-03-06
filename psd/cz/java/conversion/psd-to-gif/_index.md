@@ -60,8 +60,8 @@ url: java/conversion/psd-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - Načíst soubor PSD
-- Vytvořte instanci [Třída GIFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-- Pro konverzi použijte metodu Image.Save (String, GIFOptions).
+- Vytvořte instanci [Třída GIFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

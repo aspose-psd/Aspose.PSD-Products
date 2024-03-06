@@ -60,8 +60,8 @@ url: java/conversion/psb-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Učitajte PSB datoteku
-- Stvorite instancu [PNGOptions klasa](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- Upotrijebite metodu Image.save (String, PNGOptions) za pretvorbu.
+- Stvorite instancu [PNGOptions klasa](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

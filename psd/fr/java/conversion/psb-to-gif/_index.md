@@ -60,8 +60,8 @@ url: java/conversion/psb-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 - Chargez le fichier PSB
-- Créez une instance de [Classe GIFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
-- Utilisez la méthode Image.save (String, GIFOptions) pour la conversion.
+- Créez une instance de [Classe GIFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

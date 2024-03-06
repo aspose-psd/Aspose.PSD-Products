@@ -60,8 +60,8 @@ url: java/conversion/psb-to-png/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSB
-- Δημιουργήστε ένα στιγμιότυπο [Κλάση PnGoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions)
-- Χρησιμοποιήστε τη μέθοδο Image.Save (συμβολοσειρά, PnGoptions) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Κλάση PnGoptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PngOptions).
+- Use Image.save(String, PngOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

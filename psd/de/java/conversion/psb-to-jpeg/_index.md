@@ -60,8 +60,8 @@ url: java/conversion/psb-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - Lade die PSB-Datei
-- Erstellen Sie eine Instanz von [JPEGOptions-Klasse](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
-- Verwenden Sie die Methode Image.save (String, JPEGOptions) für die Konvertierung.
+- Erstellen Sie eine Instanz von [JPEGOptions-Klasse](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

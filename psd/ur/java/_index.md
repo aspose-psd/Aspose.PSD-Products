@@ -539,6 +539,7 @@ url: java/
 {{< blocks/products/pf/offers-section pfName="Aspose.PSD" description="Aspose.PSD ذیل میں درج کے طور پر دیگر مقبول ترقی کے ماحول کے لئے انفرادی پی ایس ڈی APIs پیش کرتا ہے:" >}}
 
     {{< blocks/products/pf/offers-section-item link="net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/psd/aspose_psd-for-net.svg" sdkName=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="python-net/" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" sdkName="Python" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -23,9 +23,9 @@ url: net/conversion/psd-to-jpeg/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Početak rada s .NET Photoshop API" %}}
-Instalirajte iz naredbenog retka kao ```nuget install Aspose.PSD``` ili putem Package Manager konzole Visual Studio s ```Install-Package Aspose.PSD```
+Instalirajte iz naredbenog retka kao ```nuget install Aspose.PSD``` ili putem Package Manager konzole Visual Studio s ```Install-Package Aspose.PSD```.
 
-Alternativno, nabavite izvanmrežni MSI instalacijski program ili DLL-ove u ZIP datoteci [preuzimanja](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [preuzimanja](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# kod za PSD u JPEG pretvorbe" gistPath="" %}}

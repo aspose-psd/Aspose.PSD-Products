@@ -60,8 +60,8 @@ url: java/conversion/psb-to-psd/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSB
-- Δημιουργήστε ένα στιγμιότυπο [Κλάση PSDOOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions)
-- Χρησιμοποιήστε τη μέθοδο Image.Save (συμβολοσειρά, PSDoptions) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Κλάση PSDOOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PsdOptions).
+- Use Image.save(String, PsdOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

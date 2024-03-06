@@ -60,8 +60,8 @@ url: java/conversion/psd-to-gif/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSD 文件
--创建一个实例 [GIF 选项类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions)
--使用 Image.Save（字符串、gifOptions）方法进行转换。
+-创建一个实例 [GIF 选项类](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/GifOptions).
+- Use Image.save(String, GifOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -19,6 +19,10 @@ url: /
 फ़ोटोशॉप और इलस्ट्रेटर फ़ाइलों में हेरफेर करने के लिए जावा एपीआई। बिना किसी सॉफ़्टवेयर निर्भरता के जावा आधारित अनुप्रयोगों के भीतर PSD, PSB और AI प्रारूप बनाएं, लोड करें, संशोधित करें और प्रस्तुत करें।
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.PSD for " title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net" >}}
+API Python pour modifier les fichiers Photoshop et Illustrator. Créez, chargez, modifiez et effectuez le rendu des formats PSD, PSB et AI dans des applications basées sur Python sans aucune dépendance logicielle.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="family/" innerText="सभी हाई कोड API देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

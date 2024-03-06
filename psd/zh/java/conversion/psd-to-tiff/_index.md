@@ -60,8 +60,8 @@ url: java/conversion/psd-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 -加载 PSD 文件
--创建一个实例 [tiff 期权类别](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
--使用 Image.Save（字符串、tiffOptions）方法进行转换。
+-创建一个实例 [tiff 期权类别](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

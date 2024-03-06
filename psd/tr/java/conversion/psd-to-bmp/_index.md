@@ -60,8 +60,8 @@ url: java/conversion/psd-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - PSD dosyasını yükleyin
-- Bir örneğini oluşturun [BMPoptions sınıfı](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- Dönüştürme için Image.save (String, BMPoptions) yöntemini kullanın.
+- Bir örneğini oluşturun [BMPoptions sınıfı](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -60,8 +60,8 @@ url: java/conversion/psd-to-jpeg/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите PSD-файл
-- Создайте экземпляр [Класс опций JPEG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions)
-- Используйте метод Image.save (String, JPEGoptions) для преобразования.
+- Создайте экземпляр [Класс опций JPEG](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/JpegOptions).
+- Use Image.save(String, JpegOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

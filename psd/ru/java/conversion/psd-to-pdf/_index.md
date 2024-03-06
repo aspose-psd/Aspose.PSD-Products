@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Загрузите PSD-файл
-- Создайте экземпляр [Класс опций PDF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Используйте метод Image.save (String, PDFOptions) для преобразования.
+- Создайте экземпляр [Класс опций PDF](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

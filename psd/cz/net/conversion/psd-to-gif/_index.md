@@ -23,9 +23,9 @@ url: net/conversion/psd-to-gif/
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Začínáme s rozhraním NET Photoshop API" %}}
-Instalace z příkazového řádku jako ```nuget install Aspose.PSD``` nebo pomocí konzoly Správce balíčků aplikace Visual Studio s ```Install-Package Aspose.PSD```
+Instalace z příkazového řádku jako ```nuget install Aspose.PSD``` nebo pomocí konzoly Správce balíčků aplikace Visual Studio s ```Install-Package Aspose.PSD```.
 
-Případně můžete získat offline instalační program MSI nebo DLL v souboru ZIP [ke stažení](https://releases.aspose.com/psd/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [ke stažení](https://releases.aspose.com/psd/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# kód pro konverzi PSD na GIF" gistPath="" %}}

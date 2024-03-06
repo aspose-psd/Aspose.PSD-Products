@@ -60,8 +60,8 @@ url: java/conversion/psb-to-tiff/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [ชั้น TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions)
-- ใช้ Image.save (String, TiffOptions) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [ชั้น TiffOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/TiffOptions).
+- Use Image.save(String, TiffOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

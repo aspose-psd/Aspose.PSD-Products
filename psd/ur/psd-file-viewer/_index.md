@@ -19,9 +19,9 @@ url: psd-file-viewer/
 	    // To open the PSB File as JPG just use this code
         image.Save(sourcePsbFileName + ".jpg",  new JpegOptions());
     }` 
-"دیکھنے کے لئے دیگر فارمیٹس کو پی ایس ڈی فائل کی برآمد" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
-"جاوا پر ہائی کوڈ API کا استعمال کرتے ہوئے دیگر فارمیٹس میں پی ایس ڈی فائلوں کو دیکھنے کے GIST مثالیں" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
-"پی ایس ڈی فائل آن لائن دیکھنے کے لئے کم کوڈ اپلی کیشن کی وضاحت کریں" "https://products.aspose.app/psd/viewer/psd" >}}
+"Exporting of PSD File to other formats for the viewing" "https://docs.aspose.com/psd/java/creating-opening-and-saving-psd-files/#exporting-psd-layer-to-raster-image" 
+"GIST Examples of viewing PSD files in other formats using high-code API on Java" "https://gist.github.com/aspose-com-gists/2a8c10d2eeb5bcfa4e122a9d0bd969e3#file-convert-psd-to-bmp-gif-jpg-java" 
+"Aspose Low-code app to view PSD File online" "https://products.aspose.app/psd/viewer/psd" >}}
 <p>بلٹ میں کوئی کوڈ پی ایس ڈی ناظر کے ساتھ پی ایس ڈی فائل دیکھیں. پی ایس ڈی فائلوں کے تیز رفتار اور درست ناظرین. بس پی ایس ڈی فائل اپ لوڈ کریں.</p>
 {{< /blocks/products/pf/feature-page-section >}}
 {{< /blocks/products/pf/main-container >}}

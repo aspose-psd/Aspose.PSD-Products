@@ -60,8 +60,8 @@ url: java/conversion/psd-to-bmp/
 {{% /blocks/products/pf/agp/text %}}
 
 - Učitajte PSD datoteku
-- Stvorite instancu [BMpoptions klasa](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions)
-- Upotrijebite metodu slike. Spremi (String, BmPoptions) za pretvorbu.
+- Stvorite instancu [BMpoptions klasa](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/BmpOptions).
+- Use Image.save(String, BmpOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

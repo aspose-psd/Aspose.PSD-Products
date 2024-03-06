@@ -60,8 +60,8 @@ url: java/conversion/psd-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Laden Sie die PSD-Datei
-- Erstellen Sie eine Instanz von [PdfOptions-Klasse](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Verwenden Sie die Methode Image.save (String, pdfOptions) für die Konvertierung.
+- Erstellen Sie eine Instanz von [PdfOptions-Klasse](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

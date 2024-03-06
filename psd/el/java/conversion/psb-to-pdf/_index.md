@@ -60,8 +60,8 @@ url: java/conversion/psb-to-pdf/
 {{% /blocks/products/pf/agp/text %}}
 
 - Φόρτωση του αρχείου PSB
-- Δημιουργήστε ένα στιγμιότυπο [Κλάση PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions)
-- Χρησιμοποιήστε τη μέθοδο Image.Save (String, PDFOptions) για μετατροπή.
+- Δημιουργήστε ένα στιγμιότυπο [Κλάση PDFOptions](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/PdfOptions).
+- Use Image.save(String, PdfOptions) method for conversion.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

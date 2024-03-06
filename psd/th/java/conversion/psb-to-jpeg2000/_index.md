@@ -55,8 +55,8 @@ url: java/conversion/psb-to-jpeg2000/
 {{% /blocks/products/pf/agp/text %}}
 
 - โหลดไฟล์ PSB
-- สร้างตัวอย่างของ [Jpeg2000ตัวเลือกชั้น](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options)
-- ใช้ Image.save (String, Jpeg2000Options) วิธีการสำหรับการแปลง
+- สร้างตัวอย่างของ [Jpeg2000ตัวเลือกชั้น](https://apireference.aspose.com/psd/java/com.aspose.psd.imageoptions/Jpeg2000Options).
+- Use Image.save(String, Jpeg2000Options) method for conversion.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
