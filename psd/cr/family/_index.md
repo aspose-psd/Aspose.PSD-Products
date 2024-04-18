@@ -19,7 +19,7 @@ Cilj Windows Forms, ASP.NET ili bilo koju vrstu aplikacije na temelju .NET Frame
 Izvorni Java API-ji za radnu površinu, web ili bilo koju vrstu aplikacije temeljene na Java SE ili EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Python API putem .NET za radnu površinu Windows, Linux i macOS i MacOS-arm.
 {{< /blocks/products/pf/product >}}
 

@@ -19,7 +19,7 @@ Ciblez Windows Forms, ASP.NET ou tout type d'application basé sur .NET Framewor
 API Java natives pour le bureau, le Web ou tout type d'application basée sur Java SE ou EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 API Python via .NET pour les ordinateurs de bureau Windows, Linux et macOS et MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

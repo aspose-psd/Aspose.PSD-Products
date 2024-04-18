@@ -19,7 +19,7 @@ Target Windows Forms, ASP.NET or any type of application based on .NET Framework
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Python API via .NET for the desktop Windows, Linux and MacOS and MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

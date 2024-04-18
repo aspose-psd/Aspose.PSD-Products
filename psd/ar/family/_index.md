@@ -19,7 +19,7 @@ url: family/
 واجهات برمجة تطبيقات Java الأصلية لسطح المكتب أو الويب أو أي نوع من التطبيقات القائمة على Java SE أو EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 واجهة برمجة تطبيقات بايثون عبر .NET لسطح المكتب ويندوز ولينوكس وماك أو إس إيه آر إم.
 {{< /blocks/products/pf/product >}}
 

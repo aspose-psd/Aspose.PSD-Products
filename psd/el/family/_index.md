@@ -19,7 +19,7 @@ url: family/
 Εγγενή Java API για την επιφάνεια εργασίας, web ή κάθε είδους εφαρμογή που βασίζεται σε Java SE ή EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 API Python διαμέσω.NET για επιτραπέζιους υπολογιστές Windows, Linux και MacOS και MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

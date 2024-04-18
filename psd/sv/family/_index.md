@@ -19,7 +19,7 @@ Mål Windows Forms, ASP.NET eller någon typ av program baserat på .NET Framewo
 Native Java API: er för skrivbordet, webben eller någon form av applikation baserad på Java SE eller EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Python API via .NET för skrivbordet Windows, Linux och macOS och MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

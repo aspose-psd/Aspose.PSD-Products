@@ -19,7 +19,7 @@ url: family/
 用于桌面、Web 或任何基于 Java SE 或 EE 的应用程序的本机 Java API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 通过 .NET 为桌面 Windows、Linux 和 macOS 以及 macOS-ARM 提供的 Python API。
 {{< /blocks/products/pf/product >}}
 

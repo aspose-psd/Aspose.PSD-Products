@@ -19,7 +19,7 @@ Windows Forms, ASP.NET 또는 .NET 프레임워크 2.0 이상을 기반으로 �
 Java SE 또는 EE를 기반으로 하는 데스크톱, 웹 또는 모든 종류의 애플리케이션을 위한 네이티브 Java API입니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 데스크톱 윈도우, 리눅스, 맥OS 및 맥OS-ARM용.NET을 통한 파이썬 API.
 {{< /blocks/products/pf/product >}}
 

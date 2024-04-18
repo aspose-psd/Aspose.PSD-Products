@@ -19,7 +19,7 @@ url: family/
 Нативные API-интерфейсы Java для настольных компьютеров, Интернета или любых приложений на основе Java SE или EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 API Python через .NET для настольных компьютеров Windows, Linux, macOS и macOS-ARM.
 {{< /blocks/products/pf/product >}}
 
