@@ -19,7 +19,7 @@ Windows Formlarını, ASP.NET veya .NET Framework 2.0 veya sonraki sürümlerini
 Masaüstü, web veya Java SE veya EE tabanlı her türlü uygulama için yerel Java API'leri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Masaüstü Windows, Linux ve macOS ve MacOS-ARM için.NET üzerinden Python API'si.
 {{< /blocks/products/pf/product >}}
 

@@ -19,7 +19,7 @@ Windows-muodot, SP. ET tai minkä tahansa tyyppinen sovellus perustuu .ET Framew
 Native Java API työpöydälle, web tai minkäänlaista sovellus perustuu Java SE tai EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Python-sovellusliittymä.NET: n kautta työpöydälle Windows, Linux ja macOS ja MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

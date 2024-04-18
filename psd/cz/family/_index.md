@@ -19,7 +19,7 @@ Cíl Windows Forms, ASP.NET nebo jakýkoli typ aplikace založené na rozhraní.
 Nativní rozhraní Java API pro stolní počítače, web nebo jakoukoli aplikaci založenou na jazyce Java SE nebo EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Python API přes .NET pro stolní počítače Windows, Linux a MacOS a MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

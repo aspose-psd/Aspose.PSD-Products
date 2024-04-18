@@ -19,7 +19,7 @@ Diríjase a Windows Forms, ASP.NET o cualquier tipo de aplicación basada en .NE
 API nativas de Java para escritorio, web o cualquier tipo de aplicación basada en Java SE o EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 API de Python a través de.NET para el escritorio de Windows, Linux y macOS y macOS-ARM.
 {{< /blocks/products/pf/product >}}
 

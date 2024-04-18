@@ -19,7 +19,7 @@ url: family/
 ڈیسک ٹاپ، ویب یا جاوا SE یا EE پر مبنی کسی بھی قسم کی درخواست کے لئے مقامی جاوا APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 ڈیسک ٹاپ ونڈوز، لینکس اور میکوس اور میکوس آرم کیلئے ڈاٹ نیٹ کے ذریعے پایتھن API ۔
 {{< /blocks/products/pf/product >}}
 

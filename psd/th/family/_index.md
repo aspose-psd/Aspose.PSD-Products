@@ -19,7 +19,7 @@ url: family/
 API Java พื้นเมืองสำหรับเดสก์ทอปเว็บหรือชนิดของโปรแกรมใด ๆ บนพื้นฐานของ Java SE หรือ EE
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 Python API ผ่าน .NET สำหรับเดสก์ท็อป Windows, Linux และ macOS และ macOS-ARM
 {{< /blocks/products/pf/product >}}
 

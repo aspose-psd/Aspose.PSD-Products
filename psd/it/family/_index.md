@@ -19,7 +19,7 @@ Scegli come target Windows Forms, ASP.NET o qualsiasi tipo di applicazione basat
 API Java native per desktop, web o qualsiasi tipo di applicazione basata su Java SE o EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 API Python via .NET per desktop Windows, Linux e macOS e macOS-ARM.
 {{< /blocks/products/pf/product >}}
 

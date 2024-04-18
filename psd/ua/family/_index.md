@@ -19,7 +19,7 @@ url: family/
 Рідні API Java для робочого столу, Інтернету або будь-якого виду додатків на основі Java SE або EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 API Python через .NET для настільних ПК Windows, Linux та macOS та MacOS-ARM.
 {{< /blocks/products/pf/product >}}
 

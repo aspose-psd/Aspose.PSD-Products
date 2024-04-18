@@ -19,7 +19,7 @@ Windows フォーム、ASP.NET、または.NET Framework 2.0 以降をベース�
 Java SE または EE をベースにしたデスクトップ、Web、またはあらゆる種類のアプリケーション用のネイティブ Java API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 デスクトップウィンドウズ、Linux、macOS、MacOS-Arm用の.NET経由のPython API。
 {{< /blocks/products/pf/product >}}
 

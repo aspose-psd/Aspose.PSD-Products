@@ -19,7 +19,7 @@ url: family/
 जावा एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव जावा एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.PSD for" title="Python via .NET" imgSrc="https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg" productLink="python-net/" >}}
 डेस्कटॉप विंडोज, लिनक्स और मैकओएस और मैकओएस-एआरएम के लिए .NET के माध्यम से पायथन एपीआई।
 {{< /blocks/products/pf/product >}}
 
