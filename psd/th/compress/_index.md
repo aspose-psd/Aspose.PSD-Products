@@ -14,7 +14,7 @@ url: compress/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">ฟรี App ออนไลน์เพื่อบีบอัด PSD และลดขนาดของมัน</h3>
 <p>บีบอัดไฟล์ PSD และ PSB ขนาดใหญ่โดยใช้วิธีการ lossy และ losslessค้นพบศักยภาพที่ซ่อนอยู่ของ Aspose.PSDมันไม่ปลอดภัยเสมอสำหรับข้อมูลในไฟล์ PSD, ดังนั้นถ้าคุณใช้มันบ่อยคุณควรทดสอบไฟล์ PSD หลังจากการบีบอัด.โปรดทราบว่าคุณสมบัติการบีบอัดบางอย่างเป็น Lossy ดังนั้นหลังจากการบีบอัดประเภทนี้คุณจะไม่สามารถกู้คืนไฟล์ PSD เริ่มต้นได้คุณสมบัตินี้มีให้ “ตามที่เป็นอยู่”คุณสามารถบีบอัด PSD หรือลดขนาดของไฟล์ PSB</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

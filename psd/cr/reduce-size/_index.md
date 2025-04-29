@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="Smanjite veličinu PSD datoteka" >}}
 
 <p>Smanjite veličinu velikog PSD-a jednostavna je operacija ako koristite Aspose.PSD. Smanjenje veličine može se arhivirati uklanjanjem podataka predmemorije iz PSD datoteka, Spajanje slojeva, Pretvaranje u PSD format s manje bita po količini boje. Također, možete promijeniti način boja PSD datoteke, na primjer promjena iz CMYK boje u RGBA Color smanjuje veličinu PSD datoteke. Ova je aplikacija koristila nedokumentirane značajke PSD formata, tako da se konačni rezultat može slomiti. Molimo koristite PSD File Reduce samo ako jasno znate što želite arhivirati.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			

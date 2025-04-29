@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="บริการ PSD เป็น TIFF แปลง" >}}
 <p>รูปแบบ Tiff เป็นโซลูชันที่สมบูรณ์แบบสำหรับการจัดเก็บภาพด้วยคุณภาพดั้งเดิมพร้อมข้อมูลเพิ่มเติมเมื่อคุณเลือกรูปแบบ tiff สำหรับการแปลงจาก PSD คุณสามารถบันทึกข้อมูลจำนวนมากที่แสดงในไฟล์ PSD ต้นฉบับได้แต่การแปลงของ PSD เพื่อ TIFF มีปัญหาของตัวเอง.รูปแบบเหล่านี้มีความแตกต่างกันมากและตัวแปลงไม่ได้ทั้งหมดสามารถแปลงข้อมูลทั้งหมดเป็น Tiff โดยไม่สูญเสีย.นอกจากนี้รูปแบบ PSD มีเมตาดาต้าของตัวเองที่ไม่สามารถทำซ้ำได้หลังจากการแปลง PSD เป็น TIFFยกตัวอย่างเช่นการจัดเก็บ PSD ข้อมูลของ Text Layer ในรูปแบบเวกเตอร์เช่นเดียวกับข้อมูลวัตถุสมาร์ทคุณไม่ควรแปลง PSD เป็น TIFF หากคุณต้องการแก้ไขไฟล์หลังจากนั้นไฟล์ TIFF สนับสนุนชั้น, แต่ TIFF เป็นรูปแบบแรสเตอร์ส่วนใหญ่แทน PSD ที่เก็บข้อมูลเวกเตอร์จำนวนมาก.แต่ถ้าคุณทำการแปลงรูปภาพที่แก้ไขใน PSD ของ Apose <a href="https://products.aspose.app/psd/photo-editor">เครื่องมือแก้ไขภาพถ่าย</a> รูปแบบการส่งออก tiff เป็นที่สมบูรณ์แบบจากนั้นคุณสามารถแก้ไขภาพ tiff กับบรรณาธิการทิฟที่เฉพาะเจาะจง</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

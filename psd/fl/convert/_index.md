@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus PSD: n muuntamiseen" >}}
 <h3 class="headingpdleft">Multiformat PSD, PSB ja AI Converter</h3>
 <p>Kyky muuntaa PSD eri muodoissa on laajalti pyydetty ominaisuus. Aspose.PSD on pikselin täydellinen tarkka. Voit muuntaa PSD mihin tahansa muotoon, tämä sisäänrakennettu muuntaa sovellus tarjoaa ”PSD tallentaa png”, ”PSD muuntaa jpg”, ”PSD PDF muuntaminen”</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

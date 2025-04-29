@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD Tiff Convert palvelu" >}}
 <p>Tiff-muoto on täydellinen ratkaisu valokuvan tallentamiseen alkuperäisessä laadussa lisätiedoilla. Kun valitset tiff-muodon muuntamiseksi PSD: stä, voit tallentaa eniten tietoja, jotka esitetään alkuperäisessä PSD-tiedostossa. Mutta muuntaminen PSD tiff on omat ongelmansa. Nämä muodot ovat hyvin erilaisia, eivätkä kaikki muunnin voi muuntaa kaikki infomation Tiff ilman häviää. Myös PSD Format on omat metatiedot, joita ei voi toistaa jälkeen PSD Tiff muuntaminen. Esimerkiksi PSD tallentaa tekstikerroksen tiedot vektorimuodossa sekä Smart Object -tiedot. Sinun ei pitäisi muuntaa PSD: tä Tiffiksi, jos haluat muokata tiedostoa jälkikäteen. Tiff-tiedosto tukee kerroksia, mutta tiff on enimmäkseen rasterimuoto PSD: n sijaan, jossa on tallennettu paljon vektoridataa. Mutta jos et muuntaminen Photo Muokattu PSD Aspose <a href="https://products.aspose.app/psd/photo-editor">Kuvanmuokkausohjelma</a> tiff-vientimuoto on täydellinen. Sitten voit muokata tiff-kuvaa tiff-spesifisten editorien kanssa</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

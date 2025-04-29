@@ -13,7 +13,7 @@ url: view/psd-file-viewer/
 
 {{< blocks/products/pf/feature-page-section h2="PSD preglednik datoteka" >}}
 <p>PSD preglednik jednostavna je aplikacija za pregled bilo koje PSD datoteke na mreži. Ako nemate Alove Photoshop, možete ga koristiti <a href="/psd/view/psd-file-viewer">PSD preglednik</a> ili <a href="https://products.aspose.app/psd/editor">Aspose PSD Editor</a>. Za razliku od drugih gledatelja koje morate instalirati na lokalni stroj, ovaj PSD preglednik datoteka je besplatan i radi na mreži. Zbog stalnih ažuriranja Aspose.PSD koji ovlasti PSD Viewer moći ćete otvoriti posljednje verzije PSD datoteka s piksel-savršen pregled. Imajte na umu da ova aplikacija ne koristi Adobe Photoshop, možete reproducirati sve funkcionalnosti ovog preglednika s C# ili Java, samo provjerite <a href="https://products.aspose.com/psd">Aspose.PSD</a></p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

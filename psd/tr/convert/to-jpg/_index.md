@@ -13,7 +13,7 @@ url: convert/to-jpg/
 
 {{< blocks/products/pf/feature-page-section h2="PSD'yi JPG'ye Dönüştürmek İçin Ücretsiz Online Uygulama" >}}
 <p>PSD'yi JPG'ye dönüştürmek istiyorsanız, PSD'den Jpeg Converter'a en iyi çözümdür. Jpg, kayıplı sıkıştırmalı görüntü formatıdır, ancak doğal fotoğraf renklerine sahip fotoğraflarda ek renk bilgilerinin kaybedilmesi fark edilmeyecektir. Bu yüzden PSD'yi JPEG'e dönüştürmenin kendi çok popüler durumu var. Fotoğrafları orijinal durumda saklama yeteneğine sahip olun, ancak daha az disk sürücüsü boyutlarında birçok şirket için bir hayaldir. Ancak lütfen dikkatli olun, tüm PSD dosyalarını Jpeg'e dönüştürmek için hızlı sonuçlardan kaçının, çünkü Jpeg katmanları, maskeleri, 16 ve 32 bit (ve diğerleri) renk modlarını desteklemez. JPEG'e dönüştürüldükten sonra orijinal PSD veya PSB dosyalarını silerseniz, geri alınamaz bir şekilde kaybedersiniz. İyi bir çözüm, PSD dosyasını Jpeg'e dönüştürmek, daha sonra PSD dosyalarını izole edilmiş bir cihaza kaydetmek ve psb'den dönüşümden sonra JPEG dosyalarını kolay erişimle kompakt bir fotoğraf albümü olarak kullanmaktır. Sadece ihtiyacın varsa <a href="/psd/view">PSD'yi çevrimiçi açın</a> lütfen kullanın <a href="/psd/view">Online PSD Uygulamayı Görüntüle</a></p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });

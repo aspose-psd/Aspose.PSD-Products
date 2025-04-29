@@ -13,7 +13,7 @@ url: convert/to-pdf/
 
 {{< blocks/products/pf/feature-page-section h2="PSD'yi PDF'ye Dönüştürmek için Ücretsiz Çevrimiçi Uygulama" >}}
 <p>Sen pdf psd dönüştürebilirsiniz. Bu, PSD'yi PDF olarak yazdırmaya benzer, çünkü sonucunuz PDF Belgesidir. Hem PSD hem de PDF formatları Adobe® tarafından geliştirilmiştir. PDF PostScript'i temel alır ve her PDF düzenin tam bir açıklamasını içerir. PSD Formatı, Vektör Verileri ve Katman Maskeleri dahil Katman Verilerinin tam açıklamasını içerir. Her iki format da popülerdir ve tasarımcılar ve geliştiriciler tarafından yaygın olarak kullanılmaktadır. No-Code App hızlı ve basit, kolay bir çözümdür.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

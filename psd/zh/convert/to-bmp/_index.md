@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="将PSD转换为BMP的免费在线应用程序" >}}
 <p>如果你需要在旧软件中使用以 PSD 格式制作的现代图像怎么办？最好的方法是将PSD转换为BMP。BMP 是一种老式的栅格格式，在常见用例中支持每通道 8 位。新版本的BMP文件支持透明度和压缩，因此在将PSD转换为BMP之后，您可以获得原始图像，但没有图层。但更可取的方法是在这种情况下使用 PNG 文件。BMP文件的主要应用是特定的软件和3D建模，也可以使用将PSD转换为BMP来创建图标和图标。请注意，如果你使用 Aspose Software，PSB 到 BMP 的转换是像素完美的。</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

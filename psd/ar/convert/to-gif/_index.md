@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="خدمة الويب لتحويل PSD إلى GIF" >}}
 <p>يعد تنسيق GIF جيدًا عندما تريد إنشاء صورة متحركة لـ WWW. أيضًا، يمكن استخدام GIF لضغط الصورة، ويُنصح بشكل خاص إذا كانت صورتك تحتوي على أقل من 256 لونًا مختلفًا. بعد تحويل PSD إلى GIF، يمكنك الحصول على GIF المتحركة. تحويل PSD إلى GIF إذا كانت عملية بسيطة، ولكن لا يمكن القيام بها بدون برامج متخصصة مثل هذا المحول أو Aspose.PSD.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

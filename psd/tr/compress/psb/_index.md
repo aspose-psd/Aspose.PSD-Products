@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">PSD'yi Sıkıştırmak ve boyutunu küçültmek için Ücretsiz Çevrimiçi Uygulama</h3>
 <p>Kayıplı ve kayıpsız yöntemler kullanarak büyük PSD ve PSB dosyalarını sıkıştırın. Aspose.PSD gizli potansiyelini keşfedin. PSD Dosyasındaki Veriler için her zaman güvenli değildir, bu nedenle sık kullanırsanız, sıkıştırmadan sonra PSD Dosyalarını test etmelisiniz. Bazı sıkıştırma özellikleri Kayıplı olduğunu unutmayın, bu yüzden sıkıştırma bu tür sonra ilk PSD Dosyaları geri mümkün olmayacaktır. Bu özellik “olduğu gibi” sağlanır. PSD'yi sıkıştırabilir veya PSB dosyalarının boyutunu küçültebilirsiniz.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

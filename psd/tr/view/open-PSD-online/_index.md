@@ -14,7 +14,7 @@ url: view/open-PSD-online/
 
 {{< blocks/products/pf/feature-page-section h2="PSD dosyasını çevrimiçi açmak için ücretsiz Online App" >}}
 <p>Bu hizmet, PSD dosyasını Photoshop olmadan çevrimiçi olarak açmaya yardımcı olur. Sadece PSD dosyanızı yükleyin ve birkaç saniye sonra bu dosyanın piksel mükemmel görünümünü elde edersiniz. PSD'yi herhangi bir cihazdan açabilirsiniz.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
 	    // To open the PSD File as PNG just use this code

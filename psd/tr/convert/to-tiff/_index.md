@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD Tiff dönüştürme hizmeti" >}}
 <p>Tiff formatı, fotoğrafı ek bilgilerle orijinal kalitede saklamak için mükemmel bir çözümdür. PSD'den dönüştürmek için tiff formatını seçtiğinizde, orijinal PSD Dosyasında sunulan en fazla veri miktarını kaydedebilirsiniz. Ancak PSD'nin tiff'e dönüştürülmesinin kendi sorunları var. Bu formatlar çok farklıdır ve tüm dönüştürücü tüm bilgiyi kaybetmeden Tiff'e dönüştüremez. Ayrıca, PSD Format Tiff dönüşüm PSD sonra çoğaltılamaz kendi meta verileri vardır. Örneğin PSD, Metin Katmanı verilerini vektör biçiminde ve Akıllı Nesne verilerini depolar. Daha sonra dosyayı düzenlemek istiyorsanız PSD'yi Tiff'e dönüştürmemelisiniz. Tiff dosyası katmanları destekler, ancak tiff, çok sayıda vektör verisinin depolandığı PSD yerine çoğunlukla raster bir formattır. Ancak Aspose'un PSD'sinde Düzenlenmiş Fotoğrafın dönüşümünü yaparsanız <a href="https://products.aspose.app/psd/photo-editor">Fotoğraf Editörü</a> tiff dışa aktarma formatı mükemmel. Ardından tiff'e özgü editörlerle tiff görüntüsünü düzenleyebilirsiniz</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

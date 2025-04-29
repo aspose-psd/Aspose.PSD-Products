@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="Bezplatná online aplikace pro převod PSD na PNG" >}}
 <p>Tento převodník je snadný způsob, jak převést soubory PSD do formátu PNG. Soubory PNG podporují neprůhlednost a různé barevné režimy pro uložení místa na disku nebo uložení dalších informací. Soubory PNG ukládají data komprimovaná, ale tato komprese je zcela bezztrátová. Formát PSD podporuje průhlednost a různé barevné režimy podobné PNG, takže pokud je převod formátu PSD na PNG jednou ze základních operací pro výměnu obrazových dat bez ztráty dat. Ale tyto formáty mají významné rozdíly. Například formát PSD podporuje vrstvy, ale formát PNG ne. Po převodu PSD na PNG budou všechny informace o vrstvách ztraceny v PNG, ale původní soubor PSD nebude změněn.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Бесплатное онлайн-приложение для просмотра формата PSD, PSB или AI онлайн" >}}
 <p>Возможность просмотра psd онлайн — популярный сервис, который поможет вам сэкономить время и деньги. Для открытия файлов PSD не требуется Adobe Photoshop. Встроенное приложение обеспечивает идеальный пиксельный просмотр в формате psd</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

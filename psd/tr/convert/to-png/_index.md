@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="PSD'yi PNG'ye Dönüştürmek için Ücretsiz Online Uygulama" >}}
 <p>Bu dönüştürücü, PSD dosyalarınızı PNG formatına dönüştürmenin kolay bir yoludur. PNG dosyaları, disk sürücüsü alanını kaydetmek veya ek bilgileri depolamak için opaklığı ve farklı renk modlarını destekler. PNG Dosyaları sıkıştırılmış verileri depolar, ancak bu sıkıştırma tamamen kayıpsızdır. PSD formatı şeffaflığı ve PNG'ye benzer farklı renk modlarını destekler, bu nedenle PSD formatının PNG'ye dönüştürülmesi, veri kaybetmeden görüntü verilerinin alışverişi için temel işlemlerden biriyse. Ancak bu formatların önemli farklılıkları var. Örneğin PSD formatı Katmanları destekler, ancak PNG biçimi desteklemez. PSD'den PNG'ye dönüşümden sonra katmanlarla ilgili tüm bilgiler PNG'de kaybolacak, ancak ilk PSD dosyası değişmeyecek.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

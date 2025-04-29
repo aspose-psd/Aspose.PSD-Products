@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="Zmenšit velikost souborů PSB" >}}
 
 <p>Formát PSB lze snadno komprimovat, pokud jej uložíte jako PSD, ale formát PSD nepodporuje obraz, který má šířku nebo výšku více než 30000 pixelů. V tomto případě je komprese souboru PSB složitější řešení. Můžete zkusit PSB Compress Software, ale nemůžeme zaručit, že konečný komprimovaný soubor PSB bude čitelný. Tato aplikace používá nezdokumentované funkce formátu PSB. Chcete-li zvýšit šanci na správnou práci, zkuste komprimovat funkce, které neodstraní důležitá data. Snižte velikost PSB za předpokladu „tak, jak je“. Je lepší používat běžné <a href="/psd/reduce-size">PSD velikost zmenšit aplikaci</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

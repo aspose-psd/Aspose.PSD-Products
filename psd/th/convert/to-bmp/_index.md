@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="แอปออนไลน์ฟรีเพื่อแปลง PSD เป็น BMP" >}}
 <p>เกิดอะไรขึ้นถ้าคุณต้องการใช้ในซอฟต์แวร์เก่าภาพที่ทันสมัยของคุณทำในรูปแบบ PSD?วิธีที่ดีที่สุดคือการแปลง PSD เป็น BMP.BMP เป็นรูปแบบแรสเตอร์สมัยเก่า thQT สนับสนุน 8 บิตต่อช่องในกรณีการใช้งานทั่วไปไฟล์ BMP เวอร์ชันใหม่สนับสนุนความโปร่งใสและการบีบอัดดังนั้นหลังจากการแปลง PSD เป็น BMP คุณจะได้รับภาพต้นฉบับ แต่ไม่มีเลเยอร์แต่วิธีที่ดีกว่าคือการใช้ไฟล์ PNG ในกรณีเช่นนี้โปรแกรมหลักของไฟล์ BMP เป็นซอฟต์แวร์ที่เฉพาะเจาะจงและการสร้างแบบจำลอง 3 มิติ, นอกจากนี้ยังแปลง PSD BMP สามารถนำมาใช้ในการสร้าง favicons และไอคอน.โปรดทราบว่า PSB เพื่อ BMP แปลงเป็นพิกเซลที่สมบูรณ์แบบถ้าคุณใช้ซอฟแวร์ Apose.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

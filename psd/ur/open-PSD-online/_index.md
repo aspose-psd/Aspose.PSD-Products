@@ -14,7 +14,7 @@ url: open-PSD-online/
 
 {{< blocks/products/pf/feature-page-section h2="پی ایس ڈی فائل آن لائن کھولنے کے لئے مفت آن لائن اپلی کیشن" >}}
 <p>یہ سروس فوٹوشاپ کے بغیر آن لائن پی ایس ڈی فائل کو کھولنے میں مدد ملتی ہے. بس اپنے پی ایس ڈی فائل کو اپ لوڈ کریں اور چند سیکنڈ کے بعد آپ کو اس فائل کا پکسل کامل نقطہ نظر مل جائے گا. آپ کسی بھی ڈیوائس سے پی ایس ڈی کھول سکتے ہیں.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
 	    // To open the PSD File as PNG just use this code

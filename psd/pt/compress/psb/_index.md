@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Aplicativo online gratuito para compactar PSD e reduzir seu tamanho</h3>
 <p>Comprima arquivos PSD e PSB grandes usando métodos com e sem perdas. Descubra o potencial oculto do Aspose.PSD. Nem sempre é seguro para dados em arquivos PSD, portanto, se você os usa com frequência, deve testar os arquivos PSD após a compressão. Observe que alguns recursos de compactação têm perdas, portanto, após esses tipos de compactação, você não poderá restaurar os arquivos PSD iniciais. Esse recurso é fornecido “no estado em que se encontra”. Você pode compactar PSD ou reduzir o tamanho dos arquivos PSB.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

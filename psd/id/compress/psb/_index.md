@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Aplikasi Online Gratis untuk Mengompres PSD dan mengurangi ukurannya</h3>
 <p>Kompres file PSD dan PSB besar menggunakan metode lossy dan lossless. Temukan potensi tersembunyi dari Aspose.PSD. Ini tidak selalu aman untuk Data dalam File PSD, jadi jika Anda menggunakannya sering Anda harus menguji File PSD setelah kompresi. Harap dicatat, bahwa beberapa fitur kompres yang Lossy, jadi setelah jenis kompresi Anda tidak akan dapat mengembalikan File PSD awal. Fitur ini disediakan “sebagaimana adanya”. Anda dapat mengompres PSD atau mengurangi ukuran file PSB.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

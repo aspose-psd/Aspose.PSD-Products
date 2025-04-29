@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="خدمة تحويل PSD إلى Tiff" >}}
 <p>يعد تنسيق Tiff حلاً مثاليًا لتخزين الصورة بالجودة الأصلية مع معلومات إضافية. عندما تختار تنسيق tiff للتحويل من PSD، يمكنك حفظ أكبر قدر من البيانات المعروضة في ملف PSD الأصلي. لكن تحويل PSD إلى tiff له مشاكله الخاصة. هذه التنسيقات مختلفة جدًا ولا يمكن لجميع المحولات تحويل جميع المعلومات إلى Tiff دون خسائر. أيضًا، يحتوي تنسيق PSD على بيانات التعريف الخاصة به والتي لا يمكن إعادة إنتاجها بعد تحويل PSD إلى Tiff. على سبيل المثال، تقوم PSD بتخزين بيانات طبقة النص بتنسيق متجه بالإضافة إلى بيانات Smart Object. يجب ألا تقوم بتحويل PSD إلى Tiff إذا كنت تريد تحرير الملف بعد ذلك. يدعم ملف Tiff الطبقات، لكن tiff هو تنسيق نقطي في الغالب بدلاً من PSD حيث يتم تخزين الكثير من بيانات المتجهات. ولكن إذا قمت بتحويل الصورة المحررة في PSD من Aspose <a href="https://products.aspose.app/psd/photo-editor">معدل الصور</a> صيغة تصدير tiff مثالية. ثم يمكنك تحرير صورة tiff باستخدام المحررين الخاصين بـ tiff</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

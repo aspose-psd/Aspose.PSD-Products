@@ -14,7 +14,7 @@ url: compress/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Zdarma Online App pro kompresi PSD a zmenšit jeho velikost</h3>
 <p>Komprimujte velké soubory PSD a PSB pomocí ztrátových a bezztrátových metod. Objevte skrytý potenciál Aspose.PSD. Není to vždy bezpečné pro Data v souboru PSD, takže pokud jej používáte často, měli byste po kompresi otestovat soubory PSD. Vezměte prosím na vědomí, že některé funkce komprese jsou ztrátové, takže po těchto typech komprese nebudete moci obnovit počáteční soubory PSD. Tato funkce je poskytována „tak, jak je“. Můžete komprimovat PSD nebo zmenšit velikost souborů PSB.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

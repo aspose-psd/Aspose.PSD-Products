@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="Web-palvelu PSD GIF muuntaminen" >}}
 <p>GIF-muoto on hyvä, kun haluat tehdä animoidun kuvan WWW: lle. Myös GIF: ää voidaan käyttää kuvan pakkaamiseen, se on erityisen suositeltavaa, jos kuvasi sisältää alle 256 eri väriä. PSD: n muuntamisen jälkeen GIF: ksi voit saada animoidun GIF-tiedoston. Muuntaminen PSD GIF jos yksinkertainen prosessi, mutta sitä ei voi tehdä ilman erikoistuneita ohjelmistoja, kuten tämä muunnin tai Aspose.PSD.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

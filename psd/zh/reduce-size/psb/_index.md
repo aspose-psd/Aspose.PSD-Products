@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="减小 PSB 文件的大小" >}}
 
 <p>如果您将 PSB 格式另存为 PSD，则可以轻松对其进行压缩，但是 PSD 格式不支持宽度或高度超过 30000 像素的图像。在这种情况下，压缩 PSB 文件是更复杂的解决方案。你可以试试 PSB 压缩软件，但我们不能保证最终压缩的 PSB 文件是可读的。此应用程序使用未记录的PSB格式功能。为了提高正确工作的几率，请尝试使用不会删除重要数据的压缩功能。缩小 “按原样” 提供的 PSB 的大小。最好使用普通的 <a href="/psd/reduce-size">PSD 缩小大小应用程序</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

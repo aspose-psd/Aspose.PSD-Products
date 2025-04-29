@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="Pienennä PSB-tiedostojen kokoa" >}}
 
 <p>PSB-muoto voidaan helposti pakata, jos tallennat sen PSD: ksi, mutta PSD-muoto ei tue kuvaa, jonka leveys tai korkeus on yli 30000 pikseliä. Tässä tapauksessa pakkaamalla PSB tiedosto on monimutkaisempi ratkaisu. Voit kokeilla PSB Compress Software -ohjelmistoa, mutta emme voi taata, että lopullinen pakattu PSB-tiedosto on luettavissa. Tämä sovellus käyttää PSB-muodon dokumentoituja ominaisuuksia. Parantaa mahdollisuutta oikean työn, kokeile pakkaa ominaisuuksia, jotka eivät poista tärkeitä tietoja. Pienennä PSB: n kokoa ”sellaisenaan”. On parempi käyttää yhteistä <a href="/psd/reduce-size">PSD Koko Pienennä Application</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

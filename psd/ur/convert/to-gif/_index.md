@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="GIF تبادلوں کے لئے پی ایس ڈی کے لئے ویب سروس" >}}
 <p>GIF فارمیٹ اچھا ہے جب آپ WWW کے لئے متحرک تصویر بنانا چاہتے ہیں. اس کے علاوہ، GIF تصویر کے کمپریشن کے لئے استعمال کیا جا سکتا ہے، یہ خاص طور پر مشورہ دیا جاتا ہے اگر آپ کی تصویر 256 مختلف رنگوں سے کم ہے. پی ایس ڈی کے GIF میں تبادلوں کے بعد آپ کو متحرک GIF حاصل کر سکتے ہیں. پی ایس ڈی کو GIF میں تبدیل کرنا اگر ایک سادہ عمل ہے، لیکن یہ اس کنورٹر یا Aspose.PSD جیسے خصوصی سافٹ ویئر کے بغیر نہیں کیا جا سکتا.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

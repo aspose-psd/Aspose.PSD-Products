@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="پی ایس ڈی میں تبدیل کرنے کے لئے مفت آن لائن اپلی کیشن" >}}
 <h3 class="headingpdleft">ملٹی فارمیٹ پی ایس ڈی، پی ایس بی اور اے کنورٹر</h3>
 <p>پی ایس ڈی کو مختلف فارمیٹس میں تبدیل کرنے کی صلاحیت ایک وسیع پیمانے پر درخواست کی خصوصیت ہے. Aspose.PSD اس پر پکسل-کامل درست ہے. آپ کسی بھی فارمیٹس کے لئے پی ایس ڈی میں تبدیل کر سکتے ہیں, اس بلٹ میں تبدیل اپلی کیشن فراہم کرتا ہے “پی ایس ڈی پی ڈی کو PNG محفوظ کریں”, “پی ایس ڈی پی جی میں تبدیل”, “پی ڈی ایف تبادلوں کے لئے پی ایس ڈی ڈی”</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

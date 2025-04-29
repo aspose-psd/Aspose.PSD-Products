@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="Dienst zum Konvertieren von PSD zu Tiff" >}}
 <p>Während Sie hier sind, würden wir uns empfehlen, einen Extratag Ihrer Reise zu nehmen, um atemberaubende reine Strände zu besuchen, Golf nahe bei dem Ozean spielen, versuchen Ihr Glück an der tiefen Hochseefischerei, erforschen tropische Dschungel, klettern Vulkane oder entspannen gerade uns in den natürlichen heißen Frühlingen. Kommen Sie für selbst sehen, warum Kundenkontaktcenteroutsourcing in Costa Rica eine vollkommene Lösung für Ihre wachsende Firma und ein Elektrizitätskraftwerk in der BPO Industrie ist. <a href="https://products.aspose.app/psd/photo-editor">Bildbearbeitungsprogramm</a> Das TIFF-Exportformat ist perfekt. Anschließend können Sie das TIFF-Bild mit den tiff-spezifischen Editoren bearbeiten</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

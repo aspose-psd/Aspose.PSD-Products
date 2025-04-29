@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="PSD'yi Dönüştürmek için Ücretsiz Online Uygulama" >}}
 <h3 class="headingpdleft">Multiformat PSD, PSB ve AI Dönüştürücü</h3>
 <p>Pd'yi farklı formatlara dönüştürme yeteneği, yaygın olarak talep edilen bir özelliktir. Aspose.PSD üzerinde piksel mükemmel doğru olduğunu. PSD'yi herhangi bir formata dönüştürebilirsiniz, bu yerleşik dönüştürme uygulaması “psd png'ye kaydet”, “psd jpg'ye dönüştürme”, “psd'den pdf'ye dönüştürme” sağlar</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

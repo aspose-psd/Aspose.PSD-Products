@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Besplatna internetska aplikacija za pretvaranje PSD-a" >}}
 <h3 class="headingpdleft">Multiformatni PSD, PSB i AI pretvarač</h3>
 <p>Sposobnost pretvaranja psd u različite formate široko je tražena značajka. Aspose.PSD je piksel-savršen točan na njemu. Možete pretvoriti PSD u bilo koji format, ovaj ugrađeni pretvoriti aplikacija pruža "psd spasiti u png", "psd pretvoriti u jpg", "psd u pdf pretvorbe"</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD から TIFF ファイルへの変換サービス" >}}
 <p>TIFF形式は、追加情報とともに写真を元の品質で保存するのに最適なソリューションです。PSD からの変換に tiff 形式を選択すると、元の PSD ファイルに表示されていたほとんどのデータを保存できます。しかし、PSDからtiffへの変換には独自の問題があります。これらのフォーマットは非常に異なり、すべてのコンバーターがすべての情報を失うことなくTiffに変換できるわけではありません。また、PSD 形式には独自のメタデータがあり、PSD から Tiff への変換後は再生できません。たとえば、PSDはテキストレイヤーのデータとスマートオブジェクトデータをベクター形式で保存します。後でファイルを編集する場合は、PSDをTiffに変換しないでください。TIFFファイルはレイヤーをサポートしていますが、TIFFは大量のベクターデータを格納するPSDではなく、ほとんどがラスター形式です。しかし、AsposeのPSDで編集した写真を変換すると <a href="https://products.aspose.app/psd/photo-editor">フォトエディター</a> tiffエクスポート形式は完璧です。その後、TIFF 専用のエディタを使用して TIFF イメージを編集できます。</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

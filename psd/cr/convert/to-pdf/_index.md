@@ -13,7 +13,7 @@ url: convert/to-pdf/
 
 {{< blocks/products/pf/feature-page-section h2="Besplatna internetska aplikacija za pretvaranje PSD-a u PDF" >}}
 <p>Možete pretvoriti psd u pdf. Ovo je slično ispisu PSD-a kao PDF-a, jer je rezultat PDF Document. I PSD i PDF formate razvija Adobe®. PDF se temelji na PostScriptu i svaki PDF sadrži potpuni opis izgleda. PSD Format sadrži potpuni opis podataka o slojevima, uključujući vektorske podatke i maske slojeva. Oba formata su popularni i naširoko koristi od strane dizajnera i programera. No-Code App je brzo i jednostavno jednostavno rješenje.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

@@ -14,7 +14,7 @@ url: view/open-PSD-online/
 
 {{< blocks/products/pf/feature-page-section h2="Besplatna internetska aplikacija za otvaranje PSD datoteke na mreži" >}}
 <p>Ova usluga pomaže otvoriti PSD datoteku na mreži bez Photoshopa. Jednostavno prenesite PSD datoteku i nakon nekoliko sekundi dobit ćete savršeni prikaz ove datoteke. PSD možete otvoriti s bilo kojeg uređaja.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
 	    // To open the PSD File as PNG just use this code

@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus PSD: n katseluun, PSB- tai AI-muoto verkossa" >}}
 <p>Kyky katsella psd verkossa on suosittu palvelu, joka voi auttaa sinua säästämään aikaa ja rahaa. Et tarvitse Adobe Photoshopia avataksesi PSD tiedostoja. Sisäänrakennettu sovellus tarjoaa pikseli-täydellinen PSD näkymä</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

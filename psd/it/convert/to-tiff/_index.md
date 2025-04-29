@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="Servizio di conversione da PSD a Tiff" >}}
 <p>Il formato Tiff è una soluzione perfetta per archiviare la foto nella qualità originale con informazioni aggiuntive. Quando si sceglie il formato tiff per la conversione da PSD, è possibile salvare la maggior parte dei dati presentati nel file PSD originale. Ma la conversione da PSD a tiff ha i suoi problemi. Questi formati sono molto diversi e non tutti i convertitori possono convertire tutte le informazioni in Tiff senza perdite. Inoltre, il formato PSD ha i propri metadati che non possono essere riprodotti dopo la conversione da PSD a Tiff. Ad esempio, PSD memorizza i dati di Text Layer in formato vettoriale e i dati di Smart Object. Non dovresti convertire PSD in Tiff se desideri modificare il file in seguito. Il file Tiff supporta i livelli, ma il tiff è un formato prevalentemente raster anziché PSD in cui sono memorizzati molti dati vettoriali. Ma se si effettua la conversione di Photo Edited in PSD di Aspose <a href="https://products.aspose.app/psd/photo-editor">Editor di foto</a> il formato di esportazione tiff è perfetto. Quindi puoi modificare l'immagine tiff con gli editor specifici per tiff</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

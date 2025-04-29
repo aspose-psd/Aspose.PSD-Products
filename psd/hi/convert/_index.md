@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="PSD कन्वर्ट करने के लिए मुफ्त ऑनलाइन ऐप" >}}
 <h3 class="headingpdleft">मल्टीफॉर्मेट PSD, PSB और AI कन्वर्टर</h3>
 <p>पीएसडी को विभिन्न प्रारूपों में बदलने की क्षमता व्यापक रूप से अनुरोधित सुविधा है। Aspose.PSD इस पर पिक्सेल-परफेक्ट सटीक है। आप PSD को किसी भी फॉर्मेट में बदल सकते हैं, यह बिल्ट-इन कन्वर्ट ऐप “psd save to png”, “psd convert to jpg”, “psd to pdf रूपांतरण” प्रदान करता है</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

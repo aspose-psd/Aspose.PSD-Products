@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="PSB Dosyalarının boyutunu küçültün" >}}
 
 <p>PSD olarak kaydedecekseniz PSB formatı kolayca sıkıştırılabilir, ancak PSD formatı genişlik veya yükseklikte 30000 pikselden fazla olan görüntüyü desteklemez. Bu durumda PSB dosyasını sıkıştırmak daha karmaşık bir çözümdür. PSB Sıkıştırma Yazılımını deneyebilirsiniz, ancak son sıkıştırılmış PSB dosyasının okunabilir olacağını garanti edemeyiz. Bu uygulama, PSB formatının belgelenmemiş özelliklerini kullanır. Doğru çalışma şansını artırmak için lütfen önemli verileri kaldırmayacak sıkıştırma özelliklerini deneyin. “olduğu gibi” sağlanan PSB boyutunu azaltın. Ortak kullanmak daha iyidir <a href="/psd/reduce-size">PSD Boyutu Azaltma Uygulaması</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Ilmainen online-sovellus PSD: n pakkaamiseen ja sen koon pienentämiseen</h3>
 <p>Pakkaa suuret PSD- ja PSB-tiedostot häviöttömillä ja häviöttömillä menetelmillä. Löydä piilotettu potentiaali Aspose.PSD. Se ei ole aina turvallista Data PSD File, joten jos käytät sitä usein kannattaa testata PSD tiedostot pakkauksen jälkeen. Huomaa, että jotkut pakkausominaisuudet ovat häviöllisiä, joten tämäntyyppisten pakkausten jälkeen et voi palauttaa alkuperäisiä PSD-tiedostoja. Tämä ominaisuus tarjotaan ”sellaisenaan”. Voit pakata PSD tai pienentää PSB-tiedostoja.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

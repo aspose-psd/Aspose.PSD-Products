@@ -14,7 +14,7 @@ url: ai/
 
 {{< blocks/products/pf/feature-page-section h2="在线查看 AI 文件" >}}
 <p>如果你没有任何软件可以打开AI文件，只需使用在线查看器工具。这个应用程序可以帮助你查看任何版本的AI文件。但是最终结果将是渲染后的预览。AI 文件很难在基本应用程序中查看，因为 AI 是一种矢量格式。只有矢量查看器才能打开 AI。AI 格式由 Adobe 创建，它是一种专有格式。它有 “.ai” 扩展名。大多数AI Viewer都是付费产品，但是如果您不需要编辑Illustrator文件，则不需要任何付费软件。只需使用此应用程序在线查看AI文件即可。试试这个更新版本的 AI Viewer</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

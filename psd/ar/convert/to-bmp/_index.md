@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="تطبيق مجاني عبر الإنترنت لتحويل PSD إلى BMP" >}}
 <p>ماذا لو كنت بحاجة إلى استخدام صورتك الحديثة المصنوعة بتنسيق PSD في البرنامج القديم؟ أفضل طريقة هي تحويل PSD إلى BMP. BMP هو تنسيق نقطي قديم يدعم 8 بت لكل قناة في حالة الاستخدام الشائعة. يدعم الإصدار الجديد من ملفات BMP الشفافية والضغط، لذلك بعد تحويل PSD إلى BMP يمكنك الحصول على الصورة الأصلية ولكن بدون طبقات. ولكن الطريقة الأكثر تفضيلاً هي استخدام ملفات PNG في مثل هذه الحالة. التطبيق الرئيسي لملفات BMP هو البرنامج المحدد والنمذجة ثلاثية الأبعاد، كما يمكن استخدام تحويل PSD إلى BMP لإنشاء الرموز المفضلة والأيقونات. يرجى ملاحظة أن تحويل PSB إلى BMP مثالي للبكسل إذا كنت تستخدم برنامج Aspose.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

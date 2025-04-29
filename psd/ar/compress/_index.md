@@ -14,7 +14,7 @@ url: compress/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">تطبيق مجاني على الإنترنت لضغط PSD وتقليل حجمه</h3>
 <p>قم بضغط ملفات PSD و PSB الكبيرة باستخدام طرق مفقودة وغير مفقودة. اكتشف الإمكانات الخفية لـ Aspose.PSD. ليس دائمًا آمنًا للبيانات في ملف PSD، لذلك إذا كنت تستخدمه كثيرًا، فيجب عليك اختبار ملفات PSD بعد الضغط. يرجى ملاحظة أن بعض ميزات الضغط مفقودة، لذلك بعد هذه الأنواع من الضغط لن تتمكن من استعادة ملفات PSD الأولية. يتم توفير هذه الميزة «كما هي». يمكنك ضغط PSD أو تقليل حجم ملفات PSB.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

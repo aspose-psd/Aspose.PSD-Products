@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Gratis online-app för att visa PSD-, PSB- eller AI-format online" >}}
 <p>Möjlighet att visa psd nätet är populär tjänst, som kan hjälpa dig att spara tid och pengar. Du behöver inte Adobe Photoshop för att öppna PSD-filerna. Inbyggd app ger pixel-perfekt psd vy</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

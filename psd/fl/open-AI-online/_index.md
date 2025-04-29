@@ -14,7 +14,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="Avaa AI-tiedosto verkossa" >}}
 <p>Kun et tarvitse muokkaustoimintoa, kun avaat AI-muodon verkossa, tämä AI Viewer on hyvä ratkaisu moniin tarkoituksiin. Voit avata AI-tiedoston verkossa lataamisen jälkeen verkkopalvelimelle. AI-muoto on vektorimuoto, joten rasterointi etenee määritetyssä kuvakoossa. Saat lisätoimintoja, voit käyttää <a href="/psd/net">.Net</a> tai <a href="/psd/java">Java</a> korkean koodin sovellusliittymä AI-tiedostojen avaamiseen tarvittaviin mittoihin</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

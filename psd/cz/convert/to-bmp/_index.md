@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="Bezplatná online aplikace pro převod PSD na BMP" >}}
 <p>Co když potřebujete ve starém softwaru použít svůj moderní obraz vyrobený ve formátu PSD? Nejlepší způsob je převést PSD na BMP. BMP je staromódní rastrový formát, který podporuje 8 bit na kanál v běžném případě použití. Nová verze souborů BMP podporuje průhlednost a kompresi, takže po převodu PSD na BMP můžete získat původní obrázek, ale bez vrstev. Ale výhodnějším způsobem je použití souborů PNG v takovém případě. Hlavní aplikace BMP souborů je specifický software a 3D modelování, také převod PSD BMP mohou být použity k vytvoření favicons a ikony. Vezměte prosím na vědomí, že převod PSB na BMP je perfektní v pixelech, pokud používáte software Aspose.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

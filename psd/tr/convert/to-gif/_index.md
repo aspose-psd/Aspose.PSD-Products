@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="Web-Service PSD'den GIF'e dönüştürme" >}}
 <p>WWW için animasyonlu görüntü yapmak istediğinizde GIF formatı iyidir. Ayrıca, GIF görüntünün sıkıştırılması için kullanılabilir, özellikle görüntünüz 256'dan az farklı renk içeriyorsa tavsiye edilir. PSD'nin GIF'e dönüştürülmesinden sonra, animasyonlu GIF'i alabilirsiniz. Basit bir işlem varsa GIF PSD dönüştürme, ancak bu dönüştürücü veya Aspose.PSD gibi özel bir yazılım olmadan yapılamaz.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

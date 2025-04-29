@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="减小 PSD 文件的大小" >}}
 
 <p>如果你使用 Aspose.PSD，缩小大 PSD 的大小是一个简单的操作。通过从 PSD 文件中删除缓存数据、合并图层、以更少的每种颜色位数转换为 PSD 格式，可以存档缩小大小。此外，您可以更改 PSD 文件的颜色模式，例如，从 CMYK 颜色更改为 RGBA 颜色会减小 PSD 文件的大小。该应用程序使用了未记录的PSD格式功能，因此最终结果可能会被破坏。只有当你清楚知道要存档的内容时，才使用 PSD 文件缩小。</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			

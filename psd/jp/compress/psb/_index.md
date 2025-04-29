@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">PSDを圧縮してサイズを縮小する無料のオンラインアプリ</h3>
 <p>サイズの大きい PSD ファイルと PSB ファイルを、可逆圧縮方式と可逆圧縮方式を使用して圧縮します。Aspose.PSD の隠れた可能性を発見してください。PSDファイル内のデータは必ずしも安全ではないため、頻繁に使用する場合は、圧縮後にPSDファイルをテストする必要があります。一部の圧縮機能は非可逆圧縮であるため、これらのタイプの圧縮後は最初のPSDファイルを復元できなくなることに注意してください。この機能は「現状のまま」提供されます。PSD を圧縮したり、PSB ファイルのサイズを小さくしたりできます。</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

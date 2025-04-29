@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="Pienennä PSD-tiedostojen kokoa" >}}
 
 <p>Pienennä koko suurten PSD on yksinkertainen toimenpide, jos käytät Aspose.PSD. Pienentäminen kokoa voidaan archieved poistamalla välimuistin tiedot PSD tiedostot, yhdistäminen Tasot, Muuntaminen PSD Format vähemmän bittiä per väri määrä. Voit myös muuttaa PSD-tiedoston väritilaa, esimerkiksi vaihtaa CMYK-väristä RGBA Color pienentää PSD-tiedoston kokoa. Tämä sovellus käytti PSD-muodon dokumentoimattomia ominaisuuksia, joten lopputulos voidaan rikkoa. Käytä PSD File Vähennä vain, jos selkeä tietää, mitä haluat arkistoida.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			

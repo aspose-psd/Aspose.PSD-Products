@@ -13,7 +13,7 @@ url: convert/to-jpg/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus muuntaa PSD JPG: ksi" >}}
 <p>Jos haluat muuntaa PSD JPG sitten PSD JPEG Converter on paras ratkaisu. JPG on kuvamuoto, jossa on häviöllinen pakkaus, mutta valokuvissa, joissa on luonnolliset valokuvavärit, lisäväritietojen menettäminen ei ole havaittavissa. Joten muuntaa PSD JPEG on oma erittäin suosittu tapaus. On kyky tallentaa valokuvia alkuperäisessä tilassa, mutta vähemmän levyaseman koot on unelma monille yrityksille. Mutta ole varovainen, vältä nopeita päätöksiä muuntaa kaikki PSD-tiedostot JPEG-tiedostoiksi, koska Jpeg ei tue kerroksia, naamioita, 16- ja 32-bittisiä (ja monia muita) väritiloja. Jos poistat alkuperäiset PSD- tai PSB-tiedostot JPEG-muotoon muuntamisen jälkeen, menetät ne peruuttamattomasti. Hyvä ratkaisu on muuntaa PSD-tiedosto JPEG: ksi, tallenna PSD-tiedostot eristetylle laitteelle ja käytä JPEG-tiedostoja muuntamisen jälkeen psb: stä kompaktina valokuva-albumina helposti. Jos tarvitset vain <a href="/psd/view">avoin PSD verkossa</a> käytä <a href="/psd/view">Online PSD Näytä sovellus</a></p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });

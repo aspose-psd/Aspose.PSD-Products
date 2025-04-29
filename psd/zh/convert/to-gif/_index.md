@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="用于将 PSD 转换为 GIF 的网络服务" >}}
 <p>当你想为WWW制作动画图像时，GIF格式是不错的选择。此外，GIF 可用于压缩图像，如果您的图像包含的不同颜色少于 256 种，则尤其建议使用 GIF。将PSD转换为GIF后，即可获得动画GIF。将 PSD 转换为 GIF 是一个简单的过程，但是如果没有像这个转换器或 Aspose.PSD 这样的专门软件，就无法完成。</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

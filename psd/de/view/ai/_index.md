@@ -14,7 +14,7 @@ url: view/ai/
 
 {{< blocks/products/pf/feature-page-section h2="AI-Datei online anzeigen" >}}
 <p>Wenn Sie keine Software zum Öffnen der AI-Datei haben, verwenden Sie einfach das Online-Viewer-Tool. Diese App kann Ihnen helfen, AI-Dateien jeder Version anzuzeigen. Das Endergebnis ist jedoch die gerenderte Vorschau. AI-Datei ist in den Basisanwendungen schwer anzuzeigen, da AI ein Vektorformat ist. Nur der Vektorbetrachter kann AI öffnen. Das AI-Format wurde von Adobe entwickelt, es ist ein proprietäres Format. Es hat die Erweiterung „.ai“. Bei den meisten AI Viewers handelt es sich um kostenpflichtige Produkte, aber wenn Sie keine Illustrator-Dateien bearbeiten müssen, benötigen Sie dafür keine kostenpflichtige Software. Verwenden Sie einfach View AI-Dateien Online mit dieser App.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

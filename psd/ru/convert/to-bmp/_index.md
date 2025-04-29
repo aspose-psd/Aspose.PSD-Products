@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="Бесплатное онлайн-приложение для конвертации PSD в BMP" >}}
 <p>Что делать, если вам нужно использовать в старом программном обеспечении ваше современное изображение, выполненное в формате PSD? Лучший способ - конвертировать PSD в BMP</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

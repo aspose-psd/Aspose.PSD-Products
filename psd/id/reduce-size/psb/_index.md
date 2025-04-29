@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="Kurangi ukuran file PSB" >}}
 
 <p>Format PSB dapat dengan mudah dikompresi jika Anda menyimpannya sebagai PSD, tetapi format PSD tidak mendukung gambar yang lebih dari 30000 piksel pada lebar atau tinggi. Dalam hal ini mengompresi file PSB adalah solusi yang lebih kompleks. Anda dapat mencoba PSB Compress Software tetapi kami tidak dapat menjamin bahwa file PSB terkompresi akhir akan dapat dibaca. Aplikasi ini menggunakan fitur format PSB yang tidak didokumentasikan. Untuk meningkatkan kemungkinan pekerjaan yang benar, coba kompres fitur yang tidak akan menghapus data penting. Kurangi ukuran PSB yang disediakan “sebagaimana adanya”. Lebih baik menggunakan umum <a href="/psd/reduce-size">Ukuran PSD Mengurangi Aplikasi</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

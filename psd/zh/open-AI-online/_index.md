@@ -14,7 +14,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="在线打开 AI 文件" >}}
 <p>当你在线打开 AI 格式时不需要编辑功能时，这款 AI Viewer 是一个很好的解决方案，可用于多种用途。上传到 Web 服务器后，您可以在线打开 AI 文件。AI 格式是一种矢量格式，因此栅格化将以指定的图像大小进行。对于其他功能，您可以使用 <a href="/psd/net">.Net</a> 要么 <a href="/psd/java">Java</a> 高代码 API 可在您需要的尺寸中打开 AI 文件</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

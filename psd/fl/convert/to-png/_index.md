@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus PSD: n muuntamiseksi PNG: ksi" >}}
 <p>Tämä muunnin on helppo tapa muuntaa PSD-tiedostot PNG-muotoon. PNG-tiedostot tukevat peittävyyttä ja erilaisia väritiloja levyaseman tilan säästämiseksi tai lisätietojen tallentamiseksi. PNG-tiedostot tallentavat tiedot pakattuina, mutta tämä pakkaus on täysin häviötön. PSD-muoto tukee läpinäkyvyyttä ja eri väritiloja samanlainen PNG, joten jos muuntaminen PSD muodossa PNG on yksi pohja operaation kuvatiedot vaihtaa menettämättä tietoja. Mutta nämä muodot ovat merkittäviä eroja. Esimerkiksi PSD-muoto tukee tasoja, mutta PNG-muoto ei. PSD: n PNG-muuntamisen jälkeen kaikki tiedot kerroksista menetetään PNG: ssä, mutta alkuperäistä PSD-tiedostoa ei muuteta.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

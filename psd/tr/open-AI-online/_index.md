@@ -14,7 +14,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="AI dosyasını çevrimiçi aç" >}}
 <p>AI formatını çevrimiçi açtığınızda düzenleme işlevine ihtiyacınız olmadığında, bu AI Görüntüleyici birçok amaç için iyi bir çözümdür. Web sunucusuna yükledikten sonra AI dosyasını çevrimiçi olarak açabilirsiniz. AI Formatı bir vektör formatıdır, bu nedenle rasterleştirme belirtilen görüntü boyutunda gerçekleştirilecektir. Ek fonksiyonlar için kullanabilirsiniz <a href="/psd/net">.Net</a> veya <a href="/psd/java">Java</a> AI dosyalarını ihtiyacınız olan boyutlarda açmak için yüksek kodlu API</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

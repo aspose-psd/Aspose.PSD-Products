@@ -14,7 +14,7 @@ url: ai/
 
 {{< blocks/products/pf/feature-page-section h2="Lihat file AI secara online" >}}
 <p>Jika Anda belum memiliki perangkat lunak untuk membuka file AI, cukup gunakan alat penampil online. Aplikasi ini dapat membantu Anda untuk melihat file AI dari versi apapun. Tapi hasil akhir akan diberikan pratinjau. AI File sulit dilihat dalam aplikasi dasar karena AI adalah format vektor. Hanya penampil vektor yang dapat membuka AI. Format AI dibuat oleh Adobe, ini adalah format berpemilik. Ini memiliki ekstensi “.ai”. Sebagian besar AI Viewer adalah produk berbayar, tetapi jika Anda tidak perlu mengedit file Illustrator, Anda tidak memerlukan perangkat lunak berbayar untuk itu. Cukup gunakan Lihat file AI Online dengan aplikasi ini. Coba versi terbaru dari AI Viewer</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

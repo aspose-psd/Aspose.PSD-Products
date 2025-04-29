@@ -13,7 +13,7 @@ url: convert/to-pdf/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus PSD: n muuntamiseksi PDF-muotoon" >}}
 <p>Voit muuntaa psd pdf-muotoon. Tämä on samanlainen kuin PSD: n tulostaminen PDF-tiedostona, koska tuloksesi on PDF-dokumentti. Adobe® on kehittänyt sekä PSD- että PDF-formaatit. PDF perustuu PostScript-tiedostoon, ja jokainen PDF-tiedosto sisältää täydellisen kuvauksen asettelusta. PSD Format sisältää täydellisen kuvauksen Layer Data kuten Vector Data ja Layer Maskit. Molemmat muodot ovat suosittuja ja suunnittelijoiden ja kehittäjien laajalti käytössä. No-Code App on nopea ja yksinkertainen helppo ratkaisu.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

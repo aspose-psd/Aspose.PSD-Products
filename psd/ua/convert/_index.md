@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Безкоштовний онлайн-додаток для перетворення PSD" >}}
 <h3 class="headingpdleft">Мультиформатний PSD, PSB і AI конвертер</h3>
 <p>Можливість перетворення psd в різні формати є широко затребуваною функцією. Aspose.PSD є піксель досконалий точним на ньому. Ви можете конвертувати PSD в будь-які формати, цей вбудований додаток перетворення забезпечує «PSD зберегти в png», «PSD конвертувати в JPG», «PSD в PDF перетворення»</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

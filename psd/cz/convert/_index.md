@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Bezplatná online aplikace pro převod PSD" >}}
 <h3 class="headingpdleft">Multiformátový převodník PSD, PSB a AI</h3>
 <p>Schopnost převést psd do různých formátů je široce požadovanou funkcí. Aspose.PSD je pixel-perfektní přesné na to. PSD můžete převést do libovolných formátů, tato vestavěná aplikace pro převod poskytuje „psd uložit do png“, „psd převést na jpg“, „psd do pdf konverze“</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

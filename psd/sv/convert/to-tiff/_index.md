@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD till Tiff Konvertera tjänst" >}}
 <p>Tiff-format är en perfekt lösning för att lagra fotot i originalkvaliteten med ytterligare information. När du väljer tiff-format för konvertering från PSD kan du spara flest data som presenteras i den ursprungliga PSD-filen. Men konvertering av PSD till TIFF har sina egna problem. Dessa format är mycket olika och inte alla omvandlare kan konvertera all infomation till Tiff utan förlorar. Dessutom har PSD Format sina egna metadata som inte kan reproduceras efter PSD till Tiff konvertering. Till exempel lagrar PSD data från Text Layer i vektorformat såväl som Smart Object-data. Du bör inte konvertera PSD till Tiff om du vill redigera filen efteråt. Tiff fil stöder lager, men tiff är en mestadels raster format i stället för PSD där lagras en hel del vektordata. Men om du gör konvertering av fotoredigerad i PSD av Aspose <a href="https://products.aspose.app/psd/photo-editor">Foto Editor</a> tiff-exportformatet är perfekt. Sedan kan du redigera tiff-bild med de tiff-specifika redigerarna</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

@@ -13,7 +13,7 @@ url: convert/to-pdf/
 
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Online App για μετατροπή PSD σε PDF" >}}
 <p>Μπορείτε να μετατρέψετε το psd σε pdf. Αυτό είναι παρόμοιο με την εκτύπωση PSD ως PDF, επειδή το αποτέλεσμά σας είναι Έγγραφο PDF. Και οι δύο μορφές PSD και PDF έχουν αναπτυχθεί από την Adobe®. Το PDF βασίζεται στο PostScript και κάθε PDF περιέχει μια πλήρη περιγραφή της διάταξης. Η μορφή PSD περιέχει πλήρη περιγραφή των δεδομένων επιπέδου, συμπεριλαμβανομένων των διανυσματικών δεδομένων και των μασκών επιπέδων. Και οι δύο μορφές είναι δημοφιλείς και χρησιμοποιούνται ευρέως από σχεδιαστές και προγραμματιστές. Η εφαρμογή No-Code είναι μια γρήγορη και απλή εύκολη λύση.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

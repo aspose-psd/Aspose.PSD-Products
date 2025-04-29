@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Aplicación en línea gratuita para ver el formato PSD, PSB o AI en línea" >}}
 <p>La posibilidad de ver archivos PSD en línea es un servicio popular que puede ayudarlo a ahorrar tiempo y dinero. No necesita Adobe Photoshop para abrir los archivos PSD. La aplicación integrada proporciona una vista psd perfecta en píxeles</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

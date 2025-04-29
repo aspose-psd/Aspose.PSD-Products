@@ -14,7 +14,7 @@ url: ai/
 
 {{< blocks/products/pf/feature-page-section h2="Näytä AI-tiedostoa verkossa" >}}
 <p>Jos sinulla ei ole ohjelmistoa avaamaan AI -tiedostoa, käytä vain online-katseluohjelmaa. Tämä sovellus voi auttaa sinua tarkastelemaan minkä tahansa version AI-tiedostoa. Mutta lopputulos on renderöity esikatselu. AI-tiedostoa on vaikea tarkastella perussovelluksissa, koska AI on vektorimuoto. Vain vektorien katseluohjelma voi avata AI: n. AI Format on luonut Adobe, se on oma muoto. Se on ”.ai” laajennus. Suurin osa AI Viewer -ohjelmistosta on maksullisia tuotteita, mutta jos sinun ei tarvitse muokata Illustrator-tiedostoja, et tarvitse siihen maksullisia ohjelmistoja. Käytä vain Näytä AI-tiedostoja verkossa tämän sovelluksen kanssa. Kokeile tätä päivitettyä AI Viewer -versiota</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

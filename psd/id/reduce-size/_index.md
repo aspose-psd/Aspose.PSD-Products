@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="Mengurangi ukuran PSD Files" >}}
 
 <p>Mengurangi ukuran PSD besar adalah operasi sederhana jika Anda menggunakan Aspose.PSD. Mengurangi ukuran dapat diarsipkan dengan menghapus data cache dari PSD Files, Merging Layers, Mengkonversi ke PSD Format dengan sedikit kurang per jumlah warna. Selain itu, Anda dapat mengubah mode warna File PSD, misalnya perubahan dari warna CMYK ke RGBA Color mengurangi ukuran file PSD. Aplikasi ini menggunakan fitur format PSD yang tidak terdokumentasi, sehingga hasil akhirnya bisa rusak. Silakan gunakan PSD Berkas Mengurangi hanya jika Anda jelas tahu apa yang ingin Anda arsip.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			
