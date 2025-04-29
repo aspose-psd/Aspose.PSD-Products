@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="Besplatna internetska aplikacija za pretvaranje PSD-a u PNG" >}}
 <p>Ovaj pretvarač je jednostavan način za pretvaranje PSD datoteka u PNG formatu. PNG datoteke podržavaju neprozirnost i različite načine boja za spremanje prostora na disku ili pohranjivanje dodatnih informacija. PNG datoteke pohranjuju komprimirane podatke, ali ova kompresija je potpuno bez gubitaka. PSD format podržava transparentnost i različite načine boja slične PNG, pa ako je pretvaranje PSD formata u PNG jedna od osnovnih operacija za razmjenu slikovnih podataka bez gubitka podataka. Ali ti formati imaju značajne razlike. Na primjer, PSD format podržava slojeve, ali PNG format ne. Nakon PSD u PNG pretvorbe sve informacije o slojevima će biti izgubljen u PNG, ali će početni PSD datoteka wil ne mijenja.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

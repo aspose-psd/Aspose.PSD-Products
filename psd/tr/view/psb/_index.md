@@ -13,7 +13,7 @@ url: view/psb/
 
 {{< blocks/products/pf/feature-page-section h2="PSB dosyalarının çevrimiçi açılması" >}}
 <p>PSB, PSD yalnızca 30000 pikselden daha az görüntüleri desteklediğinde 30000 pikselden daha büyük görüntüleri destekleyen Adobe Photoshop türüdür. PSB dosyasının yapısı PSD biraz farklıdır, bu nedenle her PSD Viewer PSB dosyasını açabilirsiniz. Ancak Aspose.PSD, PSB görüntülemeyi ve PSB Dosya Biçimi ile bazı düzenleme işlemlerini destekler. Bu Uygulama ile PSB dosyasını çevrimiçi olarak ve herhangi bir cihazdan açabilirsiniz.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

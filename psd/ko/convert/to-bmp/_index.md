@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="PSD를 BMP로 변환하는 무료 온라인 앱" >}}
 <p>이전 소프트웨어에서 PSD 형식으로 만든 최신 이미지를 사용해야한다면 어떨까요?가장 좋은 방법은 PSD를 BMP로 변환하는 것입니다.BMP는 일반적인 사용 사례에서 채널당 8비트를 지원하는 구식 래스터 형식입니다.새 버전의 BMP 파일은 투명도와 압축을 지원하므로 PSD를 BMP로 변환 한 후에는 레이어없이 원본 이미지를 얻을 수 있습니다.그러나 이러한 경우에는 PNG 파일을 사용하는 것이 더 좋습니다.BMP 파일의 주요 응용 프로그램은 특정 소프트웨어이며 3D 모델링이며 PSD를 BMP로 변환하여 파비콘과 아이콘을 만들 수도 있습니다.Aspose 소프트웨어를 사용하는 경우 PSB에서 BMP로의 변환은 픽셀 단위까지 완벽하다는 점에 유의하십시오.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

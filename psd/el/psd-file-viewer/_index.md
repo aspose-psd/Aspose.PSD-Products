@@ -13,7 +13,7 @@ url: psd-file-viewer/
 
 {{< blocks/products/pf/feature-page-section h2="Πρόγραμμα προβολής αρχείων PSD" >}}
 <p>PSD viewer είναι μια απλή εφαρμογή για να δείτε online οποιοδήποτε PSD File. Αν δεν έχετε το Adove Photoshop μπορείτε να χρησιμοποιήσετε αυτό το <a href="/psd/view/psd-file-viewer">Προβολέας PSD</a> ή <a href="https://products.aspose.app/psd/editor">Επεξεργαστής PSD</a>. Σε αντίθεση με άλλους θεατές που πρέπει να εγκαταστήσετε στον τοπικό υπολογιστή, αυτό το PSD File Viewer είναι δωρεάν και λειτουργεί online. Λόγω των συνεχών ενημερώσεων του Aspose.PSD που τροφοδοτεί το PSD Viewer, θα μπορείτε να ανοίξετε τις τελευταίες εκδόσεις των αρχείων PSD με την τέλεια προεπισκόπηση pixel. Παρακαλώ σημειώστε, ότι αυτή η εφαρμογή δεν χρησιμοποιεί το Adobe Photoshop, μπορείτε να αναπαραγάγετε όλες τις λειτουργίες αυτού του προγράμματος προβολής με το C# ή Java, απλά ελέγξτε <a href="https://products.aspose.com/psd">Aspose.PSD</a></p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

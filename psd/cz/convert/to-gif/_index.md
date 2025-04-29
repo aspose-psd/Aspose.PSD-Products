@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="Webová služba pro konverzi PSD na GIF" >}}
 <p>Formát GIF je dobrý, pokud chcete vytvořit animovaný obrázek pro WWW. Také GIF lze použít pro kompresi obrazu, je zvláště vhodné, pokud váš obrázek obsahuje méně než 256 různých barev. Po převodu PSD na GIF můžete získat animovaný GIF. Převod PSD na GIF, pokud jednoduchý proces, ale to nemůže být provedeno bez specializovaného softwaru, jako je tento konvertor nebo Aspose.PSD.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

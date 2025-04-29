@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD ke Tiff Convert layanan" >}}
 <p>Format Tiff adalah solusi sempurna untuk menyimpan foto dalam kualitas asli dengan informasi tambahan. Bila Anda memilih format tiff untuk mengkonversi dari PSD Anda dapat menyimpan sebagian besar data yang disajikan dalam File PSD asli. Tetapi konversi PSD ke tiff memiliki masalah sendiri. Format ini sangat berbeda dan tidak semua converter dapat mengkonversi semua informasi ke Tiff tanpa kehilangan. Juga, PSD Format memiliki metadata sendiri yang tidak dapat direproduksi setelah PSD untuk konversi Tiff. Misalnya PSD menyimpan data Text Layer dalam format vektor serta data Smart Object. Anda tidak boleh mengonversi PSD ke Tiff jika Anda ingin mengedit file sesudahnya. File Tiff mendukung lapisan, tetapi tiff adalah format sebagian besar raster bukan PSD di mana disimpan banyak data vektor. Tetapi jika Anda membuat konversi Foto Diedit di PSD dari Aspose <a href="https://products.aspose.app/psd/photo-editor">Editor Foto</a> format ekspor tiff sempurna. Kemudian Anda dapat mengedit gambar tiff dengan editor tiff-spesifik</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

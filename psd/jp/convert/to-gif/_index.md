@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="PSDからGIFへの変換のためのウェブサービス" >}}
 <p>GIF形式は、WWW用のアニメーション画像を作成する場合に適しています。また、GIFは画像の圧縮にも使用できます。画像に含まれる色が256未満の場合は特にお勧めです。PSDをGIFに変換すると、アニメーションGIFを取得できます。PSDからGIFへの変換は簡単なプロセスですが、このコンバーターや Aspose.PSD などの特殊なソフトウェアがないと実行できません。</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

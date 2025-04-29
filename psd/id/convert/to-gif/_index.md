@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="Layanan Web untuk konversi PSD ke GIF" >}}
 <p>Format GIF bagus saat Anda ingin membuat gambar animasi untuk WWW. Selain itu, GIF dapat digunakan untuk kompresi gambar, sangat disarankan jika gambar Anda mengandung kurang dari 256 warna berbeda. Setelah konversi PSD ke GIF Anda, Anda bisa mendapatkan GIF animasi. Mengkonversi PSD ke GIF jika proses yang sederhana, tetapi tidak dapat dilakukan tanpa perangkat lunak khusus seperti konverter ini atau Aspose.PSD.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD в Tiff Перетворення послуги" >}}
 <p>Формат Tiff - прекрасне рішення для зберігання фото в оригінальній якості з додатковою інформацією. При виборі формату tiff для перетворення з PSD ви можете зберегти найбільшу кількість даних, які представлені в оригінальному PSD файлі. Але перетворення PSD в TIFF має свої проблеми. Ці формати дуже різні і не всі конвертер може конвертувати всю інформацію в Tiff без втрат. Крім того, PSD Format має власні метадані, які не можуть бути відтворені після перетворення PSD в Tiff. Наприклад, PSD зберігає дані текстового шару у векторному форматі, а також дані Smart Object. Ви не повинні конвертувати PSD в Tiff, якщо ви хочете редагувати файл згодом. Файл Tiff підтримує шари, але tiff - це переважно растровий формат замість PSD, де зберігається багато векторних даних. Але якщо ви робите перетворення фото відредаговані в PSD з Aspose <a href="https://products.aspose.app/psd/photo-editor">Фоторедактор</a> формат експорту tiff ідеальний. Потім ви можете редагувати зображення tiff за допомогою редакторів, специфічних для tiff</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="PSD, PSB या AI प्रारूप ऑनलाइन देखने के लिए मुफ्त ऑनलाइन ऐप" >}}
 <p>पीएसडी को ऑनलाइन देखने की क्षमता लोकप्रिय सेवा है, जो आपको समय और पैसा बचाने में मदद कर सकती है। PSD फ़ाइलों को खोलने के लिए आपको Adobe Photoshop की आवश्यकता नहीं है। बिल्ट-इन ऐप पिक्सेल-परफेक्ट पीएसडी व्यू प्रदान करता है</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

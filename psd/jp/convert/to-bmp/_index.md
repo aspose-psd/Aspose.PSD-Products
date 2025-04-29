@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="PSDをBMPに変換する無料のオンラインアプリ" >}}
 <p>PSD形式で作成された最新のイメージを古いソフトウェアで使用する必要がある場合はどうなりますか？最良の方法は、PSDをBMPに変換することです。BMP は昔ながらのラスター形式で、一般的な用途ではチャネルあたり 8 ビットがサポートされます。新しいバージョンのBMPファイルは透明度と圧縮をサポートしているため、PSDをBMPに変換した後は、レイヤーなしで元の画像を取得できます。しかし、そのような場合は PNG ファイルを使用するのがより好ましい方法です。BMPファイルの主な用途は特定のソフトウェアと3Dモデリングです。PSDからBMPへの変換を使用してファビコンやアイコンを作成することもできます。Asposeソフトウェアを使用している場合、PSBからBMPへの変換はピクセルパーフェクトであることに注意してください。</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

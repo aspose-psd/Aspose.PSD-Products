@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Aplikasi Online Gratis untuk Melihat format PSD, PSB atau AI online" >}}
 <p>Kemampuan untuk melihat PSD online adalah layanan populer, yang dapat membantu Anda untuk menghemat waktu dan uang. Anda tidak perlu Adobe Photoshop untuk membuka file PSD. Built-in aplikasi menyediakan pixel-sempurna tampilan PSD</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

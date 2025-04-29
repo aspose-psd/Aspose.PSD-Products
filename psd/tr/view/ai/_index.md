@@ -14,7 +14,7 @@ url: view/ai/
 
 {{< blocks/products/pf/feature-page-section h2="AI dosyasını çevrimiçi görüntüle" >}}
 <p>AI dosyasını açacak herhangi bir yazılımınız yoksa çevrimiçi görüntüleyici aracını kullanın. Bu uygulama, herhangi bir sürümün AI dosyasını görüntülemenize yardımcı olabilir. Ancak nihai sonuç, işlenen önizleme olacaktır. AI dosyası temel uygulamalarda görüntülemek zordur çünkü AI bir vektör formatıdır. Yalnızca vektör görüntüleyici AI açabilir. AI Formatı Adobe tarafından oluşturulmuştur, tescilli bir formattır. “.ai” uzantısına sahiptir. AI Viewer'ın çoğu ücretli ürünlerdir, ancak Illustrator dosyalarını düzenlemeniz gerekmiyorsa bunun için herhangi bir ücretli yazılıma ihtiyacınız yoktur. Bu uygulama ile AI dosyalarını Çevrimiçi Görüntüle'yi kullanın.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

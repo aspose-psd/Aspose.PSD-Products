@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="PSD'yi BMP'ye Dönüştürmek için Ücretsiz Online Uygulama" >}}
 <p>PSD Formatında yapılmış modern görüntünüzü eski yazılımda kullanmanız gerekiyorsa ne olur? En iyi yol PSD'yi BMP'ye dönüştürmektir. BMP eski moda raster formatıdır thqt destekler 8 ortak kullanım durumunda kanal başına bit. BMP dosyalarının yeni sürümü şeffaflık ve sıkıştırmayı destekler, bu nedenle PSD BMP dönüştürüldükten sonra orijinal görüntüyü ancak katmanlar olmadan alabilirsiniz. Ancak daha çok tercih edilen yol, böyle bir durumda PNG dosyalarını kullanmaktır. BMP dosyalarının ana uygulama da favicons ve simgeler oluşturmak için kullanılabilir BMP PSD dönüştürme, özel yazılım ve 3D Modelleme olduğunu. Aspose Software kullanıyorsanız PSB'den BMP dönüşümüne piksel mükemmel olduğunu lütfen unutmayın.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

@@ -14,7 +14,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="เปิดไฟล์ AI ออนไลน์" >}}
 <p>เมื่อคุณไม่จำเป็นต้องมีฟังก์ชันการแก้ไขเมื่อคุณเปิดรูปแบบ AI ออนไลน์ AI Viewer นี้เป็นทางออกที่ดีสำหรับหลายวัตถุประสงค์คุณสามารถเปิดไฟล์ AI ออนไลน์หลังจากอัปโหลดไปยังเว็บเซิร์ฟเวอร์รูปแบบ AI เป็นรูปแบบเวกเตอร์ดังนั้นการแรสเตอร์จะดำเนินการในขนาดภาพที่ระบุสำหรับฟังก์ชันเพิ่มเติมคุณสามารถใช้ <a href="/psd/net">.Net</a> หรือ <a href="/psd/java">Java</a> API รหัสสูงเพื่อเปิดไฟล์ AI ในมิติที่คุณต้องการ</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

@@ -14,7 +14,7 @@ url: ai/
 
 {{< blocks/products/pf/feature-page-section h2="Zobrazit soubor AI online" >}}
 <p>Pokud nemáte žádný software k otevření souboru AI, použijte nástroj online viewer. Tato aplikace vám pomůže zobrazit soubor AI jakékoli verze. Ale konečný výsledek bude rendrovaný náhled. AI Soubor je těžké zobrazit v základních aplikacích, protože AI je vektorový formát. Pouze vektorový prohlížeč může otevřít AI. AI Format je vytvořen společností Adobe, je to proprietární formát. Má příponu „.ai“. Většina AI Viewer jsou placené produkty, ale pokud nepotřebujete upravovat soubory Illustrator, nepotřebujete k tomu žádný placený software. Stačí použít Zobrazit soubory AI online s touto aplikací. Vyzkoušejte tuto aktualizovanou verzi AI Viewer</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

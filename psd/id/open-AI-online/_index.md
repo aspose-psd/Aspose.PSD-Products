@@ -14,7 +14,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="Buka file AI online" >}}
 <p>Ketika Anda tidak memerlukan fungsionalitas pengeditan saat Anda membuka format AI online, Penampil AI ini adalah solusi yang baik untuk berbagai tujuan. Anda dapat membuka file AI secara online setelah mengunggah ke server web. Format AI adalah format vektor, sehingga rasterisasi akan dilanjutkan dalam ukuran gambar yang ditentukan. Untuk fungsi tambahan, Anda dapat menggunakan <a href="/psd/net">.Net</a> atau <a href="/psd/java">Java</a> API kode tinggi untuk membuka file AI dalam dimensi yang Anda butuhkan</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

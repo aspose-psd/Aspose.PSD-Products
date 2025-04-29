@@ -13,7 +13,7 @@ url: psd-file-viewer/
 
 {{< blocks/products/pf/feature-page-section h2="پی ایس ڈی فائل ناظر" >}}
 <p>پی ایس ڈی ناظرین آن لائن کسی بھی پی ایس ڈی فائل کو دیکھنے کے لئے ایک سادہ اپلی کیشن ہے. اگر آپ کے پاس ایڈوو فوٹوشاپ نہیں ہے تو آپ اس کا استعمال کرسکتے ہیں <a href="/psd/view/psd-file-viewer">پی ایس ڈی ناظرین</a> یا <a href="https://products.aspose.app/psd/editor">پی ایس ڈی ایڈیٹر کی حیثیت</a>. دیگر ناظرین کے برعکس جو آپ کو مقامی مشین پر انسٹال کرنے کی ضرورت ہے، یہ پی ایس ڈی فائل ناظرین مفت ہے اور آن لائن کام کرتا ہے. کی وجہ سے مسلسل اپ ڈیٹس کی Aspose.PSD کہ طاقت ہے پی ایس ڈی ناظر آپ کو پکسل-کامل پیش نظارہ کے ساتھ پی ایس ڈی فائلوں کے آخری ورژن کھولنے کے لئے قابل ہو جائے گا. براہ کرم نوٹ کریں, اس اپلی کیشن ایڈوب فوٹوشاپ کا استعمال نہیں کرتا کہ, آپ سی # یا جاوا کے ساتھ اس ناظر کے تمام فعالیت کو دوبارہ پیش کر سکتے ہیں, صرف چیک <a href="https://products.aspose.com/psd">Aspose.PSD</a></p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

@@ -14,7 +14,7 @@ url: compress/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Application en ligne gratuite pour compresser le PSD et réduire sa taille</h3>
 <p>Compressez des fichiers PSD et PSB volumineux à l’aide de méthodes avec et sans perte</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

@@ -13,7 +13,7 @@ url: view/psb/
 
 {{< blocks/products/pf/feature-page-section h2="پی ایس بی فائلوں کی آن لائن افتتاحی" >}}
 <p>پی ایس بی ایڈوب فوٹوشاپ کی قسم ہے جو 30000 پکسلز سے بڑی تصاویر کی حمایت کرتا ہے جب پی ایس ڈی کی حمایت کی تصاویر صرف 30000 پکسلز سے کم ہوتی ہیں. پی ایس بی فائل کی ساخت پی ایس ڈی سے تھوڑا مختلف ہے، لہذا ہر پی ایس ڈی ناظرین پی ایس بی فائل کھول سکتا ہے. لیکن Aspose.PSD پی ایس بی فائل فارمیٹ کے ساتھ پی ایس بی دیکھنے اور کچھ ترمیم آپریشن کی حمایت کرتا ہے. اس اپلی کیشن کے ساتھ آپ PSB فائل آن لائن اور کسی بھی ڈیوائس سے کھول سکتے ہیں.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

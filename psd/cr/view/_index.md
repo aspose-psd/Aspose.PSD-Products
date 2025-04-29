@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Besplatna internetska aplikacija za prikaz PSD, PSB ili AI formata na mreži" >}}
 <p>Sposobnost za pregled PSD online je popularan servis, koji vam može pomoći da uštedite vrijeme i novac. Ne trebate Adobe Photoshop za otvaranje PSD datoteka. Ugrađena aplikacija pruža piksel-savršen psd pogled</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

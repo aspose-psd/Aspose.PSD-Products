@@ -13,7 +13,7 @@ url: convert/to-jpg/
 
 {{< blocks/products/pf/feature-page-section h2="PSDをJPGに変換する無料のオンラインアプリ" >}}
 <p>PSDをJPGに変換したい場合は、PSDからJPEGへのコンバーターが最適なソリューションです。Jpgは非可逆圧縮の画像形式ですが、自然な写真色の写真では、追加の色情報が失われることは目立ちません。そのため、PSDからJPEGへの変換には非常に一般的なケースがあります。写真を元の状態で保存できるが、ディスクドライブのサイズを小さく抑えることは、多くの企業にとって夢のようなものです。ただし、Jpegはレイヤー、マスク、16ビットおよび32ビット（およびその他多数）のカラーモードをサポートしていないため、すべてのPSDファイルをJpegに変換するという迅速な決定は避けてください。JPEGに変換した後に元のPSDまたはPSBファイルを削除すると、それらは取り返しのつかないほど失われます。良い解決策は、PSDファイルをJpegに変換し、PSDファイルを分離されたデバイスに保存し、psbからの変換後にJPEGファイルを簡単にアクセスできるコンパクトなフォトアルバムとして使用することです。必要な場合 <a href="/psd/view">PSD をオンラインで開く</a> ご利用ください <a href="/psd/view">オンライン PSD 表示アプリ</a></p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });

@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="免费的在线应用程序，可在线查看PSD，PSB或AI格式" >}}
 <p>能够在线查看psd是一项受欢迎的服务，它可以帮助您节省时间和金钱。你不需要 Adobe Photoshop 就能打开 PSD 文件。内置应用程序提供像素完美的 psd 视图</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

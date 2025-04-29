@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="Reducir el tamaño de los archivos PSB" >}}
 
 <p>El formato PSB se puede comprimir fácilmente si lo guardas como PSD, pero el formato PSD no admite imágenes de más de 30 000 píxeles de ancho o alto. En este caso, comprimir el archivo PSB es una solución más compleja. Puede probar el software PSB Compress, pero no podemos garantizar que el archivo PSB comprimido final sea legible. Esta aplicación utiliza funciones no documentadas del formato PSB. Para aumentar las posibilidades de que funcione correctamente, pruebe las funciones de compresión que no eliminen los datos importantes. Reduzca el tamaño del PSB proporcionado «tal cual». Es mejor usar lo común <a href="/psd/reduce-size">Aplicación de reducción de tamaño PSD</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

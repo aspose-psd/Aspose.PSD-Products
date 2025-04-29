@@ -14,7 +14,7 @@ url: ai/
 
 {{< blocks/products/pf/feature-page-section h2="عرض ملف AI عبر الإنترنت" >}}
 <p>إذا لم يكن لديك أي برنامج لفتح ملف AI، فما عليك سوى استخدام أداة المشاهد عبر الإنترنت. يمكن أن يساعدك هذا التطبيق في عرض ملف AI من أي إصدار. لكن النتيجة النهائية ستكون المعاينة المقدمة. يصعب عرض ملف AI في التطبيقات الأساسية لأن AI عبارة عن تنسيق متجه. يمكن فقط لمشاهد المتجهات فتح الذكاء الاصطناعي. تم إنشاء صيغة AI بواسطة Adobe، وهي صيغة خاصة. يحتوي على ملحق «.ai». معظم برامج AI Viewer هي المنتجات المدفوعة، ولكن إذا لم تكن بحاجة إلى تحرير ملفات Illustrator فلن تحتاج إلى أي برنامج مدفوع مقابل ذلك. ما عليك سوى استخدام عرض ملفات AI عبر الإنترنت مع هذا التطبيق. جرب هذا الإصدار المحدث من AI Viewer</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

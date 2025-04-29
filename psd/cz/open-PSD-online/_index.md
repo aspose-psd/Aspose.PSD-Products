@@ -14,7 +14,7 @@ url: open-PSD-online/
 
 {{< blocks/products/pf/feature-page-section h2="Bezplatná online aplikace pro otevření souboru PSD online" >}}
 <p>Tato služba pomáhá otevřít soubor PSD online bez Photoshopu. Stačí nahrát soubor PSD a po několika sekundách získáte dokonalý pohled na tento soubor. PSD můžete otevřít z libovolného zařízení.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
 	    // To open the PSD File as PNG just use this code

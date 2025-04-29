@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="تقليل حجم ملفات PSB" >}}
 
 <p>يمكن ضغط تنسيق PSB بسهولة إذا قمت بحفظه كملف PSD، لكن تنسيق PSD لا يدعم الصورة التي يزيد عرضها أو ارتفاعها عن 30000 بكسل. في هذه الحالة، يعد ضغط ملف PSB حلاً أكثر تعقيدًا. يمكنك تجربة برنامج PSB Compress Software ولكن لا يمكننا ضمان أن ملف PSB المضغوط النهائي سيكون قابلاً للقراءة. يستخدم هذا التطبيق ميزات غير موثقة لتنسيق PSB. لتحسين فرصة العمل الصحيح، يرجى تجربة ميزات الضغط التي لن تزيل البيانات المهمة. قم بتقليل حجم PSB المقدم «كما هو». من الأفضل استخدام الأشياء الشائعة <a href="/psd/reduce-size">تطبيق تقليل حجم PSD</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

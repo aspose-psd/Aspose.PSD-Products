@@ -13,7 +13,7 @@ url: view/psd-file-viewer/
 
 {{< blocks/products/pf/feature-page-section h2="PSD Dosya Görüntüleyici" >}}
 <p>PSD görüntüleyici, herhangi bir PSD Dosyasını çevrimiçi olarak görüntülemek için basit bir uygulamadır. Adove Photoshop'unuz yoksa bunu kullanabilirsiniz <a href="/psd/view/psd-file-viewer">PSD Görüntüleyici</a> veya <a href="https://products.aspose.app/psd/editor">PSD Editör Aspose</a>. Yerel makineye yüklemeniz gereken diğer izleyicilerin aksine, bu PSD Dosya Görüntüleyici ücretsizdir ve çevrimiçi çalışır. Çünkü PSD Viewer güçler Aspose.PSD sürekli güncellemeler piksel mükemmel önizleme ile PSD Files son sürümlerini açmak mümkün olacak. Bu uygulamanın Adobe Photoshop kullanmadığını lütfen unutmayın, bu Görüntüleyicinin tüm işlevlerini C# veya Java ile yeniden üretebilirsiniz, sadece kontrol edin <a href="https://products.aspose.com/psd">Aspose.PSD nedir</a></p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

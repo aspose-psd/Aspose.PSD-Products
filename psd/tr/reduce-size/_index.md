@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="PSD Dosyaları boyutunu azaltın" >}}
 
 <p>Eğer Aspose.PSD kullanırsanız büyük PSD boyutunu azaltmak basit bir işlemdir. Boyutun azaltılması, önbellek verilerini PSD Dosyalarından kaldırarak arşivlenebilir, Katmanları Birleştirme, Renk başına daha az bit ile PSD Formatına Dönüştürme. Ayrıca, PSD Dosyasının renk modunu değiştirebilirsiniz, örneğin CMYK renginden RGBA Renkine geçiş PSD dosya boyutunu azaltır. Bu uygulama PSD formatının belgelenmemiş özelliklerini kullandı, böylece nihai sonuç kırılabilir. Lütfen PSD Dosya Azalt'ı yalnızca ne arşivlemek istediğinizi biliyorsanız kullanın.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			

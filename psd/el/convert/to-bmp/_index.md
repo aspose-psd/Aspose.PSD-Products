@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Online App για μετατροπή PSD σε BMP" >}}
 <p>Τι γίνεται αν χρειαστεί να χρησιμοποιήσετε στο παλιό λογισμικό τη σύγχρονη εικόνα σας που γίνεται σε PSD Format; Ο καλύτερος τρόπος είναι να μετατρέψετε το PSD σε BMP. BMP είναι ντεμοντέ μορφή ράστερ thqt υποστηρίζει 8 bit ανά κανάλι στην κοινή περίπτωση χρήσης. Νέα έκδοση των αρχείων BMP υποστηρίζει διαφάνεια και συμπίεση, έτσι ώστε μετά τη μετατροπή του PSD σε BMP μπορείτε να πάρετε την αρχική εικόνα, αλλά χωρίς στρώματα. Αλλά ο προτιμότερος τρόπος είναι να χρησιμοποιήσετε αρχεία PNG σε τέτοια περίπτωση. Η κύρια εφαρμογή των αρχείων BMP είναι το συγκεκριμένο λογισμικό και 3D Modeling, μετατρέποντας επίσης PSD σε BMP μπορεί να χρησιμοποιηθεί για να δημιουργήσει favicons και εικονίδια. Παρακαλείστε να σημειώσετε ότι η μετατροπή PSB σε BMP είναι ιδανική για pixel αν χρησιμοποιείτε λογισμικό Aspose.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

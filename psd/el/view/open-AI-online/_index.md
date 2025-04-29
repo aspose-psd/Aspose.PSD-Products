@@ -14,7 +14,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="Ανοίξτε το αρχείο AI online" >}}
 <p>Όταν δεν χρειάζεστε τη λειτουργικότητα επεξεργασίας όταν ανοίγετε τη μορφή AI online, αυτό το πρόγραμμα προβολής AI είναι μια καλή λύση για πολλούς σκοπούς. Μπορείτε να ανοίξετε το αρχείο AI online μετά τη μεταφόρτωση στο διακομιστή ιστού. Η μορφή AI είναι μια μορφή διανύσματος, οπότε η ραστεροποίηση θα προχωρήσει στο καθορισμένο μέγεθος εικόνας. Για τις πρόσθετες λειτουργίες, μπορείτε να χρησιμοποιήσετε <a href="/psd/net">.Net</a> ή <a href="/psd/java">Java</a> API υψηλού κώδικα για να ανοίξετε αρχεία AI στις διαστάσεις που χρειάζεστε</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="Minska storleken på PSD-filer" >}}
 
 <p>Minska storleken på stora PSD är en enkel operation om du använder Aspose.PSD. Minskning av storleken kan arkiveras genom att ta bort cachedata från PSD-filer, Sammanfoga lager, Konvertera till PSD-format med mindre bit per färgmängd. Du kan också ändra färgläge för PSD-fil, till exempel ändra från CMYK-färg till RGBA Color minskar PSD-filstorleken. Denna app använde inte dokumenterade funktioner i PSD-format, så det slutliga resultatet kan brytas. Använd PSD File Minska endast om du klart vet vad du vill arkivera.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			

@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="تطبيق مجاني على الإنترنت لعرض تنسيقات PSD أو PSB أو AI عبر الإنترنت" >}}
 <p>القدرة على عرض PSD عبر الإنترنت هي خدمة شائعة يمكن أن تساعدك على توفير الوقت والمال. لا تحتاج إلى أدوبي فوتوشوب لفتح ملفات PSD. يوفر التطبيق المدمج عرضًا مثاليًا لملفات PSD</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

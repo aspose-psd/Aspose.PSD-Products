@@ -13,7 +13,7 @@ url: convert/to-jpg/
 
 {{< blocks/products/pf/feature-page-section h2="Bezplatná online aplikace pro převod PSD na JPG" >}}
 <p>Pokud chcete převést PSD na JPG, pak PSD to Jpeg Converter je nejlepším řešením. Jpg je formát obrazu se ztrátovou kompresí, ale na fotografiích s přirozenými fotografickými barvami nebude ztráta dalších barevných informací patrná. Takže převod PSD na JPEG má svůj vlastní velmi populární případ. Mají schopnost ukládat fotografie v původním stavu, ale v menších velikostech diskových jednotek je sen pro mnoho společností. Buďte však opatrní, vyhněte se rychlému rozhodnutí převést všechny soubory PSD na Jpeg, protože Jpeg nepodporuje vrstvy, masky, 16 a 32 bitové (a mnoho dalších) barevných režimů. Pokud odstraníte původní soubory PSD nebo PSB po převodu na JPEG, ztratíte je neodvolatelně. Dobrým řešením je převést soubor PSD na Jpeg, poté uložit soubory PSD na některé izolované zařízení a použít soubory JPEG po konverzi z psb jako kompaktní fotoalbum s snadným přístupem. Pokud potřebujete jen <a href="/psd/view">otevřít PSD online</a> použijte prosím <a href="/psd/view">Online PSD Zobrazit aplikaci</a></p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });

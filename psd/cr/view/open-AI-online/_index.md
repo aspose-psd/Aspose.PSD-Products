@@ -14,7 +14,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="Otvorite AI datoteku na mreži" >}}
 <p>Kada vam nije potrebna funkcija uređivanja kada otvorite AI format na mreži, ovaj AI Viewer dobro je rješenje za mnoge svrhe. Možete otvoriti AI datoteku na mreži nakon prijenosa na web poslužitelj. AI Format je vektorski format, tako da će se rasterizacija nastaviti u navedenoj veličini slike. Za dodatne funkcije, možete koristiti <a href="/psd/net">.Net</a> ili <a href="/psd/java">Java</a> API visokog koda za otvaranje AI datoteka u dimenzijama koje su vam potrebne</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

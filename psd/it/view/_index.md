@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="App online gratuita per visualizzare online i formati PSD, PSB o AI" >}}
 <p>La possibilità di visualizzare psd online è un servizio popolare, che può aiutarti a risparmiare tempo e denaro. Non è necessario Adobe Photoshop per aprire i file PSD. L'app integrata offre una visualizzazione PSD perfetta per i pixel</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="PSD, PSB 또는 AI 형식을 온라인으로 볼 수 있는 무료 온라인 앱" >}}
 <p>온라인으로 psd를 볼 수 있는 기능은 시간과 비용을 절약하는 데 도움이 되는 인기 있는 서비스입니다.PSD 파일을 열려면 어도비 포토샵이 필요하지 않습니다.픽셀 단위의 PSD 뷰를 제공하는 내장 앱</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

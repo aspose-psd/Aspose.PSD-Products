@@ -13,7 +13,7 @@ url: psd-file-viewer/
 
 {{< blocks/products/pf/feature-page-section h2="PSD-tiedostojen katseluohjelma" >}}
 <p>PSD-katseluohjelma on yksinkertainen sovellus, jolla voit katsella verkossa mitä tahansa PSD-tiedostoa. Jos sinulla ei ole Adove Photoshopia, voit käyttää tätä <a href="/psd/view/psd-file-viewer">PSD Viewer</a> tai <a href="https://products.aspose.app/psd/editor">Määritä PSD Editor</a>. Toisin kuin muut katsojat, jotka sinun on asennettava paikalliseen koneeseen, tämä PSD File Viewer on ilmainen ja toimii verkossa. Koska jatkuva päivitykset Aspose.PSD että valtuudet PSD Viewer voit avata viimeisimmät versiot PSD Files kanssa pikseli-täydellinen esikatselu. Huomaa, että tämä sovellus ei käytä Adobe Photoshopia, voit toistaa tämän Viewerin kaikki toiminnot C#: lla tai Javalla, tarkista vain <a href="https://products.aspose.com/psd">Muunna Microsoft Visio -tiedostosi PDF-, HTML-, kuva- ja muihin muotoihin</a></p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

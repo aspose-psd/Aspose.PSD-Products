@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">免费的在线应用程序，可压缩PSD并减小其大小</h3>
 <p>使用有损和无损方法压缩大型 PSD 和 PSB 文件。发现 Aspose.PSD 的隐藏潜力。PSD 文件中的数据并不总是安全的，所以如果你经常使用它，你应该在压缩后测试 PSD 文件。请注意，某些压缩功能是有损的，因此在进行这些类型的压缩之后，您将无法恢复初始的PSD文件。此功能按 “原样” 提供。您可以压缩 PSD 或减小 PSB 文件的大小。</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

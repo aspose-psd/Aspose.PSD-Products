@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="PSD 到 Tiff 转换服务" >}}
 <p>扩展格式是一个完美的解决方案、将照片保存在原来的质量与额外的信息。 当您选择从PSD文件中转换的tiff格式时、您可以保存原始PSD文件中提供的大部分数据。 但是、将PSD人转变为tiff有自己的问题。 这些格式是非常不同的、并不是所有的转换器都可以不损失地将所有信息转换为扩展。 此外、PSD格式有自己的元数据、在PSD到扩散转换后不能复制。 例如、PSD个文本层数据以矢量格式和智能对象数据存储。 如果你想在之后编辑文件、你不应该转换PSD到迪夫。 扩散文件支持层、但tiff主要是更严格的格式、而不是存储大量矢量数据的PSD。 但是如果你把照片转换成PSD号配偶 <a href="https://products.aspose.app/psd/photo-editor">照片编辑器</a> tiff 导出格式非常完美。然后你可以使用特定于 tiff 的编辑器编辑 tiff 图像</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

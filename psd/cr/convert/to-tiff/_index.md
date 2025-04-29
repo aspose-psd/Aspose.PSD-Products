@@ -13,7 +13,7 @@ url: convert/to-tiff/
 
 {{< blocks/products/pf/feature-page-section h2="Usluga PSD u Tiff Pretvori" >}}
 <p>Tiff format je savršeno rješenje za spremanje fotografije u izvornoj kvaliteti s dodatnim informacijama. Kada odaberete tiff format za pretvaranje iz PSD možete spremiti najviše količine podataka koji su prikazani u izvornom PSD datoteke. Ali pretvorba PSD-a u tiff ima svoje probleme. Ovi formati su vrlo različiti, a ne svi pretvarač može pretvoriti sve infomation u Tiff bez gubitka. Također, PSD Format ima svoje metapodatke koji se ne mogu reproducirati nakon pretvorbe PSD u Tiff. Na primjer, PSD pohranjuje podatke tekstualnog sloja u vektorskom formatu, kao i podatke Smart Object. Ne biste trebali pretvoriti PSD u Tiff ako nakon toga želite urediti datoteku. Tiff datoteka podržava slojeve, ali tiff je uglavnom rasterski format umjesto PSD-a gdje je pohranjeno puno vektorskih podataka. Ali ako napravite pretvorbu fotografija uređena u PSD od Aspose <a href="https://products.aspose.app/psd/photo-editor">Uređivač fotografija</a> tiff format izvoza je savršen. Tada možete urediti tiff sliku s tiff-specifičnim urednicima</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".tiff", new TiffOptions(FileFormats.Tiff.Enums.TiffExpectedFormat.TiffLzwCmyk));

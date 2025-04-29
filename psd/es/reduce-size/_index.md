@@ -14,7 +14,7 @@ url: reduce-size/
 {{< blocks/products/pf/feature-page-section h2="Reducir el tamaño de los archivos PSD" >}}
 
 <p>Reducir el tamaño de un PSD grande es una operación sencilla si usa Aspose.PSD. La reducción del tamaño se puede archivar eliminando los datos de caché de los archivos PSD, fusionando capas y convirtiendo al formato PSD con una cantidad de bits por color menor. Además, puede cambiar el modo de color del archivo PSD; por ejemplo, el cambio del color CMYK al color RGBA reduce el tamaño del archivo PSD. Esta aplicación utilizaba funciones no documentadas del formato PSD, por lo que el resultado final se puede romper. Utilice PSD File Reduce solo si sabe claramente lo que desea archivar.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSD file reduce operation
         // Remove Cache Data			

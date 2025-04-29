@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="PSD를 PNG로 변환하는 무료 온라인 앱" >}}
 <p>이 변환기는 PSD 파일을 PNG 형식으로 쉽게 변환할 수 있는 방법입니다.PNG 파일은 불투명도 및 다양한 색상 모드를 지원하여 디스크 드라이브 공간을 절약하거나 추가 정보를 저장합니다.PNG 파일은 압축된 데이터를 저장하지만 이 압축은 완전히 손실되지 않습니다.PSD 형식은 PNG와 유사한 투명도 및 다양한 색상 모드를 지원하므로 PSD 형식을 PNG로 변환하는 것이 데이터 손실없이 이미지 데이터를 교환하는 기본 작업 중 하나입니다.그러나 이러한 형식에는 상당한 차이가 있습니다.예를 들어 PSD 형식은 레이어를 지원하지만 PNG 형식은 지원하지 않습니다.PSD를 PNG로 변환하면 레이어에 대한 모든 정보가 PNG에서 손실되지만 초기 PSD 파일은 변경되지 않습니다.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

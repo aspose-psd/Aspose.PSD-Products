@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Aplikasi Online Gratis untuk Mengonversi PSD" >}}
 <h3 class="headingpdleft">Multiformat PSD, PSB dan AI Converter</h3>
 <p>Kemampuan untuk mengkonversi PSD ke format yang berbeda adalah fitur yang banyak diminta. Aspose.PSD adalah pixel-sempurna akurat di atasnya. Anda dapat mengkonversi PSD ke format apapun, ini built-in mengkonversi aplikasi menyediakan “psd menyimpan ke png”, “psd mengkonversi ke jpg”, “psd ke pdf konversi”</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

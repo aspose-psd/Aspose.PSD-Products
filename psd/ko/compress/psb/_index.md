@@ -14,7 +14,7 @@ url: compress/psb/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">PSD를 압축하고 크기를 줄이는 무료 온라인 앱</h3>
 <p>손실 및 무손실 방법을 사용하여 대용량 PSD 및 PSB 파일을 압축합니다.Aspose.PSD 의 숨겨진 잠재력을 발견하세요.PSD 파일의 데이터는 항상 안전하지 않으므로 자주 사용하는 경우 압축 후 PSD 파일을 테스트해야 합니다.일부 압축 기능은 손실이 발생하므로 이러한 유형의 압축 후에는 초기 PSD 파일을 복원할 수 없습니다.이 기능은 “있는 그대로” 제공됩니다.PSD를 압축하거나 PSB 파일 크기를 줄일 수 있습니다.</p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `      // Lossless compression
         // Remove Cache Data			

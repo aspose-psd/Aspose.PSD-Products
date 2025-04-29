@@ -13,7 +13,7 @@ url: convert/to-jpg/
 
 {{< blocks/products/pf/feature-page-section h2="Free Online App to Convert PSD to JPG" >}}
 <p>If you want to convert PSD to JPG then the PSD to Jpeg Converter is the best solution. Jpg is the image format with lossy compression, but on the photos with natural photo colors the losing of the additional color information will not be noticeable. So converting PSD to JPEG has its own very popular case. Have the ability to store photos in original state but in the less disk drive sizes is a daydream for many companies. But please be cautious, avoid the quick decissions to convert all you PSD files to Jpeg, because Jpeg doesn't support layers, masks, 16 and 32 bit (and many others) color modes. If you delete the original PSD or PSB files after the converting to JPEG you'll lose them irrevocably. The good solution is to convert PSD file to Jpeg, then save the PSD files on the some isolated device and use JPEG files after the conversion from psb as a compact photoalbum with the ease access. If you need just <a href="/psd/view">open PSD online</a> please use the <a href="/psd/view">Online PSD View App</a></p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });

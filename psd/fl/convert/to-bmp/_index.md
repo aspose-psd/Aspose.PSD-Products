@@ -13,7 +13,7 @@ url: convert/to-bmp/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-sovellus muuntaa PSD BMP: ksi" >}}
 <p>Entä jos sinun on käytettävä vanhassa ohjelmistossa nykyaikaista kuvaa, joka on tehty PSD-muodossa? Paras tapa on muuntaa PSD BMP: ksi. BMP on vanhanaikainen rasterimuoto, jota thqt tukee 8 bittiä kanavaa kohti yleisessä käyttötapauksessa. Uusi versio BMP-tiedostoista tukee läpinäkyvyyttä ja pakkausta, joten PSD: n muuntamisen jälkeen BMP: ksi saat alkuperäisen kuvan, mutta ilman kerroksia. Mutta edullisempi tapa on käyttää PNG-tiedostoja tällaisessa tapauksessa. Tärkein sovellus BMP-tiedostoja on erityinen ohjelmisto ja 3D-mallinnus, myös muuntaa PSD BMP voidaan luoda favicons ja kuvakkeet. Huomaa, että PSB BMP muuntaminen on pikselin täydellinen, jos käytät Aspose Software.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".bmp",  new BmpOptions());

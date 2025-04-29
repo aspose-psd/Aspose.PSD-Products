@@ -13,7 +13,7 @@ url: psb/
 
 {{< blocks/products/pf/feature-page-section h2="Pembukaan file PSB secara online" >}}
 <p>PSB adalah jenis Adobe Photoshop yang mendukung gambar yang lebih besar dari 30000 piksel ketika gambar dukungan PSD hanya kurang dari 30000 piksel. Struktur file PSB sedikit berbeda dari PSD, sehingga tidak setiap PSD Viewer dapat membuka file PSB. Tetapi Aspose.PSD mendukung tampilan PSB dan beberapa operasi edit dengan Format File PSB. Dengan Aplikasi ini Anda dapat membuka file PSB secara online dan dari perangkat apa pun.</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourcePsbFileName))
     {
 	    // To open the PSB File as JPG just use this code

@@ -14,7 +14,7 @@ url: convert/
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Online App για μετατροπή PSD" >}}
 <h3 class="headingpdleft">Πολλαπλών μορφών PSD, PSB και AI μετατροπέα</h3>
 <p>Η δυνατότητα μετατροπής του psd σε διαφορετικές μορφές είναι ένα ευρέως ζητούμενο χαρακτηριστικό. Aspose.PSD είναι pixel-τέλεια ακριβή σε αυτό. Μπορείτε να μετατρέψετε PSD σε οποιαδήποτε μορφή, αυτή η ενσωματωμένη εφαρμογή μετατροπής παρέχει «psd save to png», «psd convert to jpg», «psd σε pdf μετατροπή»</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

@@ -12,7 +12,7 @@ url: reduce-size/psb/
 {{< blocks/products/pf/feature-page-section h2="ลดขนาดของไฟล์ PSB" >}}
 
 <p>รูปแบบ PSB สามารถบีบอัดได้อย่างง่ายดายหากคุณบันทึกเป็น PSD แต่รูปแบบ PSD ไม่รองรับภาพที่มีความกว้างหรือสูงมากกว่า 30000 พิกเซลในกรณีนี้การบีบอัดไฟล์ PSB เป็นวิธีการแก้ปัญหาที่ซับซ้อนมากขึ้น.คุณสามารถลองใช้ PSB Compress Software แต่เราไม่สามารถรับประกันได้ว่าไฟล์ PSB บีบอัดสุดท้ายจะสามารถอ่านได้app นี้ใช้คุณสมบัติที่ไม่ได้จัดทำเอกสารของรูปแบบ PSB.เพื่อเพิ่มโอกาสในการทำงานที่ถูกต้อง โปรดลองบีบอัดคุณลักษณะที่จะไม่ลบข้อมูลสำคัญลดขนาดของ PSB ให้ “ตามที่เป็นอยู่”.เป็นการดีที่จะใช้ร่วมกัน <a href="/psd/reduce-size">แอปพลิเคชั่นลดขนาด PSD</a></p>
-{{< psd/compress `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/compress `https://api.aspose.ai/` 
 
 `        // Lossless PSB file reduce operation
         // Remove Cache Data			

@@ -14,7 +14,7 @@ url: open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="Ouvrir un fichier AI en ligne" >}}
 <p>Lorsque vous n'avez pas besoin de la fonctionnalité d'édition lorsque vous ouvrez le format AI en ligne, ce AI Viewer est une bonne solution à de nombreuses fins. Vous pouvez ouvrir le fichier AI en ligne après le téléchargement sur le serveur Web. Le format AI étant un format vectoriel, la pixellisation sera effectuée dans la taille d'image spécifiée. Pour les fonctions supplémentaires, vous pouvez utiliser <a href="/psd/net">.Net</a> ou <a href="/psd/java">Java</a> API à code élevé pour ouvrir les fichiers AI dans les dimensions dont vous avez besoin</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

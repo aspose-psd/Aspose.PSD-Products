@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="Application en ligne gratuite pour convertir PSD en PNG" >}}
 <p>Ce convertisseur est un moyen facile de convertir vos fichiers PSD au format PNG. Les fichiers PNG prennent en charge l'opacité et différents modes de couleur pour économiser de l'espace sur le disque ou stocker des informations supplémentaires. Les fichiers PNG stockent les données compressées, mais cette compression est totalement sans perte. Le format PSD prend en charge la transparence et différents modes de couleur similaires au format PNG, donc si la conversion du format PSD en PNG est l'une des opérations de base pour échanger des données d'image sans perdre les données. Mais ces formats présentent des différences significatives. Par exemple, le format PSD prend en charge les couches, mais pas le format PNG. Après la conversion PSD en PNG, toutes les informations sur les couches seront perdues en PNG, mais le fichier PSD initial ne sera pas modifié.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

@@ -13,7 +13,7 @@ url: convert/to-jpg/
 
 {{< blocks/products/pf/feature-page-section h2="PSD를 JPG로 변환하는 무료 온라인 앱" >}}
 <p>PSD를 JPG로 변환하려면 PSD에서 Jpeg로 변환기가 가장 좋은 솔루션입니다.Jpg는 손실 압축 이미지 형식이지만 자연스러운 사진 색상의 사진에서는 추가 색상 정보가 손실되지 않습니다.따라서 PSD를 JPEG로 변환하는 것은 매우 인기있는 경우입니다.사진을 원래 상태로 저장할 수 있지만 디스크 드라이브 크기가 적다는 것은 많은 회사에서 백일몽입니다.그러나 Jpeg는 레이어, 마스크, 16비트 및 32비트 (및 기타 여러 가지) 색상 모드를 지원하지 않으므로 모든 PSD 파일을 Jpeg로 변환하는 빠른 결정은 피해야 합니다.JPEG로 변환 한 후 원본 PSD 또는 PSB 파일을 삭제하면 복구 할 수 없게 손실됩니다.좋은 해결책은 PSD 파일을 Jpeg로 변환한 다음 PSD 파일을 일부 격리된 장치에 저장하고 psb에서 변환한 후 JPEG 파일을 쉽게 액세스할 수 있는 컴팩트 포토 앨범으로 사용하는 것입니다.필요한 경우 <a href="/psd/view">PSD 온라인 열기</a> 사용하십시오 <a href="/psd/view">온라인 PSD 보기 앱</a></p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".jpg",  new JpegOptions() { Quality = 75 });

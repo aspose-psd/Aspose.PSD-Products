@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Bezplatná online aplikace pro zobrazení formátu PSD, PSB nebo AI online" >}}
 <p>Schopnost zobrazit psd online je populární služba, které vám mohou pomoci ušetřit čas a peníze. K otevření souborů PSD nepotřebujete Adobe Photoshop. Vestavěná aplikace poskytuje pixel-perfektní psd zobrazení</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

@@ -13,7 +13,7 @@ url: convert/to-png/
 
 {{< blocks/products/pf/feature-page-section h2="免费的在线应用程序可将PSD转换为PNG" >}}
 <p>此转换器是将PSD文件转换为PNG格式的简便方法。PNG 文件支持不透明度和不同的颜色模式，以节省磁盘驱动器空间或存储其他信息。PNG 文件存储压缩后的数据，但这种压缩是完全无损的。PSD格式支持类似于PNG的透明度和不同的颜色模式，因此，如果将PSD格式转换为PNG是交换图像数据而不丢失数据的基本操作之一。但是这些格式有显著的差异。例如，PSD 格式支持图层，但 PNG 格式不支持。PSD 到 PNG 转换后，有关图层的所有信息都将在 PNG 中丢失，但初始 PSD 文件不会更改。</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".png",  new PngOptions() {  ColorType = PngColorType.TruecolorWithAlpha });

@@ -14,7 +14,7 @@ url: view/ai/
 
 {{< blocks/products/pf/feature-page-section h2="AI ファイルをオンラインで表示する" >}}
 <p>AIファイルを開くためのソフトウェアがない場合は、オンラインビューアツールを使用してください。このアプリは、あらゆるバージョンのAIファイルを表示するのに役立ちます。しかし、最終結果はレンダリングされたプレビューになります。AI ファイルはベクター形式であるため、基本的なアプリケーションでは表示が困難です。AI を開くことができるのはベクタービューアーのみです。AI フォーマットはアドビが独自に開発したフォーマットです。拡張子は「.ai」です。AI Viewer のほとんどは有料製品ですが、Illustrator ファイルを編集する必要がなければ、有料ソフトウェアは必要ありません。このアプリで「AIファイルをオンラインで表示」を使用するだけです。</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// To view the new AI format please use the following code:
 	async Task<bool> ViewPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{

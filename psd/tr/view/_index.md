@@ -14,7 +14,7 @@ url: view/
 
 {{< blocks/products/pf/feature-page-section h2="Ücretsiz Online App PSD, PSB veya AI formatını çevrimiçi görüntülemek için" >}}
 <p>Psd çevrimiçi görüntüleme yeteneği popüler bir hizmettir, zamandan ve paradan tasarruf etmenize yardımcı olabilir. PSD dosyalarını açmak için Adobe Photoshop'a ihtiyacınız yoktur. Dahili uygulama piksel mükemmel psd görünümü sağlar</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { ReadOnlyMode = true }))
     {
         // To get the pixel-perfect PSD File Image just use this code

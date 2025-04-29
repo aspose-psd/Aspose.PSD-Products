@@ -13,7 +13,7 @@ url: convert/to-pdf/
 
 {{< blocks/products/pf/feature-page-section h2="Aplikasi Online Gratis untuk Mengonversi PSD ke PDF" >}}
 <p>Anda dapat mengkonversi psd ke pdf. Ini mirip dengan mencetak PSD sebagai PDF, karena hasil Anda adalah Dokumen PDF. Format PSD dan PDF dikembangkan oleh Adobe®. PDF didasarkan pada PostScript dan setiap PDF berisi deskripsi lengkap tentang tata letak. PSD Format berisi deskripsi lengkap dari Layer Data termasuk Vector Data dan Layer Masks. Kedua format yang populer dan banyak digunakan oleh desainer dan pengembang. No-Code App adalah solusi mudah yang cepat dan sederhana.</p>
-{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/conversion `https://api.aspose.ai/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".pdf", new PdfOptions());

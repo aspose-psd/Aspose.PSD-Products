@@ -14,7 +14,7 @@ url: view/open-AI-online/
 
 {{< blocks/products/pf/feature-page-section h2="Otevřít soubor AI online" >}}
 <p>Pokud při otevření formátu AI online nepotřebujete funkci úprav, je tento prohlížeč AI dobrým řešením pro mnoho účelů. Soubor AI můžete otevřít online po nahrání na webový server. Formát AI je vektorový formát, takže rasterizace bude probíhat v zadané velikosti obrázku. Pro další funkce, můžete použít <a href="/psd/net">.Net</a> nebo <a href="/psd/java">Java</a> high-code API pro otevření souborů AI v rozměrech, které potřebujete</p>
-{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/view `https://api.aspose.ai/` 
 `	// For the new AI format please use the following code:
 	async Task<bool> OpenPdfToPng(Stream pdfFileStream, string pngFileId, Size size)
 	{
