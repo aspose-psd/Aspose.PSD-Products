@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Besplatno Online App za Crop Circle slike s parametrima</h3>
 <p>Obrežite sve slike, avatare, fotografije u krug. Okrugli usjev pomoću obrezivanje maskom. Otkrijte brzo i kvalitetno rješenje za obrezivanje kruga Aspose.PSD. Morate odabrati područje kruga pomoću korisničkog sučelja aplikacije za obrezivanje. Navedite središte obrezivanja i radijus ili gornje lijeve i donje desne točke regije. Područje obrezivanja možete premjestiti pomoću miša ili tipkovnice. Kada će biti odabran ispravan krug za obrezivanje, pritisnite gumb "Obrezivanje". Također možete odabrati izlazni format okrugle izrezane slike.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

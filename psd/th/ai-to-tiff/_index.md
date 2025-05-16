@@ -107,4 +107,4 @@ TIFF หรือ TIF, Tagged Image File Format, แสดงภาพแรส�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

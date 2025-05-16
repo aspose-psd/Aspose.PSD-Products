@@ -111,4 +111,4 @@ Rychlá a jednoduchá aplikace pro aktualizaci PSD online. Aktualizace textu a v
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

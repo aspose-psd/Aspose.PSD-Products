@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">App ออนไลน์ฟรีเพื่อครอบตัดภาพวงกลมที่มีพารามิเตอร์</h3>
 <p>ครอบตัดรูปภาพรูปประจำตัวรูปถ่ายเป็นวงกลมการเพาะปลูกรอบโดยใช้การครอบตัดโดยหน้ากากค้นพบวิธีการแก้ปัญหาการครอบตัดวงกลมอย่างรวดเร็วและมีคุณภาพสูงของ Aspose.PSDคุณจำเป็นต้องเลือกภูมิภาควงกลมโดยใช้ UI ของแอปปลูกระบุศูนย์กลางของการเพาะปลูกและรัศมีหรือบนซ้ายและล่างขวาจุดของภูมิภาคคุณสามารถย้ายพื้นที่ครอบตัดโดยใช้เมาส์หรือแป้นพิมพ์เมื่อวงกลมที่ถูกต้องเพื่อครอบตัดจะถูกเลือกแล้วกดปุ่ม “ครอบตัด”นอกจากนี้คุณยังสามารถเลือกรูปแบบการส่งออกของภาพที่ถูกครอบตัดรอบ</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

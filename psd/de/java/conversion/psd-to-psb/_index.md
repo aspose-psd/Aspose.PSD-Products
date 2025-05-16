@@ -142,4 +142,4 @@ Adobe Photoshop speichert Dateien in zwei Formaten. Dateien mit einer Größe vo
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

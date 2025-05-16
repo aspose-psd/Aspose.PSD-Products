@@ -107,4 +107,4 @@ PNG, Portable Network Graphics, hace referencia a un tipo de formato de archivo 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -125,4 +125,4 @@ PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yan
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

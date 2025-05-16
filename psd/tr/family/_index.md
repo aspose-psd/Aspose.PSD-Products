@@ -51,4 +51,4 @@ Masaüstü Windows, Linux ve macOS ve MacOS-ARM için.NET üzerinden Python API'
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -107,4 +107,4 @@ TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avs
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

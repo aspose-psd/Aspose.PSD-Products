@@ -125,4 +125,4 @@ TIFF oder TIF, Tagged Image File Format, steht für Rasterbilder, die für die V
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

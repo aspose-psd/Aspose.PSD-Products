@@ -134,4 +134,4 @@ PSD, Photoshop Document, představuje nativní formát souboru Adobe Photoshop p
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

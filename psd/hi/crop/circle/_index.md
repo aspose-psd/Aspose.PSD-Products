@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">मापदंडों के साथ सर्कल इमेज को क्रॉप करने के लिए मुफ्त ऑनलाइन ऐप</h3>
 <p>किसी भी चित्र, अवतार, फोटो को सर्कल में क्रॉप करें। मास्क द्वारा क्रॉपिंग का उपयोग करके गोल फसल लें। Aspose.PSD के त्वरित और उच्च-गुणवत्ता वाले सर्कल क्रॉपिंग समाधान की खोज करें। आपको क्रॉप ऐप के UI का उपयोग करके सर्कल क्षेत्र का चयन करना होगा। फसल और त्रिज्या का केंद्र, या क्षेत्र के शीर्ष बाएं और नीचे दाएं बिंदु निर्दिष्ट करें। आप माउस या कीबोर्ड का उपयोग करके क्रॉप एरिया को स्थानांतरित कर सकते हैं। जब क्रॉप करने के लिए सही सर्कल का चयन किया जाएगा तो “क्रॉप” बटन दबाएं। आप गोल क्रॉप्ड इमेज का आउटपुट फॉर्मेट भी चुन सकते हैं।</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

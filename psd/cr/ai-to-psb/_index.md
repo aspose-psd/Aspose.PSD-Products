@@ -107,4 +107,4 @@ Adobe photoshop sprema datoteke u dva formata. Datoteke veličine 30.000 do 30.0
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

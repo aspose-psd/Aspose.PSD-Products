@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Δωρεάν Online App για να περικόψετε την εικόνα του κύκλου με παραμέτρους</h3>
 <p>Περικοπή εικόνων, avatars, φωτογραφιών σε κύκλο. Στρογγυλή καλλιέργεια με χρήση περικοπής με μάσκα. Ανακαλύψτε γρήγορη και υψηλής ποιότητας λύση περικοπής κύκλων του Aspose.PSD. Πρέπει να επιλέξετε περιοχή κύκλου χρησιμοποιώντας το περιβάλλον εργασίας χρήστη της εφαρμογής περικοπής. Καθορίστε το κέντρο της περικοπής και της ακτίνας ή τα σημεία επάνω αριστερά και κάτω δεξιά της περιοχής. Μπορείτε να μετακινήσετε την περιοχή περικοπής χρησιμοποιώντας το ποντίκι ή το πληκτρολόγιο. Όταν επιλεγεί ο σωστός κύκλος για περικοπή, πατήστε το κουμπί «Περικοπή». Μπορείτε επίσης να επιλέξετε τη μορφή εξόδου της στρογγυλής περικομμένης εικόνας.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

@@ -142,4 +142,4 @@ I file con estensione .BMP rappresentano i file Bitmap Image utilizzati per arch
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

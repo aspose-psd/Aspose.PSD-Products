@@ -107,4 +107,4 @@ JPEG on kuvamuodon tyyppi, joka tallennetaan häviöllisen pakkausmenetelmän av
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

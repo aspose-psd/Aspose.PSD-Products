@@ -41,4 +41,4 @@ Započet ćemo stvaranjem novog sloja teksta pomoću <a href="https://www.nuget.
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

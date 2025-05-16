@@ -43,4 +43,4 @@ Začneme vytvořením jednoduchého textového vodoznaku pomocí <a href="https:
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

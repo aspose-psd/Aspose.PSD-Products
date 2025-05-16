@@ -123,4 +123,4 @@ Adobe Photoshop enregistre les fichiers dans deux formats. Les fichiers de 30 00
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

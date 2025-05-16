@@ -107,4 +107,4 @@ Tabulae extensionem habentes .BMP repraesentant Bitmap imaginum imaginum quae ad
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

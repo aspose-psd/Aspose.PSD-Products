@@ -111,4 +111,4 @@ Snabb och enkel app för uppdatering PSD Online. Text- och lageruppdateringar st
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

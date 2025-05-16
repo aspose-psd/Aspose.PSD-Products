@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Zdarma Online App pro Crop Circle Image s parametry</h3>
 <p>Ořízněte všechny obrázky, avatary, fotografie do kruhu. Kulatá plodina pomocí oříznutí maskou. Objevte rychlé a vysoce kvalitní řešení oříznutí kruhu Aspose.PSD. Musíte vybrat oblast kruhu pomocí uživatelského rozhraní aplikace oříznutí. Určete střed oříznutí a poloměr nebo Horní levý a Dolní pravý bod oblasti. Oblast oříznutí můžete přesunout pomocí myši nebo klávesnice. Když bude vybrán správný kruh pro oříznutí, stiskněte tlačítko „Oříznout“. Můžete také vybrat výstupní formát kulatého oříznutého obrazu.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

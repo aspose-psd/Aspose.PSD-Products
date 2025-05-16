@@ -119,4 +119,4 @@ Portable Document Format (PDF) je typ dokumentu vytvořeného společností Adob
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">تطبيق مجاني على الإنترنت لقص صورة الدائرة باستخدام المعلمات</h3>
 <p>قم بقص أي صور أو صور رمزية أو صور إلى دائرة. محصول مستدير باستخدام القص بالقناع. اكتشف حل قص الدوائر السريع والعالي الجودة لـ Aspose.PSD. تحتاج إلى تحديد منطقة الدائرة باستخدام واجهة المستخدم لتطبيق المحاصيل. حدد مركز الاقتصاص ونصف القطر، أو النقاط العلوية اليسرى والسفلية اليمنى للمنطقة. يمكنك نقل منطقة الاقتصاص باستخدام الماوس أو لوحة المفاتيح. عندما يتم تحديد الدائرة الصحيحة للقص، اضغط على زر «Crop». يمكنك أيضًا تحديد تنسيق الإخراج للصورة المستديرة المقطوعة.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

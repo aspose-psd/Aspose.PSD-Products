@@ -41,4 +41,4 @@ Adobe® Photoshop® 의 PSD 형식은 명함, 로고 디자인, 전단지 목업
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="psd-to-bmp psd-to-png psd-to-jpeg psd-to-tiff psd-to-gif psb-to-gif psb-to-tiff psb-to-jpeg psb-to-png psb-to-bmp" >}}
-{{< psd/tize >}}
+

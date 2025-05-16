@@ -107,4 +107,4 @@ JPEG - гэта тып фармату выявы, які захоўваецца 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -125,4 +125,4 @@ GIF- tai graafinen vaihtoformaatti on eräänlainen erittäin pakattu kuva. Unis
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

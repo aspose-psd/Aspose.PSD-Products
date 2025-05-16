@@ -125,4 +125,4 @@ Forma GIF seu GRAPHICALIS PERMUTATIO forma est species imaginis valde compressae
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

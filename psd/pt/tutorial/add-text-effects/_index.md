@@ -41,4 +41,4 @@ Começaremos criando uma nova camada de texto usando a <a href="https://www.nuge
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

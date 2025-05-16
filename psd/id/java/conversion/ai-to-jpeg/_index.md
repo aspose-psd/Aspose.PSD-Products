@@ -126,4 +126,4 @@ JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy.
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

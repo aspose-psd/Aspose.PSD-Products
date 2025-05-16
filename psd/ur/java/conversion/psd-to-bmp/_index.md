@@ -142,4 +142,4 @@ url: java/conversion/psd-to-bmp/
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

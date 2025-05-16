@@ -125,4 +125,4 @@ GIF या ग्राफ़िकल इंटरचेंज फ़ॉर्�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

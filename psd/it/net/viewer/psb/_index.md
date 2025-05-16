@@ -109,4 +109,4 @@ Adobe Photoshop salva i file in due formati. I file con una dimensione di 30.000
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

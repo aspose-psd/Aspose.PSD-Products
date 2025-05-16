@@ -142,4 +142,4 @@ En JPEG är en typ av bildformat som sparas med metoden för förstörande kompr
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

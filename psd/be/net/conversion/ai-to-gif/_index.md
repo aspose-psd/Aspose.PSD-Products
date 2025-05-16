@@ -107,4 +107,4 @@ GIF або графічны фармат абмену з'яўляецца тып
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

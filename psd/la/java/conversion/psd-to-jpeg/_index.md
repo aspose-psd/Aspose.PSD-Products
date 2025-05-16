@@ -142,4 +142,4 @@ A JPEG typum est formae imaginis quae per modum compressionis damnosae servatur.
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -125,4 +125,4 @@ Un fichier portant l'extension .ai est un fichier d'illustration Adobe Illustrat
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -109,4 +109,4 @@ O Adobe photoshop salva arquivos em dois formatos. Arquivos com 30.000 por 30.00
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -142,4 +142,4 @@ TIF فرنكاً أو TIF، يُمثّل جهاز التصوير المقطعي�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

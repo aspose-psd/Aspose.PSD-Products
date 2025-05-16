@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Aplicación en línea gratuita para recortar imágenes circulares con parámetros</h3>
 <p>Recorta cualquier imagen, avatar o foto para formar un círculo. Cultivo redondo mediante recorte mediante máscara. Descubra la solución de recorte de círculos rápida y de alta calidad de Aspose.PSD. Debe seleccionar la región del círculo mediante la interfaz de usuario de la aplicación de recorte. Especifique el centro del recorte y el radio, o los puntos superior izquierdo e inferior derecho de la región. Puede mover el área de recorte con el ratón o el teclado. Cuando haya seleccionado el círculo correcto para recortar, pulse el botón «Recortar». También puede seleccionar el formato de salida de la imagen redonda recortada.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

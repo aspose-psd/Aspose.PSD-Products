@@ -41,4 +41,4 @@ Začneme vytvořením nové textové vrstvy pomocí <a href="https://www.nuget.o
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

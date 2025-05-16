@@ -46,4 +46,4 @@ Iava APIs indigena pro desktop, tela vel aliqua applicatione innixa Java SE vel 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -107,4 +107,4 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

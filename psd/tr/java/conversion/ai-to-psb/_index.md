@@ -125,4 +125,4 @@ Adobe photoshop dosyaları iki formatta kaydeder. Boyutunda 30.000 piksel 30.000
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

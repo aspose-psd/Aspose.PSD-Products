@@ -111,4 +111,4 @@ Photoshop ve Illustrator dosyalarını düzenlemek için Python API'leri. Herhan
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

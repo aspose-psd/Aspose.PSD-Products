@@ -107,4 +107,4 @@ Portable Document Format (PDF) är en typ av dokument som skapades av Adobe reda
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

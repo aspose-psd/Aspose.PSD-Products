@@ -42,4 +42,4 @@ Så, oavsett om du är en designer, utvecklare eller bara någon som behöver ar
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

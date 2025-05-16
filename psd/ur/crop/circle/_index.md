@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">پیرامیٹرز کے ساتھ سرکل تصویر فصل کرنے کے لئے مفت آن لائن اپلی کیشن</h3>
 <p>دائرے میں کسی بھی تصاویر، اوتار، تصاویر کو فصل کریں. ماسک کی طرف سے کاٹنے کا استعمال کرتے ہوئے گول فصل. Aspose.PSD کے فوری اور اعلی معیار کے دائرے کاٹنے کا حل دریافت کریں. آپ کو فصل اے پی پی کے UI کا استعمال کرتے ہوئے دائرے کے علاقے کو منتخب کرنے کی ضرورت ہے. فصل اور رداس کے مرکز کی وضاحت کریں، یا اوپر بائیں اور علاقے کے نیچے دائیں پوائنٹس. آپ ماؤس یا کی بورڈ کا استعمال کرتے ہوئے فصل کے علاقے منتقل کر سکتے ہیں. فصل کرنے کے لئے صحیح دائرہ منتخب کیا جائے گا تو پھر دبائیں “فصل” بٹن. آپ راؤنڈ فصل کی تصویر کی آؤٹ پٹ فارمیٹ بھی منتخب کرسکتے ہیں.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

@@ -103,4 +103,4 @@ Aspose.PSD عبارة عن واجهة برمجة تطبيقات لمعالجة �
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

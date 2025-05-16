@@ -109,4 +109,4 @@ PSD, Photoshop Document, represents Adobe Photoshop's native file format used fo
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

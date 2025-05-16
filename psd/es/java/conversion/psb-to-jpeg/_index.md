@@ -142,4 +142,4 @@ Un JPEG es un tipo de formato de imagen que se guarda mediante el método de com
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

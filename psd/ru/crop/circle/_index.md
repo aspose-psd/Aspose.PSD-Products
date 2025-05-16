@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Бесплатное онлайн-приложение для обрезки изображения круга с параметрами</h3>
 <p>Обрезайте любые изображения, аватары, фотографии по кругу. Обрезка круглой формы методом обрезки методом маски. Откройте для себя быстрое и качественное решение для обрезки кругов от Aspose.PSD. Вам нужно выбрать область круга с помощью пользовательского интерфейса приложения для кадрирования. Укажите центр обрезки и радиус или верхнюю левую и нижнюю правую точки области. Вы можете перемещать область обрезки с помощью мыши или клавиатуры. Когда будет выбран правильный круг для обрезки, нажмите кнопку «Обрезать». Можно также выбрать выходной формат круглого обрезанного изображения.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

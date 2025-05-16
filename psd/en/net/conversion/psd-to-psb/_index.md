@@ -123,4 +123,4 @@ Adobe photoshop saves files in two formats. Files having 30,000 by 30,000 pixels
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

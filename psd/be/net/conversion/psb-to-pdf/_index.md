@@ -119,4 +119,4 @@ Adobe Photoshop захоўвае файлы ў двух фарматах. Фай
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">免费的在线应用程序，用于裁剪带有参数的圆圈图像</h3>
 <p>将任何图像、头像、照片裁剪成圈子。使用掩码裁剪来圆形裁剪。探索 Aspose.PSD 的快速、高质量的圆形裁剪解决方案。你需要使用裁剪应用程序的用户界面选择圆圈区域。指定裁剪中心和半径，或区域的左上角和右下角点。您可以使用鼠标或键盘移动裁剪区域。选择正确的裁剪圆圈后，按 “裁剪” 按钮。您也可以选择圆形裁剪图像的输出格式。</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

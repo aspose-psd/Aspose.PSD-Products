@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Parametrelerle Daire Görüntüsünü Kırpmak için Ücretsiz Çevrimiçi Uygulama</h3>
 <p>Herhangi bir resmi, avatarları, fotoğrafları daire içine alın. Maske ile kırpma kullanarak yuvarlak kırpma. Aspose.PSD hızlı ve yüksek kaliteli daire kırpma çözümünü keşfedin. Kırpma uygulamasının kullanıcı arayüzünü kullanarak daire bölgesini seçmeniz gerekir. Kırpma ve yarıçap merkezini veya Bölgenin Üst Sol ve Sağ Alt noktalarını belirtin. Kırpma alanını fare veya klavye kullanarak taşıyabilirsiniz. Kırpılacak doğru daire seçildiğinde, “Kırp” düğmesine basın. Yuvarlak kırpılmış görüntünün çıktı biçimini de seçebilirsiniz.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

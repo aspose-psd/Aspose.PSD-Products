@@ -42,4 +42,4 @@ Ainsi, que vous soyez un concepteur, un développeur ou simplement quelqu'un qui
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

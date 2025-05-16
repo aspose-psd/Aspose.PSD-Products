@@ -43,4 +43,4 @@ Započet ćemo stvaranjem jednostavnog tekstualnog vodenog žiga pomoću <a href
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

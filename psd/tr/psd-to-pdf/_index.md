@@ -119,4 +119,4 @@ Taşınabilir Belge Biçimi (PDF), Adobe tarafından 1990'larda oluşturulan bir
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

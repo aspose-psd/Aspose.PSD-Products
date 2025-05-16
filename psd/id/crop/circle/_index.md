@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Aplikasi Online Gratis untuk Pangkas Gambar Lingkaran dengan parameter</h3>
 <p>Pangkas gambar, avatar, foto untuk melingkari. Tanaman bundar menggunakan tanam dengan topeng. Temukan solusi pemangkasan lingkaran cepat dan berkualitas tinggi dari Aspose.PSD. Anda perlu memilih wilayah lingkaran menggunakan UI of crop app. Tentukan pusat pemotongan dan jari-jari, atau Titik Kiri Atas dan Kanan Bawah wilayah. Anda dapat memindahkan area tanaman menggunakan mouse atau keyboard. Ketika lingkaran yang benar untuk memotong akan dipilih kemudian tekan “Crop” tombol. Anda juga dapat memilih format output gambar yang dipotong bulat.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
@@ -44,4 +44,4 @@ using (var resultMemoryStream = PsdCropper.Crop(image, options))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

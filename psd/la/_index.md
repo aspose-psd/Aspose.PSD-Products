@@ -80,4 +80,4 @@ Velox et Simplex App pro Update PSD Online. Textus et Updates Stratum sustentant
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

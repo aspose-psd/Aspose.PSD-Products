@@ -42,4 +42,4 @@ Dakle, bilo da ste dizajner, programer ili samo netko tko treba raditi s PSD dat
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

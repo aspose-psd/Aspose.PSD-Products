@@ -107,4 +107,4 @@ Un format GIF ou Graphical Interchange Format est un type d'image hautement comp
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

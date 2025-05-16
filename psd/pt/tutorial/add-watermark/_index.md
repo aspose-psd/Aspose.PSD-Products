@@ -43,4 +43,4 @@ Começaremos criando uma marca d'água de texto simples usando o <a href="https:
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

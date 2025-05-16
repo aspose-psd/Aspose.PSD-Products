@@ -126,4 +126,4 @@ Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo d
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

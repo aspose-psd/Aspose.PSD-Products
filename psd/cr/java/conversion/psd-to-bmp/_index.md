@@ -142,4 +142,4 @@ Datoteke s ekstenzijom .BMP predstavljaju Bitmap slikovne datoteke koje se koris
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+
