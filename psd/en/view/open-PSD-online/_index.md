@@ -14,7 +14,7 @@ url: view/open-PSD-online/
 
 {{< blocks/products/pf/feature-page-section h2="Free Online App to Open PSD file online" >}}
 <p>This service helps to open PSD file online without Photoshop. Just upload your PSD file and after a few seconds you'll get the pixel-perfect view of this file. You can open PSD from any device.</p>
-{{< psd/view `https://api.aspose.ai/` 
+{{< psd/view `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
 	    // To open the PSD File as PNG just use this code

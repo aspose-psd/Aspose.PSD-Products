@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">매개 변수를 사용하여 원형 이미지를 자르는 무료 온라인 앱</h3>
 <p>모든 이미지, 아바타, 사진을 원으로 자릅니다.마스크별 자르기를 사용한 라운드 크롭.빠르고 고품질의 Aspose.PSD 원형 자르기 솔루션을 살펴보세요.크롭 앱의 UI를 사용하여 원 영역을 선택해야 합니다.크롭 중심점과 반경 또는 영역의 왼쪽 상단 및 오른쪽 하단 지점을 지정합니다.마우스나 키보드를 사용하여 크롭 영역을 이동할 수 있습니다.자르려는 올바른 원이 선택되면 “Crop” 버튼을 누릅니다.둥글게 자른 이미지의 출력 형식을 선택할 수도 있습니다.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))

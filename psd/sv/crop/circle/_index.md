@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Gratis online-app för att beskära cirkelbild med parametrar</h3>
 <p>Beskär alla bilder, avatarer, foton till cirkel. Rund gröda med beskärning med mask. Upptäck snabb och hög kvalitet cirkel beskärning lösning av Aspose.PSD. Du måste välja cirkelregion med användargränssnittet för beskärningsappen. Ange centrum för beskärning och radie, eller övre vänstra och nedre högra punkter i regionen. Du kan flytta beskärningsområdet med musen eller tangentbordet. När rätt cirkel att beskära kommer att väljas och tryck sedan på ”Beskär” -knappen. Du kan också välja utdataformat för rund beskuren bild.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))

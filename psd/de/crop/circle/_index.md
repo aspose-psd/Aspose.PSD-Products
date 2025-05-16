@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Kostenlose Online-App zum Schneiden von Kreisbildern mit Parametern</h3>
 <p>Schneide alle Bilder, Avatare und Fotos zu, sodass sie einen Kreis bilden. Runder Zuschnitt mit Maskenzuschnitt. Entdecken Sie die schnelle und hochwertige Circle Cropping-Lösung von Aspose.PSD. Sie müssen die Kreisregion mithilfe der Benutzeroberfläche der Crop-App auswählen. Geben Sie den Mittelpunkt des Zuschnitts und den Radius oder die Punkte oben links und unten rechts der Region an. Sie können den Zuschneidebereich mit der Maus oder der Tastatur verschieben. Wenn der richtige Kreis zum Zuschneiden ausgewählt ist, drücken Sie die Taste „Zuschneiden“. Sie können auch das Ausgabeformat eines runden, zugeschnittenen Bildes auswählen.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))

@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Application en ligne gratuite pour recadrer une image circulaire avec des paramètres</h3>
 <p>Recadrez toutes les images, avatars et photos en cercle. Recadrage arrondi en utilisant le recadrage par masque. Découvrez la solution de recadrage circulaire rapide et de haute qualité de Aspose.PSD. Vous devez sélectionner la région du cercle à l'aide de l'interface utilisateur de l'application de recadrage. Spécifiez le centre de recadrage et le rayon, ou les points en haut à gauche et en bas à droite de la région. Vous pouvez déplacer la zone de recadrage à l'aide de la souris ou du clavier. Lorsque le bon cercle à recadrer sera sélectionné, appuyez sur le bouton «Recadrer». Vous pouvez également sélectionner le format de sortie de l'image recadrée ronde.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))

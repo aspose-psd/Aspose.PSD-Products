@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">App online gratuita per ritagliare un'immagine circolare con parametri</h3>
 <p>Ritaglia qualsiasi immagine, avatar, foto in un cerchio. Ritaglio tondo con ritaglio a maschera. Scopri la soluzione di ritaglio circolare rapida e di alta qualità di Aspose.PSD. È necessario selezionare la regione del cerchio utilizzando l'interfaccia utente dell'app Crop. Specificate il centro del ritaglio e il raggio o i punti in alto a sinistra e in basso a destra della regione. Puoi spostare l'area di ritaglio usando il mouse o la tastiera. Quando verrà selezionato il cerchio corretto da ritagliare, premi il pulsante «Ritaglia». Puoi anche selezionare il formato di output dell'immagine ritagliata arrotondata.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))

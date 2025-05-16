@@ -13,7 +13,7 @@ url: convert/to-gif/
 
 {{< blocks/products/pf/feature-page-section h2="Web-Service for PSD to GIF conversion" >}}
 <p>GIF format is good when you want to make animated image for the WWW. Also, GIF can be used for the compression of image, it's especially advisable if your image contain less than 256 different colors. After the conversion of PSD to GIF you, you can get the animated GIF. Converting the PSD to GIF if a simple process, but it can not be done without specialized software like this converter or Aspose.PSD.</p>
-{{< psd/conversion `https://api.aspose.ai/` 
+{{< psd/conversion `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
 `    using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     {
         image.Save(sourceFileName + ".gif",  new GifOptions());

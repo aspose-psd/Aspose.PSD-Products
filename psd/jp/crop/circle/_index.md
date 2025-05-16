@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">パラメータを使って円の画像をトリミングする無料オンラインアプリ</h3>
 <p>画像、アバター、写真を円形にトリミングします。マスクによるクロッピングを使ったラウンドクロップ。Aspose.PSD の迅速で高品質な円切り抜きソリューションをご覧ください。クロップアプリのUIを使用してサークル領域を選択する必要があります。クロップの中心と半径、または領域の左上と右下の点を指定します。トリミング領域は、マウスまたはキーボードを使用して移動できます。切り抜く正しい円を選択したら、「切り抜き」ボタンを押します。丸く切り取った画像の出力形式を選択することもできます。</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))

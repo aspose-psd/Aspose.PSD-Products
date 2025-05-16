@@ -14,7 +14,7 @@ url: crop/circle/
 {{< blocks/products/pf/feature-page-section >}}
 <h3 class="headingpdleft">Ilmainen online-sovellus viljaympyrän kuvaan parametreilla</h3>
 <p>Rajaa kaikki kuvat, hahmot, valokuvat ympyröimään. Pyöreä sato rajaamalla maskilla. Löydä nopea ja laadukas ympyrä rajaus ratkaisu Aspose.PSD. Sinun on valittava ympyrän alue käyttämällä rajaussovelluksen käyttöliittymää. Määritä rajauksen keskipiste ja säde tai alueen ylävasen ja oikea alaosa. Voit siirtää viljelyaluetta hiirellä tai näppäimistöllä. Kun oikea ympyrä rajata valitaan paina ”Crop” -painiketta. Voit myös valita pyöreän rajatun kuvan tulostusmuodon.</p>
-{{< psd/cropcircle `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/cropcircle `https://api.aspose.ai/` 
 
 `// Cropping image by Circle
 using (var resultMemoryStream = PsdCropper.Crop(image, options))
