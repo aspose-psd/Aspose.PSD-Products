@@ -126,4 +126,4 @@ JPEG एक प्रकार का इमेज फॉर्मेट है 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -125,4 +125,4 @@ TIFF または TIF（タグ付き画像ファイル形式）は、このファ�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -51,4 +51,4 @@ Java SE 또는 EE를 기반으로 하는 데스크톱, 웹 또는 모든 종류�
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

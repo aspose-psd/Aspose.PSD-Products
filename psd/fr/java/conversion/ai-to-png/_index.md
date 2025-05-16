@@ -125,4 +125,4 @@ Le format PNG, Portable Network Graphics, fait référence à un type de format 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

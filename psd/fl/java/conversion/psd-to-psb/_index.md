@@ -142,4 +142,4 @@ Adobe Photoshop tallentaa tiedostot kahdessa muodossa. Tiedostot, joiden koko on
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

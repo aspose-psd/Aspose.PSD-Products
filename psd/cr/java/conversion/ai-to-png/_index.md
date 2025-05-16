@@ -125,4 +125,4 @@ PNG, Prijenosna mrežna grafika, odnosi se na vrstu formata rasterske slike koja
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

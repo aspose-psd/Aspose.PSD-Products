@@ -125,4 +125,4 @@ PNG, Portable Network Graphics, rilatas al speco de rastruma bilda dosierformato
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

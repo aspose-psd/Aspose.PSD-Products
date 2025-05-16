@@ -107,4 +107,4 @@ JPEG - це тип формату зображення, який зберіга�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

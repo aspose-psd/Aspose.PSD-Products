@@ -41,4 +41,4 @@ Nous allons commencer par créer une nouvelle couche de texte à l'aide du <a hr
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

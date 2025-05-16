@@ -111,4 +111,4 @@ Aplicativo rápido e simples para atualizar o PSD online. Atualizações de text
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

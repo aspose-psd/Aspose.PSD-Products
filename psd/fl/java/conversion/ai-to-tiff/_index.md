@@ -125,4 +125,4 @@ TIFF tai TIF, Tagged Image File Format, edustaa rasterikuvia, jotka on tarkoitet
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

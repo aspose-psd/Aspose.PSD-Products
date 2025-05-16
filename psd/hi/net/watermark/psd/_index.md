@@ -114,4 +114,4 @@ PSD, Photoshop Document, ग्राफिक्स डिजाइनिंग
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

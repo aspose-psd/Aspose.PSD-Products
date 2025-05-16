@@ -125,4 +125,4 @@ Soubory s příponou.BMP představují Bitmap Image soubory, které se používa
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

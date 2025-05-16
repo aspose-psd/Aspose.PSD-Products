@@ -41,4 +41,4 @@ Vi börjar med att skapa ett nytt textlager med hjälp av <a href="https://www.n
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

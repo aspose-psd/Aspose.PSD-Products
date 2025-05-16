@@ -103,4 +103,4 @@ Soubor s příponou.ai je soubor Adobe Illustrator Artwork, který obsahuje vekt
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

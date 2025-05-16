@@ -142,4 +142,4 @@ GIF atau Graphical Interchange Format adalah jenis gambar yang sangat terkompres
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

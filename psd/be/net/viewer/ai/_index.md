@@ -102,4 +102,4 @@ Aspose.PSD - гэта API для маніпулявання фарматам Pho
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

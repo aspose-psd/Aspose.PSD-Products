@@ -126,4 +126,4 @@ JPEG estas speco de bildformato, kiu estas konservita per la metodo de perda kun
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

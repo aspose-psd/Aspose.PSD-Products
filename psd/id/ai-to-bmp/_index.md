@@ -107,4 +107,4 @@ File yang memiliki ekstensi.BMP mewakili file Bitmap Image yang digunakan untuk 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

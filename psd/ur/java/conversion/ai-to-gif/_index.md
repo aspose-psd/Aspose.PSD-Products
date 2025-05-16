@@ -125,4 +125,4 @@ GIF یا گرافیکل انٹرچینج فارمیٹ انتہائی کمپری�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

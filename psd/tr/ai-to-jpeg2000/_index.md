@@ -107,4 +107,4 @@ Photoshop ve Illustrator Dosya İşleme Kitaplığı, katman özellikleri oluşt
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

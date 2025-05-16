@@ -43,4 +43,4 @@ Aloitamme luomalla yksinkertaisen tekstivesileiman käyttämällä <a href="http
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

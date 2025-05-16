@@ -125,4 +125,4 @@ PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di imm
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -114,4 +114,4 @@ PSD, Photoshop Belgesi, grafik tasarımı ve geliştirme için kullanılan Adobe
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

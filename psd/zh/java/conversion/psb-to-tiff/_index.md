@@ -142,4 +142,4 @@ TIFF 或 TIF，标记图像文件格式，代表光栅图像，用于符合此�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

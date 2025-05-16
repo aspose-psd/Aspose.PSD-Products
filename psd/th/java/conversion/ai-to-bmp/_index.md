@@ -125,4 +125,4 @@ Aspose.PSD เป็น API การจัดการรูปแบบ Photos
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

@@ -125,4 +125,4 @@ GIF aŭ Grafika Interŝanĝa Formato estas speco de tre kunpremita bildo. Poseda
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

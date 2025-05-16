@@ -125,4 +125,4 @@ TIFF या TIF, टैग की गई छवि फ़ाइल स्वर�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

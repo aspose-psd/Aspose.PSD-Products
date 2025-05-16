@@ -125,4 +125,4 @@ TIFF o TIF, formato de archivo de imagen etiquetada, representa imágenes raster
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

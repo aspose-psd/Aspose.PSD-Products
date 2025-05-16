@@ -43,4 +43,4 @@ Nous allons commencer par créer un filigrane de texte simple à l'aide du <a hr
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

@@ -107,4 +107,4 @@ PM> Усталяваць пакет Aspose.PSD
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

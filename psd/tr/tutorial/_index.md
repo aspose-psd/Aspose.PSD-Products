@@ -42,4 +42,4 @@ Yani, ister tasarımcı, ister geliştirici veya sadece PSD dosyaları ile çal�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

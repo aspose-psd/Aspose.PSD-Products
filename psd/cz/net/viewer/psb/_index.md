@@ -109,4 +109,4 @@ Adobe photoshop ukládá soubory ve dvou formátech. Soubory o velikosti 30 000 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

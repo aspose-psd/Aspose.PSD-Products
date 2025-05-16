@@ -142,4 +142,4 @@ Portable Document Format (PDF) estas speco de dokumento kreita de Adobe en la 19
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

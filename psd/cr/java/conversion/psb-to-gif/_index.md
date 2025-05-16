@@ -142,4 +142,4 @@ GIF ili format grafičke razmjene vrsta je visoko komprimirane slike. U vlasniš
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

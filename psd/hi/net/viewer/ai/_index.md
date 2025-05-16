@@ -103,4 +103,4 @@ Aspose.PSD एक फोटोशॉप फॉर्मेट मैनिपु
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

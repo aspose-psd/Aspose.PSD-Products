@@ -107,4 +107,4 @@ Photoshop และ Illustrator File Manipulation Library ที่มีคว�
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

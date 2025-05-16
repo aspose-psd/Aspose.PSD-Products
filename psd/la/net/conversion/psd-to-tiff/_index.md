@@ -38,4 +38,4 @@ Vel, MSI installer vel DLLs in tabula cursualis e [download](https://releases.as
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

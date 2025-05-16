@@ -41,4 +41,4 @@ Empezaremos por crear una nueva capa de texto usando el <a href="https://www.nug
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

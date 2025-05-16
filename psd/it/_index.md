@@ -111,4 +111,4 @@ App rapida e semplice per aggiornare PSD online. Sono supportati gli aggiornamen
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

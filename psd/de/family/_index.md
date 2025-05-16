@@ -51,4 +51,4 @@ Python-API über.NET für den Desktop Windows, Linux und macOS sowie macOS-ARM.
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

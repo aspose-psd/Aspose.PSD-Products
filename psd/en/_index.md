@@ -111,4 +111,4 @@ Quick and Simple App for Update PSD Online. Text and Layer Updates are supported
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-{{< psd/tize >}}
+

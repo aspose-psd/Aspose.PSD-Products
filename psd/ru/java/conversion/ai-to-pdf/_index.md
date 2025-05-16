@@ -125,4 +125,4 @@ Aspose.PSD — это API для работы с форматами Photoshop. �
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

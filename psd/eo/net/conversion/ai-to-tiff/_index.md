@@ -107,4 +107,4 @@ TIFF aŭ TIF, Tagged Image File Format, reprezentas rastrumajn bildojn, kiuj est
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+

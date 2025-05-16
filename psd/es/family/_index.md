@@ -51,4 +51,4 @@ API de Python a través de.NET para el escritorio de Windows, Linux y macOS y ma
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/psd/net" pricingInformationLink="https://purchase.aspose.com/pricing/psd" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-{{< psd/tize >}}
+
