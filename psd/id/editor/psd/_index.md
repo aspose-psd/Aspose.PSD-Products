@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Editor PSD Online Gratis" >}}
 <p>Silakan coba editor PSD. Ini hanya aplikasi demo yang hanya menampilkan sebagian kecil dari fungsionalitas Aspose.PSD. Ini sedikit built-in PSD Mengedit Aplikasi dapat dengan cepat memperbarui teks dalam PSD Files, menambahkan lapisan baru dan membantu untuk melukis pada setiap lapisan dalam File PSD Anda. Pengeditan file PSD tidak pernah begitu intuitif dan mudah dipelajari. Cukup pilih lapisan apa saja dan gunakan tombol pengeditan. Semua perubahan dalam File PSD ini akan diterapkan pada server dan kemudian Anda akan mendapatkan render nyata File PSD. Untuk perpustakaan lengkap untuk penggunaan PSD Editing <a href="/psd/{{< lang-code >}}net">Aspose.PSD untuk .NET</a> dan <a href="/psd/{{< lang-code >}}java">Aspose PSD Java</a> solusi. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="محرر PSB مجاني على الإنترنت" >}}
 <p>يعد تحرير PSB عملية أكثر تعقيدًا من تحرير PSD بسبب الحجم الكبير. يدعم PSB صورة أكبر من 30000 × 30000 بكسل. المشكلة الرئيسية هي حجم ملفات PSB. لا يمكن دائمًا تحرير PSB عبر الإنترنت بسبب قيود حجم تحميل الملف. إذا كنت تريد استخدام الطاقة الكاملة لتحرير ملف PSB، يرجى التحقق من <a href="/psd/{{< lang-code >}}">Aspose.PSD .net وحل جافا</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

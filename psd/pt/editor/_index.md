@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="Editor PSD online gratuito" >}}
 <p>Se você precisar editar arquivos PSD, este editor é uma das melhores soluções online. O PSD Editor suporta edição WYSIWYG no lado do servidor, incluindo atualização de texto, operações de pincel, criação de novas camadas, reordenação de camadas e alteração de sua visibilidade. O editor PSD usa o Aspose.PSD no back-end, portanto, se você precisar de uma operação mais complexa, poderá fazer isso sozinho com um código alto <a href="/psd/{{< lang-code >}}">API PSD</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

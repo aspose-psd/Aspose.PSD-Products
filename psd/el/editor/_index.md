@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Διαδικτυακός Επεξεργαστής PSD" >}}
 <p>Αν θέλετε να επεξεργαστείτε αρχεία PSD, αυτός ο επεξεργαστής είναι ένας από τους καλύτερους online λύση. Το PSD Editor υποστηρίζει WYSIWYG επεξεργασία από την πλευρά του διακομιστή, συμπεριλαμβανομένης της ενημέρωσης κειμένου, των λειτουργιών πινέλου, της δημιουργίας νέων επιπέδων, της αναδιάταξης των επιπέδων και της αλλαγής της ορατότητας του. Το PSD Editor χρησιμοποιεί το Aspose.PSD στο πίσω μέρος, οπότε αν χρειάζεστε πιο περίπλοκη λειτουργία, μπορείτε να το κάνετε μόνοι σας με ένα υψηλό κώδικα <a href="/psd/{{< lang-code >}}">PSD API</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

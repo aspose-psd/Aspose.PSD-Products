@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="無料のオンラインPSDエディター" >}}
 <p>PSD エディターを試してください。これは Aspose.PSD の機能のほんの一部だけを示すデモアプリです。この小さな組み込みPSD編集アプリケーションは、PSDファイル内のテキストをすばやく更新したり、新しいレイヤーを追加したり、PSDファイル内の任意のレイヤーにペイントしたりするのに役立ちます。PSDファイルの編集は、これまでになく直感的で簡単に習得できました。任意のレイヤーを選択し、編集ボタンを使用するだけです。このPSDファイルのすべての変更がサーバーに適用され、PSDファイルの実際のレンダリングが行われます。PSD 編集用の完全なライブラリについては <a href="/psd/{{< lang-code >}}net">.NET 用の Aspose.PSD</a> そして <a href="/psd/{{< lang-code >}}java">アスポーズ PSD Java</a> 解決策。 </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

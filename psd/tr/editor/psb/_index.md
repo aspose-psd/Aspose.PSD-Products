@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="Ücretsiz Çevrimiçi PSB Editörü" >}}
 <p>PSB Düzenleme, büyük boyuttan dolayı PSD'yi düzenlemekten daha karmaşık bir işlemdir. PSB 30000 x 30000 pikselden büyük görüntüyü destekler. Ana sorun PSB dosyalarının boyutudur. PSB'nin çevrimiçi olarak düzenlenmesi, dosya yükleme boyutu sınırlaması nedeniyle her zaman mümkün değildir. PSB dosyasını düzenlemek için tam güç kullanmak istiyorsanız lütfen <a href="/psd/{{< lang-code >}}">Aspose.PSD .net ve Java çözümü</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

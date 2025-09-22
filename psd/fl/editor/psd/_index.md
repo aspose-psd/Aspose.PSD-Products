@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online PSD Editor" >}}
 <p>Kokeile PSD editori. Tämä on vain demo sovellus, joka näyttää vain pieni pala Aspose.PSD toiminnallisuutta. Tämä pieni sisäänrakennettu PSD Edit Application voi nopeasti päivittää tekstiä PSD tiedostot, lisätä uusia kerroksia ja auttaa maalata tahansa kerros PSD tiedosto. Muokkaaminen PSD tiedostoja koskaan ollut niin intuitiivinen ja helppo oppia. Valitse vain mikä tahansa kerros ja käytä muokkauspainikkeita. Kaikki muutokset tässä PSD File sovelletaan palvelimelle ja sitten saat todellista tehdä PSD File. Koko kirjasto PSD Editointi käyttö <a href="/psd/{{< lang-code >}}net">Aspose.PSD varten .NET</a> ja <a href="/psd/{{< lang-code >}}java">Määritä PSD Java</a> ratkaisuja. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

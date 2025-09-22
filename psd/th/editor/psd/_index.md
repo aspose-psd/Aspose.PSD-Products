@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="แก้ไข PSD ออนไลน์ฟรี" >}}
 <p>โปรดลองใช้ตัวแก้ไข PSDนี้เป็นเพียงการสาธิต app ที่แสดงให้เห็นเพียงชิ้นเล็ก ๆ ของการทำงาน Aspose.PSD.เล็ก ๆ น้อย ๆ ในตัวโปรแกรม PSD แก้ไขได้อย่างรวดเร็วสามารถปรับปรุงข้อความในไฟล์ PSD, เพิ่มชั้นใหม่และช่วยในการวาดบนชั้นใด ๆ ในไฟล์ PSD ของคุณ.การแก้ไขไฟล์ PSD ไม่เคยเป็นเรื่องง่ายและเรียนรู้ง่ายเพียงแค่เลือกเลเยอร์ใด ๆ และใช้ปุ่มแก้ไขการเปลี่ยนแปลงทั้งหมดในไฟล์ PSD นี้จะถูกนำไปใช้บนเซิร์ฟเวอร์และจากนั้นคุณจะได้รับการแสดงผลที่แท้จริงของไฟล์ PSDสำหรับไลบรารีที่สมบูรณ์สำหรับการใช้การแก้ไข PSD <a href="/psd/{{< lang-code >}}net">Aspose.PSD สำหรับ.NET</a> และ <a href="/psd/{{< lang-code >}}java">กำหนดให้ PSD Java</a> การแก้ปัญหา </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

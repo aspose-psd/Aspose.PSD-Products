@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="免费的在线 PSB 编辑器" >}}
 <p>PSB 编辑比编辑 PSD 更复杂，因为尺寸很大。PSB 支持大于 30000 x 30000 像素的图像。主要问题是 PSB 文件的大小。由于文件上传大小限制，并不总是可以在线编辑 PSB。如果你想使用全功率编辑 PSB 文件，请查看 <a href="/psd/{{< lang-code >}}">Aspose.PSD .net 和 Java 解决方案</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

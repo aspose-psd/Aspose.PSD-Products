@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="Ücretsiz Online PSD Editör" >}}
 <p>PSD dosyalarını düzenlemeniz gerekiyorsa, bu editör en iyi çevrimiçi çözümlerden biridir. PSD Editor, Metin Güncelleme, Fırça İşlemleri, yeni katmanlar oluşturma, katmanları yeniden sıralama ve görünürlüğünü değiştirme dahil olmak üzere WYSIWYG sunucu tarafı düzenlemeyi destekler. PSD Editor, arka uçta Aspose.PSD kullanır, bu nedenle daha karmaşık bir işleme ihtiyacınız varsa, yüksek kodla kendiniz yapabilirsiniz. <a href="/psd/{{< lang-code >}}">PSD APİ</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

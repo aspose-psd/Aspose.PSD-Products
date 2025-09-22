@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="Gratis Online PSD Editor" >}}
 <p>Om du behöver redigera PSD-filer är denna redaktör en av de bästa online-lösningarna. PSD Editor stöder WYSIWYG serversidan redigering inklusive Text Update, Brush Operations, skapa nya lager, ordna lager och ändra dess synlighet. PSD Editor använder Aspose.PSD på back-end, så om du behöver mer komplex operation kan du göra det själv med en hög kod <a href="/psd/{{< lang-code >}}">PSD API</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

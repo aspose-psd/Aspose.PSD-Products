@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="免费的在线 PSD 编辑器" >}}
 <p>如果你需要编辑PSD文件，这个编辑器是最好的在线解决方案之一。PSD 编辑器支持 WYSIWYG 服务器端编辑，包括文本更新、画笔操作、创建新图层、重新排序图层和更改其可见性。PSD 编辑器在后端使用 Aspose.PSD，所以如果你需要更复杂的操作，你可以自己用高代码完成 <a href="/psd/{{< lang-code >}}">PSD API</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

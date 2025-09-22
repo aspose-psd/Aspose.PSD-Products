@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Ücretsiz Online PSD Editör" >}}
 <p>Lütfen PSD editörünü deneyin. Bu sadece Aspose.PSD işlevselliğinin sadece küçük bir parçasını gösteren demo uygulamasıdır. Bu küçük yerleşik PSD Düzenleme Uygulaması, PSD Dosyalarındaki metni hızla güncelleyebilir, yeni katmanlar ekleyebilir ve PSD Dosyanızdaki herhangi bir katmana boyamaya yardımcı olabilir. PSD dosyalarının düzenlenmesi hiç bu kadar sezgisel ve öğrenmesi kolay olmamıştı. Herhangi bir katmanı seçin ve düzenleme düğmelerini kullanın. Bu PSD Dosyasındaki tüm değişiklikler sunucuya uygulanacak ve daha sonra PSD Dosyasının gerçek render'ini alacaksınız. PSD Düzenleme kullanımı için komple kütüphane için <a href="/psd/{{< lang-code >}}net">.NET için Aspose.PSD</a> ve <a href="/psd/{{< lang-code >}}java">PSD Java varsayalım</a> çözümler. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

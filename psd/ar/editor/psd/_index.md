@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="محرر PSD مجاني على الإنترنت" >}}
 <p>يرجى تجربة محرر PSD. هذا مجرد تطبيق تجريبي يعرض جزءًا صغيرًا فقط من وظيفة Aspose.PSD. يمكن لتطبيق تحرير PSD المدمج الصغير هذا تحديث النص بسرعة في ملفات PSD وإضافة طبقات جديدة والمساعدة في الطلاء على أي طبقة في ملف PSD الخاص بك. لم يكن تحرير ملفات PSD أبدًا بديهيًا وسهل التعلم. ما عليك سوى اختيار أي طبقة واستخدام أزرار التحرير. سيتم تطبيق جميع التغييرات في ملف PSD هذا على الخادم وبعد ذلك ستحصل على عرض حقيقي لملف PSD. للحصول على مكتبة كاملة لاستخدام تحرير PSD <a href="/psd/{{< lang-code >}}net">Aspose.PSD لـ دوت نت</a> و <a href="/psd/{{< lang-code >}}java">أسبوز بي إس دي جافا</a> حلول. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

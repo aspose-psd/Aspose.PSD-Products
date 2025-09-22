@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="Besplatni internetski PSB urednik" >}}
 <p>PSB uređivanje je složenija operacija od uređivanja PSD-a zbog velike veličine. PSB podržava sliku veću od 30000 x 30000 piksela. Glavni problem je veličina PSB datoteka. Online uređivanje PSB-a nije uvijek moguće zbog ograničenja veličine prijenosa datoteke. Ako želite koristiti punu snagu za uređivanje PSB datoteke provjerite <a href="/psd/{{< lang-code >}}">Aspose.PSD .net i Java rješenje</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

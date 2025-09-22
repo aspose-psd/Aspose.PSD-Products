@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Kostenloser Online-PSD-Editor" >}}
 <p>Bitte versuchen Sie es mit dem PSD-Editor. Dies ist nur eine Demo-App, die nur einen kleinen Teil der Funktionalität von Aspose.PSD zeigt. Diese kleine integrierte PSD-Bearbeitungsanwendung kann schnell Text in PSD-Dateien aktualisieren, neue Ebenen hinzufügen und dabei helfen, jede Ebene in Ihrer PSD-Datei zu bemalen. Das Bearbeiten von PSD-Dateien war noch nie so intuitiv und leicht zu erlernen. Wählen Sie einfach eine Ebene aus und verwenden Sie die Bearbeitungsschaltflächen. Alle Änderungen in dieser PSD-Datei werden auf dem Server angewendet und dann erhalten Sie ein echtes Rendering der PSD-Datei. Für die komplette Bibliothek für die PSD-Bearbeitung verwenden Sie <a href="/psd/{{< lang-code >}}net">Aspose.PSD für .NET</a> und <a href="/psd/{{< lang-code >}}java">Aspose PSD Java</a> Lösungen. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

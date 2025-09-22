@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="Besplatni internetski PSD urednik" >}}
 <p>Ako trebate uređivati PSD datoteke, ovaj je urednik jedno od najboljih mrežnih rješenja. PSD Editor podržava WYSIWYG uređivanje na strani poslužitelja, uključujući ažuriranje teksta, operacije četkica, stvaranje novih slojeva, preuređivanje slojeva i promjenu vidljivosti. PSD Editor koristi Aspose.PSD na stražnjem kraju, pa ako vam je potrebna složenija operacija, možete to učiniti sami s visokim kodom <a href="/psd/{{< lang-code >}}">PSD API</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

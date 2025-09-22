@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="مفت آن لائن پی ایس ڈی ایڈیٹر" >}}
 <p>اگر آپ پی ایس ڈی فائلوں میں ترمیم کرنے کی ضرورت ہے تو یہ ایڈیٹر بہترین آن لائن حل میں سے ایک ہے. پی ایس ڈی ایڈیٹر WYSIWYG سرور سائڈ ایڈیٹنگ کی حمایت کرتا ہے جس میں ٹیکسٹ اپ ڈیٹ، برش آپریشنز، نئی تہوں کی تخلیق، تہوں کو دوبارہ ترتیب دینے اور اس کی 'کی نمائش کو تبدیل کرنا شامل ہے. پی ایس ڈی ایڈیٹر پیٹھ کے آخر پر Aspose.PSD کا استعمال کرتے ہیں، لہذا اگر آپ کو زیادہ پیچیدہ آپریشن کی ضرورت ہے تو آپ کو ایک اعلی کوڈ کے ساتھ اپنے آپ کو بنا سکتے ہیں <a href="/psd/{{< lang-code >}}">پی ایس ڈی اے پی</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

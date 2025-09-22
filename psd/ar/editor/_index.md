@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="محرر PSD مجاني على الإنترنت" >}}
 <p>إذا كنت بحاجة إلى تحرير ملفات PSD، فإن هذا المحرر هو أحد أفضل الحلول عبر الإنترنت. يدعم محرر PSD تحرير WYSIWYG من جانب الخادم بما في ذلك تحديث النص وعمليات الفرشاة وإنشاء طبقات جديدة وإعادة ترتيب الطبقات وتغيير رؤيتها. يستخدم محرر PSD Aspose.PSD على الواجهة الخلفية، لذلك إذا كنت بحاجة إلى عملية أكثر تعقيدًا، فيمكنك إجراؤها بنفسك باستخدام رمز عالي <a href="/psd/{{< lang-code >}}">واجهة برمجة تطبيقات PSD</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

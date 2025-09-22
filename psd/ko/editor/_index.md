@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="무료 온라인 PSD 편집기" >}}
 <p>PSD 파일을 편집해야 하는 경우 이 편집기는 최고의 온라인 솔루션 중 하나입니다.PSD Editor는 텍스트 업데이트, 브러시 작업, 새 레이어 만들기, 레이어 재정렬 및 가시성 변경을 포함한 WYSIWYG 서버 측 편집을 지원합니다.PSD Editor는 백엔드에서 Aspose.PSD 를 사용하므로 더 복잡한 작업이 필요한 경우 하이 코드로 직접 만들 수 있습니다. <a href="/psd/{{< lang-code >}}">PSD API</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{
