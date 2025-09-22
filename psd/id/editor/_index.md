@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="Editor PSD Online Gratis" >}}
 <p>Jika Anda perlu mengedit file PSD editor ini adalah salah satu solusi online terbaik. PSD Editor mendukung WYSIWYG server-side editing termasuk Text Update, Brush Operasi, menciptakan lapisan baru, penataan ulang lapisan dan mengubah visibilitas 'nya. PSD Editor menggunakan Aspose.PSD pada back-end, jadi jika Anda membutuhkan operasi yang lebih kompleks Anda dapat membuatnya sendiri dengan tinggi-kode <a href="/psd/{{< lang-code >}}">API PSD</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

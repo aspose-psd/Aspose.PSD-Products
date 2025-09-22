@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Безкоштовний онлайн PSD редактор" >}}
 <p>Будь ласка, спробуйте PSD редактор. Це просто демо-додаток, який показує лише невелику частину функціональності Aspose.PSD. Цей маленький вбудований PSD Редагувати додаток може швидко оновити текст в PSD файлів, додати нові шари і допомогти малювати на будь-якому шарі в PSD файлу. Редагування PSD файлів ніколи не було настільки інтуїтивно зрозумілим і простим у вивченні. Просто виберіть будь-який шар і використовуйте кнопки редагування. Всі зміни в цьому PSD файлу будуть застосовані на сервері, і тоді ви отримаєте реальний рендер PSD файлу. Для повної бібліотеки для PSD Редагування використання <a href="/psd/{{< lang-code >}}net">Aspose.PSD для .NET</a> і <a href="/psd/{{< lang-code >}}java">Припустимо PSD Java</a> рішення. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Διαδικτυακός Επεξεργαστής PSD" >}}
 <p>Παρακαλώ δοκιμάστε το PSD editor. Αυτό είναι μόνο demo app που δείχνει μόνο ένα μικρό κομμάτι της λειτουργικότητας Aspose.PSD. Αυτή η μικρή ενσωματωμένη εφαρμογή επεξεργασίας PSD μπορεί να ενημερώσει γρήγορα το κείμενο στα PSD Files, να προσθέσει νέα επίπεδα και να σας βοηθήσει να χρωματίσετε οποιοδήποτε επίπεδο στο PSD File σας. Η επεξεργασία των αρχείων PSD δεν ήταν ποτέ τόσο διαισθητική και εύκολη στην εκμάθηση. Απλά επιλέξτε οποιοδήποτε επίπεδο και χρησιμοποιήστε κουμπιά επεξεργασίας. Όλες οι αλλαγές σε αυτό το αρχείο PSD θα εφαρμοστούν στο διακομιστή και στη συνέχεια θα έχετε πραγματική απόδοση του PSD File. Για την πλήρη βιβλιοθήκη για PSD Editing χρησιμοποιήστε <a href="/psd/{{< lang-code >}}net">Aspose.PSD για .NET</a> και <a href="/psd/{{< lang-code >}}java">Ανασύνθεση PSD Java</a> λύσεις. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

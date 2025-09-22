@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="मुफ्त ऑनलाइन PSD संपादक" >}}
 <p>कृपया PSD संपादक को आजमाएं। यह सिर्फ डेमो ऐप है जो Aspose.PSD कार्यक्षमता का केवल एक छोटा सा टुकड़ा दिखाता है। यह छोटा अंतर्निहित PSD संपादन अनुप्रयोग PSD फ़ाइलों में पाठ को जल्दी से अपडेट कर सकता है, नई परतें जोड़ सकता है और आपकी PSD फ़ाइल में किसी भी परत पर पेंट करने में मदद कर सकता है। PSD फ़ाइलों का संपादन इतना सहज और सीखने में आसान कभी नहीं था। बस किसी भी लेयर का चयन करें और संपादन बटन का उपयोग करें। इस PSD फ़ाइल में सभी परिवर्तन सर्वर पर लागू किए जाएंगे और फिर आपको PSD फ़ाइल का वास्तविक रेंडर मिलेगा। PSD संपादन उपयोग के लिए पूरी लाइब्रेरी के लिए <a href="/psd/{{< lang-code >}}net">.NET के लिए Aspose.PSD</a> और <a href="/psd/{{< lang-code >}}java">PSD जावा के रूप में</a> समाधान। </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

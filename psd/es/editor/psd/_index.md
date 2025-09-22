@@ -13,7 +13,7 @@ url: editor/psd/
 
 {{< blocks/products/pf/feature-page-section h2="Editor PSD en línea gratuito" >}}
 <p>Pruebe el editor PSD. Esta es solo una aplicación de demostración que muestra solo una pequeña parte de la funcionalidad de Aspose.PSD. Esta pequeña aplicación de edición PSD integrada puede actualizar rápidamente el texto de los archivos PSD, añadir nuevas capas y ayudar a pintar en cualquier capa de su archivo PSD. La edición de archivos PSD nunca fue tan intuitiva y fácil de aprender. Simplemente selecciona cualquier capa y usa los botones de edición. Todos los cambios en este archivo PSD se aplicarán en el servidor y, a continuación, obtendrá una representación real del archivo PSD. Para la biblioteca completa de edición en PSD, utilice <a href="/psd/{{< lang-code >}}net">Aspose.PSD para .NET</a> y <a href="/psd/{{< lang-code >}}java">Aspectos PSD de Java</a> soluciones. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

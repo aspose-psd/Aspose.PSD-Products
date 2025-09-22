@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="Δωρεάν Διαδικτυακός Επεξεργαστής PSB" >}}
 <p>PSB Editing είναι πιο περίπλοκη λειτουργία από την επεξεργασία PSD λόγω του μεγάλου μεγέθους. Το PSB υποστηρίζει εικόνα μεγαλύτερη από 30000 x 30000 εικονοστοιχεία. Το κύριο ζήτημα είναι το μέγεθος των αρχείων PSB. Η online επεξεργασία του PSB δεν είναι πάντα δυνατή λόγω του περιορισμού μεγέθους αποστολής αρχείων. Αν θέλετε να χρησιμοποιήσετε την πλήρη ισχύ για να επεξεργαστείτε το αρχείο PSB, ελέγξτε το <a href="/psd/{{< lang-code >}}">Λύση Aspose.PSD .net και Java</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

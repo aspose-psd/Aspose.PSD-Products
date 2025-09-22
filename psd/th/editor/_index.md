@@ -16,7 +16,7 @@ url: editor/
 
 {{< blocks/products/pf/feature-page-section h2="แก้ไข PSD ออนไลน์ฟรี" >}}
 <p>หากคุณต้องการแก้ไขไฟล์ PSD ตัวแก้ไขนี้เป็นหนึ่งในโซลูชั่นออนไลน์ที่ดีที่สุดPSD Editor รองรับการแก้ไขฝั่งเซิร์ฟเวอร์ของ WYSIWYG รวมถึง Text Update, Brush Operations, การสร้างเลเยอร์ใหม่, การเรียงลำดับเลเยอร์ใหม่ และเปลี่ยนการแสดงผลของPSD Editor ใช้ Aspose.PSD ในส่วนหลังดังนั้นหากคุณต้องการการทำงานที่ซับซ้อนมากขึ้นคุณสามารถทำมันได้ด้วยตัวเองด้วยรหัสสูง <a href="/psd/{{< lang-code >}}">PSD API</a>.</p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSD File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psd"))
   	{

@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="مفت آن لائن پی ایس بی ایڈیٹر" >}}
 <p>پی ایس بی ایڈیٹنگ کی وجہ سے بڑے سائز کے پی ایس ڈی میں ترمیم کے مقابلے میں زیادہ پیچیدہ آپریشن ہے. پی ایس بی 30000 X 30000 پکسلز سے بڑی تصویر کی حمایت کرتا ہے. اہم مسئلہ پی ایس بی فائلوں کا سائز ہے. پی ایس بی کی آن لائن ترمیم ہمیشہ فائل اپ لوڈ سائز کی حد کی وجہ سے ممکن نہیں ہے. اگر آپ پی ایس بی فائل میں ترمیم کرنے کے لئے مکمل طاقت استعمال کرنا چاہتے ہیں تو براہ کرم چیک کریں <a href="/psd/{{< lang-code >}}">Aspose.PSD .net اور جاوا حل</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

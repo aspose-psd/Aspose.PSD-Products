@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="Free Online PSB Editor" >}}
 <p>PSB Editing is more complex operation than editing PSD because of large size. PSB supports image bigger than 30000 x 30000 pixels. The main issue is size of PSB files. Online editing of PSB is not always possible because of the file upload size limitation. If you want to use full power to edit PSB file please check the <a href="/psd/{{< lang-code >}}">Aspose.PSD .net and Java solution</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{

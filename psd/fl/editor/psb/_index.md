@@ -13,7 +13,7 @@ url: editor/psb/
 
 {{< blocks/products/pf/feature-page-section h2="Ilmainen online-PSB-editori" >}}
 <p>PSB Editointi on monimutkaisempi toiminta kuin PSD: n muokkaaminen suuren koon vuoksi. PSB tukee kuvaa, joka on suurempi kuin 30000 x 30000 pikseliä. Tärkein ongelma on PSB-tiedostojen koko. PSB: n online-muokkaus ei ole aina mahdollista tiedostojen latauskokorajoitusten vuoksi. Jos haluat käyttää täyttä tehoa PSB-tiedoston muokkaamiseen, tarkista <a href="/psd/{{< lang-code >}}">Aspose.PSD .net ja Java-ratkaisu</a>. </p>
-{{< psd/editor `https://psd-api-core-rl2ajsbv.k8s.dynabic.com/` 
+{{< psd/editor `https://api.aspose.ai/` 
 `	// How to update Text Layer in PSB File
 	using (PsdImage psdImage = (PsdImage)Image.Load("layers.psb"))
   	{
