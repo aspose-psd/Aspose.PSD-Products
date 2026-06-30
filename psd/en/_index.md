@@ -1,5 +1,5 @@
 ---
-title: Create, Edit or Convert PSD & PSB files to PDF & image formats
+title: Create, Edit or Convert PSD, PSB & AI files to popular image formats
 weight: 310
 description: High Code APIs and Free Apps to edit Photoshop files. Ability to update layer properties, add watermarks rotate scale Flip Crop Dithering Raster Conversion.
 url: /
